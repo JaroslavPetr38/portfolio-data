@@ -1,0 +1,329 @@
+{
+  "exported": "2026-06-22T12:57:58.970Z",
+  "portfolio": [
+    {
+      "ticker": "ATOMT",
+      "name": "AtomTrace a.s.",
+      "exchange": "Praha",
+      "currency": "CZK",
+      "yahoo": null,
+      "sector": "Industrials",
+      "category": "Laserová spektroskopie"
+    },
+    {
+      "ticker": "LGEN",
+      "name": "Legal & General Group",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "LGEN.L",
+      "sector": "Financials",
+      "category": "Pojišťovna"
+    },
+    {
+      "ticker": "SDLF",
+      "name": "Standard Life (Phoenix)",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "SDLF.L",
+      "sector": "Financials",
+      "category": "Pojišťovna"
+    },
+    {
+      "ticker": "KOMB",
+      "name": "Komerční banka",
+      "exchange": "Praha",
+      "currency": "CZK",
+      "yahoo": "KOMB.PR",
+      "sector": "Financials",
+      "category": "Banka"
+    },
+    {
+      "ticker": "SEIT",
+      "name": "SDCL Efficiency Income Trust",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "SEIT.L",
+      "sector": "Utilities",
+      "category": "Infrastruktura"
+    },
+    {
+      "ticker": "NRR",
+      "name": "NewRiver REIT",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "NRR.L",
+      "sector": "Real Estate",
+      "category": "REIT"
+    },
+    {
+      "ticker": "NESF",
+      "name": "NextEnergy Solar Fund",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "NESF.L",
+      "sector": "Utilities",
+      "category": "Infrastruktura"
+    },
+    {
+      "ticker": "BATS",
+      "name": "British American Tobacco",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "BATS.L",
+      "sector": "Consumer Staples",
+      "category": "Tabák"
+    },
+    {
+      "ticker": "ALWN",
+      "name": "Alwin (ex-Onan Greece)",
+      "exchange": "ATH",
+      "currency": "EUR",
+      "yahoo": "ALWN.AT",
+      "sector": "Industrials",
+      "category": "sportka"
+    },
+    {
+      "ticker": "FGEN",
+      "name": "Foresight Environmental Infra.",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "FGEN.L",
+      "sector": "Utilities",
+      "category": "Infrastruktura"
+    },
+    {
+      "ticker": "POLR",
+      "name": "Polar Capital Holdings",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "POLR.L",
+      "sector": "Financials",
+      "category": "Inv. trust"
+    },
+    {
+      "ticker": "NLY",
+      "name": "Annaly Capital Management",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "NLY",
+      "sector": "Real Estate",
+      "category": "mREIT"
+    },
+    {
+      "ticker": "VU",
+      "name": "Vusion SA",
+      "exchange": "Euronext",
+      "currency": "EUR",
+      "yahoo": "VU.PA",
+      "sector": "Technology",
+      "category": "Tech"
+    },
+    {
+      "ticker": "PRIUA",
+      "name": "Primoco UAV",
+      "exchange": "Praha",
+      "currency": "CZK",
+      "yahoo": "PRIUA.PR",
+      "sector": "Industrials",
+      "category": "Drony"
+    },
+    {
+      "ticker": "TEP",
+      "name": "Telecom Plus",
+      "exchange": "LSE",
+      "currency": "GBP",
+      "yahoo": "TEP.L",
+      "sector": "Utilities",
+      "category": "Utility"
+    },
+    {
+      "ticker": "ALMU",
+      "name": "Aeluma Inc.",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "ALMU",
+      "sector": "Technology",
+      "category": "AI/Quantum"
+    },
+    {
+      "ticker": "AT1",
+      "name": "Aroundtown SA",
+      "exchange": "XFRA",
+      "currency": "EUR",
+      "yahoo": "AT1.DE",
+      "sector": "Real Estate",
+      "category": "REIT"
+    },
+    {
+      "ticker": "XLY",
+      "name": "Auxly Cannabis",
+      "exchange": "NEO",
+      "currency": "CAD",
+      "yahoo": "XLY.NE",
+      "sector": "Consumer Staples",
+      "category": "Cannabis"
+    },
+    {
+      "ticker": "OGI",
+      "name": "Organigram Global",
+      "exchange": "TSX",
+      "currency": "CAD",
+      "yahoo": "OGI.TO",
+      "sector": "Consumer Staples",
+      "category": "Cannabis"
+    },
+    {
+      "ticker": "CRON",
+      "name": "Cronos Group",
+      "exchange": "TSX",
+      "currency": "CAD",
+      "yahoo": "CRON.TO",
+      "sector": "Consumer Staples",
+      "category": "Cannabis"
+    },
+    {
+      "ticker": "LOVE",
+      "name": "Cannara Biotech",
+      "exchange": "TSX",
+      "currency": "CAD",
+      "yahoo": "LOVE.NE",
+      "sector": "Consumer Staples",
+      "category": "Cannabis"
+    },
+    {
+      "ticker": "LAES",
+      "name": "SEALSQ Corp",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "LAES",
+      "sector": "Technology",
+      "category": "Post-Quantum"
+    },
+    {
+      "ticker": "AVCN",
+      "name": "Avicanna Inc.",
+      "exchange": "NEO",
+      "currency": "CAD",
+      "yahoo": "AVCN.NE",
+      "sector": "Healthcare",
+      "category": "Cannabis"
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron Technology",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "MU",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "AMD",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "BLRX",
+      "name": "BioLineRx",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "BLRX",
+      "sector": "Healthcare",
+      "category": "Biotech"
+    },
+    {
+      "ticker": "CLNN",
+      "name": "Clene Inc.",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "CLNN",
+      "sector": "Healthcare",
+      "category": "Biotech"
+    },
+    {
+      "ticker": "SEN",
+      "name": "Senetas Corp.",
+      "exchange": "ASX",
+      "currency": "AUD",
+      "yahoo": "SEN.AX",
+      "sector": "Technology",
+      "category": "Post-Quantum"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "000660",
+      "name": "SK Hynix",
+      "exchange": "KRX",
+      "currency": "KRW",
+      "yahoo": null,
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "WDC",
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "VST",
+      "name": "Vistra Energy",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "VST",
+      "priority": "MED",
+      "sector": "Utilities",
+      "category": "Utility"
+    },
+    {
+      "ticker": "ANET",
+      "name": "Arista Networks",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "ANET",
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "Tech"
+    },
+    {
+      "ticker": "CCJ",
+      "name": "Cameco",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "CCJ",
+      "priority": "MED",
+      "sector": "Energy",
+      "category": "Uranium"
+    },
+    {
+      "ticker": "URA",
+      "name": "Global X Uranium ETF",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "URA",
+      "priority": "MED",
+      "sector": "Energy",
+      "category": "Uranium"
+    },
+    {
+      "ticker": "UKW",
+      "name": "UKW",
+      "exchange": "London",
+      "currency": "GBP",
+      "yahoo": "UKW.L",
+      "priority": "HIGH",
+      "sector": null,
+      "category": "Akcie"
+    }
+  ]
+}
