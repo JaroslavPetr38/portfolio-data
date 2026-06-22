@@ -12,18 +12,6 @@
     "sentiment": "neutral"
   },
   {
-    "id": "cal_1",
-    "ticker": "MU",
-    "type": "earnings",
-    "priority": "medium",
-    "title": "Micron",
-    "text": "Revenue vs $33.8B, Q4 guidance\n→ Vstup přes 3 tranše po výsledcích",
-    "date": "2026-06-24",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
-  },
-  {
     "id": "cal_3",
     "ticker": "BATS",
     "type": "exdiv",
