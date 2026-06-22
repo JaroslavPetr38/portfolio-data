@@ -12,18 +12,6 @@
     "sentiment": "neutral"
   },
   {
-    "id": "cal_1",
-    "ticker": "MU",
-    "type": "earnings",
-    "priority": "medium",
-    "title": "Micron",
-    "text": "Revenue vs $33.8B, Q4 guidance\n→ Vstup přes 3 tranše po výsledcích",
-    "date": "2026-06-24",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
-  },
-  {
     "id": "cal_3",
     "ticker": "BATS",
     "type": "exdiv",
@@ -123,52 +111,32 @@
     "sentiment": "neutral"
   },
   {
-    "id": "sem_0",
-    "ticker": "AT1",
-    "type": "todo",
-    "priority": "high",
-    "title": "Aroundtown",
-    "text": "+160% od vstupu (~€1.0x). 3Y daňový test vypršel. Realizovat zisk po ex-div datu 24.6.",
-    "date": "",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
-  },
-  {
     "id": "sem_1",
     "ticker": "TEP",
     "type": "todo",
     "priority": "high",
+    "sentiment": "neutral",
     "title": "Telecom Plus",
     "text": "Vstup 1364 GBX, -23.8%. Earnings 23.6. — sledovat churn, TalkTalk, dividendu. Pak rozhodnout o dokupu.",
-    "date": "",
+    "date": "2026-06-30",
+    "source_url": null,
     "done": false,
     "created": "2026-06-12",
-    "sentiment": "neutral"
+    "updated": "2026-06-22"
   },
   {
     "id": "sem_2",
     "ticker": "MU",
     "type": "todo",
     "priority": "high",
+    "sentiment": "neutral",
     "title": "Micron",
     "text": "Earnings 24.6. Scénář A:+15%, B:neutrál, C:-25%. Vstup přes 3 tranše po výsledcích.",
-    "date": "",
+    "date": "2026-06-24",
+    "source_url": null,
     "done": false,
     "created": "2026-06-12",
-    "sentiment": "neutral"
-  },
-  {
-    "id": "sem_3",
-    "ticker": "NESF+FGEN",
-    "type": "todo",
-    "priority": "medium",
-    "title": "NESF + FGEN",
-    "text": "Při schválení fúze nezvyšovat objem v obou titulech.",
-    "date": "",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
+    "updated": "2026-06-22"
   },
   {
     "id": "sem_4",
@@ -182,30 +150,6 @@
     "done": false,
     "created": "2026-06-12",
     "updated": "2026-06-16"
-  },
-  {
-    "id": "sem_5",
-    "ticker": "LAES",
-    "type": "todo",
-    "priority": "medium",
-    "title": "SEALSQ",
-    "text": "FIPS certifikace září 2026, TCG říjen 2026. Pozice 0.29% — nechat být.",
-    "date": "",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
-  },
-  {
-    "id": "sem_6",
-    "ticker": "STX",
-    "type": "todo",
-    "priority": "medium",
-    "title": "Seagate",
-    "text": "Earnings 16.7. Potenciální vstup po výsledcích.",
-    "date": "",
-    "done": false,
-    "created": "2026-06-12",
-    "sentiment": "neutral"
   },
   {
     "id": "sem_7",
@@ -1078,6 +1022,20 @@
     "auto_generated": true
   },
   {
+    "id": "VST_2026-06-22_exdiv_2fdc",
+    "ticker": "VST",
+    "type": "exdiv",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Ex-div: kvartální dividenda $0,23/akcie",
+    "text": "Vistra Energy vyhlásila kvartální dividendu 0,23 USD na akcii, o 1,8 % vyšší než loni. Ex-dividend datum je 22. 6. 2026, výplata 30. 6. 2026. Pro nárok je nutné akcie vlastnit k tomuto datu.",
+    "date": "2026-06-22",
+    "done": false,
+    "created": "2026-06-21",
+    "source_url": "https://www.prnewswire.com/news-releases/vistra-declares-dividend-on-common-stock-series-b-preferred-stock-and-series-c-preferred-stock-302759203.html",
+    "auto_generated": true
+  },
+  {
     "id": "NLY_2026-06-10_dividend_b573",
     "ticker": "NLY",
     "type": "dividend",
@@ -1089,7 +1047,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.businesswire.com/news/home/20260610416101/en/Annaly-Capital-Management-Inc.-Increases-2nd-Quarter-2026-Common-Stock-Dividend-to-$0.75-per-Share",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "LAES_2026-06-16_other_ef0d",
@@ -1103,7 +1062,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://stockstotrade.com/news/sealsq-corp-laes-news-2026_06_16/",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "SEIT_2026-06-16_dividend_4578",
@@ -1131,7 +1091,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": null,
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "FGEN_2026-06-18_earnings_29f8",
@@ -1145,7 +1106,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.directorstalkinterviews.com/foresight-environmental-infrastructure-reports-positive-nav-total-return-continued-dividend-growth/4121254124",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "MU_2026-06-24_todo_3cd0",
@@ -1159,7 +1121,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "LGEN_2026-06-10_other_3ab3",
@@ -1173,7 +1136,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": null,
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "BATS_2026-06-14_analysis_81e1",
@@ -1184,7 +1148,7 @@
     "title": "Citi, Barclays a Morgan Stanley zvýšili doporučení a cílovou cenu BAT, MS na 4950 GBp",
     "text": "Citi (14.6.) a Barclays (10.6.) vydaly nákupní doporučení na British American Tobacco, Morgan Stanley zvýšila cílovou cenu na 4950 GBp. Analytici oceňují stabilní dodávku FY guidance a růst segmentu New Category.",
     "date": "2026-06-14",
-    "done": false,
+    "done": true,
     "created": "2026-06-22",
     "source_url": "https://finance.yahoo.com/markets/stocks/articles/british-american-tobacco-lse-bats-031241085.html",
     "auto_generated": true
@@ -1215,7 +1179,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.fio.cz/zpravodajstvi/zpravy-z-burzy/325699-komercni-banka-oznamila-urceni-vnitrniho-minimalniho-pozadavku-na-kapital-a-zpusobile-zavazky",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "AMD_2026-06-16_other_3c7b",
@@ -1229,7 +1194,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": null,
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "VU_2026-06-16_other_f878",
@@ -1257,7 +1223,8 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUC58KTFP:0-telecom-plus-expects-fy26-adj-pbt-at-bottom-end-of-132m-138m-range/",
-    "auto_generated": true
+    "auto_generated": true,
+    "updated": "2026-06-22"
   },
   {
     "id": "LGEN_2026-06-22_other_d0f6",
@@ -1369,6 +1336,174 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": null,
+    "auto_generated": true
+  },
+  {
+    "id": "XLY_2026-08-31_analysis_1i0e",
+    "ticker": "XLY",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Interní transakce",
+    "text": "Kontext titulu:\nXLY je v tvém portfoliu jako spekulativní cannabis sleeve — nízká cena, vysoká volatilita, kanadský trh. Cena $0.16 CAD je penny stock territory — likvidita nízká, swing pohyby běžné.\nKanadský cannabis sektor obecně:\n\nSektor trpí od roku 2021 — přebytek produkce, cenová válka, federální legalizace v USA stále neprošla (klíčový katalyzátor). Většina kanadských cannabis firem bojuje s profitabilitou.\nZávěr:\n\nInsider nákup je pozitivní mikroimpuls ale neměl bych ho přeceňovat — jeden director kupující za $80k nemění fundamenty celého sektoru. Sledovat jestli budou další insider nákupy nebo zda půjde cena za tímto signálem. Pro spekulativní sleeve je to zajímavé ale nepřehodnocoval bych váhu pozice.",
+    "date": "2026-06-22",
+    "source_url": null,
+    "done": false,
+    "created": "2026-06-22",
+    "updated": "2026-06-22"
+  },
+  {
+    "id": "SEIT_2026-06-16_dividend_992f",
+    "ticker": "SEIT",
+    "type": "dividend",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "SDCL Efficiency Income zcela zrušil dividendu, akcie propadly o 19 %",
+    "text": "SDCL Efficiency Income Trust 16.6.2026 oznámil, že nevyplatí čtvrtou mezitímní dividendu, protože dluh vzrostl na 71,9 % NAV (limit 65 %). Akcie propadly o 19 %, fond se obchoduje s diskontem 48,2 % k NAV. Probíhá řízené ukončení fondu, hlasování akcionářů 10.7.2026.",
+    "date": "2026-06-16",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://www.proactiveinvestors.com/companies/news/1093961/sdcl-efficiency-income-shares-slide-19-as-trust-scraps-dividend-in-wind-down-1093961.html",
+    "auto_generated": true
+  },
+  {
+    "id": "NESF_2026-06-22_earnings_7b4d",
+    "ticker": "NESF",
+    "type": "earnings",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "NextEnergy Solar Fund: NAV propadl o 20 %, dividenda snížena, hlasování o pokračování fondu",
+    "text": "NextEnergy Solar Fund 22.6.2026 zveřejnil výsledky za FY26: NAV na akcii klesl z 95,1p na 76,1p (-20 %), dividenda snížena z 8,4p na 4-4,6p kvůli klesajícím cenám elektřiny. Akcie se obchodují s 38% diskontem k NAV, akcionáři budou v srpnu hlasovat o pokračování fondu.",
+    "date": "2026-06-22",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://quoteddata.com/2026/06/nextenergy-solar-urges-shareholders-to-vote-for-continuation-now-fund-on-sustainable-path-after-difficult-dividend-cut/",
+    "auto_generated": true
+  },
+  {
+    "id": "LAES_2026-06-12_other_b815",
+    "ticker": "LAES",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Francouzský ANSSI zavádí povinnost postkvantového šifrování, SEALSQ profituje",
+    "text": "Francouzská agentura ANSSI oznámila, že od 2027 přestane certifikovat produkty bez kvantově odolného šifrování a od 2030 jej vyžaduje u kritické infrastruktury. Čip SEALSQ QS7001 je validován NIST SP 800-90B a podporuje ML-KEM/ML-DSA. Regulatorní vítr do plachet pro produktové portfolio SEALSQ.",
+    "date": "2026-06-12",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://www.stocktitan.net/news/LAES/sealsq-s-qs7001-post-quantum-secure-element-aligned-with-new-anssi-jjssitkuxdf1.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-06-18_other_cd22",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "AMD investuje přes 10 miliard USD do rozšíření výroby v Tchaj-wanu",
+    "text": "AMD oznámilo investici přes 10 mld. USD do Tchaj-wanu na posílení kapacit pokročilého balení a montáže čipů. Podporuje to predikovaný růst datacentrových tržeb na 15 mld. USD (+114 % meziročně) v roce 2026 díky čipům MI450 a platformě Helios.",
+    "date": "2026-06-18",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/10-billion-reason-buy-amd-143002938.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AVCN_2026-06-09_other_2b14",
+    "ticker": "AVCN",
+    "type": "other",
+    "priority": "low",
+    "sentiment": "positive",
+    "title": "Splash Beverage Group investovala 300 000 CAD do Avicanny",
+    "text": "Splash Beverage Group dokončila 9.6.2026 strategickou investici 300 000 CAD do Avicanny, získala 2 mil. akcií a 1 mil. warrantů. Jde o malou, ale potvrzující investici do kanabinoidní biofarmaceutické platformy.",
+    "date": "2026-06-09",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://www.globenewswire.com/news-release/2026/06/15/3311780/0/en/Splash-Beverage-Group-Invests-in-Avicanna-a-Leading-Cannabinoid-Biopharmaceutical-Platform-Advancing-Its-Transformation-Into-Cannabinoid-Healthcare.html",
+    "auto_generated": true
+  },
+  {
+    "id": "XLY_2026-06-15_other_72b2",
+    "ticker": "XLY",
+    "type": "other",
+    "priority": "low",
+    "sentiment": "positive",
+    "title": "Insider Hugo Alves nakoupil akcie Auxly Cannabis za zhruba 0,09 CAD",
+    "text": "Insider Hugo Alves koupil 15.6.2026 přibližně 2 mil. akcií Auxly Cannabis za cca 0,09 CAD, největší insider nákup za poslední tři měsíce. Akcie se obchodují kolem 0,16-0,18 CAD, konsensus cílové ceny 0,25 CAD je přes 60 % nad poslední cenou.",
+    "date": "2026-06-15",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://simplywall.st/stocks/ca/pharmaceuticals-biotech/tsx-xly/auxly-cannabis-group-shares",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-06-15_other_6ed5",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "low",
+    "sentiment": "neutral",
+    "title": "AMD oznámilo akvizici MEXT Corporation pro optimalizaci pamětí",
+    "text": "AMD 15.6.2026 oznámilo akvizici společnosti MEXT Corporation zaměřené na optimalizaci pamětí pro výpočetní infrastrukturu. Má posílit nabídku AMD v datacentrových řešeních. Dopad na tržby zatím neznámý, jde o menší doplňkovou akvizici.",
+    "date": "2026-06-15",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://www.amd.com/en/blogs/2026/amd-acquires-mext-for-memory-optimization.html",
+    "auto_generated": true
+  },
+  {
+    "id": "VST_2026-06-11_other_afa8",
+    "ticker": "VST",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Vistra je kotvícím investorem v AI infrastrukturní platformě Helix za 10 mld. USD",
+    "text": "Skupina vedená KKR spustila 11.6.2026 platformu Helix Digital Infrastructure s kapitálem přes 10 mld. USD na AI infrastrukturu, Vistra je kotvícím investorem a preferovaným dodavatelem energie. Firma má 20leté smlouvy na dodávky energie pro Meta (2609 MW) a AWS.",
+    "date": "2026-06-11",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://parameter.io/helix-digital-infrastructure-emerges-with-10b-backing-from-kkr-nvidia-nvda-and-vistra-vst/",
+    "auto_generated": true
+  },
+  {
+    "id": "000660_2026-06-22_other_295e",
+    "ticker": "000660",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "SK Hynix předstihl Samsung jako nejhodnotnější korejskou firmu",
+    "text": "Akcie SK Hynix vzrostly 22.6.2026 o 5,6 %, tržní hodnota dosáhla cca 1,35 bil. USD a poprvé od roku 2000 předstihla Samsung. Růst táhne dominance v HBM čipech pro AI (61% podíl trhu v 2025). Akcie si letos připsaly přes 340 %.",
+    "date": "2026-06-22",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://www.investorideas.com/news/2026/technology/06222-sk-hynix-overtakes-samsung-memory-rally.asp",
+    "auto_generated": true
+  },
+  {
+    "id": "ANET_2026-06-15_analysis_7f1d",
+    "ticker": "ANET",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Analytici zvyšují cílové ceny Arista Networks po silných výsledcích",
+    "text": "Bank of America v polovině června 2026 zvýšila cíl pro ANET z 185 na 200 USD, Morgan Stanley z 180 na 190 USD (Overweight), KeyBanc rovněž zvýšil cíl. Reaguje na silnou poptávku po AI Ethernet síťových řešeních.",
+    "date": "2026-06-15",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/bofa-securities-raises-price-target-110253831.html",
+    "auto_generated": true
+  },
+  {
+    "id": "VST_2026-06-18_analysis_634e",
+    "ticker": "VST",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Analytici zvyšují cílové ceny Vistra po silných výsledcích a AI dohodách",
+    "text": "Bernstein zahájil 16.6.2026 krytí Vistra s Outperform, Goldman Sachs 18.6. potvrdil Buy, Seaport Research zvýšil cíl na 230 USD. Podporují to tržby za 1Q26 vyšší o 43 % meziročně a EBITDA nad odhady.",
+    "date": "2026-06-18",
+    "done": false,
+    "created": "2026-06-22",
+    "source_url": "https://simplywall.st/stocks/us/utilities/nyse-vst/vistra/news/vistra-vst-is-up-119-after-major-ai-power-deals-and-analyst/amp",
     "auto_generated": true
   }
 ]
