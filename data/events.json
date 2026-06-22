@@ -12,6 +12,18 @@
     "sentiment": "neutral"
   },
   {
+    "id": "cal_1",
+    "ticker": "MU",
+    "type": "earnings",
+    "priority": "medium",
+    "title": "Micron",
+    "text": "Revenue vs $33.8B, Q4 guidance\n→ Vstup přes 3 tranše po výsledcích",
+    "date": "2026-06-24",
+    "done": false,
+    "created": "2026-06-12",
+    "sentiment": "neutral"
+  },
+  {
     "id": "cal_3",
     "ticker": "BATS",
     "type": "exdiv",
@@ -1063,20 +1075,6 @@
     "done": false,
     "created": "2026-06-20",
     "source_url": "https://www.gurufocus.com/news/8922852/arista-networks-anet-price-target-raised-to-200-amid-ai-demand-surge",
-    "auto_generated": true
-  },
-  {
-    "id": "VST_2026-06-22_exdiv_2fdc",
-    "ticker": "VST",
-    "type": "exdiv",
-    "priority": "high",
-    "sentiment": "positive",
-    "title": "Ex-div: kvartální dividenda $0,23/akcie",
-    "text": "Vistra Energy vyhlásila kvartální dividendu 0,23 USD na akcii, o 1,8 % vyšší než loni. Ex-dividend datum je 22. 6. 2026, výplata 30. 6. 2026. Pro nárok je nutné akcie vlastnit k tomuto datu.",
-    "date": "2026-06-22",
-    "done": false,
-    "created": "2026-06-21",
-    "source_url": "https://www.prnewswire.com/news-releases/vistra-declares-dividend-on-common-stock-series-b-preferred-stock-and-series-c-preferred-stock-302759203.html",
     "auto_generated": true
   },
   {
