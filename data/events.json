@@ -1505,5 +1505,19 @@
     "created": "2026-06-22",
     "source_url": "https://simplywall.st/stocks/us/utilities/nyse-vst/vistra/news/vistra-vst-is-up-119-after-major-ai-power-deals-and-analyst/amp",
     "auto_generated": true
+  },
+  {
+    "id": "NLY_2026-06-23_analysis_2txb",
+    "ticker": "NLY",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Claude Code analýza NLY",
+    "text": "NLY — Annaly Capital Management — Analýza červen 2026\nDividenda zvýšena na $0.75/akcii (+7.1%), výplata 31.7.2026, ex-div 30.6.2026. EAD Q1 2026: $0.76/akcii — pokrývá dividendu ale cushion pouze $0.01. Desátý po sobě jdoucí kvartál pozitivního ekonomického výnosu.\nBook value $19.82 (pokles z $20.21), GAAP leverage 7.3x, economic leverage 5.7x. Total portfolio $106.7B. Residential Credit +30% na $10.3B, MSR +9% na $4.2B — diverzifikace portfolia se zlepšuje.\nFull year 2025: Revenue $2.38B (+82%), Net income $1.87B (+121%), margin 79%. JPMorgan target $24, Overweight.\nKlíčová rizika: EAD cushion velmi tenký po zvýšení dividendy. Leverage 7.3x zranitelné při pohybu sazeb. Prepayment risk roste s klesajícími hypotečními sazbami (6.09% únor 2026). Fed cuts v H2 2026 by pomohly NIM i book value — ale timeline nejistý.\nStrategie: Hold, reinvestovat dividendy. Případný dokup po ex-div 30.6. — počkat na Q2 výsledky 29.7.2026 pro potvrzení EAD coverage. Nezvyšovat výrazně před Q2 výsledky. Total return za 3 roky +60% včetně dividend.",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-06-23",
+    "updated": "2026-06-23"
   }
 ]
