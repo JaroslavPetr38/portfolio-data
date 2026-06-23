@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-23T13:00:00Z",
+  "generated": "2026-06-23T16:10:10Z",
   "source": "claude_routine",
   "ticker_count": 35,
-  "event_count": 13,
+  "event_count": 17,
   "events": [
     {
       "id": "NESF_2026-06-22_earnings_c3ca",
@@ -16,6 +16,20 @@
       "done": false,
       "created": "2026-06-23",
       "source_url": "https://uk.investing.com/news/company-news/nextenergy-solar-fund-fy-2026-slides-strategic-reset-targets-911-returns-93CH-4738389",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-06-22_other_772c",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron uzavřel strategickou dohodu s Anthropic, akcie vyskočila o 6,8 %",
+      "text": "Micron oznámil 22.6.2026 víceletou dodavatelskou smlouvu na HBM, DRAM a SSD pro Anthropic a investici do jejího kola Series H (65 mld. USD, valuace 965 mld. USD). Akcie MU vyskočila o 6,82 % na 1211,38 USD, YTD +324,6 %. Posiluje pozici Micronu v AI datacentrech.",
+      "date": "2026-06-22",
+      "done": false,
+      "created": "2026-06-23",
+      "source_url": "https://investors.micron.com/news-releases/news-release-details/micron-and-anthropic-announce-strategic-agreement-scale-next",
       "auto_generated": true
     },
     {
@@ -103,6 +117,34 @@
       "auto_generated": true
     },
     {
+      "id": "AMD_2026-06-23_other_b1c6",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD propadl o cca 5-6 % v širším výprodeji čipového sektoru",
+      "text": "Akcie AMD klesly 23.6.2026 o cca 5,5 % v rámci širšího výprodeje polovodičových titulů po Broadcomu a silnějších datech z trhu práce. Pokles je sektorový, ne specifický pro fundamenty AMD, akcie zůstává YTD výrazně v plusu (cca +150 %).",
+      "date": "2026-06-23",
+      "done": false,
+      "created": "2026-06-23",
+      "source_url": "https://www.tradingkey.com/news/market-movers/261985191-market-movers-amd-20260623",
+      "auto_generated": true
+    },
+    {
+      "id": "AT1_2026-06-25_exdiv_a161",
+      "ticker": "AT1",
+      "type": "exdiv",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Aroundtown: ex-dividend den 25. června",
+      "text": "Aroundtown SA má ex-dividend datum 25.6.2026, výplata dividendy 0,08 EUR na akcii proběhne 29.6.2026. Investoři držící akcie před tímto datem mají nárok na výplatu.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-23",
+      "source_url": "https://www.investing.com/equities/aroundtown-property-holdings-plc-dividends",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-22_other_4e7c",
       "ticker": "AT1",
       "type": "other",
@@ -184,6 +226,20 @@
       "done": false,
       "created": "2026-06-23",
       "source_url": "https://coincentral.com/western-digital-wdc-stock-rises-6-as-company-plans-sandisk-share-swap/",
+      "auto_generated": true
+    },
+    {
+      "id": "VST_2026-06-22_exdiv_c8e3",
+      "ticker": "VST",
+      "type": "exdiv",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Vistra: ex-dividend den a výplata dividendy",
+      "text": "Vistra vyplácí čtvrtletní dividendu 0,23 USD na akcii, ex-dividend den byl 22.6.2026, výplata proběhne 30.6.2026. Dividenda je o 1,8 % vyšší než loni, výnos cca 0,6 %.",
+      "date": "2026-06-22",
+      "done": false,
+      "created": "2026-06-23",
+      "source_url": "https://www.prnewswire.com/news-releases/vistra-declares-dividend-on-common-stock-series-b-preferred-stock-and-series-c-preferred-stock-302759203.html",
       "auto_generated": true
     }
   ]
