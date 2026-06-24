@@ -890,5 +890,20 @@
     "risk": "medium",
     "style": "blend",
     "portfolioId": "p1"
+  },
+  {
+    "ticker": "ETFDIP",
+    "name": "ETFDIP",
+    "exchange": "",
+    "currency": "EUR",
+    "category": "",
+    "status": "portfolio",
+    "action": "HOLD",
+    "shares": 287,
+    "avgLocal": 12.09671117651727,
+    "totalInvCzk": 83842.91,
+    "czk": 292.135574912892,
+    "portfolioId": "pmqrteds7ym55",
+    "freq": "—"
   }
 ]
