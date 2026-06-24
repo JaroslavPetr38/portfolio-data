@@ -1808,7 +1808,7 @@
     "title": "Komerční banka - poslední den obchodování s nárokem na dividendu",
     "text": "24. června 2026 je posledním obchodním dnem, kdy akcie Komerční banky nesou nárok na výplatu dividendy. Od následujícího dne se akcie obchodují ex-div, což typicky vede k poklesu kurzu o hodnotu dividendy.",
     "date": "2026-06-24",
-    "done": false,
+    "done": true,
     "created": "2026-06-24",
     "source_url": "https://www.kurzy.cz/akcie-cz/akcie/komercni-banka-590/",
     "auto_generated": true
