@@ -75,42 +75,6 @@
     "sentiment": "neutral"
   },
   {
-    "id": "note_1",
-    "ticker": "MU",
-    "type": "note",
-    "priority": "medium",
-    "title": "MU",
-    "text": "Earnings 24.6. — forward P/E 10x, PEG 0.37. Po +1000% YoY rally zvážit vstup pouze přes 3 tranše. Scénář C (miss) = nejlepší nákupní příležitost.",
-    "date": "2026-06-07",
-    "done": false,
-    "created": "2026-06-07",
-    "sentiment": "neutral"
-  },
-  {
-    "id": "note_2",
-    "ticker": "TEP",
-    "type": "note",
-    "priority": "medium",
-    "title": "TEP",
-    "text": "Vstup 1364 GBX. Aktuálně -23.8%. Earnings 23.6. klíčové — sledovat: churn pod 14.2%, TalkTalk cross-sell progress (cíl 30k+ upgradů), potvrzení dividendy £0.95.",
-    "date": "2026-06-07",
-    "done": false,
-    "created": "2026-06-07",
-    "sentiment": "neutral"
-  },
-  {
-    "id": "note_3",
-    "ticker": "AT1",
-    "type": "note",
-    "priority": "medium",
-    "title": "AT1",
-    "text": "+160% od vstupu ~€1.0x. 3Y daňový test vypršel. Ex-div datum 24.6. — počkat na dividendu €0.08, pak zvážit prodej celé pozice.",
-    "date": "2026-06-07",
-    "done": false,
-    "created": "2026-06-07",
-    "sentiment": "neutral"
-  },
-  {
     "id": "sem_1",
     "ticker": "TEP",
     "type": "todo",
@@ -650,21 +614,6 @@
     "done": false,
     "created": "2026-06-17",
     "source_url": "https://www.tipranks.com/news/company-announcements/foresight-environmental-infrastructure-sets-june-dates-for-full-year-results-and-investor-briefings",
-    "auto_generated": true,
-    "updated": "2026-06-17"
-  },
-  {
-    "id": "NESF_2026-06-17_note_2c7b",
-    "ticker": "NESF",
-    "type": "note",
-    "priority": "low",
-    "sentiment": "neutral",
-    "title": "NESF: výsledky FY2026 plánované na 22. června, GAV £922 mil.",
-    "text": "NextEnergy Solar Fund zveřejní auditované výsledky za rok do 31. března 2026 dne 22. června. Hrubá hodnota aktiv k 31. 3. 2026 je £922 mil. Fond zkoumal strategické možnosti pro zvýšení hodnoty (Project Lion 250MW baterie, 350MW solar). Retail webcast 23. června.",
-    "date": "2026-06-17",
-    "done": false,
-    "created": "2026-06-17",
-    "source_url": "https://uk.advfn.com/market-news/article/17283/nextenergy-solar-fund-schedules-investor-webcasts-ahead-of-full-year-results-release-nesf",
     "auto_generated": true,
     "updated": "2026-06-17"
   },
