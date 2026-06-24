@@ -1,7 +1,64 @@
 {
-  "generated": "2026-06-24T09:04:08Z",
+  "generated": "2026-06-24T16:04:33Z",
   "source": "claude_routine",
   "ticker_count": 35,
-  "event_count": 0,
-  "events": []
+  "event_count": 4,
+  "events": [
+    {
+      "id": "TEP_2026-06-24_earnings_1f2c",
+      "ticker": "TEP",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Telecom Plus Raises Profits, Announces £40m Buyback and Sets Out Ambitious Five-Year Growth Strategy",
+      "text": "Telecom Plus reportoval rekordní roční zisk: upravený zisk před zdaněním +4,7 % na £132,2 mil., tržby +5,6 % na £1,94 mld., klienti +23,3 % na 1,43 mil. Firma oznámila investiční plán £55 mil. ročně a zpětný odkup za £40 mil., ale akcie propadly o 29,7 % na 672p kvůli snížení odhadu zisku pro FY27 o 39 % na £85 mil.",
+      "date": "2026-06-24",
+      "done": false,
+      "created": "2026-06-24",
+      "source_url": "https://www.proactiveinvestors.co.uk/companies/news/1094307/telecom-plus-plunges-on-plan-to-invest-in-growing-customer-network-1094307.html",
+      "auto_generated": true
+    },
+    {
+      "id": "KOMB_2026-06-24_exdiv_aa39",
+      "ticker": "KOMB",
+      "type": "exdiv",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Komerční banka - poslední den obchodování s nárokem na dividendu",
+      "text": "24. června 2026 je posledním obchodním dnem, kdy akcie Komerční banky nesou nárok na výplatu dividendy. Od následujícího dne se akcie obchodují ex-div, což typicky vede k poklesu kurzu o hodnotu dividendy.",
+      "date": "2026-06-24",
+      "done": false,
+      "created": "2026-06-24",
+      "source_url": "https://www.kurzy.cz/akcie-cz/akcie/komercni-banka-590/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-06-24_other_3793",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SK Hynix Seeks $29 Billion With New US Listing to Fund AI Boom",
+      "text": "SK Hynix podala žádost o vydání 17,79 mil. nových akcií v hodnotě 29,4 mld. USD pro ADR listing na Nasdaqu, obchodování má začít 10. července. Výtěžek půjde na nové fab v Yonginu, packaging závod v Cheongju a EUV stroje. Jde o největší ADR nabídku v historii.",
+      "date": "2026-06-24",
+      "done": false,
+      "created": "2026-06-24",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-06-24/sk-hynix-looks-to-raise-29-4-billion-with-new-us-lising",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-06-24_other_f23e",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Western Digital (WDC) Stock Slides As AI Memory Selloff Hits Chipmakers",
+      "text": "Akcie Western Digital propadly 24. června o 8,45 % v rámci širšího výprodeje paměťových a AI infrastrukturních titulů po poklesu korejských výrobců pamětí. Pád zhoršuje i přetlak akcií z nedávno uzavřené výměny akcií SanDisk za akcie WDC.",
+      "date": "2026-06-24",
+      "done": false,
+      "created": "2026-06-24",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-slides-101600589.html",
+      "auto_generated": true
+    }
+  ]
 }
