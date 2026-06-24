@@ -125,20 +125,6 @@
     "updated": "2026-06-22"
   },
   {
-    "id": "sem_2",
-    "ticker": "MU",
-    "type": "todo",
-    "priority": "high",
-    "sentiment": "neutral",
-    "title": "Micron",
-    "text": "Earnings 24.6. Scénář A:+15%, B:neutrál, C:-25%. Vstup přes 3 tranše po výsledcích.",
-    "date": "2026-06-24",
-    "source_url": null,
-    "done": false,
-    "created": "2026-06-12",
-    "updated": "2026-06-22"
-  },
-  {
     "id": "sem_4",
     "ticker": "SEIT",
     "type": "note",
@@ -1106,21 +1092,6 @@
     "done": false,
     "created": "2026-06-22",
     "source_url": "https://www.directorstalkinterviews.com/foresight-environmental-infrastructure-reports-positive-nav-total-return-continued-dividend-growth/4121254124",
-    "auto_generated": true,
-    "updated": "2026-06-22"
-  },
-  {
-    "id": "MU_2026-06-24_todo_3cd0",
-    "ticker": "MU",
-    "type": "todo",
-    "priority": "high",
-    "sentiment": "neutral",
-    "title": "Micron oznámí výsledky za fiskální 3Q 2026 dne 24. června",
-    "text": "Micron oznámí výsledky za fiskální 3Q 2026 ve středu 24.6.2026. Analytici čekají tržby 34,8 mld. USD a EPS 19,72 USD, firma guidovala tržby 33,5 mld. ± 0,75 mld. Klíčový katalyzátor kvůli poptávce po HBM pamětech pro AI.",
-    "date": "2026-06-24",
-    "done": false,
-    "created": "2026-06-22",
-    "source_url": "https://www.stocktitan.net/news/MU/micron-technology-to-report-fiscal-third-quarter-results-on-june-24-22gcrbths4gp.html",
     "auto_generated": true,
     "updated": "2026-06-22"
   },
