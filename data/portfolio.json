@@ -566,8 +566,8 @@
       "status": "portfolio",
       "sector": "Real Estate",
       "risk": "medium",
-      "style": "blend",
-      "freq": "1x ročně",
+      "style": "growth",
+      "freq": "—",
       "note": "+160% od vstupu. Zvážit prodej po ex-div 24.6.",
       "yahoo": "AT1.DE",
       "ticker": "AT1",
@@ -576,7 +576,7 @@
       "action": "SELL",
       "currency": "EUR",
       "category": "REIT",
-      "nextExDate": "24.6.2026",
+      "nextExDate": "—",
       "portfolioId": "p1"
     },
     {
@@ -601,9 +601,9 @@
       "sector": "Consumer Staples",
       "risk": "high",
       "style": "speculative",
-      "freq": "ne",
+      "freq": "—",
       "note": "Spekulativní sleeve.",
-      "yahoo": "OGI.TO",
+      "yahoo": "OGI",
       "ticker": "OGI",
       "name": "Organigram Global",
       "exchange": "TSX",
@@ -912,13 +912,13 @@
     {
       "id": "p1",
       "name": "Hlavní",
-      "color": "#4ade80",
+      "color": "#de4a4a",
       "isDefault": true
     },
     {
       "id": "pmqrteds7ym55",
       "name": "DIP",
-      "color": "#60a5fa",
+      "color": "#60fb62",
       "isDefault": false
     }
   ]
