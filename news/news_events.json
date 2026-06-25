@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T09:07:34Z",
+  "generated": "2026-06-25T16:05:03Z",
   "source": "claude_routine",
   "ticker_count": 35,
-  "event_count": 4,
+  "event_count": 7,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -33,6 +33,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-06-25_analysis_92bc",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron (MU) price targets sharply raised by JPMorgan, Goldman Sachs, Morgan Stanley after Q3 earnings beat",
+      "text": "Po silných výsledcích Micronu analytici výrazně zvedli cílové ceny: JPMorgan z 550 na 1540 USD, Goldman Sachs na 1100 USD, Morgan Stanley na 1200 USD, DA Davidson na 2000 USD, TD Cowen na 1600 USD. Akcie po výsledcích posílila o cca 20 %. Velmi silně pozitivní signál pro držitele MU.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-25",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990146-mu-skhynix-dram-hbm-jpm-gs-tradingkey",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -58,6 +72,34 @@
       "done": false,
       "created": "2026-06-25",
       "source_url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-06-25_macro_383a",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "May 2026 PCE inflation report: core PCE 3.4%, headline 4.1%, both in line with expectations",
+      "text": "Index PCE inflace za květen 2026 vzrostl meziročně o 4,1 % (nejvíce od dubna 2023), jádrové PCE o 3,4 %, v souladu s odhady. Osobní výdaje i příjmy vzrostly o 0,7 %, nad odhady. Setrvalá inflace podporuje jestřábí postoj Fedu, negativní pro rizikové aktivy.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-25",
+      "source_url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-06-25_macro_4586",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Crude oil falls below $70/barrel on US-Iran peace progress, Saudi exports resuming",
+      "text": "Cena ropy klesla pod 70 USD/barel, čtvrtý den poklesu, díky pokroku v jednání USA-Írán a obnovení saúdských exportů z Rás Tanúra. Provoz tankerů Hormuzským průlivem je na nejrychlejším tempu od začátku konfliktu. Pozitivní pro firmy závislé na nákladech energie.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-25",
+      "source_url": "https://tradingeconomics.com/commodity/crude-oil",
       "auto_generated": true
     }
   ]
