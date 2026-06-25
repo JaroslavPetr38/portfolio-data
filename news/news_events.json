@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T05:07:25Z",
+  "generated": "2026-06-25T09:07:34Z",
   "source": "claude_routine",
   "ticker_count": 35,
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -25,11 +25,39 @@
       "priority": "high",
       "sentiment": "negative",
       "title": "SDCL Efficiency Income Trust Notice of Results / Annual Results for year ended 31 March 2026",
-      "text": "SDCL Efficiency Income Trust zveřejnil 25. června 2026 výsledky za rok do 31. března 2026. Fond obchoduje s diskontem 48,2 % k NAV a pokračuje v řízeném ukončení činnosti (managed wind-down) po hlasování akcionářů. Dividenda byla dříve zastavena kvůli zadlužení nad limitem 65 % NAV. Pro investory jde o negativní signál ohledně další hodnoty podílu.",
+      "text": "SDCL Efficiency Income Trust zveřejnil 25. 6. výsledky za rok do 31. 3. 2026: NAV/akcii klesl o 14 %, ztráta před zdaněním 87,4 mil. GBP. Fond obchoduje s diskontem cca 48 % k NAV, pokračuje v řízeném ukončení činnosti a prodeji portfolia, dividenda zůstává zastavena. Negativní signál pro držitele.",
       "date": "2026-06-25",
       "done": false,
       "created": "2026-06-25",
-      "source_url": "https://www.investegate.co.uk/announcement/rns/sdcl-efficiency-income-trust--seit/notice-of-results/9632802",
+      "source_url": "https://www.investing.com/news/stock-market-news/sdcl-energy-efficiency-income-trust-nav-drops-14-for-fiscal-year-93CH-4759796",
+      "auto_generated": true
+    },
+    {
+      "id": "AT1_2026-06-25_exdiv_13af",
+      "ticker": "AT1",
+      "type": "exdiv",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Aroundtown SA goes ex-dividend today, June 25, 2026",
+      "text": "Aroundtown SA má 25. 6. 2026 ex-dividend den pro dividendu za FY2025 ve výši cca 0,08 EUR/akcii, výplata proběhne 29. 6. 2026. Kdo akcie nedržel před tímto datem, nemá nárok na výplatu; cena akcie se obvykle při otevření trhu upraví zhruba o výši dividendy dolů.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-25",
+      "source_url": "https://www.dividendmax.com/germany/xetra/property/aroundtown-sa/dividends",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-06-25_other_341f",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SK Hynix surges 12% after Micron earnings; blockbuster Nasdaq listing",
+      "text": "SK Hynix posílil o 9-15 % na rekordní maximum po silných výsledcích Micronu potvrzujících poptávku po AI pamětech - pozitivní signál i pro SK Hynix se stejnými trhy. Firma plánuje navýšit cíl Nasdaq ADR IPO na 29,4 mld. USD (dříve 14 mld.), obchodování má začít kolem 10. 7. 2026.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-25",
+      "source_url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
       "auto_generated": true
     }
   ]
