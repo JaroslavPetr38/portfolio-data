@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-25T16:05:03Z",
+  "generated": "2026-06-25T17:51:05Z",
   "source": "claude_routine",
-  "ticker_count": 35,
+  "ticker_count": 29,
   "event_count": 7,
   "events": [
     {
@@ -102,5 +102,6 @@
       "source_url": "https://tradingeconomics.com/commodity/crude-oil",
       "auto_generated": true
     }
-  ]
+  ],
+  "run_type": "short"
 }
