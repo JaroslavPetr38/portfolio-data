@@ -1789,5 +1789,33 @@
     "created": "2026-06-24",
     "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-slides-101600589.html",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-06-24_earnings_b73e",
+    "ticker": "MU",
+    "type": "earnings",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron (MU) earnings report Q3 2026",
+    "text": "Micron oznámil výsledky za fiskální 3. čtvrtletí 2026: tržby 41,456 mld. USD (+346 % meziročně, odhad 35,59 mld.), upravený EPS 25,11 USD (odhad 20,60). Hrubá marže vzrostla na 84,9 % z 39 % loni, tržby z datacenter segmentu vzrostly 7x na 11,5 mld. USD. Výhled na 4. čtvrtletí 50 ± 1 mld. USD tržeb výrazně překonal odhady analytiků (42,9 mld.), akcie po zveřejnění posílila o cca 5 %.",
+    "date": "2026-06-24",
+    "done": false,
+    "created": "2026-06-25",
+    "source_url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
+    "auto_generated": true
+  },
+  {
+    "id": "SEIT_2026-06-25_earnings_f5a1",
+    "ticker": "SEIT",
+    "type": "earnings",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "SDCL Efficiency Income Trust Notice of Results / Annual Results for year ended 31 March 2026",
+    "text": "SDCL Efficiency Income Trust zveřejnil 25. června 2026 výsledky za rok do 31. března 2026. Fond obchoduje s diskontem 48,2 % k NAV a pokračuje v řízeném ukončení činnosti (managed wind-down) po hlasování akcionářů. Dividenda byla dříve zastavena kvůli zadlužení nad limitem 65 % NAV. Pro investory jde o negativní signál ohledně další hodnoty podílu.",
+    "date": "2026-06-25",
+    "done": false,
+    "created": "2026-06-25",
+    "source_url": "https://www.investegate.co.uk/announcement/rns/sdcl-efficiency-income-trust--seit/notice-of-results/9632802",
+    "auto_generated": true
   }
 ]
