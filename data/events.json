@@ -1802,8 +1802,7 @@
     "done": false,
     "created": "2026-06-25",
     "source_url": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
-    "auto_generated": true,
-    "updated": "2026-06-25"
+    "auto_generated": true
   },
   {
     "id": "SEIT_2026-06-25_earnings_f5a1",
@@ -1814,11 +1813,38 @@
     "title": "SDCL Efficiency Income Trust Notice of Results / Annual Results for year ended 31 March 2026",
     "text": "SDCL Efficiency Income Trust zveřejnil 25. 6. výsledky za rok do 31. 3. 2026: NAV/akcii klesl o 14 %, ztráta před zdaněním 87,4 mil. GBP. Fond obchoduje s diskontem cca 48 % k NAV, pokračuje v řízeném ukončení činnosti a prodeji portfolia, dividenda zůstává zastavena. Negativní signál pro držitele.",
     "date": "2026-06-25",
-    "done": true,
+    "done": false,
     "created": "2026-06-25",
     "source_url": "https://www.investing.com/news/stock-market-news/sdcl-energy-efficiency-income-trust-nav-drops-14-for-fiscal-year-93CH-4759796",
-    "auto_generated": true,
-    "updated": "2026-06-25"
+    "auto_generated": true
+  },
+  {
+    "id": "MU_2026-06-25_analysis_92bc",
+    "ticker": "MU",
+    "type": "analysis",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron (MU) price targets sharply raised by JPMorgan, Goldman Sachs, Morgan Stanley after Q3 earnings beat",
+    "text": "Po silných výsledcích Micronu analytici výrazně zvedli cílové ceny: JPMorgan z 550 na 1540 USD, Goldman Sachs na 1100 USD, Morgan Stanley na 1200 USD, DA Davidson na 2000 USD, TD Cowen na 1600 USD. Akcie po výsledcích posílila o cca 20 %. Velmi silně pozitivní signál pro držitele MU.",
+    "date": "2026-06-25",
+    "done": false,
+    "created": "2026-06-25",
+    "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990146-mu-skhynix-dram-hbm-jpm-gs-tradingkey",
+    "auto_generated": true
+  },
+  {
+    "id": "VU_2026-06-25_analysis_fcd0",
+    "ticker": "VU",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "Berenberg lowers price target on Vusion (maintains Buy)",
+    "text": "Berenberg snížil cílovou cenu akcií Vusion z 270 na 252 EUR, rating Buy ale zachoval. Mírně negativní signál i přes pokračující pozitivní výhled na digitalizaci retailu.",
+    "date": "2026-06-25",
+    "done": false,
+    "created": "2026-06-26",
+    "source_url": "https://www.marketscreener.com/news/berenberg-lowers-price-target-on-vusion-ce7e58dfd08af726",
+    "auto_generated": true
   },
   {
     "id": "AT1_2026-06-25_exdiv_13af",
@@ -1849,17 +1875,17 @@
     "auto_generated": true
   },
   {
-    "id": "MU_2026-06-25_analysis_92bc",
-    "ticker": "MU",
-    "type": "analysis",
-    "priority": "high",
+    "id": "WDC_2026-06-25_other_e2d1",
+    "ticker": "WDC",
+    "type": "other",
+    "priority": "medium",
     "sentiment": "positive",
-    "title": "Micron (MU) price targets sharply raised by JPMorgan, Goldman Sachs, Morgan Stanley after Q3 earnings beat",
-    "text": "Po silných výsledcích Micronu analytici výrazně zvedli cílové ceny: JPMorgan z 550 na 1540 USD, Goldman Sachs na 1100 USD, Morgan Stanley na 1200 USD, DA Davidson na 2000 USD, TD Cowen na 1600 USD. Akcie po výsledcích posílila o cca 20 %. Velmi silně pozitivní signál pro držitele MU.",
+    "title": "Western Digital (WDC) Stock Hits $643 as AI Demand Drives 274% Growth in 2026",
+    "text": "Akcie Western Digital vzrostly o cca 6 % na cenu kolem 643-684 USD, taženy poptávkou po AI úložištích po silných výsledcích Micronu potvrzujících boom v segmentu pamětí. Pozitivní signál pro celý sektor datových úložišť.",
     "date": "2026-06-25",
     "done": false,
-    "created": "2026-06-25",
-    "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261990146-mu-skhynix-dram-hbm-jpm-gs-tradingkey",
+    "created": "2026-06-26",
+    "source_url": "https://www.fxleaders.com/news/2026/06/25/western-digital-wdc-stock-hits-643-as-ai-demand-drives-274-growth-in-2026/",
     "auto_generated": true
   },
   {
@@ -1888,34 +1914,6 @@
     "done": false,
     "created": "2026-06-25",
     "source_url": "https://tradingeconomics.com/commodity/crude-oil",
-    "auto_generated": true
-  },
-  {
-    "id": "VU_2026-06-25_analysis_fcd0",
-    "ticker": "VU",
-    "type": "analysis",
-    "priority": "medium",
-    "sentiment": "negative",
-    "title": "Berenberg lowers price target on Vusion (maintains Buy)",
-    "text": "Berenberg snížil cílovou cenu akcií Vusion z 270 na 252 EUR, rating Buy ale zachoval. Mírně negativní signál i přes pokračující pozitivní výhled na digitalizaci retailu.",
-    "date": "2026-06-25",
-    "done": false,
-    "created": "2026-06-26",
-    "source_url": "https://www.marketscreener.com/news/berenberg-lowers-price-target-on-vusion-ce7e58dfd08af726",
-    "auto_generated": true
-  },
-  {
-    "id": "WDC_2026-06-25_other_e2d1",
-    "ticker": "WDC",
-    "type": "other",
-    "priority": "medium",
-    "sentiment": "positive",
-    "title": "Western Digital (WDC) Stock Hits $643 as AI Demand Drives 274% Growth in 2026",
-    "text": "Akcie Western Digital vzrostly o cca 6 % na cenu kolem 643-684 USD, taženy poptávkou po AI úložištích po silných výsledcích Micronu potvrzujících boom v segmentu pamětí. Pozitivní signál pro celý sektor datových úložišť.",
-    "date": "2026-06-25",
-    "done": false,
-    "created": "2026-06-26",
-    "source_url": "https://www.fxleaders.com/news/2026/06/25/western-digital-wdc-stock-hits-643-as-ai-demand-drives-274-growth-in-2026/",
     "auto_generated": true
   }
 ]
