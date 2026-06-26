@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T17:51:05Z",
+  "generated": "2026-06-26T05:10:00Z",
   "source": "claude_routine",
-  "ticker_count": 29,
-  "event_count": 7,
+  "ticker_count": 36,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -47,6 +47,20 @@
       "auto_generated": true
     },
     {
+      "id": "VU_2026-06-25_analysis_fcd0",
+      "ticker": "VU",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Berenberg lowers price target on Vusion (maintains Buy)",
+      "text": "Berenberg snížil cílovou cenu akcií Vusion z 270 na 252 EUR, rating Buy ale zachoval. Mírně negativní signál i přes pokračující pozitivní výhled na digitalizaci retailu.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-26",
+      "source_url": "https://www.marketscreener.com/news/berenberg-lowers-price-target-on-vusion-ce7e58dfd08af726",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -72,6 +86,20 @@
       "done": false,
       "created": "2026-06-25",
       "source_url": "https://www.cnbc.com/2026/06/25/chip-tech-stocks-sk-hynix-nasdaq-adr-listing-29-billion-ai-investment.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-06-25_other_e2d1",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Western Digital (WDC) Stock Hits $643 as AI Demand Drives 274% Growth in 2026",
+      "text": "Akcie Western Digital vzrostly o cca 6 % na cenu kolem 643-684 USD, taženy poptávkou po AI úložištích po silných výsledcích Micronu potvrzujících boom v segmentu pamětí. Pozitivní signál pro celý sektor datových úložišť.",
+      "date": "2026-06-25",
+      "done": false,
+      "created": "2026-06-26",
+      "source_url": "https://www.fxleaders.com/news/2026/06/25/western-digital-wdc-stock-hits-643-as-ai-demand-drives-274-growth-in-2026/",
       "auto_generated": true
     },
     {
@@ -103,5 +131,5 @@
       "auto_generated": true
     }
   ],
-  "run_type": "short"
+  "run_type": "full"
 }
