@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-26T16:08:00Z",
+  "generated": "2026-06-29T05:15:00Z",
   "source": "claude_routine",
-  "ticker_count": 29,
-  "event_count": 0,
+  "ticker_count": 35,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -89,6 +89,20 @@
       "auto_generated": true
     },
     {
+      "id": "000660_2026-06-28_other_963b",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Samsung, SK hynix to unveil investment plans this week: presidential office",
+      "text": "SK hynix a Samsung oznámí na briefingu s prezidentem investiční plán v hodnotě až 1 000-2 000 bilionů wonů (646-1300 mld. USD) na příštích 10 let, zaměřený na čipy, AI datacentra a nový klastr v regionu Gwangju. Akce se zúčastní šéfové obou firem. Jde o největší investiční plán v historii Koreje, posiluje dlouhodobou pozici SK hynix v AI paměťových čipech.",
+      "date": "2026-06-28",
+      "done": false,
+      "created": "2026-06-29",
+      "source_url": "https://www.koreatimes.co.kr/southkorea/politics/20260628/samsung-sk-hynix-to-unveil-investment-plans-this-week-presidential-office",
+      "auto_generated": true
+    },
+    {
       "id": "WDC_2026-06-25_other_e2d1",
       "ticker": "WDC",
       "type": "other",
@@ -131,5 +145,5 @@
       "auto_generated": true
     }
   ],
-  "run_type": "short"
+  "run_type": "full"
 }
