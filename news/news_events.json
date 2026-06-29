@@ -1,7 +1,8 @@
 {
-  "generated": "2026-06-29T09:11:00Z",
+  "generated": "2026-06-29T16:11:00Z",
   "source": "claude_routine",
-  "ticker_count": 29,
+  "run_type": "short",
+  "ticker_count": 30,
   "event_count": 1,
   "events": [
     {
@@ -131,6 +132,20 @@
       "auto_generated": true
     },
     {
+      "id": "AMD_2026-06-29_analysis_cf8e",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Cantor Fitzgerald raises AMD stock price target to $700 on compute momentum",
+      "text": "Cantor Fitzgerald zvýšila cílovou cenu akcií AMD na 700 USD z 500 USD a potvrdila rating Overweight. Analytik C.J. Muse zdůvodnil krok silnou dynamikou AMD v segmentu výpočetních čipů (compute) mezi polovodičovými firmami. Nová cílová cena implikuje potenciální růst přes 34 % od posledního závěru kolem 521,58 USD.",
+      "date": "2026-06-29",
+      "done": false,
+      "created": "2026-06-29",
+      "source_url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-amd-stock-price-target-to-700-on-compute-momentum-93CH-4765131",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_383a",
       "ticker": null,
       "type": "macro",
@@ -158,6 +173,5 @@
       "source_url": "https://tradingeconomics.com/commodity/crude-oil",
       "auto_generated": true
     }
-  ],
-  "run_type": "short"
+  ]
 }
