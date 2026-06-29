@@ -1929,5 +1929,19 @@
     "created": "2026-06-29",
     "source_url": "https://www.koreatimes.co.kr/southkorea/politics/20260628/samsung-sk-hynix-to-unveil-investment-plans-this-week-presidential-office",
     "auto_generated": true
+  },
+  {
+    "id": "BATS_2026-06-29_other_3593",
+    "ticker": "BATS",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "neutral",
+    "title": "British American Tobacco to Cut 5,500 Global Jobs in AI-Driven Fit2Win Transformation",
+    "text": "BAT oznámil 29. 6. plán Fit2Win: zruší 5 500 pracovních míst celosvětově (mimo USA) a dalších 3 500 rolí přesune na externí firmy jako Accenture, dotčeno cca 9 000 zaměstnanců (~20 % pracovní síly). Cílem jsou roční úspory 600 mil. GBP do 2028 díky AI transformaci.",
+    "date": "2026-06-29",
+    "done": false,
+    "created": "2026-06-29",
+    "source_url": "https://www.globalbankingandfinance.com/british-american-tobacco-cuts-5-500-jobs-globally/",
+    "auto_generated": true
   }
 ]
