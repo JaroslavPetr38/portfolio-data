@@ -1729,5 +1729,33 @@
     "created": "2026-06-29",
     "source_url": "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-raises-amd-stock-price-target-to-700-on-compute-momentum-93CH-4765131",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-06-29_analysis_29e3",
+    "ticker": "MU",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Cantor Fitzgerald raises Micron (MU) price target to $2,000 on strategic customer agreements",
+    "text": "Analytik Cantor Fitzgerald C. J. Muse zvýšil cílovou cenu akcií Micron z 1500 na 2000 USD a potvrdil doporučení Buy. Důvodem jsou nové víceleté strategické zákaznické smlouvy (SCA), které mají stabilizovat marže a tržby firmy. Další pozitivní signál pro držitele MU po silných výsledcích.",
+    "date": "2026-06-29",
+    "done": false,
+    "created": "2026-06-30",
+    "source_url": "https://www.tipranks.com/news/top-cantor-analyst-boosts-micron-stock-mu-price-target-on-optimism-about-scas",
+    "auto_generated": true
+  },
+  {
+    "id": "NLY_2026-06-30_exdiv_a99a",
+    "ticker": "NLY",
+    "type": "exdiv",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Annaly Capital Management increases Q2 2026 dividend to $0.75, goes ex-dividend June 30, 2026",
+    "text": "Annaly Capital Management zvýšila čtvrtletní dividendu na 0,75 USD/akcii (z 0,70 USD, +7,1 %). Akcie jsou od 30. 6. 2026 obchodovány bez nároku na dividendu, výplata proběhne 31. 7. 2026. Pozitivní signál pro držitele mREIT hledající příjem.",
+    "date": "2026-06-30",
+    "done": false,
+    "created": "2026-06-30",
+    "source_url": "https://www.businesswire.com/news/home/20260610416101/en/Annaly-Capital-Management-Inc.-Increases-2nd-Quarter-2026-Common-Stock-Dividend-to-$0.75-per-Share",
+    "auto_generated": true
   }
 ]
