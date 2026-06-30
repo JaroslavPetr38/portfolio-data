@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-30T05:09:20Z",
+  "generated": "2026-06-30T09:08:35Z",
   "source": "claude_routine",
-  "run_type": "full",
-  "ticker_count": 35,
-  "event_count": 2,
+  "run_type": "short",
+  "ticker_count": 29,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -59,6 +59,20 @@
       "done": false,
       "created": "2026-06-29",
       "source_url": "https://www.globalbankingandfinance.com/british-american-tobacco-cuts-5-500-jobs-globally/",
+      "auto_generated": true
+    },
+    {
+      "id": "TEP_2026-06-30_earnings_b2eb",
+      "ticker": "TEP",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Telecom Plus shares tumble as guides to low-end full-year profit",
+      "text": "Telecom Plus (Utility Warehouse) zveřejnil výsledky FY2026: zisk +4,7 % na 132,2 mil. GBP, zákazníci +23,3 %. Výhled FY2027 ale snížen na 80-90 mil. GBP kvůli investičnímu plánu, dividenda klesla z 94p na 50p. Akcie propadly o cca 27 %. Silně negativní signál pro držitele TEP.",
+      "date": "2026-06-30",
+      "done": false,
+      "created": "2026-06-30",
+      "source_url": "https://www.ajbell.co.uk/news/articles/telecom-plus-shares-tumble-guides-low-end-full-year-profit",
       "auto_generated": true
     },
     {
