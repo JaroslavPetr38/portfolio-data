@@ -2113,5 +2113,47 @@
     "source_url": "https://finnhub.io/api/news?id=4696c1cdf48cf3c685f45c973168f607776ff1fe5e19ba3e11baa71c443fe48e",
     "auto_generated": true,
     "created": "2026-06-30"
+  },
+  {
+    "id": "AMD_2026-06-30_analysis_3f36",
+    "ticker": "AMD",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Wells Fargo Raises AMD Price Target to $615 on AI Server CPU Demand",
+    "text": "Wells Fargo (analytik Aaron Rakers) zvýšil cílovou cenu AMD z 505 na 615 USD a potvrdil rating Overweight. Důvodem je silná poptávka po serverových CPU EPYC a AI čipech, firma očekává EPS 7,15 USD (2026) až 18,75 USD (2028). Akcie AMD po zprávě vzrostly přes 7 % na rekordní maximum.",
+    "date": "2026-06-30",
+    "done": false,
+    "created": "2026-07-01",
+    "source_url": "https://invezz.com/nz/news/2026/06/30/amd-shares-gain-as-wells-fargo-boosts-target-citing-ai-driven-cpu-demand/",
+    "auto_generated": true
+  },
+  {
+    "id": "AVCN_2026-06-30_other_b299",
+    "ticker": "AVCN",
+    "type": "other",
+    "priority": "low",
+    "sentiment": "neutral",
+    "title": "Avicanna Announces Promotion of Nick Hilborn, CPA, CA to Chief Financial Officer",
+    "text": "Avicanna povýšila Nicka Hilborna na pozici CFO s okamžitou platností. Hilborn dříve působil jako prozatímní CFO od září 2025 a předtím jako viceprezident financí od července 2024. Jde o formalizaci vedení financí, dopad na byznys je minimální.",
+    "date": "2026-06-30",
+    "done": false,
+    "created": "2026-07-01",
+    "source_url": "https://www.manilatimes.net/2026/07/01/tmt-newswire/globenewswire/avicanna-announces-promotion-of-nick-hilborn-cpa-ca-to-chief-financial-officer/2376307",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-06-30_macro_10b0",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Cleveland Fed President Hammack says AI could fuel inflation, rate hikes may be necessary",
+    "text": "Clevelandská Fed šéfka Beth Hammacková (hlasující členka FOMC) uvedla, že „nenasytná“ poptávka po AI infrastruktuře přiživuje inflaci. Uvedla, že pokud tento trend bude pokračovat, může být nutné zvýšit úrokové sazby k návratu inflace k cíli. Jde o jasně jestřábí signál, negativní pro akcie i dluhopisy.",
+    "date": "2026-06-30",
+    "done": false,
+    "created": "2026-07-01",
+    "source_url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
+    "auto_generated": true
   }
 ]
