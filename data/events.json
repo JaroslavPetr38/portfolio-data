@@ -2155,5 +2155,31 @@
     "created": "2026-07-01",
     "source_url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html",
     "auto_generated": true
+  },
+  {
+    "id": "fh_1w2ay57",
+    "ticker": "MU",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Micron (MU) Stock Looks Below Fair Value But Broader Checks Stay Mixed",
+    "text": "Micron Technology’s share price has moved very sharply in recent years, yet its valuation checks paint a more mixed picture, with some multiples still screening as supportive while broader signals are less clear cut. Micron has returned roughly 17x over the past 3 years, which sets a very high bar for any further upside from today’s valuation. The current market value leans heavily on continued demand for AI related memory. At the same time, heightened competition and the cyclicality of...\n\nZdroj: Yahoo · https://finnhub.io/api/news?id=007ce78b0827aaf07a7d3c736aaed9e864a5722868a74814092d91737b394bc0",
+    "date": "2026-07-01",
+    "source_url": "https://finnhub.io/api/news?id=007ce78b0827aaf07a7d3c736aaed9e864a5722868a74814092d91737b394bc0",
+    "auto_generated": true,
+    "created": "2026-07-01"
+  },
+  {
+    "id": "fh_2viidi",
+    "ticker": "MU",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Micron’s stock buybacks explained: When & why the chipmaker repurchases shares",
+    "text": "Memory chip maker Micron Technology (MU) has been making headlines for its red-hot earnings, reflecting surging demand for AI infrastructure. But while the company has been obliterating Wall Street’s estimates with its blockbuster revenue growth and profits, something else has been happening in the ...\n\nZdroj: Yahoo · https://finnhub.io/api/news?id=c8fc4366d8c36e1f27d53a8613c06bbd8c7b6c00ae078d780126a91758e16341",
+    "date": "2026-07-01",
+    "source_url": "https://finnhub.io/api/news?id=c8fc4366d8c36e1f27d53a8613c06bbd8c7b6c00ae078d780126a91758e16341",
+    "auto_generated": true,
+    "created": "2026-07-01"
   }
 ]
