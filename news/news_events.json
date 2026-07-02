@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T09:04:00Z",
+  "generated": "2026-07-02T16:04:00Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -185,6 +185,20 @@
       "done": false,
       "created": "2026-07-01",
       "source_url": "https://invezz.com/nz/news/2026/06/30/amd-shares-gain-as-wells-fargo-boosts-target-citing-ai-driven-cpu-demand/",
+      "auto_generated": true
+    },
+    {
+      "id": "XLY_2026-06-30_other_4136",
+      "ticker": "XLY",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Auxly Announces Results of Annual General and Special Meeting of Shareholders",
+      "text": "Auxly Cannabis na valné hromadě 30. 6. 2026 schválila usnesení opravňující sloučit akcie (reverse split) v poměru až 20:1, zvolila představenstvo a potvrdila auditora. Krok obvykle signalizuje snahu zvýšit nízkou cenu akcie; konkrétní poměr a termín zatím nejsou stanoveny.",
+      "date": "2026-06-30",
+      "done": false,
+      "created": "2026-07-02",
+      "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-results-of-annual-general-and-special-meeting-of-shareholders-302816526.html",
       "auto_generated": true
     },
     {
