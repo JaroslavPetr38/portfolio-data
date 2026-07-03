@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-02T16:04:00Z",
+  "generated": "2026-07-03T05:12:26Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 1,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -230,6 +230,34 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-02_other_8908",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron Technology (NASDAQ:MU) Stock Price Down 5.5% – Here's What Happened",
+      "text": "Akcie Micronu ve čtvrtek klesly o dalších 5,5 % na cca 975 USD a prohloubily dvoudenní propad. Trh se obává přebytku pamětí kvůli nové kapacitě Samsungu a SK Hynixu a výběru zisků po rekordním růstu, i když firma v Q3 FY2026 překonala odhady tržeb i zisku.",
+      "date": "2026-07-02",
+      "done": false,
+      "created": "2026-07-03",
+      "source_url": "https://www.themarketsdaily.com/2026/07/02/micron-technology-nasdaqmu-stock-price-down-5-5-heres-what-happened.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-02_other_fedd",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Intel, Marvell Technology, and AMD Stocks Trade Down, What You Need To Know",
+      "text": "AMD ve čtvrtek odpoledne oslabil o 6 % (Intel -6,8 %, Marvell -12,1 %) po zprávě, že SK Hynix zpomaluje expanzi výroby paměti HBM, a po varování analytika Citi ohledně udržitelnosti výdajů hyperscalerů na AI infrastrukturu. Index SOX propadl přes 7 %.",
+      "date": "2026-07-02",
+      "done": false,
+      "created": "2026-07-03",
+      "source_url": "https://stockstory.org/us/stocks/nasdaq/intc/news/why-up-down/intel-marvell-technology-and-amd-stocks-trade-down-what-you-need-to-know",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -339,6 +367,20 @@
       "done": false,
       "created": "2026-07-02",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-gets-153104306.html",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-07-02_other_a314",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Cameco (CCJ) Completes Acquisition of TEPCO Resources' Interest in Cigar Lake",
+      "text": "Cameco dokončilo akvizici 5% podílu TEPCO Resources v ložisku Cigar Lake za cca 115,75 mil. USD. Podíl Cameca vzrostl na 57,418 %, podíl Oranu na 42,582 %. Joint venture se zjednodušuje na dva partnery, což posiluje kontrolu Cameca nad klíčovým uranovým aktivem.",
+      "date": "2026-07-02",
+      "done": false,
+      "created": "2026-07-03",
+      "source_url": "https://www.stocktitan.net/news/CCJ/cameco-closes-deal-to-increase-ownership-in-cigar-lake-gwgzbvlgpus1.html",
       "auto_generated": true
     },
     {
