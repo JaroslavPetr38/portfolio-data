@@ -2276,5 +2276,33 @@
     "created": "2026-07-03",
     "source_url": "https://invezz.com/news/2026/07/03/why-are-samsung-and-sk-hynix-stocks-rebounding-sharply-today/",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-07-06_other_32f3",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience",
+    "text": "Micron uzavřel dlouhodobou strategickou zákaznickou smlouvu s Fordem na dodávky pamětí LPDRAM, NOR a UFS NAND pro vozidla nové generace, podpořenou rozšířením výroby DRAM v závodě Manassas. Akcie Micronu po zprávě posílily o cca 3,3 %, Ford o cca 1 %. Diverzifikace zákazníků mimo AI datacentra.",
+    "date": "2026-07-06",
+    "done": false,
+    "created": "2026-07-06",
+    "source_url": "https://investors.micron.com/news-releases/news-release-details/micron-and-ford-sign-strategic-agreement-strengthen-long-term",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-06_analysis_d739",
+    "ticker": "AMD",
+    "type": "analysis",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Goldman Sachs Raises AMD Price Target to $640, Citing AI Momentum",
+    "text": "Goldman Sachs zvýšil cílovou cenu AMD na 640 USD ze 450 USD a potvrdil rating Buy, důvodem je zrychlující se AI dynamika u serverů EPYC a akcelerátorů Instinct. Akcie AMD vzrostly intradenně o 8-9 % na cca 560 USD. Wells Fargo (615 USD) a Cantor Fitzgerald (700 USD) rovněž zvýšily cíle.",
+    "date": "2026-07-06",
+    "done": false,
+    "created": "2026-07-06",
+    "source_url": "https://www.roic.ai/news/goldman-sachs-raises-amd-price-target-to-640-citing-ai-momentum-07-06-2026",
+    "auto_generated": true
   }
 ]
