@@ -1,10 +1,24 @@
 {
-  "generated": "2026-07-03T16:02:59Z",
+  "generated": "2026-07-06T10:13:02Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 36,
   "event_count": 1,
   "events": [
+    {
+      "id": "MU_2026-07-04_other_cbdb",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron Breaks Ground on $9 Billion Western Japan Plant Expansion",
+      "text": "Micron v sobotu zahájil stavbu rozšíření továrny v japonské Hirošimě za 1,5 bilionu jenů (asi 9,3 miliardy USD) na výrobu paměťových čipů HBM pro AI procesory. Japonské ministerstvo hospodářství přispěje až 500 miliardami jenů. Instalace výrobního zařízení má začít ve druhé polovině roku 2028.",
+      "date": "2026-07-04",
+      "done": false,
+      "created": "2026-07-06",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+      "auto_generated": true
+    },
     {
       "id": "MU_2026-06-24_earnings_b73e",
       "ticker": "MU",
