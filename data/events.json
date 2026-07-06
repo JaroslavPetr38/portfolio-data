@@ -2248,5 +2248,33 @@
     "created": "2026-07-03",
     "source_url": "https://www.stocktitan.net/news/CCJ/cameco-closes-deal-to-increase-ownership-in-cigar-lake-gwgzbvlgpus1.html",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-07-04_other_cbdb",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron Breaks Ground on $9 Billion Western Japan Plant Expansion",
+    "text": "Micron v sobotu zahájil stavbu rozšíření továrny v japonské Hirošimě za 1,5 bilionu jenů (asi 9,3 miliardy USD) na výrobu paměťových čipů HBM pro AI procesory. Japonské ministerstvo hospodářství přispěje až 500 miliardami jenů. Instalace výrobního zařízení má začít ve druhé polovině roku 2028.",
+    "date": "2026-07-04",
+    "done": false,
+    "created": "2026-07-06",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-07-04/micron-breaks-ground-on-9-billion-western-japan-plant-expansion",
+    "auto_generated": true
+  },
+  {
+    "id": "000660_2026-07-03_other_48b7",
+    "ticker": "000660",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "SK Hynix shares rebound sharply as Anthropic-Samsung AI chip talks lift Kospi",
+    "text": "Akcie SK Hynix se 3. 7. odrazily o cca 5-10 %, když zprávy o jednání Anthropicu se Samsungem o vývoji vlastního AI čipu obrátily náladu trhu. Index Kospi vzrostl o 5,76 % nad 8000 bodů, tažen Samsungem a SK Hynix. Zotavení po předchozím propadu kvůli obavám z útlumu AI poptávky.",
+    "date": "2026-07-03",
+    "done": false,
+    "created": "2026-07-03",
+    "source_url": "https://invezz.com/news/2026/07/03/why-are-samsung-and-sk-hynix-stocks-rebounding-sharply-today/",
+    "auto_generated": true
   }
 ]
