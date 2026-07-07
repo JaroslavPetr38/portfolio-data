@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T09:03:06Z",
+  "generated": "2026-07-07T16:08:13Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -171,6 +171,34 @@
       "done": false,
       "created": "2026-07-07",
       "source_url": "https://www.stocktitan.net/news/LAES/sealsq-corp-reports-preliminary-h1-2026-results-revenue-up-120-fy-mlrt8mv02sa3.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-07_other_5bb2",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron, SanDisk, and Western Digital Sink 7% as Samsung Earnings Spark a Memory Selloff",
+      "text": "Akcie Micronu klesly 7. 7. o cca 5-7 % spolu se SanDiskem a Western Digital poté, co silnější než čekané výsledky Samsungu vyvolaly obavy z budoucí nadměrné kapacity pamětí a spustily solidární výprodej napříč výrobci pamětových čipů.",
+      "date": "2026-07-07",
+      "done": false,
+      "created": "2026-07-07",
+      "source_url": "https://247wallst.com/investing/2026/07/07/micron-sandisk-and-western-digital-sink-7-as-samsung-earnings-spark-a-memory-selloff/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-07_other_a5a6",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff",
+      "text": "Akcie AMD v úterý 7. 7. propadly o cca 7-8 % na cca 508 USD po výsledcích Samsungu (zisk +19x meziročně, jen mírně nad odhady), které vyvolaly výprodej v celém polovodičovém sektoru kvůli obavám z vysokých AI valuací (P/E AMD kolem 208). Intel klesl o 10 %, Applied Materials o 10 %.",
+      "date": "2026-07-07",
+      "done": false,
+      "created": "2026-07-07",
+      "source_url": "https://247wallst.com/investing/2026/07/07/intel-and-applied-materials-dive-10-amd-craters-8-as-samsung-earnings-trigger-chip-selloff/",
       "auto_generated": true
     },
     {
