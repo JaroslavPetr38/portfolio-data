@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-07T16:08:13Z",
+  "generated": "2026-07-08T05:11:11Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 2,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -356,6 +356,20 @@
       "auto_generated": true
     },
     {
+      "id": "AT1_2026-07-07_other_d723",
+      "ticker": "AT1",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Aroundtown SA successfully issues €850 million bond and launches buyback tender to optimize its debt profile",
+      "text": "Aroundtown vydala nový 5letý senior dluhopis v objemu 850 mil. EUR s kupónem 3,625 %, emise byla výrazně předepsána. Zároveň spustila tender na odkup starších dluhopisů (2027, 2029) v objemu 1,5 mld. EUR, nabídka končí 15.7.2026. Krok snižuje úrokové náklady a prodlužuje splatnost dluhu.",
+      "date": "2026-07-07",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.eqs-news.com/news/corporate/aroundtown-sa-successfully-issues-e850-million-bond-and-launches-buyback-tender-to-optimize-its-debt-profile/bb91c744-49b4-455d-b9ad-ca58db21b30e_en",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -580,6 +594,20 @@
       "auto_generated": true
     },
     {
+      "id": "MACRO_2026-07-08_macro_31a8",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Fed Minutes Due Wednesday: Nine Hawkish Dots and Warsh's Deliberate Silence",
+      "text": "Fed zveřejnil zápis z jednání FOMC z 16.-17. června (8. 7. 2026). Výbor je rozdělen: 9 z 18 členů čeká letos zvýšení sazeb, inflační výhled zvýšen na 3,6 % (celková) a 3,3 % (jádrová). Šance na zářijové zvýšení sazeb kolem 50-55 %, výnosy dluhopisů rostou.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.techtimes.com/articles/319827/20260707/fed-minutes-due-wednesday-nine-hawkish-dots-warshs-deliberate-silence.htm",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_4586",
       "ticker": null,
       "type": "macro",
@@ -619,6 +647,20 @@
       "done": false,
       "created": "2026-07-02",
       "source_url": "https://www.bloomberg.com/news/articles/2026-07-01/lagarde-says-inflation-growth-risks-more-broadly-balanced-now",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-08_macro_2756",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "The probability of a US recession in the next year has fallen to 15%",
+      "text": "Goldman Sachs snížil odhad pravděpodobnosti recese USA v příštích 12 měsících z 25 % na 15 %. Důvodem jsou nižší ceny energií, silný trh práce a ústup geopolitického rizika po mírové dohodě USA-Írán. Pozitivní signál pro akcie a riziková aktiva.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.goldmansachs.com/insights/articles/the-probability-of-a-us-recession-in-the-next-year-has-fallen-to-15-percent",
       "auto_generated": true
     }
   ]
