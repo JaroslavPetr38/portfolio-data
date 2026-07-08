@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T09:03:06Z",
+  "generated": "2026-07-08T16:11:09Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 1,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -566,6 +566,48 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-08_other_8059",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Why Is Micron Technology Stock Falling Wednesday?",
+      "text": "Akcie Micronu klesly ve středu v premarketu o více než 5 % na cca 890-914 USD, pokračují v propadu z rekordního maxima 1255 USD (-22 %). Důvodem je „sell-the-news“ reakce na výsledky Samsungu a obavy z rostoucí kapacity a převisu nabídky pamětí.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.benzinga.com/markets/tech/26/07/60325891/why-is-micron-technology-stock-falling-wednesday",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-07-08_other_f1ef",
+      "ticker": "LAES",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies",
+      "text": "SEALSQ uzavřel memorandum o porozumění s GlobalFoundries o spolupráci na bezpečných polovodičích, post-kvantové kryptografii a kvantových technologiích (CryoCMOS, secure chiplets). Partnerství spojuje výrobní kapacity GlobalFoundries s bezpečnostní expertizou SEALSQ a posiluje jeho pozici v segmentu PQC.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.manilatimes.net/2026/07/08/tmt-newswire/globenewswire/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/2380752",
+      "auto_generated": true
+    },
+    {
+      "id": "LGEN_2026-07-08_other_5b61",
+      "ticker": "LGEN",
+      "type": "other",
+      "priority": "low",
+      "sentiment": "positive",
+      "title": "Legal & General Tender Offer - Final Results",
+      "text": "Legal & General zveřejnila finální výsledky tendru na odkup dluhopisů: odkoupeno 448,67 mil. USD Tier 2 dluhopisů a cca 400 mil. GBP napříč čtyřmi GBP emisemi. Vypořádání proběhne 10. 7. 2026, odkoupené dluhopisy budou zrušeny. Dokončení refinancování kapitálové struktury.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer-final-results/9659016",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_383a",
       "ticker": null,
       "type": "macro",
@@ -619,6 +661,20 @@
       "done": false,
       "created": "2026-07-08",
       "source_url": "https://www.techtimes.com/articles/319827/20260707/fed-minutes-due-wednesday-nine-hawkish-dots-warshs-deliberate-silence.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-08_macro_2710",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "US Stock Futures Slide After Trump Says Iran Ceasefire Is Over",
+      "text": "Trump na summitu NATO prohlásil příměří s Íránem za ukončené a pohrozil dalšími údery. Dow Jones klesl o 811 bodů (-1,5 %), S&P 500 a Nasdaq o cca 1 %, ropa Brent vzrostla o 8 % na 80 USD/barel. Negativní signál pro riziková aktiva, rostoucí ceny energií zvyšují inflační tlaky.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over",
       "auto_generated": true
     },
     {
