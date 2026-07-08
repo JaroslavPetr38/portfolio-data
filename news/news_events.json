@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-08T05:11:11Z",
+  "generated": "2026-07-08T09:03:06Z",
   "source": "claude_routine",
-  "run_type": "full",
-  "ticker_count": 36,
-  "event_count": 3,
+  "run_type": "short",
+  "ticker_count": 30,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -367,6 +367,20 @@
       "done": false,
       "created": "2026-07-08",
       "source_url": "https://www.eqs-news.com/news/corporate/aroundtown-sa-successfully-issues-e850-million-bond-and-launches-buyback-tender-to-optimize-its-debt-profile/bb91c744-49b4-455d-b9ad-ca58db21b30e_en",
+      "auto_generated": true
+    },
+    {
+      "id": "LGEN_2026-07-08_other_a002",
+      "ticker": "LGEN",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Legal & General Tender Offer - Indicative Results",
+      "text": "Legal & General zveřejnila předběžné výsledky tendru na zpětný odkup dluhopisů: odkoupeno cca 519,7 mil. USD Tier 2 dluhopisů 2047 a cca 409 mil. GBP napříč čtyřmi GBP emisemi, vypořádání 10.7.2026. Krok snižuje úrokové náklady a optimalizuje kapitálovou strukturu.",
+      "date": "2026-07-08",
+      "done": false,
+      "created": "2026-07-08",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/legal-general-group--lgen/tender-offer-indicative-results/9658273",
       "auto_generated": true
     },
     {
