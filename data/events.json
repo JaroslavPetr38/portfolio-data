@@ -2584,5 +2584,61 @@
     "created": "2026-07-08",
     "source_url": "https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-07-09_other_ff50",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab",
+    "text": "Micron oznámil navýšení plánovaných investic do výroby v USA na více než 250 mld. USD do roku 2035 (o 50 mld. USD více) a vyčlenil dalších 3 mld. USD na posílení dodavatelského řetězce. Akcie vzrostly o 7,7 % na cca 1021 USD. Cíl: 40 % výroby DRAM v USA.",
+    "date": "2026-07-09",
+    "done": false,
+    "created": "2026-07-09",
+    "source_url": "https://investingnews.com/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab/",
+    "auto_generated": true
+  },
+  {
+    "id": "FGEN_2026-07-09_other_21f8",
+    "ticker": "FGEN",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Foresight Environmental Infrastructure manager steps down",
+    "text": "Chris Tanner odstupuje z pozice spoluportfoliomanažera fondu FGEN a přebírá novou roli ve skupině Foresight Group. Fond nadále povedou spoluportfoliomanažeři Ed Mountney a Charlie Wright, kteří ve fondu působí od IPO v roce 2014. Pod jeho vedením fond dosáhl přes dekádu nepřetržitého růstu dividendy.",
+    "date": "2026-07-09",
+    "done": false,
+    "created": "2026-07-09",
+    "source_url": "https://portfolio-adviser.com/foresight-environmental-infrastructure-manager-steps-down/",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-09_other_6c64",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "AMD Jumps 7%, Intel Climbs 5%, Broadcom Rises 2% as Tom Lee Calls the Chip Selloff a Buying Opportunity",
+    "text": "Akcie AMD vzrostly o 7,75 % v rámci širšího oživení sektoru polovodičů (Intel +5 %, Broadcom +2 %). Analytik Tom Lee (Fundstrat) označil nedávný propad čipových akcií za nákupní příležitost. Impuls posílil i pozitivní investiční oznámení Micronu.",
+    "date": "2026-07-09",
+    "done": false,
+    "created": "2026-07-09",
+    "source_url": "https://247wallst.com/investing/2026/07/09/amd-jumps-7-intel-climbs-5-broadcom-rises-2-as-tom-lee-calls-the-chip-selloff-a-buying-opportunity/",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-07-09_macro_3096",
+    "ticker": null,
+    "type": "macro",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "US jobless claims dip modestly to 215,000 last week as layoffs remain at historically healthy levels",
+    "text": "Žádosti o podporu v nezaměstnanosti v USA klesly na 215 000, pod odhadem trhu 218 000, trh práce zůstává silný. Pravděpodobnost zvýšení sazby Fedu v červenci klesla z 28,9 % na 19,8 %, v září z 64,1 % na 55 %. Akciové futures po datech posílily.",
+    "date": "2026-07-09",
+    "done": false,
+    "created": "2026-07-09",
+    "source_url": "https://abcnews.com/Business/wireStory/us-jobless-claims-dip-modestly-215000-week-layoffs-134614417",
+    "auto_generated": true
   }
 ]
