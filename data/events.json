@@ -2682,5 +2682,47 @@
     "created": "2026-07-10",
     "source_url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
     "auto_generated": true
+  },
+  {
+    "id": "AT1_2026-07-10_note_k7th",
+    "ticker": "AT1",
+    "type": "note",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Aroundtown SA (AT1.DE) — Analýza - Aktualizováno: 10.7.2026 · Kurz: ~2,22 EUR",
+    "text": "Aroundtown SA (AT1.DE) — Analýza\nISIN: LU1673108939 | WKN: A2DW8Z | Aktualizováno: 10.7.2026 | Kurz: ~2,22 EUR\n\nZÁKLADNÍ PROFIL\nLucemburský REIT zaměřený na kancelářské, obytné a smíšené nemovitosti, těžiště v Německu. Propojen s Grand City Properties (bytový segment).\n\nPROČ AKCIE AKTUÁLNĚ KLESÁ\n- 8.7.2026: pokles -7,19 % po oznámení refinancování dluhu — zpětný odkup 3 dluhopisů (1,5 mld. EUR, splatnost 2027/2029, kupóny 5,4 % a 4,8 %) + nová 5letá emise 850 mil. EUR s kupónem 3,625 %. Trh to čte jako signál tlaku na kapitálovou strukturu, i když z pohledu úrokových nákladů je krok logický.\n- Dlouhodobý downtrend od 2.3.2026 (cca -21 % v tomto období), kurz pod 50 i 200denním průměrem.\n- Sektor tlačí obecně vyšší úrokové sazby a vyšší diskontní sazby u ocenění nemovitostí (cap rate expansion).\n\nFUNDAMENT\n- P/E ~8,9–9,0 (levné oproti historii)\n- Dividendový výnos ~3,3–3,4 % (vyplaceno 0,08 EUR/akcii 6.7.2026)\n- Q1 2026: FFO I -8 % meziročně (70,2 mil. EUR) kvůli vyšším úrokovým nákladům a provozním výdajům\n- Tržní kapitalizace ~2,7 mld. EUR\n\nANALYTICKÝ KONSENSUS\n- Goldman Sachs: Neutral, cíl 2,70 EUR (1.6.2026)\n- Konsensus (5 analytiků): 2x Buy / 2x Hold / 1x Sell, průměrný cíl ~3,00–3,09 EUR (červenec 2026)\n- Průměrný cíl implikuje upside ~34 % nad aktuální cenou — velký rozptyl mezi bankami signalizuje nejistotu\n\nVÝVOJ GS CÍLOVÉ CENY (HISTORIE)\n- 12/2025: 3,20 EUR (Neutral)\n- 03/2026: sníženo na 2,30 EUR — stagflační obavy, vyšší reálné sazby\n- 04/2026: zvýšeno na 2,60 EUR — po navýšení podílu v Grand City\n- 06/2026: zvýšeno na 2,70 EUR — sektorové shrnutí, preference logistiky/datacenter/rezidenčních REITs před kancelářemi\n\nPROČ DISKONT K NAV\n- Vyšší výnosy dluhopisů tlačí dolů tržní ocenění nemovitostí (cap rate expansion) — účetní NAV nereflektuje aktuální financovací realitu\n- Refinancing riziko — splatnosti dluhu a financovací náklady jsou hlavní téma pokrytí GS\n- Strukturální znevýhodnění kancelářského segmentu vs. logistika/datacentra/rezidence, kde GS vidí lepší výhled\n- Nejistý vývoj obsazenosti kanceláří\n\nBLÍZKÉ KATALYZÁTORY\n- Srpen 2026: pololetní výsledky (H1 2026 report) — klíčový termín\n- Dokončení probíhajícího zpětného odkupu dluhopisů (červenec 2026)\n- Vývoj úrokových sazeb ECB a inflace v eurozóně (6/2026: 2,8 %, cíl 2 %)\n- Případná další portfoliová optimalizace (prodej non-core aktiv, přestavby kanceláří na byty)\n\nSHRNUTÍ\nLevné ocenění (P/E, diskont k NAV) + slušná dividenda, ale strukturální tlaky (sazby, refinancing, kanceláře) drží sentiment opatrný. GS je spíše neutrální/mírně opatrnější než konsensus. Sledovat H1 report v srpnu a vývoj sazeb ECB.",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-07-10",
+    "updated": "2026-07-10"
+  },
+  {
+    "id": "SEIT_2026-07-10_other_ddb7",
+    "ticker": "SEIT",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Result of General Meeting",
+    "text": "Na mimořádné valné hromadě 10.7.2026 akcionáři SDCL Efficiency Income Trust schválili klíčová usnesení pro řízené ukončení fondu (nová investiční politika 98,12 % hlasů, zrušení účtu emisního ážia 98,36 %). Fond ukončí nové investice a bude pokračovat v rozprodeji portfolia. Potvrzuje směr wind-downu pro držitele SEIT.",
+    "date": "2026-07-10",
+    "done": false,
+    "created": "2026-07-10",
+    "source_url": "https://www.investegate.co.uk/announcement/rns/sdcl-efficiency-income-trust--seit/result-of-general-meeting/9663659",
+    "auto_generated": true
+  },
+  {
+    "id": "LAES_2026-07-10_other_7270",
+    "ticker": "LAES",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "SEALSQ and Quobly Sign $5 Million Commercial Agreement to Integrate Post-Quantum Security into Next-Generation Silicon Quantum Computing Platforms",
+    "text": "SEALSQ podepsala s francouzskou Quobly komerční smlouvu za 5 mil. USD na integraci post-kvantového zabezpečení (Cryo CMOS ASIC, hardwarový Root-of-Trust) do křemíkových kvantových počítačů. Jde o posun z výzkumné spolupráce k první komerční zakázce, cílí na vládní, obranné a datacentrové zákazníky.",
+    "date": "2026-07-10",
+    "done": false,
+    "created": "2026-07-10",
+    "source_url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/sealsq-and-quobly-sign-5-million-commercial-agreement-to-integrate-post-quantum-security-into-next-generation-silicon-quantum-computing-platforms/2382323",
+    "auto_generated": true
   }
 ]
