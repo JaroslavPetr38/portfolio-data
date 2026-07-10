@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T09:07:54Z",
+  "generated": "2026-07-10T16:03:10Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -244,6 +244,20 @@
       "auto_generated": true
     },
     {
+      "id": "SEIT_2026-07-10_other_ddb7",
+      "ticker": "SEIT",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Result of General Meeting",
+      "text": "Na mimořádné valné hromadě 10.7.2026 akcionáři SDCL Efficiency Income Trust schválili klíčová usnesení pro řízené ukončení fondu (nová investiční politika 98,12 % hlasů, zrušení účtu emisního ážia 98,36 %). Fond ukončí nové investice a bude pokračovat v rozprodeji portfolia. Potvrzuje směr wind-downu pro držitele SEIT.",
+      "date": "2026-07-10",
+      "done": false,
+      "created": "2026-07-10",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/sdcl-efficiency-income-trust--seit/result-of-general-meeting/9663659",
+      "auto_generated": true
+    },
+    {
       "id": "VU_2026-06-25_analysis_fcd0",
       "ticker": "VU",
       "type": "analysis",
@@ -465,6 +479,20 @@
       "done": false,
       "created": "2026-07-09",
       "source_url": "https://247wallst.com/investing/2026/07/09/amd-jumps-7-intel-climbs-5-broadcom-rises-2-as-tom-lee-calls-the-chip-selloff-a-buying-opportunity/",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-07-10_other_7270",
+      "ticker": "LAES",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SEALSQ and Quobly Sign $5 Million Commercial Agreement to Integrate Post-Quantum Security into Next-Generation Silicon Quantum Computing Platforms",
+      "text": "SEALSQ podepsala s francouzskou Quobly komerční smlouvu za 5 mil. USD na integraci post-kvantového zabezpečení (Cryo CMOS ASIC, hardwarový Root-of-Trust) do křemíkových kvantových počítačů. Jde o posun z výzkumné spolupráce k první komerční zakázce, cílí na vládní, obranné a datacentrové zákazníky.",
+      "date": "2026-07-10",
+      "done": false,
+      "created": "2026-07-10",
+      "source_url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/sealsq-and-quobly-sign-5-million-commercial-agreement-to-integrate-post-quantum-security-into-next-generation-silicon-quantum-computing-platforms/2382323",
       "auto_generated": true
     },
     {
