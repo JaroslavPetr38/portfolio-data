@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-09T16:03:15Z",
+  "generated": "2026-07-10T05:03:15Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 4,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -636,6 +636,34 @@
       "auto_generated": true
     },
     {
+      "id": "WDC_2026-07-09_other_eeeb",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Western Digital and Seagate Surge 7%, Micron and SanDisk Climb 6% as Memory Selloff Reverses",
+      "text": "Akcie Western Digital vzrostly o cca 7-8 % (Seagate +5,9 %, Micron a SanDisk +6 %) po zprávách, že Čína zvažuje uvolnit dovozní omezení na AI čipy Nvidia H200 pro firmy jako Alibaba a ByteDance. Zpráva zvrátila předchozí propad vyvolaný výsledky Samsungu. Pozitivní sektorový impuls pro poptávku po AI úložištích.",
+      "date": "2026-07-09",
+      "done": false,
+      "created": "2026-07-10",
+      "source_url": "https://247wallst.com/investing/2026/07/09/western-digital-and-seagate-surge-7-micron-and-sandisk-climb-6-as-memory-selloff-reverses/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-07-10_other_b9e2",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SK Hynix Lists on Nasdaq Today at $149: What to Expect",
+      "text": "SK Hynix dnes zahájila obchodování ADR na Nasdaq pod tickerem SKHYV za 149 USD/ks, čímž získá rekordních 26,5 mld. USD - největší americký IPO zahraniční firmy v historii. Poptávka převýšila nabídku asi 7x. Od pondělí přejde obchodování na řádný ticker SKHY.",
+      "date": "2026-07-10",
+      "done": false,
+      "created": "2026-07-10",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-lists-nasdaq-today-005842718.html",
+      "auto_generated": true
+    },
+    {
       "id": "WDC_2026-06-25_other_e2d1",
       "ticker": "WDC",
       "type": "other",
@@ -787,6 +815,20 @@
       "done": false,
       "created": "2026-07-08",
       "source_url": "https://www.bloomberg.com/news/articles/2026-07-08/us-stock-futures-slide-after-trump-says-iran-ceasefire-is-over",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-09_macro_3c70",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Trump says Iran called to make a deal after U.S. strikes; adds it's unclear if war is back on",
+      "text": "Trump uvedl, že Írán volal s nabídkou dohody po amerických úderech u Hormuzu, výsledek je ale nejistý. Akcie v USA přesto posílily (S&P 500 +0,7 %, Nasdaq +1,2 %), ropa Brent klesla o 2,2 % na 76,30 USD a výnos 10letých dluhopisů na 4,579 %. Snižuje to inflační rizika a tlak na Fed.",
+      "date": "2026-07-09",
+      "done": false,
+      "created": "2026-07-10",
+      "source_url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
       "auto_generated": true
     },
     {
