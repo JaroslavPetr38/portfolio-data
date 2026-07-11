@@ -90,7 +90,7 @@
   {
     "id": "sem_7",
     "ticker": "WDC",
-    "type": "todo",
+    "type": "other",
     "priority": "medium",
     "sentiment": "neutral",
     "title": "WD - Earnings",
@@ -99,7 +99,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-06-12",
-    "updated": "2026-06-17"
+    "updated": "2026-07-10"
   },
   {
     "id": "mqgrx13u3xv5",
@@ -2724,5 +2724,33 @@
     "created": "2026-07-10",
     "source_url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/sealsq-and-quobly-sign-5-million-commercial-agreement-to-integrate-post-quantum-security-into-next-generation-silicon-quantum-computing-platforms/2382323",
     "auto_generated": true
+  },
+  {
+    "id": "CLNN_2026-07-10_note_1vvt",
+    "ticker": "CLNN",
+    "type": "note",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Blízké katalyzátory",
+    "text": "Clene Inc. (CLNN) — ALS program CNM-Au8\nBlízké katalyzátory:\n\nType C schůzka s FDA proběhla úspěšně (Q1 2026) — FDA potvrdila, že data o NfL biomarkeru mohou podpořit podání NDA v rámci akcelerované schvalovací cesty\nNDA podání posunuto na Q3 2026 (původně plánováno na Q2, teď oficiálně Q3 podle Q1 výsledků z 14.5.2026)\nPo přijetí NDA by mohlo následovat PDUFA datum v H2 2026 — potenciální komerční launch 2027\nConfirmatory Phase 3 (RESTORE-ALS) — dosing plánován na Q1 2027\nCash runway: do Q4 2026, potenciálně do 2027 díky uplatnění warrantů z lednové emise ($28M, tranše vázané na regulatorní milníky)\nVedlejší programy: MS (Phase 3 design finalizován s FDA feedbackem) a Parkinson",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-07-10",
+    "updated": "2026-07-10"
+  },
+  {
+    "id": "BLRX_2026-07-10_note_qd1g",
+    "ticker": "BLRX",
+    "type": "note",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Dva hlavní programy:",
+    "text": "BioLineRx (BLRX) — onkologie\nDva hlavní programy:\n\nGLIX1 (glioblastom) — Phase 1/2a spuštěna Q1 2026, první pacient dávkován v březnu (NYU Langone). Data z Phase 1 části očekávána H1 2027, průběžné update H2 2026. Adresovatelný trh >$3,7 mld. (US+EU)\nMotixafortide v pankreatickém karcinomu (CheMo4METPANC, Phase 2b s Columbia University a Regeneronem) — nábor běží dobře; předběžná interim/futility analýza očekávána ještě letos (2026) po dosažení 40 % PFS eventů — to je asi nejbližší tvrdý katalyzátor\n\n\nAPHEXDA (schválený produkt pro mnohočetný myelom) komercializuje Ayrmid — tržby rostou (Q1 2026: $2,5M, +79 % y/y), BLRX z toho dostává royalty\nCash runway do 2027",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-07-10",
+    "updated": "2026-07-10"
   }
 ]
