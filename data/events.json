@@ -2671,17 +2671,17 @@
   },
   {
     "id": "MACRO_2026-07-09_macro_3c70",
-    "ticker": null,
+    "ticker": "",
     "type": "macro",
     "priority": "high",
     "sentiment": "positive",
     "title": "Trump says Iran called to make a deal after U.S. strikes; adds it's unclear if war is back on",
     "text": "Trump uvedl, že Írán volal s nabídkou dohody po amerických úderech u Hormuzu, výsledek je ale nejistý. Akcie v USA přesto posílily (S&P 500 +0,7 %, Nasdaq +1,2 %), ropa Brent klesla o 2,2 % na 76,30 USD a výnos 10letých dluhopisů na 4,579 %. Snižuje to inflační rizika a tlak na Fed.",
     "date": "2026-07-09",
+    "source_url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
     "done": false,
     "created": "2026-07-10",
-    "source_url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
-    "auto_generated": true
+    "updated": "2026-07-11"
   },
   {
     "id": "AT1_2026-07-10_note_k7th",
