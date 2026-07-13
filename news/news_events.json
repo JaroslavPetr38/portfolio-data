@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-10T16:03:10Z",
+  "generated": "2026-07-13T05:03:27Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 2,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -496,6 +496,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-12_analysis_8fac",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "TD Cowen reiterates Micron stock Buy rating on supply constraints",
+      "text": "Analytická firma TD Cowen potvrdila 12. července rating Buy pro Micron a cílovou cenu 1600 USD, což znamená potenciál růstu asi 63 %. Analytik Krish Sankar zdůvodnil optimismus přetrvávajícím nedostatkem pamětí, protože dodavatelské smlouvy již pokrývají polovinu tržeb firmy.",
+      "date": "2026-07-12",
+      "done": false,
+      "created": "2026-07-13",
+      "source_url": "https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-micron-stock-buy-rating-on-supply-constraints-93CH-4786366",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -776,6 +790,20 @@
       "auto_generated": true
     },
     {
+      "id": "000660_2026-07-13_other_9de4",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "SK Hynix Shares Drop in Seoul After Much-Hyped US Trading Debut",
+      "text": "Akcie SK Hynix v Soulu klesly až o 11 % na nejnižší úroveň za více než měsíc, poté co ADR na Nasdaqu v pátek vzrostly o 13 % po rekordní nabídce 26,5 miliardy USD. Pokles odráží výběr zisků po historickém listingu. Investoři by měli počítat se zvýšenou volatilitou akcií po duálním listingu.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-13",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-07-13/sk-hynix-shares-drop-in-seoul-after-much-hyped-us-trading-debut",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_383a",
       "ticker": null,
       "type": "macro",
@@ -857,6 +885,20 @@
       "done": false,
       "created": "2026-07-10",
       "source_url": "https://www.cnbc.com/2026/07/09/trump-iran-war-strikes-hormuz.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-13_macro_76f9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Shares slip in Asia as oil jumps on Gulf attacks",
+      "text": "Írán po dalších úderech USA na své cíle oznámil uzavření Hormuzského průlivu, klíčové tepny pro světové dodávky ropy. Brent zdražil o 3,3 % na 78,50 USD/barel, WTI o 3,4 % na 73,83 USD. Trhy zvýšily sázky na zpřísnění Fedu, výnos 10letých dluhopisů USA vzrostl na 4,59 %, akcie v Asii oslabily.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-13",
+      "source_url": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-jumps-002452563.html",
       "auto_generated": true
     },
     {
