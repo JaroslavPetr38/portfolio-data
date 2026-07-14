@@ -2892,5 +2892,33 @@
     "created": "2026-07-14",
     "source_url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
     "auto_generated": true
+  },
+  {
+    "id": "LOVE_2026-07-14_analysis_b9h4",
+    "ticker": "LOVE",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Cannara Biotech Inc. (TSX:LOVE / OTCQX:LOVFF) Vertikálně integrovaný kanadský (québécký) producent kanabisu — na rozdíl od Avicanny jde o většího, ziskového hráče.",
+    "text": "Základní údaje\n\nKurz: ~1,66–1,83 CAD | Tržní kap.: ~174–185 mil. CAD\n52týdenní rozpětí: 1,06/1,24–2,07 CAD\nUplistoval z TSXV na hlavní TSX 2.3.2026\n\n⚡ Klíčový nejbližší katalyzátor: Q3 FY26 výsledky přijdou už za 2 dny — 15.7.2026, 8:00 ET (webcast v 11:00 ET)\nFundament — smíšený obrázek\n\nFY2025 (celý rok): tržby 107,2 mil. CAD (+31 % r/r), čistý zisk 13,1 mil. CAD (+103 %), EPS 0,14 CAD\nQ1 FY26 (leden): rekordní tržby 30,1 mil. CAD (+20 % r/r), marže 45 %, EBITDA 8,8 mil. CAD — silný kvartál\nQ2 FY26 (duben): slabší — tržby 27,2 mil. CAD (+jen 2,7 % r/r), minuly odhady analytiků o 14 %, EPS minulo o 50 %, čistý zisk klesl o 50 % na 1,66 mil. CAD, marže se srazila na 43 % GM / 6,1 % čistá kvůli vyšším nákladům\nZdravá bilance: working capital ~53,5 mil. CAD, cash ~22,8 mil. CAD (pro forma), dluh s průměrným úrokem 5,3 %\n\nNedávné strategické kroky\n\n6.5.2026: dokončena akvizice Medican Organic\nNicholas Sosiak (dosavadní CFO) povýšen na COO, firma hledá nového CFO — manažerská tranzice probíhá, stojí za sledování\n2.7.2026: získána exkluzivní kanadská práva na technologii Blue River Ampersand (live rosin infuze) — nový produktový tahoun\n#1 tržní podíl v Québecu, ~4,4 % národní podíl\nDvě mega-farmy v Québecu (>1,6 mil. sq ft, potenciál 100 000 kg/rok), cíl kultivace splněn rok předem díky 26% zlepšení výnosu\n\nAnalytický pohled — rozporuplný\n\nTD Securities: Buy, cíl 3,25 CAD, označili ji jako \"top pure-play recreational Canadian LP pick\"\nKonsensus (4 analytici dle StockAnalysis): Strong Buy, průměrný cíl 3,19 CAD (+~90 % upside)\nAle technické ukazatele (TipRanks) v červnu signalizovaly převážně \"Sell\" (cena pod klouzavými průměry)\nJeden agregátor (Bitget) ukazuje konsensus \"Sell\" s cílem 3,12 CAD — nekonzistence mezi zdroji, ber s rezervou\n\nShrnutí\nSolidnější a zavedenější firma než Avicanna — skutečně zisková, rostoucí, s jasnou tržní pozicí v Québecu. Ale Q2 ukázal, že marže není lineárně rostoucí a firma je citlivá na náklady. Probíhá výměna CFO. Analytický konsensus je silně bullish (cíle 90%+ nad kurzem), ale krátkodobé technické signály byly slabší. Nejbližší a nejdůležitější událost: výsledky za Q3 FY26 už 15.7.2026 — ukáže, jestli se Q2 slabost opakuje, nebo byla jednorázová.",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-07-14",
+    "updated": "2026-07-14"
+  },
+  {
+    "id": "AMD_2026-07-13_analysis_a48e",
+    "ticker": "AMD",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "AMD Stock Tests $520 Support as AI Server Optimism Fails to Stop Chip Selloff",
+    "text": "AMD akcie klesly o 4,2 % na 534,39 USD navzdory zvýšení cílové ceny TD Cowen z 600 na 675 USD (rating Buy). Pokles je součástí výprodeje v čipovém sektoru kvůli obavám z nadměrné kapacity pamětí, akcie testují podporu na 520 USD před výsledky 4. srpna.",
+    "date": "2026-07-13",
+    "done": false,
+    "created": "2026-07-14",
+    "source_url": "https://www.fxleaders.com/news/2026/07/14/amd-stock-tests-520-support-as-ai-server-optimism-fails-to-stop-chip-selloff/",
+    "auto_generated": true
   }
 ]
