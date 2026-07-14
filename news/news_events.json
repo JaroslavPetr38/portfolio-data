@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-14T05:09:15Z",
+  "generated": "2026-07-14T09:02:57Z",
   "source": "claude_routine",
-  "run_type": "full",
-  "ticker_count": 36,
-  "event_count": 5,
+  "run_type": "short",
+  "ticker_count": 30,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -521,6 +521,20 @@
       "done": false,
       "created": "2026-07-14",
       "source_url": "https://www.fxleaders.com/news/2026/07/13/mu-stock-tests-the-900-zone-again-as-rising-supply-and-margin-risks-weigh-on-micron/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-13_analysis_a48e",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD Stock Tests $520 Support as AI Server Optimism Fails to Stop Chip Selloff",
+      "text": "AMD akcie klesly o 4,2 % na 534,39 USD navzdory zvýšení cílové ceny TD Cowen z 600 na 675 USD (rating Buy). Pokles je součástí výprodeje v čipovém sektoru kvůli obavám z nadměrné kapacity pamětí, akcie testují podporu na 520 USD před výsledky 4. srpna.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://www.fxleaders.com/news/2026/07/14/amd-stock-tests-520-support-as-ai-server-optimism-fails-to-stop-chip-selloff/",
       "auto_generated": true
     },
     {
