@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-13T16:08:50Z",
+  "generated": "2026-07-14T05:09:15Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 0,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -510,6 +510,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-13_other_5b88",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "MU Stock Tests the $900 Zone Again as Rising Supply and Margin Risks Weigh on Micron",
+      "text": "Akcie Micron (MU) klesly v pondělí 13. července 2026 o zhruba 5,5-5,8 % a otestovaly podporu na 900 USD kvůli výprodeji v sektoru polovodičů. Důvodem jsou obavy o udržitelnost cen pamětí, rostoucí nabídka a insider prodeje včetně CEO. Akcie ztratily přes 22 % od červnových maxim.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://www.fxleaders.com/news/2026/07/13/mu-stock-tests-the-900-zone-again-as-rising-supply-and-margin-risks-weigh-on-micron/",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -804,6 +818,34 @@
       "auto_generated": true
     },
     {
+      "id": "WDC_2026-07-13_other_f9a0",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Western Digital Shares Fall as Global Chip Selloff Hits Memory Sector",
+      "text": "Akcie Western Digital 13. července klesly o 4,6-6 % kvůli výprodeji paměťových čipů po propadu SK Hynix o 15 % po jejím nasdaqském debutu. Jde o sentiment napříč sektorem, ne o problém firmy. Krátkodobá volatilita bez změny fundamentů.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-shares-fall-global-122257559.html",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-07-13_other_6a90",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Cameco Falls as Investors Weigh Mine Disruption and Softer Uranium Sentiment",
+      "text": "Akcie Cameco 13. července klesly o 4,6-6,6 % kvůli obavám z přerušení těžby v dole Cigar Lake (porucha úpravny Orano McClean Lake) a slabšímu sentimentu v uranu. Firma dříve uvedla, že to neovlivní roční výhled produkce. BofA nedávno snížil cílovou cenu na 140 USD.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://www.quiverquant.com/news/Cameco+Falls+as+Investors+Weigh+Mine+Disruption+and+Softer+Uranium+Sentiment",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_383a",
       "ticker": null,
       "type": "macro",
@@ -899,6 +941,34 @@
       "done": false,
       "created": "2026-07-13",
       "source_url": "https://finance.yahoo.com/markets/articles/shares-slip-asia-oil-jumps-002452563.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-13_macro_b994",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "A July rate hike from the Fed? The odds are rising",
+      "text": "Guvernér Fedu Christopher Waller varoval, že přetrvávající vysoká jádrová inflace může vyžadovat zvýšení sazeb už v červenci. Pravděpodobnost červencového zvýšení dle CME FedWatch vzrostla z 34 % na 46,5 %, dolarový index posílil o 0,32 % na 101,28.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-13_macro_20c2",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade",
+      "text": "Trump oznámil obnovení blokády íránských přístavů a 20% poplatek za veškerý náklad procházející Hormuzským průlivem od úterních 16:00 EST. Ceny ropy vzrostly o více než 5 % nad 75 USD za barel, akcie po zprávě oslabily.",
+      "date": "2026-07-13",
+      "done": false,
+      "created": "2026-07-14",
+      "source_url": "https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html",
       "auto_generated": true
     },
     {
