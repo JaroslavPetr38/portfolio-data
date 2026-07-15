@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T09:08:24Z",
+  "generated": "2026-07-15T16:03:36Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1165,6 +1165,62 @@
       "done": false,
       "created": "2026-07-15",
       "source_url": "https://www.prnewswire.com/news-releases/decathlon-reaches-700-stores-equipped-with-vusion-solutions-302825708.html",
+      "auto_generated": true
+    },
+    {
+      "id": "LOVE_2026-07-15_earnings_e714",
+      "ticker": "LOVE",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Cannara Reports Record Q3 Fiscal 2026 Revenues and Continued Profitability",
+      "text": "Cannara Biotech oznámila rekordní tržby za Q3 FY2026: čisté tržby 31,8 mil. USD, hrubé tržby z konopí 44,1 mil. USD (+16 % r/r), hrubý zisk 13,4 mil. USD, čistý zisk 4,8 mil. USD. Jde o 21. čtvrtletí v řadě s kladnou upravenou EBITDA. Pozitivní signál pro držitele LOVE.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.rttnews.com/3667275/cannara-posts-surge-in-q3-revenue-continues-profitable-growth-driven-by-distribution-expansion.aspx",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-07-15_analysis_b364",
+      "ticker": "VU",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Vusion stock tumbles after AlphaValue initiates sell rating",
+      "text": "AlphaValue zahájila pokrytí akcií Vusion doporučením Prodat s cílovou cenou 71,20 EUR kvůli vysoké závislosti na Walmartu (přes 70 % tržeb 2025, smlouva končí 2026) a pochybnostem o marži VAS softwaru. Akcie 15. 7. propadly o cca 7-11 %. Negativní signál pro držitele VU.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.investing.com/news/stock-market-news/vusion-stock-tumbles-after-alphavalue-initiates-sell-rating-93CH-4792783",
+      "auto_generated": true
+    },
+    {
+      "id": "NESF_2026-07-15_analysis_1768",
+      "ticker": "NESF",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Jefferies says sale is best way forward for NextEnergy Solar Fund as shares rise 5%",
+      "text": "Po oznámení formálního prodejního procesu NESF analytik Jefferies zopakoval doporučení Prodat, ale uvedl, že prodej fondu je nejlepší cestou vpřed - referencí je nabídka Drax na Bluefield Solar. Akcie NESF 15. 7. vzrostly o 5 % na 50,13p.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.proactiveinvestors.co.uk/companies/news/1095475/jefferies-says-sale-is-best-way-forward-for-nextenergy-solar-fund-as-shares-rise-5-1095475.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-15_macro_19de",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Oil prices climb 2% as Middle East conflict escalates",
+      "text": "USA provedly nové údery na íránská vojenská zařízení kvůli ochraně lodní dopravy Hormuzským průlivem, IRGC odpovědělo útoky na cíle v Bahrajnu, Kuvajtu a Jordánsku. Ropa Brent vzrostla o 2 % na 86,44 USD, WTI o 1,8 % na 80,77 USD. Goldman varuje před Brent nad 110 USD v Q4.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-2-middle-105854482.html",
       "auto_generated": true
     }
   ]
