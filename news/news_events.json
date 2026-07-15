@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T05:09:41Z",
+  "generated": "2026-07-15T09:08:24Z",
   "source": "claude_routine",
-  "run_type": "full",
-  "ticker_count": 36,
-  "event_count": 5,
+  "run_type": "short",
+  "ticker_count": 30,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1137,6 +1137,34 @@
       "done": false,
       "created": "2026-07-15",
       "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
+      "auto_generated": true
+    },
+    {
+      "id": "NESF_2026-07-15_other_e382",
+      "ticker": "NESF",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "NextEnergy Solar Fund begins formal sale process to address persistent valuation discount",
+      "text": "NextEnergy Solar Fund zahájil formální proces prodeje celé společnosti kvůli dlouhodobé slevě akcií vůči NAV. Poradcem je Rothschild & Co, akcie po zprávě vzrostly o 4 %. Zatím nejsou žádná konkrétní jednání ani nabídky o převzetí.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://uk.finance.yahoo.com/news/nextenergy-solar-fund-begins-formal-072315428.html",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-07-15_other_bede",
+      "ticker": "VU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Decathlon Reaches 700 Stores Equipped with Vusion Solutions",
+      "text": "Decathlon dosáhl 700 prodejen vybavených řešeními Vusion (elektronické cenovky) ve 2. čtvrtletí 2026, nasazenými v 54 zemích na třech kontinentech. Decathlon se stal nejrozsáhlejším mezinárodním zákazníkem Vusion, napojeným na síť Cisco Meraki bez další infrastruktury.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.prnewswire.com/news-releases/decathlon-reaches-700-stores-equipped-with-vusion-solutions-302825708.html",
       "auto_generated": true
     }
   ]
