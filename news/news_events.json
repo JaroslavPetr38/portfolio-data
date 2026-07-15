@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-14T16:02:38Z",
+  "generated": "2026-07-15T05:09:41Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 1,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1067,6 +1067,76 @@
       "done": false,
       "created": "2026-07-09",
       "source_url": "https://abcnews.com/Business/wireStory/us-jobless-claims-dip-modestly-215000-week-layoffs-134614417",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-14_analysis_e950",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron Stock Jumps as Massive U.S. Investment Bet Draws Wall Street Praise; Citi Reaffirms Buy, $1,400 Price Target",
+      "text": "Akcie Micronu (MU) 14. 7. vzrostly o cca 5 % poté, co Citi potvrdila doporučení Koupit a stanovila cílovou cenu 1400 USD kvůli silné poptávce po DRAM pro AI. Micron také oznámil investice přes 250 mld. USD do amerických fabrik do roku 2035. Pozitivní signál pro investory po předchozím výprodeji.",
+      "date": "2026-07-14",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/citi-just-placed-micron-upside-153229305.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-14_analysis_ef92",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD Rallies 5% as Cooling Inflation Sparks a Chip Rebound; KeyBanc, BofA, TD Cowen Raise Price Targets",
+      "text": "Akcie AMD 14. 7. posílily o několik procent po nižší než očekávané jádrové inflaci v USA, což oživilo sektor čipů. KeyBanc zvýšila cílovou cenu na 725 USD (z 530), BofA i TD Cowen cíle rovněž zvýšily. Pozitivní obrat po předchozím testování podpory 520 USD.",
+      "date": "2026-07-14",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://247wallst.com/investing/2026/07/14/amd-rallies-5-intel-rises-4-as-cooling-inflation-sparks-a-chip-rebound/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-07-15_other_53d2",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "South Korean shares rally on benign US inflation, SK Hynix surges 13%",
+      "text": "Akcie SK Hynix ve středu v Soulu vyskočily o 13 % po mírnějších datech o americké inflaci a díky optimismu ohledně poptávky po AI pamětech. Analytici uvádí, že výrobci DRAM pokrývají jen 75-80 % poptávky. Jde o výrazné zotavení po prudkém propadu z minulého týdne.",
+      "date": "2026-07-15",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N43H06C:0-south-korean-shares-rally-on-benign-us-inflation-sk-hynix-surges-13/",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-07-14_other_75fa",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Cameco Resumes Cigar Lake Production, Holds 2026 Outlook",
+      "text": "Těžba uranu v dole Cigar Lake byla obnovena poté, co Orano opravilo mlýn McClean Lake, kam se ruda zpracovává. Cameco potvrdilo výhled produkce na rok 2026 v rozmezí 17,5-18 milionů liber U3O8. Minulotýdenní přerušení provozu tak nemá dopad na roční cíle.",
+      "date": "2026-07-14",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://www.stocktitan.net/news/CCJ/cigar-lake-mine-resumes-lctgme16em5u.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-14_macro_a855",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate-hike bets ease, chip stocks rally",
+      "text": "Index spotřebitelských cen (CPI) za červen 2026 vzrostl meziročně o 3,5 % (odhad 3,8 %), jádrová inflace klesla na 2,6 % z 2,9 %. Data snížila obavy z červencového zvýšení sazeb Fedu, akcie posílily (S&P 500 +0,38 %, Nasdaq +0,9 %), zejména sektor polovodičů (Micron, SK Hynix).",
+      "date": "2026-07-14",
+      "done": false,
+      "created": "2026-07-15",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
       "auto_generated": true
     }
   ]
