@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-16T09:07:29Z",
+  "generated": "2026-07-16T16:04:18Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -549,6 +549,48 @@
       "done": false,
       "created": "2026-07-14",
       "source_url": "https://www.manilatimes.net/2026/07/14/tmt-newswire/globenewswire/cannara-announces-a-long-term-international-cannabis-supply-agreement-with-curaleaf-international-limited/2384068",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-16_other_43af",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD Stock Sinks Despite Bullish Analyst Calls as TSMC Capex Concerns Rattle Chip Sector",
+      "text": "Akcie AMD dnes odepsaly přes 3,6 % kvůli obavám z udržitelnosti AI investic po výsledcích TSMC, která zvýšila letošní kapex na 60-64 mld. USD. Pokles přišel navzdory zvýšení cílových cen od UBS (700 USD) a Rosenblatt (665 USD). Investoři čekají na výsledky AMD 4.8.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://invezz.com/au/news/2026/07/16/amd-stock-sinks-again-despite-bullish-calls-what-is-spooking-investors/",
+      "auto_generated": true
+    },
+    {
+      "id": "AVCN_2026-07-16_other_cf1c",
+      "ticker": "AVCN",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Avicanna Introduces QUIX™ Rapid-Onset Medical Cannabis Portfolio",
+      "text": "Avicanna spustila portfolio QUIX™ s technologií rychlého nástupu účinku - přes 20 SKU (kapsle, žvýkačky, kapky) s THC/CBG/CBN. První produkty budou v kanadských zdravotnických kanálech od Q3 2026, plánuje se i mezinárodní expanze přes export a licence. Pozitivní pro budoucí tržby.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/avicanna-introduces-quix-rapid-onset-medical-cannabis-portfolio/2385812",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-16_other_eb90",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron Shares Slide as Semiconductor Selloff Weighs on Memory Stocks",
+      "text": "Akcie Micronu klesly přes 4 % v rámci propadu čipového sektoru (SanDisk -8 %, SK Hynix -8 %, Western Digital -5 %) po výsledcích TSMC. TSMC navýšila výhled capexu na 60-64 mld. USD, což vyvolalo obavy z tempa AI investic i přes rekordní zisk TSMC.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-shares-slide-semiconductor-selloff-122643510.html",
       "auto_generated": true
     },
     {
@@ -1263,6 +1305,34 @@
       "done": false,
       "created": "2026-07-16",
       "source_url": "https://www.aa.com.tr/en/middle-east/iran-activates-air-defenses-across-tehran-as-explosions-reported-near-capital/3999710",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-16_macro_acce",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Retail sales last month rose less than expected",
+      "text": "Maloobchodní tržby v USA vzrostly v červnu jen o 0,2 % m/m, méně než čekaných 0,3 % a výrazně pod květnovým růstem 1 %. Spotřebitelé omezují výdaje kvůli nejistotě a odeznívajícím daňovým vratkám. Slabší data posilují obavy z ekonomického zpomalení.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://us.cnn.com/2026/07/16/economy/us-retail-sales-june",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-16_macro_ea0a",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "US July Philly Fed business index +41.4 vs +13.0 expected",
+      "text": "Index Fedu z Philadelphie v červenci vyskočil na 41,4 bodu (odhad 13,0) z červnových 10,3 - nejrychlejší růst aktivity od listopadu 2021. Zároveň zrychlil růst cen vstupů i výstupů, což živí obavy z inflace a podporuje jestřábí naladění Fedu.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://investinglive.com/news/us-july-philly-fed-business-index-41-4-vs-13-0-expected",
       "auto_generated": true
     }
   ]
