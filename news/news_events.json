@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-15T16:03:36Z",
+  "generated": "2026-07-16T05:11:13Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 4,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1221,6 +1221,48 @@
       "done": false,
       "created": "2026-07-15",
       "source_url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-2-middle-105854482.html",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-07-16_other_7577",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "SK Hynix shares plunge 11% as Asia sees tech rout, tracking U.S. chip losses",
+      "text": "Akcie SK Hynix se ve čtvrtek v Soulu propadly o více než 11 %, když se výprodej amerických čipových akcií přelil do Asie. Pokles smazal část předchozího růstu o 8 % z pondělí. Důvodem jsou obavy z přehřátí AI investičního cyklu; akcie zůstává extrémně volatilní po nedávném NASDAQ IPO.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://www.cnbc.com/2026/07/16/sk-hynix-falls-amid-asia-tech-rout-tracking-us-semiconductor-losses.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-07-16_other_1718",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Western Digital Stock Tumbles as CXMT Targets $10 Billion Shanghai IPO",
+      "text": "Čínský výrobce pamětí CXMT dnes zahájil úpis akcií pro IPO na šanghajské burze v objemu až 9,8 mld. USD, největší čínské IPO od roku 2010. Akcie Western Digital jsou pod tlakem kvůli obavám z nové konkurence v segmentu NAND/pamětí. Zvyšuje se dlouhodobé konkurenční riziko pro WDC.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/07/60483340/western-digital-stock-tumbles-as-cxmt-targets-10-billion-shanghai-ipo",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-16_macro_256c",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Iran activates air defenses across Tehran as explosions reported near capital",
+      "text": "Írán nad ránem ve čtvrtek aktivoval protivzdušnou obranu v Teheránu a okolí, projektily zasáhly letiště Semnán a výbuchy byly hlášeny u Parčínu a Pakdaštu; oběti nehlásí. Eskalace kolem Hormuzského průlivu udržuje rizikovou prémii v ceně ropy a napětí na trzích.",
+      "date": "2026-07-16",
+      "done": false,
+      "created": "2026-07-16",
+      "source_url": "https://www.aa.com.tr/en/middle-east/iran-activates-air-defenses-across-tehran-as-explosions-reported-near-capital/3999710",
       "auto_generated": true
     }
   ]
