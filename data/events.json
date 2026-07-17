@@ -3270,5 +3270,47 @@
     "created": "2026-07-17",
     "source_url": "https://www.marketbeat.com/instant-alerts/cameco-nyseccj-shares-down-38-whats-next-2026-07-16/",
     "auto_generated": true
+  },
+  {
+    "id": "NESF_2026-07-17_analysis_62ak",
+    "ticker": "NESF",
+    "type": "analysis",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "NextEnergy Solar Fund (LSE:NESF) — Analýza Aktualizováno: 17.7.2026 | Kurz: ~46,42-50,23 GBp | NAV: £0,761/akcii",
+    "text": "KLÍČOVÁ UDÁLOST: FORMÁLNÍ PRODEJ CELÉ FIRMY\n11.3.2026 oznámeny výsledky strategického přezkumu, kolem 13.-14.7.2026 spuštěn formální sale proces — fond hledá kupce pro celou firmu. Důvod: přetrvávající diskont mezi cenou akcie a NAV poškozuje schopnost získávat nový kapitál na růst. Akcie na zprávu vyskočila +4 %.\nZÁKLADNÍ ČÍSLA\n\nKurz: ~46,42-50,23 GBp (dle zdroje/dne)\nNAV: £0,761/akcii → P/B ratio jen 0,52 → diskont k NAV ~38-39 %\n52týdenní rozpětí: 43-78,6 GBp — akcie blízko dna\nZa posledních 12 měsíců: -35,89 %, podvýkon proti FTSE All Share o -46 %\nKonsensus analytiků: Sell (Jefferies snížil na \"underperform\" z \"hold\")\n\nVAROVÁNÍ — NAV KLESÁ, NEROSTE\nTest \"roste NAV díky novým akvizicím, nebo fond stagnuje?\" vychází negativně — NAV aktivně klesl o 20 % kvůli nižším prognózám cen elektřiny a vyšším diskontním sazbám. Není to podhodnocený rostoucí fond, ale fond, kde klesá i hodnota podkladových aktiv, ne jen tržní cena akcie zaostává za NAV.\nDIVIDENDA — DOCHÁZÍ KE ŠKRTU\n\nTrailing yield: 18 % (na loňské výplatě £0,08 celkem)\nNová FY26/27 guidance: jen £0,045-0,051/akcii — reálný pokles o ~35-45 % oproti předchozí úrovni\nNová \"75% payout politika\" — vědomě konzervativnější výplatní poměr\n\nCO MLUVÍ PRO\n\n6-pilířový transformační plán s cílem dlouhodobých výnosů 9-11 %\nZkušený tým (NextEnergy Capital, 18 let historie, 27 předchozích realizací, průměrný MOIC 1,8x, IRR 30 %)\nSale proces jako potenciální katalyzátor — kupec ochotný platit blíž NAV by mohl uzavřít diskont rychle a jednorázově\nRostoucí expozice na energy storage (cíl ~30 % GAV) jako diverzifikace\n\nCO MLUVÍ PROTI\n\nZvýšená páka (gearing) v prostředí rostoucích diskontních sazeb — dvojitý tlak\nNAV eroze je fundamentální, ne jen sentiment\nDividenda se reálně snižuje, ne jen cena akcie\nSell konsensus od analytiků\n\nSHRNUTÍ\nSituace se posunula z \"čekám na uzavření diskontu\" na aktivní M&A situaci s nejistým výsledkem. Sale proces je nejbližší a nejdůležitější katalyzátor — buď se najde kupec blízko NAV (pozitivní scénář), nebo proces neuspěje a fond zůstane s erodujícím NAV a sníženou dividendou (negativní scénář). Doporučeno sledovat jako binární event, ne jako pasivní pozici čekající na re-rating.",
+    "date": "",
+    "source_url": null,
+    "done": false,
+    "created": "2026-07-17",
+    "updated": "2026-07-17"
+  },
+  {
+    "id": "MU_2026-07-17_other_eb90",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Micron Shares Slide as Semiconductor Selloff Weighs on Memory Stocks",
+    "text": "Akcie Micronu klesly 17. 7. o cca 5 % na 929,50 USD v premarketu (během dne až k 806 USD) kvůli výprodeji v sektoru pamětí po propadu SK Hynix o více než 15 % po fixaci zisků z nedávného Nasdaq IPO. Obavy z rostoucí konkurence v DRAM. Krátkodobě negativní pro držitele MU.",
+    "date": "2026-07-17",
+    "done": false,
+    "created": "2026-07-17",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-shares-slide-semiconductor-selloff-122643510.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-17_other_1926",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.99% on Jul 17: A Full Analysis",
+    "text": "Akcie AMD klesly 17. 7. o téměř 5 % kvůli výprodeji napříč sektorem polovodičů po vyšších než čekaných capex plánech TSMC a obavám z udržitelnosti AI investic včetně zpráv o zpoždění modelu Gemini 3.5 Pro. P/E AMD kolem 163 nechává málo prostoru pro chybu. Krátkodobě negativní pro držitele AMD.",
+    "date": "2026-07-17",
+    "done": false,
+    "created": "2026-07-17",
+    "source_url": "https://www.tradingkey.com/news/market-movers/262038006-market-movers-amd-20260717",
+    "auto_generated": true
   }
 ]
