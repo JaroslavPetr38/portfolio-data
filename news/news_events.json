@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-17T09:08:59Z",
+  "generated": "2026-07-17T16:03:17Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1389,6 +1389,34 @@
       "done": false,
       "created": "2026-07-17",
       "source_url": "https://www.marketbeat.com/instant-alerts/cameco-nyseccj-shares-down-38-whats-next-2026-07-16/",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-17_other_eb90",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron Shares Slide as Semiconductor Selloff Weighs on Memory Stocks",
+      "text": "Akcie Micronu klesly 17. 7. o cca 5 % na 929,50 USD v premarketu (během dne až k 806 USD) kvůli výprodeji v sektoru pamětí po propadu SK Hynix o více než 15 % po fixaci zisků z nedávného Nasdaq IPO. Obavy z rostoucí konkurence v DRAM. Krátkodobě negativní pro držitele MU.",
+      "date": "2026-07-17",
+      "done": false,
+      "created": "2026-07-17",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-shares-slide-semiconductor-selloff-122643510.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-17_other_1926",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Advanced Micro Devices Inc Stock (AMD) Moved Down by 4.99% on Jul 17: A Full Analysis",
+      "text": "Akcie AMD klesly 17. 7. o téměř 5 % kvůli výprodeji napříč sektorem polovodičů po vyšších než čekaných capex plánech TSMC a obavám z udržitelnosti AI investic včetně zpráv o zpoždění modelu Gemini 3.5 Pro. P/E AMD kolem 163 nechává málo prostoru pro chybu. Krátkodobě negativní pro držitele AMD.",
+      "date": "2026-07-17",
+      "done": false,
+      "created": "2026-07-17",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262038006-market-movers-amd-20260717",
       "auto_generated": true
     }
   ]
