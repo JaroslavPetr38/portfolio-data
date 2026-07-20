@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-17T16:03:17Z",
+  "generated": "2026-07-20T05:03:21Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 2,
+  "run_type": "full",
+  "ticker_count": 36,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1417,6 +1417,62 @@
       "done": false,
       "created": "2026-07-17",
       "source_url": "https://www.tradingkey.com/news/market-movers/262038006-market-movers-amd-20260717",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-07-19_other_2049",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Institutional demand for CXMT's $8.6 billion Shanghai IPO dented by chip stock selloff",
+      "text": "Čínský výrobce pamětí CXMT dokončil úpis pro IPO na šanghajské burze STAR Market (8,6 mld. USD), poptávka byla 570x převýšena, ale slabší než u nedávných tech IPO. STAR Market je cca 25 % pod červencovým vrcholem. Posiluje obavy z nové čínské konkurence pro SK Hynix v DRAM.",
+      "date": "2026-07-19",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.investing.com/news/stock-market-news/institutional-demand-for-cxmts-86-billion-shanghai-ipo-dented-by-chip-stock-selloff-4799712",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-07-19_other_2049",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Institutional demand for CXMT's $8.6 billion Shanghai IPO dented by chip stock selloff",
+      "text": "Čínský výrobce pamětí CXMT dokončil úpis pro IPO na šanghajské burze (8,6 mld. USD), poptávka byla 570x převýšena i přes výprodej čipového sektoru. Western Digital byl spolu s Micronem a SanDiskem pod tlakem kvůli obavám z nové čínské konkurence v DRAM/NAND.",
+      "date": "2026-07-19",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.investing.com/news/stock-market-news/institutional-demand-for-cxmts-86-billion-shanghai-ipo-dented-by-chip-stock-selloff-4799712",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-20_macro_bea9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Brent crude breaches $90/bbl as US-Iran conflict escalates",
+      "text": "Brent vzrostl o 2,8-3,3 % nad 90 USD/barel (max 91,42 USD), WTI nad 84 USD, po víkendové eskalaci konfliktu USA-Írán včetně úderů na ropné zařízení v Kuvajtu a útoků v Hormuzském průlivu. Analytici varují před cílem 95-100 USD u Brentu, roste riziko vyšší inflace.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-18_macro_9ed7",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "CME FedWatch: July and September Rate Hike Probabilities",
+      "text": "Dle CME FedWatch trh k 18. 7. přisuzuje 86,7 % pravděpodobnost, že Fed sazby na zasedání 29. 7. ponechá beze změny (jen 13,3 % šance na zvýšení) - výrazný pokles ze 46,5 % šance na zvýšení v polovině července, i přes rostoucí inflační rizika z eskalace cen ropy.",
+      "date": "2026-07-18",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
       "auto_generated": true
     }
   ]
