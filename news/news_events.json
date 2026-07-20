@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-20T09:06:46Z",
+  "generated": "2026-07-20T16:09:01Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1473,6 +1473,76 @@
       "done": false,
       "created": "2026-07-20",
       "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-20_other_87fe",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD launches Helios, its first rack AI system to rival Nvidia, adding Microsoft as newest buyer",
+      "text": "Microsoft nasadí nový AMD systém Helios (GPU MI455X, CPU EPYC Venice) ve velkém měřítku v Azure. Akcie AMD posílily o cca 5 % na 511 USD. AMD se tak staví jako první vážný konkurent Nvidia v rack-scale AI systémech vedle OpenAI a Oracle.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.cnbc.com/2026/07/20/amd-helios-microsoft-ai-nvidia.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-20_analysis_d506",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD Stock Rallies As Wall Street Chases AI Upside — Rosenblatt Names It Top Pick",
+      "text": "Rosenblatt zvýšil cílovou cenu AMD na 665 USD z 490 USD a označil akcii za \"Top Pick\", KeyBanc má cíl 725 USD, UBS 700 USD. Důvodem je očekávaný růst tržeb EPYC serverů přes 70 % r/r a náskok čipu Venice před zpožděným Intel Diamond Rapids. AMD reportuje výsledky 4. srpna.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.tipranks.com/news/rosenblatt-raises-amd-stock-price-target-ahead-of-q2-earnings-calls-it-top-pick",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-20_other_6e2f",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "AMD, Micron, SK Hynix lead chip stock recovery",
+      "text": "Akcie Micronu v pondělí v premarketu vzrostly o cca 4-5 %, spolu s AMD a SK Hynix se tak paměťové čipy odrážejí po týdnu výprodejů, kdy index SOX klesl přes 9 % do medvědího teritoria. Investoři začali nakupovat zlevněné AI paměťové akcie.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-20_macro_ed27",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Live Nasdaq Composite: Market Sentiment Improves as Oil Prices Ease, Mideast Talk Hopes Rise",
+      "text": "Ropa v pondělí klesla o cca 1,2-1,9 % (Brent na 87 USD, WTI na 81 USD) poté, co Írán naznačil ochotu obnovit jednání s USA. Nasdaq-100 futures vzrostly o 1 %, S&P 500 +0,6 %. Slabší ceny ropy snižují inflační tlak a šanci na zvýšení sazeb Fedu.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://247wallst.com/investing/2026/07/20/live-nasdaq-composite-market-sentiment-improves-as-oil-prices-ease-mideast-talk-hopes-rise/",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-20_macro_29b9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Yemen's Houthis declare naval blockade on Saudi Arabia, widening threat to global oil supplies",
+      "text": "Jemenští Húsíové v pondělí vyhlásili námořní blokádu Saúdské Arábie jako odpověď na obležení Jemenu, čímž rozšiřují hrozbu pro globální dodávky ropy nad rámec Hormuzského průlivu. Krok otevírá nové riziko eskalace konfliktu USA-Írán a zvyšuje geopolitickou rizikovou prémii v cenách ropy.",
+      "date": "2026-07-20",
+      "done": false,
+      "created": "2026-07-20",
+      "source_url": "https://www.nbcnews.com/world/middle-east/yemen-houthis-maritime-embargo-saudi-arabia-oil-rcna588345",
       "auto_generated": true
     }
   ]
