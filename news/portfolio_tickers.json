@@ -1,5 +1,5 @@
 {
-  "exported": "2026-06-30T17:38:15.278Z",
+  "exported": "2026-07-20T13:42:17.430Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -331,6 +331,46 @@
       "currency": "GBP",
       "yahoo": "UKW.L",
       "priority": "HIGH",
+      "sector": null,
+      "category": "Akcie"
+    },
+    {
+      "ticker": "CGTX",
+      "name": "Cognition Therapeutics",
+      "exchange": "—",
+      "currency": "USD",
+      "yahoo": "CGTX",
+      "priority": "LOW",
+      "sector": "Pharma",
+      "category": "Akcie"
+    },
+    {
+      "ticker": "PRLD",
+      "name": "Prelude Therapeutics",
+      "exchange": "—",
+      "currency": "USD",
+      "yahoo": "PRLD",
+      "priority": "LOW",
+      "sector": "Pharma",
+      "category": "Akcie"
+    },
+    {
+      "ticker": "IBRX",
+      "name": "ImmunityBio",
+      "exchange": "—",
+      "currency": "USD",
+      "yahoo": "IBRX",
+      "priority": "LOW",
+      "sector": "Pharma",
+      "category": "Akcie"
+    },
+    {
+      "ticker": "AIBZ",
+      "name": "Bitzero Holdings Inc.",
+      "exchange": "—",
+      "currency": "USD",
+      "yahoo": "AIBZ",
+      "priority": "MED",
       "sector": null,
       "category": "Akcie"
     }
