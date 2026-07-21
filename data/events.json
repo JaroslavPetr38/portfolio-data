@@ -83,7 +83,7 @@
     "title": "SDCL AGM — odhlasováno ukončení trustu",
     "text": "AGM 2026 — hlasování o pokračování trustu. \nAkcionáři na dnešním AGM odhlasovali nepokračování SDCL Efficiency Income Trust. Spustí se proces wind-down nebo prodeje aktiv. Sledovat timeline likvidace a výši výnosů pro akcionáře vs. aktuální NAV discount. Při wind-down typicky aktiva prodána a výnosy rozděleny — klíčové je za jakou cenu vs. NAV. NAV discount se po takovém hlasování obvykle zúží.",
     "date": "2026-06-16",
-    "done": true,
+    "done": false,
     "created": "2026-06-12",
     "updated": "2026-06-16"
   },
@@ -1786,11 +1786,10 @@
     "title": "SDCL Efficiency Income Trust Notice of Results / Annual Results for year ended 31 March 2026",
     "text": "SDCL Efficiency Income Trust zveřejnil 25. 6. výsledky za rok do 31. 3. 2026: NAV/akcii klesl o 14 %, ztráta před zdaněním 87,4 mil. GBP. Fond obchoduje s diskontem cca 48 % k NAV, pokračuje v řízeném ukončení činnosti a prodeji portfolia, dividenda zůstává zastavena. Negativní signál pro držitele.",
     "date": "2026-06-25",
+    "source_url": "https://www.investing.com/news/stock-market-news/sdcl-energy-efficiency-income-trust-nav-drops-14-for-fiscal-year-93CH-4759796",
     "done": false,
     "created": "2026-06-25",
-    "source_url": "https://www.investing.com/news/stock-market-news/sdcl-energy-efficiency-income-trust-nav-drops-14-for-fiscal-year-93CH-4759796",
-    "auto_generated": true,
-    "updated": "2026-06-29"
+    "updated": "2026-07-21"
   },
   {
     "id": "MU_2026-06-25_analysis_92bc",
@@ -3479,6 +3478,34 @@
     "done": false,
     "created": "2026-07-21",
     "source_url": "https://www.businesswire.com/news/home/20260720180204/en/Organigram-Provides-Business-Update-Highlighting-Initial-Sanity-Performance-and-Canadian-Market-Share",
+    "auto_generated": true
+  },
+  {
+    "id": "MU_2026-07-21_other_132e",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates",
+    "text": "Akcie Micronu dnes vzrostly o zhruba 7 % v rámci oživení sektoru paměťových čipů, taženého poptávkou po HBM pamětech pro AI a lepšími výtěžnostmi výroby. Podobně posílily SanDisk (+8 %) a Western Digital (+9 %). Pozitivní signál pro portfolio.",
+    "date": "2026-07-21",
+    "done": false,
+    "created": "2026-07-21",
+    "source_url": "https://247wallst.com/investing/2026/07/21/sandisk-rises-8-western-digital-jumps-9-micron-adds-7-as-memory-rebound-accelerates/",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-21_analysis_1d11",
+    "ticker": "AMD",
+    "type": "analysis",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Why Is AMD Stock Soaring Tuesday?",
+    "text": "AMD akcie dnes posílily o více než 4 % po odhalení AI systému Helios a před akcí Advancing AI 2026 (start 22.7.). KeyBanc zvýšil cílovou cenu na 725 USD (z 530 USD) a BofA na 620 USD (z 550 USD), obě s doporučením Buy. Pozitivní signál před výsledky 4.8.",
+    "date": "2026-07-21",
+    "done": false,
+    "created": "2026-07-21",
+    "source_url": "https://www.benzinga.com/markets/tech/26/07/60571798/why-is-amd-stock-soaring-tuesday",
     "auto_generated": true
   }
 ]
