@@ -83,7 +83,7 @@
     "title": "SDCL AGM — odhlasováno ukončení trustu",
     "text": "AGM 2026 — hlasování o pokračování trustu. \nAkcionáři na dnešním AGM odhlasovali nepokračování SDCL Efficiency Income Trust. Spustí se proces wind-down nebo prodeje aktiv. Sledovat timeline likvidace a výši výnosů pro akcionáře vs. aktuální NAV discount. Při wind-down typicky aktiva prodána a výnosy rozděleny — klíčové je za jakou cenu vs. NAV. NAV discount se po takovém hlasování obvykle zúží.",
     "date": "2026-06-16",
-    "done": false,
+    "done": true,
     "created": "2026-06-12",
     "updated": "2026-06-16"
   },
@@ -212,7 +212,7 @@
     "title": "NESF: FY výsledky 22. 6. — nová kapacita 260 MW online",
     "text": "NextEnergy Solar zveřejní FY výsledky 22. 6. 2026 (webcast + retail prezentace 23. 6.). Kvartální update: GAV ke 31. 3. dosáhl £922 mil. Zprovozněny první dvě mezinárodní co-investice (+260 MW v Evropě), celková kapacita vzrostla na 979 MW.",
     "date": "2026-06-22",
-    "done": false,
+    "done": true,
     "created": "2026-06-16",
     "source_url": "https://www.londonstockexchange.com/news-article/NESF/quarterly-nav-operational-update/17620486",
     "auto_generated": true,
@@ -331,7 +331,7 @@
     "title": "AT1: AGM 24. 6. — navrhovaná dividenda €0,08/akcii",
     "text": "Aroundtown svolal AGM na 24. 6. 2026 s návrhem dividendy €0,08/akcii (podléhá schválení). Q1 2026: tržby €379,7 mil. (flat YoY), čistý zisk klesl na €100,5 mil., EPS €0,05. Buyback 1,55 mil. akcií v prvním týdnu června za průměr €2,465.",
     "date": "2026-06-24",
-    "done": false,
+    "done": true,
     "created": "2026-06-16",
     "source_url": "https://www.webdisclosure.com/press-release/aroundtown-sa-etr-aroundtown-sa-announces-publication-of-convening-notice-for-the-2026-annual-general-meeting-BXlwexQ8JYS",
     "auto_generated": true,
@@ -671,7 +671,7 @@
     "title": "AT1 Aroundtown: ex-dividenda 25. června, 0,02 EUR/akcii + pokračující buyback",
     "text": "Aroundtown SA oznámil ex-dividendový datum 25. června 2026 pro čtvrtletní dividendu 0,02 EUR na akcii. Zároveň společnost aktivně odkupuje vlastní akcie — dnes reportováno zpětné odkoupení přes 6 mil. akcií v rámci probíhajícího buyback programu.",
     "date": "2026-06-17",
-    "done": false,
+    "done": true,
     "created": "2026-06-17",
     "source_url": null,
     "auto_generated": true
@@ -797,7 +797,7 @@
     "title": "NextEnergy Solar — roční výsledky 22. června",
     "text": "NextEnergy Solar Fund zveřejní roční výsledky za FY2026 v pondělí 22. června. NAV stlačeno na 76.1p slabším slunečním svitem. Sledovat: aktualizaci dividendy a plán snižování páky (leverage).",
     "date": "2026-06-22",
-    "done": false,
+    "done": true,
     "created": "2026-06-18",
     "source_url": "https://www.londonstockexchange.com/news-article/NESF/quarterly-nav-operational-update/17620486",
     "auto_generated": true
@@ -811,7 +811,7 @@
     "title": "Aroundtown AGM — hlasování o dividendě €0.08/akcii",
     "text": "Aroundtown svolal AGM na 24. června 2026. Na pořadu je návrh dividendy €0.08/akcii za FY2025 — restart výplat po přestávce. Výsledek hlasování rozhodne o prvním dividendovém cashflow pro akcionáře po delší době.",
     "date": "2026-06-24",
-    "done": false,
+    "done": true,
     "created": "2026-06-18",
     "source_url": "https://www.webdisclosure.com/press-release/aroundtown-sa-etr-aroundtown-sa-announces-publication-of-convening-notice-for-the-2026-annual-general-meeting-BXlwexQ8JYS",
     "auto_generated": true
@@ -1267,7 +1267,7 @@
     "title": "NextEnergy Solar Fund: NAV propadl o 20 %, dividenda snížena, hlasování o pokračování fondu",
     "text": "NextEnergy Solar Fund 22.6.2026 zveřejnil výsledky za FY26: NAV na akcii klesl z 95,1p na 76,1p (-20 %), dividenda snížena z 8,4p na 4-4,6p kvůli klesajícím cenám elektřiny. Akcie se obchodují s 38% diskontem k NAV, akcionáři budou v srpnu hlasovat o pokračování fondu.",
     "date": "2026-06-22",
-    "done": false,
+    "done": true,
     "created": "2026-06-22",
     "source_url": "https://quoteddata.com/2026/06/nextenergy-solar-urges-shareholders-to-vote-for-continuation-now-fund-on-sustainable-path-after-difficult-dividend-cut/",
     "auto_generated": true
@@ -1831,7 +1831,7 @@
     "title": "Aroundtown SA goes ex-dividend today, June 25, 2026",
     "text": "Aroundtown SA má 25. 6. 2026 ex-dividend den pro dividendu za FY2025 ve výši cca 0,08 EUR/akcii, výplata proběhne 29. 6. 2026. Kdo akcie nedržel před tímto datem, nemá nárok na výplatu; cena akcie se obvykle při otevření trhu upraví zhruba o výši dividendy dolů.",
     "date": "2026-06-25",
-    "done": false,
+    "done": true,
     "created": "2026-06-25",
     "source_url": "https://www.dividendmax.com/germany/xetra/property/aroundtown-sa/dividends",
     "auto_generated": true,
@@ -2398,7 +2398,7 @@
     "title": "Aroundtown SA successfully issues €850 million bond and launches buyback tender to optimize its debt profile",
     "text": "Aroundtown vydala nový 5letý senior dluhopis v objemu 850 mil. EUR s kupónem 3,625 %, emise byla výrazně předepsána. Zároveň spustila tender na odkup starších dluhopisů (2027, 2029) v objemu 1,5 mld. EUR, nabídka končí 15.7.2026. Krok snižuje úrokové náklady a prodlužuje splatnost dluhu.",
     "date": "2026-07-07",
-    "done": false,
+    "done": true,
     "created": "2026-07-08",
     "source_url": "https://www.eqs-news.com/news/corporate/aroundtown-sa-successfully-issues-e850-million-bond-and-launches-buyback-tender-to-optimize-its-debt-profile/bb91c744-49b4-455d-b9ad-ca58db21b30e_en",
     "auto_generated": true
@@ -3451,6 +3451,34 @@
     "done": false,
     "created": "2026-07-20",
     "source_url": "https://www.nbcnews.com/world/middle-east/yemen-houthis-maritime-embargo-saudi-arabia-oil-rcna588345",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-20_other_8b07",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Microsoft to Deploy Next-Gen AMD Instinct and AMD EPYC Processors as the Companies Expand Their Long-Term Strategic Partnership",
+    "text": "AMD a Microsoft rozšířily partnerství: Azure nasadí AMD Helios rack s čipy Instinct MI455X a EPYC Venice pro AI inference a přidá dvě nové VM řady EPYC Venice. Akcie AMD po zprávě posílily zhruba o 5 %, poptávka po AI infrastruktuře AMD roste.",
+    "date": "2026-07-20",
+    "done": false,
+    "created": "2026-07-21",
+    "source_url": "https://www.globenewswire.com/news-release/2026/07/20/3329775/0/en/microsoft-to-deploy-next-gen-amd-instinct-and-amd-epyc-processors-as-the-companies-expand-their-long-term-strategic-partnership.html",
+    "auto_generated": true
+  },
+  {
+    "id": "OGI_2026-07-20_other_5c11",
+    "ticker": "OGI",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Organigram Provides Business Update Highlighting Initial Sanity Performance and Canadian Market Share",
+    "text": "Organigram zveřejnil aktualizaci k integraci Sanity Group a kanadskému byznysu. Sanity drží podíl cca 10 % v Německu, nové úhradové změny ovlivní jen asi 1 % tržeb. Organigram vede kategorii Flower v Kanadě s podílem 12,5 %. Výsledky za Q3 FY2026 budou zveřejněny 11. srpna 2026.",
+    "date": "2026-07-20",
+    "done": false,
+    "created": "2026-07-21",
+    "source_url": "https://www.businesswire.com/news/home/20260720180204/en/Organigram-Provides-Business-Update-Highlighting-Initial-Sanity-Performance-and-Canadian-Market-Share",
     "auto_generated": true
   }
 ]
