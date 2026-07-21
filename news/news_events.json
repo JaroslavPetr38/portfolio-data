@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-21T09:07:00Z",
+  "generated": "2026-07-21T16:11:00Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1571,6 +1571,34 @@
       "done": false,
       "created": "2026-07-21",
       "source_url": "https://www.businesswire.com/news/home/20260720180204/en/Organigram-Provides-Business-Update-Highlighting-Initial-Sanity-Performance-and-Canadian-Market-Share",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-21_other_132e",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SanDisk Rises 8%, Western Digital Jumps 9%, Micron Adds 7% as Memory Rebound Accelerates",
+      "text": "Akcie Micronu dnes vzrostly o zhruba 7 % v rámci oživení sektoru paměťových čipů, taženého poptávkou po HBM pamětech pro AI a lepšími výtěžnostmi výroby. Podobně posílily SanDisk (+8 %) a Western Digital (+9 %). Pozitivní signál pro portfolio.",
+      "date": "2026-07-21",
+      "done": false,
+      "created": "2026-07-21",
+      "source_url": "https://247wallst.com/investing/2026/07/21/sandisk-rises-8-western-digital-jumps-9-micron-adds-7-as-memory-rebound-accelerates/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-21_analysis_1d11",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Why Is AMD Stock Soaring Tuesday?",
+      "text": "AMD akcie dnes posílily o více než 4 % po odhalení AI systému Helios a před akcí Advancing AI 2026 (start 22.7.). KeyBanc zvýšil cílovou cenu na 725 USD (z 530 USD) a BofA na 620 USD (z 550 USD), obě s doporučením Buy. Pozitivní signál před výsledky 4.8.",
+      "date": "2026-07-21",
+      "done": false,
+      "created": "2026-07-21",
+      "source_url": "https://www.benzinga.com/markets/tech/26/07/60571798/why-is-amd-stock-soaring-tuesday",
       "auto_generated": true
     }
   ]
