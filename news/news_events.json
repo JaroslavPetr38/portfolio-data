@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T09:08:13Z",
+  "generated": "2026-07-22T16:03:06Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1669,6 +1669,48 @@
       "done": false,
       "created": "2026-07-20",
       "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
+      "auto_generated": true
+    },
+    {
+      "id": "NLY_2026-07-21_earnings_7f91",
+      "ticker": "NLY",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Annaly Capital Management (NLY) Reports Strong Q2 Earnings, Increases Dividend",
+      "text": "Annaly Capital Management (NLY) zveřejnila výsledky za Q2 2026: EPS 0,79 USD (odhad 0,76), GAAP zisk 1,06 USD/akcii, účetní hodnota +1,7 % na 20,15 USD. Dividenda zvýšena na 0,75 USD, rekordní nákup hypoték 7,1 mld. USD, agenturní portfolio vzrostlo na 95 mld. USD.",
+      "date": "2026-07-21",
+      "done": false,
+      "created": "2026-07-22",
+      "source_url": "https://www.stocktitan.net/news/NLY/annaly-capital-management-inc-reports-2nd-quarter-2026-ww1y5rvz4jk9.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-22_other_1bf1",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs",
+      "text": "AMD na akci Advancing AI 2026 oznámil investici až 5 mld. USD do Anthropic a nasazení až 2 GW akcelerátorů Instinct MI450 v racích Helios s CPU EPYC Venice od H1 2027. Představil i čip Zen 6 Venice na 2nm. Akcie přesto intradenně oslabily o cca 3 %.",
+      "date": "2026-07-22",
+      "done": false,
+      "created": "2026-07-22",
+      "source_url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+      "auto_generated": true
+    },
+    {
+      "id": "XLY_2026-07-22_other_7041",
+      "ticker": "XLY",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Auxly Announces 14:1 Share Consolidation",
+      "text": "Auxly Cannabis oznámila konsolidaci akcií v poměru 14:1 (v rámci schváleného rozpětí do 20:1 z valné hromady 30.6.2026). Obchodování po konsolidaci má začít kolem 28.7.2026 na TSX pod stejným tickerem XLY. Technický krok ke zvýšení ceny akcie.",
+      "date": "2026-07-22",
+      "done": false,
+      "created": "2026-07-22",
+      "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-141-share-consolidation-302831461.html",
       "auto_generated": true
     }
   ]
