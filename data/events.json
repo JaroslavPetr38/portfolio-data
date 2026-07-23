@@ -3633,5 +3633,33 @@
     "created": "2026-07-23",
     "source_url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
     "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-07-23_other_7644",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "AMD CEO Lisa Su delivers keynote with big AI update for tech investors",
+    "text": "AMD na akci Advancing AI 2026 představilo AI systém Helios s čipy MI450/MI455X a procesory EPYC Venice. Microsoft, Meta, OpenAI a Oracle byli potvrzeni jako první zákazníci, OpenAI a Meta objednali dohromady 12 GW kapacity. Akcie AMD dnes posílily o cca 7,5-8 %.",
+    "date": "2026-07-23",
+    "done": false,
+    "created": "2026-07-23",
+    "source_url": "https://ca.finance.yahoo.com/news/amd-ceo-lisa-su-delivers-keynote-with-big-ai-update-for-tech-investors-125145914.html",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-07-23_macro_6476",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "neutral",
+    "title": "ECB holds rates at 2.25% as the reignited Iran war keeps a second hike in play",
+    "text": "ECB dnes ponechala depozitní sazbu na 2,25 %, v souladu s očekáváním trhu. Lagardeová varovala před nejistotou kvůli energetickému šoku z konfliktu s Íránem a nevyloučila zvýšení sazeb v září. Euro se drží kolem 1,14 USD vůči dolaru.",
+    "date": "2026-07-23",
+    "done": false,
+    "created": "2026-07-23",
+    "source_url": "https://www.euronews.com/business/2026/07/23/ecb-holds-rates-at-225-as-the-reignited-iran-war-keeps-a-second-hike-in-play",
+    "auto_generated": true
   }
 ]
