@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-22T16:03:06Z",
+  "generated": "2026-07-23T05:14:00Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 3,
+  "run_type": "full",
+  "ticker_count": 37,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1711,6 +1711,20 @@
       "done": false,
       "created": "2026-07-22",
       "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-141-share-consolidation-302831461.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-22_macro_ee75",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Oil prices rise as Rubio says Iran 'not serious' about peace talks",
+      "text": "Brent vzrostla o 3-5 % na přes 94 USD/barel po dalším kole úderů USA na Írán a prvním přímém útoku Húsíů na dva saúdské tankery v Rudém moři. WTI stouplo o 3 % na 86,83 USD. Eskalace zvyšuje riziko přerušení dodávek ropy a tlačí na inflaci i rizikové trhy.",
+      "date": "2026-07-22",
+      "done": false,
+      "created": "2026-07-23",
+      "source_url": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
       "auto_generated": true
     }
   ]
