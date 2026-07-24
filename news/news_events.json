@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-24T09:06:24Z",
+  "generated": "2026-07-24T16:03:32Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -535,6 +535,34 @@
       "done": false,
       "created": "2026-07-23",
       "source_url": "https://ca.finance.yahoo.com/news/amd-ceo-lisa-su-delivers-keynote-with-big-ai-update-for-tech-investors-125145914.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-24_other_8aa6",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron Technology Inc Stock (MU) Moved Down by 5.50% on Jul 24: A Full Analysis",
+      "text": "Akcie Micronu klesly 24. 7. o cca 5,5-5,7 % navzdory předchozímu růstu, v souvislosti s poklesem asijských trhů (SoftBank, Kioxia, SK Hynix, Samsung) po propadu amerických akcií přes noc a eskalaci napětí na Blízkém východě. Analytici očekávají další růst díky nedostatku pamětí do 2028.",
+      "date": "2026-07-24",
+      "done": false,
+      "created": "2026-07-24",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262052982-market-movers-mu-20260724",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-24_analysis_d0ef",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD has more than doubled in 2026. It has more room to run, UBS says",
+      "text": "UBS zvýšil cílovou cenu AMD na 730 USD ze 700 USD po akci Advancing AI 2026, kde AMD představilo Helios rackscale řešení a čipy Instinct MI400/Zen 6. Analytik očekává EPS kolem 30 USD do roku 2028. Akcie AMD se letos více než zdvojnásobily, cíl implikuje dalších cca 35 % růstu.",
+      "date": "2026-07-24",
+      "done": false,
+      "created": "2026-07-24",
+      "source_url": "https://www.cnbc.com/2026/07/24/amd-has-more-than-doubled-in-2026-it-has-more-room-to-run-ubs-says.html",
       "auto_generated": true
     },
     {
