@@ -3661,5 +3661,19 @@
     "created": "2026-07-23",
     "source_url": "https://www.euronews.com/business/2026/07/23/ecb-holds-rates-at-225-as-the-reignited-iran-war-keeps-a-second-hike-in-play",
     "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-07-23_macro_fb58",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Fed Rate Hike Odds Surge as Oil Price Spike Reignites Inflation Fears",
+    "text": "Šance na zvýšení sazby Fedu na zasedání 29. 7. vzrostly na cca 38 % (z 12 % týden zpět) kvůli prudkému růstu cen ropy (Brent nad 100 USD) po blokádě Íránu a Hormuzského průlivu. Trh nyní čeká zvýšení v září s pravděpodobností 82 %. Rostoucí inflační rizika tlačí na akciové trhy.",
+    "date": "2026-07-23",
+    "done": false,
+    "created": "2026-07-24",
+    "source_url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+    "auto_generated": true
   }
 ]
