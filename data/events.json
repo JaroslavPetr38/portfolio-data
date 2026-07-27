@@ -3759,5 +3759,19 @@
     "created": "2026-07-27",
     "source_url": "https://www.usnews.com/news/business/articles/2026-07-26/oil-prices-ease-after-us-and-iran-pause-their-attacks",
     "auto_generated": true
+  },
+  {
+    "id": "VU_2026-07-27_other_a67f",
+    "ticker": "VU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Vusion Announces Agreement to Acquire In-Store Media (ISM), Accelerating the Creation of a Platform for Digital In-Store Retail Media and Advertising",
+    "text": "Vusion oznámil dohodu o akvizici španělské In-Store Media (ISM) s tržbami cca 120 mil. EUR (2025), působící u 90 řetězců a 1600+ značek v 9 zemích. Finanční podmínky nezveřejněny, transakce podléhá regulatorním schválením. Posiluje diverzifikaci Vusionu mimo závislost na Walmartu.",
+    "date": "2026-07-27",
+    "done": false,
+    "created": "2026-07-27",
+    "source_url": "https://www.prnewswire.com/news-releases/vusion-announces-agreement-to-acquire-in-store-media-ism-accelerating-the-creation-of-a-platform-for-digital-in-store-retail-media-and-advertising-302834783.html",
+    "auto_generated": true
   }
 ]
