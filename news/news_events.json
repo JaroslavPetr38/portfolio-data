@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T09:04:21Z",
+  "generated": "2026-07-27T16:03:45Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
@@ -983,6 +983,20 @@
       "done": false,
       "created": "2026-07-27",
       "source_url": "https://www.tickerreport.com/banking-finance/13515811/standard-life-lonsdlf-price-target-raised-to-gbx-1072.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-27_analysis_23c7",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Wedbush Raises AMD Price Target to $600 on Data Center Growth",
+      "text": "Wedbush zvýšil cílovou cenu AMD na 600 USD ze 450 USD a potvrdil doporučení Outperform. Důvodem je zrychlující se růst tržeb z datacentrových CPU/GPU pro roky 2026-2027 po akci Advancing AI a nových smlouvách s Microsoftem a Anthropic. Pozitivní signál pro dlouhodobé investory v AMD.",
+      "date": "2026-07-27",
+      "done": false,
+      "created": "2026-07-27",
+      "source_url": "https://www.marketbeat.com/instant-alerts/wedbush-issues-positive-forecast-for-advanced-micro-devices-nasdaqamd-stock-price-2026-07-27/",
       "auto_generated": true
     },
     {
