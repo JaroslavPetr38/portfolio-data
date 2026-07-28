@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T09:03:28Z",
+  "generated": "2026-07-28T16:05:02Z",
   "source": "claude_routine",
   "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 1,
+  "ticker_count": 31,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -566,6 +566,34 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-28_other_38f6",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron, Nvidia fall after SK Hynix plunges nearly 15% as chip sell-off deepens",
+      "text": "Akcie Micronu klesly o více než 10 %, poté co SK Hynix propadl o téměř 15 % a Samsung o přes 13 % kvůli obavám z čínské konkurence (CXMT, DUV litografie) a nejistotě ohledně AI investic hyperscalerů. Výprodej paměťových akcií se napříč sektorem prohlubuje.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-07-28_other_ff4e",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "AMD Stock Drops: Why Chipmaker Shares Are Falling Ahead of August Earnings",
+      "text": "Akcie AMD klesly o 8,85 % (intradenně až o 8,2 % na 479,24 USD) uprostřed výprodeje polovodičů před výsledky za 2Q, které AMD zveřejní 4. srpna. Výprodej vyvolaly obavy z capexu hyperscalerů po výsledcích Alphabetu a revizi Intelu, plus tlak na marže AMD vůči Nvidii.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/07/60731189/amd-stock-drops-why-chipmaker-shares-are-falling-ahead-of-august-earnings",
+      "auto_generated": true
+    },
+    {
       "id": "VU_2026-06-25_analysis_fcd0",
       "ticker": "VU",
       "type": "analysis",
@@ -1109,6 +1137,20 @@
       "done": false,
       "created": "2026-07-17",
       "source_url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/avicanna-introduces-quix-rapid-onset-medical-cannabis-portfolio/2385812",
+      "auto_generated": true
+    },
+    {
+      "id": "XLY_2026-07-28_other_67dd",
+      "ticker": "XLY",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Auxly Announces Commencement of Trading Following 14:1 Share Consolidation",
+      "text": "Auxly Cannabis (XLY) dokončila konsolidaci akcií v poměru 14:1, obchodování na této bázi začalo 28. července 2026. Počet vydaných akcií klesl z cca 1,42 miliardy na cca 101,3 milionu. Akcie zůstávají kótované pod stejnými tickery XLY (TSX) a CBWTF (OTCQB), mění se pouze CUSIP a ISIN.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-commencement-of-trading-following-141-share-consolidation-302836005.html",
       "auto_generated": true
     },
     {
@@ -1977,6 +2019,20 @@
       "done": false,
       "created": "2026-07-20",
       "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-28_macro_17a9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Treasury yields edge lower ahead of Fed rates decision as oil prices tumble",
+      "text": "Ceny ropy prudce klesly (Brent -4%, WTI -3%) po zklidnění konfliktu USA-Írán, což snížilo obavy z inflace před rozhodnutím Fedu 29.7. Výnos 10letých dluhopisů klesl o 4 body. Pravděpodobnost zvýšení sazby klesla na ~31% z týdenního maxima 38%. Fed pravděpodobně sazby nezmění.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
       "auto_generated": true
     }
   ]
