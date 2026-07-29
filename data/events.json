@@ -3969,5 +3969,19 @@
     "created": "2026-07-28",
     "source_url": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-07-29_other_9a35",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Why Is Micron (MU) Falling? CXMT IPO, Apple Supplier Shift, and Asian Chip Rout",
+    "text": "Akcie Micronu dnes pokračují v propadu (kolem 830 USD, cca 30 % pod červnovým maximem) kvůli IPO čínského výrobce CXMT na šanghajské burze (+466 %), zprávám o snaze Applu získat výjimku pro nákup pamětí od čínských dodavatelů a výprodeji asijských čipových akcií.",
+    "date": "2026-07-29",
+    "done": false,
+    "created": "2026-07-29",
+    "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262059680-micron-mu-stock-falling-july-29-2026-cxmt-apple-asian-chip-selloff-tradingkey",
+    "auto_generated": true
   }
 ]
