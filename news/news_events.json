@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-28T16:05:02Z",
+  "generated": "2026-07-29T05:09:58Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 31,
-  "event_count": 4,
+  "run_type": "full",
+  "ticker_count": 37,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1361,6 +1361,34 @@
       "done": false,
       "created": "2026-07-27",
       "source_url": "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-07-28_other_9320",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Western Digital Corp Stock (WDC) Closed Down by 7.00% on Jul 28: Key Drivers Unveiled",
+      "text": "Akcie Western Digital 28. července propadly o 7 % kvůli výprodeji pamětových akcií (SK Hynix, Samsung, Kioxia) po zklamání z výsledků SK Hynix. Analytici snížili odhady kvůli normalizaci cen NAND flash. Nejistotu přiživují fúzní jednání s Kioxií a plánované rozdělení HDD/Flash divizí.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-29",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262059550-market-movers-wdc-20260728",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-07-29_earnings_828a",
+      "ticker": "000660",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "SK Hynix shares fall as exponential earnings growth fails to satisfy AI-charged expectations",
+      "text": "SK Hynix zveřejnil výsledky za 2Q 2026: tržby 79,32 bil. wonů (+257 % meziročně), provozní zisk 60,54 bil. wonů (+557 %), oba pod odhady analytiků. Akcie (ADR SKHY) přesto klesly o 8,76 % na historické minimum. Firma zahájila hromadné dodávky čipů HBM4.",
+      "date": "2026-07-29",
+      "done": false,
+      "created": "2026-07-29",
+      "source_url": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
       "auto_generated": true
     },
     {
