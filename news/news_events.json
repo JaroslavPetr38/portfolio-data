@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-29T09:02:51Z",
+  "generated": "2026-07-29T16:03:51Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 0,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -594,6 +594,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-07-29_other_9a35",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Why Is Micron (MU) Falling? CXMT IPO, Apple Supplier Shift, and Asian Chip Rout",
+      "text": "Akcie Micronu dnes pokračují v propadu (kolem 830 USD, cca 30 % pod červnovým maximem) kvůli IPO čínského výrobce CXMT na šanghajské burze (+466 %), zprávám o snaze Applu získat výjimku pro nákup pamětí od čínských dodavatelů a výprodeji asijských čipových akcií.",
+      "date": "2026-07-29",
+      "done": false,
+      "created": "2026-07-29",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262059680-micron-mu-stock-falling-july-29-2026-cxmt-apple-asian-chip-selloff-tradingkey",
+      "auto_generated": true
+    },
+    {
       "id": "VU_2026-06-25_analysis_fcd0",
       "ticker": "VU",
       "type": "analysis",
@@ -1056,6 +1070,20 @@
       "auto_generated": true
     },
     {
+      "id": "XLY_2026-07-28_other_67dd",
+      "ticker": "XLY",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Auxly Announces Commencement of Trading Following 14:1 Share Consolidation",
+      "text": "Auxly Cannabis (XLY) dokončila konsolidaci akcií v poměru 14:1, obchodování na této bázi začalo 28. července 2026. Počet vydaných akcií klesl z cca 1,42 miliardy na cca 101,3 milionu. Akcie zůstávají kótované pod stejnými tickery XLY (TSX) a CBWTF (OTCQB), mění se pouze CUSIP a ISIN.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-commencement-of-trading-following-141-share-consolidation-302836005.html",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -1137,20 +1165,6 @@
       "done": false,
       "created": "2026-07-17",
       "source_url": "https://www.manilatimes.net/2026/07/16/tmt-newswire/globenewswire/avicanna-introduces-quix-rapid-onset-medical-cannabis-portfolio/2385812",
-      "auto_generated": true
-    },
-    {
-      "id": "XLY_2026-07-28_other_67dd",
-      "ticker": "XLY",
-      "type": "other",
-      "priority": "medium",
-      "sentiment": "neutral",
-      "title": "Auxly Announces Commencement of Trading Following 14:1 Share Consolidation",
-      "text": "Auxly Cannabis (XLY) dokončila konsolidaci akcií v poměru 14:1, obchodování na této bázi začalo 28. července 2026. Počet vydaných akcií klesl z cca 1,42 miliardy na cca 101,3 milionu. Akcie zůstávají kótované pod stejnými tickery XLY (TSX) a CBWTF (OTCQB), mění se pouze CUSIP a ISIN.",
-      "date": "2026-07-28",
-      "done": false,
-      "created": "2026-07-28",
-      "source_url": "https://www.prnewswire.com/news-releases/auxly-announces-commencement-of-trading-following-141-share-consolidation-302836005.html",
       "auto_generated": true
     },
     {
@@ -1966,6 +1980,20 @@
       "auto_generated": true
     },
     {
+      "id": "MACRO_2026-07-28_macro_17a9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Treasury yields edge lower ahead of Fed rates decision as oil prices tumble",
+      "text": "Ceny ropy prudce klesly (Brent -4%, WTI -3%) po zklidnění konfliktu USA-Írán, což snížilo obavy z inflace před rozhodnutím Fedu 29.7. Výnos 10letých dluhopisů klesl o 4 body. Pravděpodobnost zvýšení sazby klesla na ~31% z týdenního maxima 38%. Fed pravděpodobně sazby nezmění.",
+      "date": "2026-07-28",
+      "done": false,
+      "created": "2026-07-28",
+      "source_url": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_4586",
       "ticker": null,
       "type": "macro",
@@ -2047,20 +2075,6 @@
       "done": false,
       "created": "2026-07-20",
       "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
-      "auto_generated": true
-    },
-    {
-      "id": "MACRO_2026-07-28_macro_17a9",
-      "ticker": null,
-      "type": "macro",
-      "priority": "high",
-      "sentiment": "positive",
-      "title": "Treasury yields edge lower ahead of Fed rates decision as oil prices tumble",
-      "text": "Ceny ropy prudce klesly (Brent -4%, WTI -3%) po zklidnění konfliktu USA-Írán, což snížilo obavy z inflace před rozhodnutím Fedu 29.7. Výnos 10letých dluhopisů klesl o 4 body. Pravděpodobnost zvýšení sazby klesla na ~31% z týdenního maxima 38%. Fed pravděpodobně sazby nezmění.",
-      "date": "2026-07-28",
-      "done": false,
-      "created": "2026-07-28",
-      "source_url": "https://www.cnbc.com/2026/07/28/treasury-yields-edge-lower-ahead-of-fed-rates-decision-as-oil-prices-tumble.html",
       "auto_generated": true
     }
   ]
