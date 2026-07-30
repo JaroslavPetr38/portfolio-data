@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T05:11:40Z",
+  "generated": "2026-07-30T10:13:40Z",
   "source": "claude_routine",
-  "run_type": "full",
-  "ticker_count": 37,
-  "event_count": 9,
+  "run_type": "short",
+  "ticker_count": 30,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -647,6 +647,20 @@
       "done": false,
       "created": "2026-07-30",
       "source_url": "https://www.ceskenoviny.cz/zpravy/2703930",
+      "auto_generated": true
+    },
+    {
+      "id": "BATS_2026-07-30_earnings_4396",
+      "ticker": "BATS",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "British American Tobacco H1 2026 Revenue Rises As New Categories Grow 18%",
+      "text": "BAT zveřejnil výsledky za H1 2026: tržby vzrostly o 1,4 % (organicky +2,9 %), tržby z nových kategorií (vaping, nikotinové sáčky) vzrostly o 18 %, marže této divize stoupla na 13,8 %. Tržby v USA vzrostly o 8,5 %, firma zvýšila výhled EPS pro celý rok 2026. Pozitivní signál pro akcionáře.",
+      "date": "2026-07-30",
+      "done": false,
+      "created": "2026-07-30",
+      "source_url": "https://www.directorstalkinterviews.com/british-american-tobacco-h1-2026-revenue-rises-as-new-categories-grow-18/4121258422",
       "auto_generated": true
     },
     {
@@ -2120,6 +2134,20 @@
       "auto_generated": true
     },
     {
+      "id": "MACRO_2026-07-30_macro_c27f",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Oil Prices Jump as US Launches Fresh Strikes on Iran",
+      "text": "USA provedly noční sérii úderů na cíle íránských revolučních gard, Írán hrozí další eskalací. Brent vzrostl o cca 1,5-2 % na ~92 USD/barel, WTI o cca 1-1,5 % na ~85 USD/barel, výnos 30letých dluhopisů vzrostl k 5,2 % (nejvýše od 2007). Riziko dalšího nárůstu inflace a sazeb ECB/Fed.",
+      "date": "2026-07-30",
+      "done": false,
+      "created": "2026-07-30",
+      "source_url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-06-25_macro_4586",
       "ticker": null,
       "type": "macro",
@@ -2201,6 +2229,20 @@
       "done": false,
       "created": "2026-07-20",
       "source_url": "https://www.kucoin.com/news/flash/cme-fedwatch-july-and-september-rate-hike-probabilities",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-30_macro_301b",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Eurozone Q2 2026 GDP Beats Expectations, Easing Recession Fears",
+      "text": "Eurostat zveřejnil předběžný odhad HDP eurozóny za 2Q 2026: růst 0,4 % mezikvartálně (odhad 0,2 %, EU +0,5 %), po poklesu 0,2 % v 1Q. Silnější data zvyšují pravděpodobnost zvýšení sazeb ECB na zářijovém zasedání (trh nyní cení ~70 %), což může tlačit na dluhopisové výnosy a sektory citlivé na sazby.",
+      "date": "2026-07-30",
+      "done": false,
+      "created": "2026-07-30",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-05062026-ap",
       "auto_generated": true
     }
   ]
