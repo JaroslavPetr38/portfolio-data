@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-30T10:13:40Z",
+  "generated": "2026-07-30T16:02:40Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 3,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -661,6 +661,20 @@
       "done": false,
       "created": "2026-07-30",
       "source_url": "https://www.directorstalkinterviews.com/british-american-tobacco-h1-2026-revenue-rises-as-new-categories-grow-18/4121258422",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-30_other_72cf",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Chip Stocks Micron, SanDisk, Nvidia, and AMD Are Soaring Today, 7/30/26. What's Driving the Rally?",
+      "text": "Akcie Micronu vzrostly o téměř 15 % na cca 848 USD poté, co Samsung ohlásil rekordní čtvrtletní zisk (provozní zisk 89,5 bil. wonů) a očekává nedostatek paměťových čipů až do roku 2028. Zpráva zmírnila obavy z nedávného výprodeje a je pro Micron pozitivní.",
+      "date": "2026-07-30",
+      "done": false,
+      "created": "2026-07-30",
+      "source_url": "https://www.tipranks.com/news/chip-stocks-micron-sandisk-nvidia-and-amd-are-rising-today-7-30-26-whats-driving-the-rally",
       "auto_generated": true
     },
     {
@@ -2145,6 +2159,20 @@
       "done": false,
       "created": "2026-07-30",
       "source_url": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-07-30_macro_b09e",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "text": "Americká ekonomika ve 2. čtvrtletí 2026 zpomalila růst na 1,5 % (odhad 1,8 %) oproti 2,1 % v předchozím čtvrtletí. Inflace dle indexu PCE klesla meziročně na 3,7 % (jádrová 3,3 %), hlavně díky poklesu cen energií.",
+      "date": "2026-07-30",
+      "done": false,
+      "created": "2026-07-30",
+      "source_url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
       "auto_generated": true
     },
     {
