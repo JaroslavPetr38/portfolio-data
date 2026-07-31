@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T09:07:42Z",
+  "generated": "2026-07-31T16:03:38Z",
   "source": "claude_routine",
   "run_type": "short",
   "ticker_count": 30,
-  "event_count": 1,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2383,6 +2383,34 @@
       "done": false,
       "created": "2026-07-31",
       "source_url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-micron-rating-on-customer-agreements-ai-demand-93CH-4825934",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-07-31_analysis_6cf7",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Why Is Micron Stock Falling on Friday?",
+      "text": "Akcie Micron (MU) v pátek 31.7. dopoledne propadly o cca 5,4 % poté, co ve čtvrtek vzrostly o 18,4 %. Důvodem je výběr zisků, likvidace pákových pozic a obavy z rostoucí konkurence SK Hynix a Samsung v segmentu HBM pamětí pro AI čipy Nvidia. Volatilita akcie pokračuje.",
+      "date": "2026-07-31",
+      "done": false,
+      "created": "2026-07-31",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/07/60845173/why-is-micron-stock-falling-on-friday",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-07-31_other_7cfb",
+      "ticker": "LAES",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SEALSQ Launches Commercial Phase of Miraex Quantum Photonics Technology Following Strategic Acquisition",
+      "text": "SEALSQ 31.7. oznámila zahájení komerční fáze kvantové fotonické technologie firmy Miraex, kterou akvizovala v červnu 2026 z fondu Quantum Fund (200 mil. USD, investováno již přes 65 mil. USD). Technologie propojuje kvantové procesory s optickou komunikací pro sítě a satelity.",
+      "date": "2026-07-31",
+      "done": false,
+      "created": "2026-07-31",
+      "source_url": "https://investingnews.com/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology-following-strategic-acquisition/",
       "auto_generated": true
     }
   ]
