@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-03T05:03:22Z",
+  "generated": "2026-08-03T18:04:16Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 37,
-  "event_count": 1,
+  "event_count": 6,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2425,6 +2425,90 @@
       "done": false,
       "created": "2026-07-31",
       "source_url": "https://investingnews.com/sealsq-launches-commercial-phase-of-miraex-quantum-photonics-technology-following-strategic-acquisition/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-03_other_e0ec",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "AMD (AMD) Stock Drops Over 6% Today as Wedbush Lifts Price Target Ahead of Earnings",
+      "text": "Akcie AMD v pondělí 3. 8. klesly o více než 6 % navzdory tomu, že Wedbush zvýšil cílovou cenu na 600 USD z 450 USD (rating Outperform) a zvýšil odhad Q2 EPS na 1,64 USD a tržeb na 11,4 mld. USD. Pokles souvisí se širším výprodejem AI čipů den před výsledky AMD (4. 8.).",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://www.tipranks.com/news/amd-amd-stock-drops-over-6-today-as-wedbush-lifts-price-target-ahead-of-earnings",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-03_other_dd16",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Why Micron Stock Is Under Pressure Today",
+      "text": "Akcie Micronu v pondělí klesly intradenně až o 6,4 %, později ztráty téměř smazaly. Důvodem jsou obavy z konkurence po plánech čínské CXMT na rozšíření kapacity výroby DRAM v rámci širšího výprodeje sektoru pamětí. Krátkodobě neutrální dopad pro držitele MU.",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://www.fool.com/investing/2026/08/03/why-micron-stock-is-under-pressure-today/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-03_other_da32",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Seagate and Western Digital Dive 6%, SK Hynix and Micron Slide 5% as Memory Stocks Cool",
+      "text": "Akcie Western Digital a Seagate v pondělí klesly o cca 6 % v rámci ochlazení sektoru paměťových a úložných čipů po předchozí rally. Morgan Stanley označil pohyb za technický „leverage washout“, nešlo o firemní specifika. Krátkodobě negativní pro sektor.",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://247wallst.com/investing/2026/08/03/seagate-and-western-digital-dive-6-sk-hynix-and-micron-slide-5-as-memory-stocks-cool/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-03_other_da32",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Seagate and Western Digital Dive 6%, SK Hynix and Micron Slide 5% as Memory Stocks Cool",
+      "text": "Akcie SK Hynix (ADR) v pondělí klesly o cca 5 % spolu s Western Digital a Micronem v rámci ochlazení sektoru paměťových čipů po nedávné rally. UBS přesto potvrdil doporučení Koupit na ADR SK Hynix. Krátkodobě negativní, bez změny fundamentálního výhledu.",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://247wallst.com/investing/2026/08/03/seagate-and-western-digital-dive-6-sk-hynix-and-micron-slide-5-as-memory-stocks-cool/",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-03_macro_537d",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Breaking: US ISM Manufacturing PMI rises to 55.6 in July vs. 54 expected",
+      "text": "Americký ISM Manufacturing PMI za červenec vzrostl na 55,6 (odhad 54,0, červen 53,3), nejvýše od května 2022. Index zaměstnanosti se poprvé po 33 měsících vrátil do expanze, index cen zůstal vysoký na 71,1. Data posilují očekávání, že Fed ponechá sazby výše déle.",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://www.fxstreet.com/news/us-ism-manufacturing-pmi-is-expected-to-show-strong-factory-activity-in-july-202608031000",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-03_macro_8e5e",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Euro remains near seven-week highs after downwardly revised Eurozone Manufacturing PMI",
+      "text": "Finální PMI zpracovatelského průmyslu eurozóny za červenec byl revidován mírně dolů na 51,9 (z 52,0, červen 51,4), nejsilnější růst výroby od roku 2022, zatímco cenová inflace na vstupech/výstupech se zmírnila. Data podporují očekávání ohledně měnové politiky ECB.",
+      "date": "2026-08-03",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://www.fxstreet.com/news/euro-remains-near-seven-week-highs-after-downwardly-revised-eurozone-manufacturing-pmi-202608030833",
       "auto_generated": true
     }
   ]
