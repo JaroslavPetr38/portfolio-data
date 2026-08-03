@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-31T16:03:38Z",
+  "generated": "2026-08-03T05:03:22Z",
   "source": "claude_routine",
-  "run_type": "short",
-  "ticker_count": 30,
-  "event_count": 2,
+  "run_type": "full",
+  "ticker_count": 37,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2397,6 +2397,20 @@
       "done": false,
       "created": "2026-07-31",
       "source_url": "https://www.benzinga.com/trading-ideas/movers/26/07/60845173/why-is-micron-stock-falling-on-friday",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-02_other_ec91",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron Technology Stock Is Plummeting, but Here's Why I'm Not Buying the Dip",
+      "text": "Akcie Micronu 2. 8. pokračovaly v propadu na cca 812 USD, téměř 39 % pod červnovým maximem 1255 USD. Důvodem jsou obavy z čínské konkurence (IPO CXMT), tlak Applu na nižší ceny pamětí a ochlazení AI sentimentu. Fundamenty firmy však zůstávají silné.",
+      "date": "2026-08-02",
+      "done": false,
+      "created": "2026-08-03",
+      "source_url": "https://www.fool.com/investing/2026/08/02/micron-technology-stock-plummeting-not-buying-dip/",
       "auto_generated": true
     },
     {
