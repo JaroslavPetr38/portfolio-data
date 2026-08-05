@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T18:04:00Z",
+  "generated": "2026-08-05T06:03:30Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 37,
@@ -2565,6 +2565,62 @@
       "done": false,
       "created": "2026-08-04",
       "source_url": "https://www.newsfilecorp.com/release/307656/Bitzero-Deepens-Technical-Supply-Chain-Capabilities-Through-Collaboration-with-Vertiv",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-04_earnings_e8f4",
+      "ticker": "AMD",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "AMD Delivers Double Beat in Q2 as Data Center Revenue More Than Doubles",
+      "text": "AMD zveřejnil výsledky za 2Q 2026: EPS 1,66 USD (odhad 1,55), rekordní tržby 11,54 mld. USD, tržby z datacenter segmentu se více než zdvojnásobily na 6,7 mld. USD. I přes silný výhled na 3Q akcie po výsledcích klesly o cca 7,5 % kvůli vysokým očekáváním trhu.",
+      "date": "2026-08-04",
+      "done": false,
+      "created": "2026-08-05",
+      "source_url": "https://www.benzinga.com/markets/earnings/26/08/60931767/amd-delivers-double-beat-in-q2-as-data-center-revenue-more-than-doubles",
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-08-04_earnings_67a8",
+      "ticker": "ANET",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Arista Networks, Inc. Reports Second Quarter 2026 Financial Results",
+      "text": "Arista Networks zveřejnila výsledky za 2Q 2026: EPS 1,02 USD (odhad 0,89), tržby 3,036 mld. USD (+37,7 % meziročně, odhad 2,87 mld.). Výhled na 3Q byl stanoven na cca 3,3 mld. USD. Akcie po výsledcích posílily.",
+      "date": "2026-08-04",
+      "done": false,
+      "created": "2026-08-05",
+      "source_url": "https://www.businesswire.com/news/home/20260804130700/en/Arista-Networks-Inc.-Reports-Second-Quarter-2026-Financial-Results",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-05_other_aa79",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SK Hynix Climbs as Investors Bet on Shareholder Return Plan",
+      "text": "Akcie SK Hynix ve středu ráno v Soulu vzrostly až o 7,9 % kvůli spekulacím o brzkém oznámení programu zpětného odkupu akcií a navýšení výplat akcionářům po skončení klidového období od prodeje ADR.",
+      "date": "2026-08-05",
+      "done": false,
+      "created": "2026-08-05",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-05/sk-hynix-climbs-as-investors-bet-on-shareholder-return-plan",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-05_macro_7d70",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "US says Strait of Hormuz is 'free and open' as Bessent signals Iran deal is close",
+      "text": "USA potvrdily, že jižní část Hormuzského průlivu zůstává průjezdná, a ministr financí Bessent naznačil, že dohoda mezi USA a Íránem o plném znovuotevření průlivu může přijít v řádu dní. Ceny ropy klesly k 75-79 USD/barel, což tlačí dolů inflaci a podpořilo akciové indexy na nová maxima.",
+      "date": "2026-08-05",
+      "done": false,
+      "created": "2026-08-05",
+      "source_url": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
       "auto_generated": true
     }
   ]
