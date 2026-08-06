@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-06T06:13:51Z",
+  "generated": "2026-08-06T18:02:54Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 37,
-  "event_count": 2,
+  "ticker_count": 38,
+  "event_count": 6,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2705,6 +2705,90 @@
       "done": false,
       "created": "2026-08-06",
       "source_url": "https://www.tradingkey.com/analysis/stocks/more/262081187-skhynix-samsung-semiconductor-stock-rout-tradingkey",
+      "auto_generated": true
+    },
+    {
+      "id": "CRON_2026-08-06_earnings_4d16",
+      "ticker": "CRON",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Cronos Group Reports 2026 Second Quarter Results",
+      "text": "Cronos Group zveřejnila výsledky za 2. čtvrtletí 2026 s rekordními tržbami, hrubým ziskem i EBITDA, organický růst tržeb meziročně 51 %. Akcie v premarketu vzrostly o více než 10 %. Firma zároveň oznámila vyšetřování kvůli podezření z dumpingu na izraelském trhu.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/06/3340162/0/en/Cronos-Group-Reports-2026-Second-Quarter-Results.html",
+      "auto_generated": true
+    },
+    {
+      "id": "NESF_2026-08-06_dividend_cd57",
+      "ticker": "NESF",
+      "type": "dividend",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Dividend Declaration",
+      "text": "NextEnergy Solar Fund oznámil první čtvrtletní dividendu 1,77p na akcii za období do 30. června 2026, v souladu s politikou výplaty 75 procent provozního cash flow. Ex-dividend den je 13. srpna, výplata proběhne 30. září 2026. Dividenda odráží sezónnost solární výroby.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/nextenergy-solar-fund-limited-red--nesf/dividend-declaration/9707319",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-06_other_eaef",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "MU Stock Slides Again As Semiconductor Selling Deepens",
+      "text": "Akcie Micron klesly o cca 5,4 % uprostřed prohlubujícího se výprodeje v sektoru pamětí. Důvodem jsou obavy z poptávky a cen po slabších výhledech Western Digital a SanDisk a chladný sentiment po předběžných výsledcích Samsungu. Výprodej zasáhl i AMD a Nvidii.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://stockstotrade.com/news/micron-technology-inc-mu-news-2026_08_06-3/",
+      "auto_generated": true
+    },
+    {
+      "id": "TEP_2026-08-06_exdiv_b849",
+      "ticker": "TEP",
+      "type": "exdiv",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Telecom Plus plc announces final dividend of 12p",
+      "text": "Telecom Plus dosahuje ex-dividendového dne 6. srpna 2026 pro finální dividendu 12 pencí na akcii za fiskální rok končící 31. března 2026. Výplata je plánována na 28. srpna 2026 akcionářům registrovaným k 7. srpnu, dividenda podléhá schválení na valné hromadě 17. srpna 2026.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.dividendmax.com/dividend-investor-news/8983/telecom-plus-plc-announces-final-dividend-of-12p",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-06_other_7425",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Western Digital Corp Stock (WDC) Moved Down by 13.44% on Aug 6: Drivers Behind the Movement",
+      "text": "Akcie Western Digital (WDC) se 6. srpna 2026 propadly o 13,44 % kvůli obavám z poklesu cen NAND, možnému zpoždění rozdělení HDD a Flash divizí a vysokým výdajům na technologii HAMR. Navazuje na výsledky za čtvrtletí z 5. srpna. Zvýšené riziko marží a nejistota ohledně spin-off.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262084388-market-movers-wdc-20260806",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-06_other_246d",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "SK Hynix Hit by Another 30% Pre-Market Flash Crash on Nextrade",
+      "text": "Akcie SK Hynix (000660) zažily 6. srpna 2026 druhý bleskový propad za týden – na burze Nextrade se v předobchodní seanci na 50 minut propadly o limit 30 procent (jen 11 akcií). Za celý den uzavřely v Soulu o 10 procent níže na 149 500 wonů, KOSPI klesl asi o 5 procent.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-06/sk-hynix-hit-by-pre-market-flash-crash-on-nextrade-bourse-again",
       "auto_generated": true
     }
   ]
