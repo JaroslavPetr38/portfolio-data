@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-05T18:02:52Z",
+  "generated": "2026-08-06T06:13:51Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 37,
-  "event_count": 4,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2677,6 +2677,34 @@
       "done": false,
       "created": "2026-08-05",
       "source_url": "https://www.upi.com/Top_News/US/2026/08/05/apd-jobs-report/1901785946498/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-05_earnings_c398",
+      "ticker": "WDC",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Western Digital (NASDAQ:WDC) Shares Slide 10-16% After Earnings Beat as Guidance Disappoints",
+      "text": "Western Digital zveřejnil výsledky za 4. čtvrtletí FY2026: tržby 3,75 mld. USD a EPS 3,56 USD, obě čísla nad odhady analytiků. Akcie však po zveřejnění klesly až o 16 % kvůli výhledu naznačujícímu zpomalení růstu marží v 1. čtvrtletí FY2027.",
+      "date": "2026-08-05",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.investing.com/news/company-news/western-digital-q4fy26-slides-margins-soar-but-shares-tumble-16-93CH-4839596",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-06_other_d648",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "SK Hynix Drops Over 8%, Samsung Falls Nearly 6% as Korean Memory Giants Face Renewed Selloff",
+      "text": "Akcie SK Hynix v Soulu 6. 8. 2026 propadly o více než 8 % na cca 1,53 mil. wonů v rámci širšího výprodeje technologických akcií po slabším výhledu konkurenta SanDisk a kvůli geopolitickým obavám. Ukázka pokračující vysoké volatility sektoru pamětí.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-06",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/more/262081187-skhynix-samsung-semiconductor-stock-rout-tradingkey",
       "auto_generated": true
     }
   ]
