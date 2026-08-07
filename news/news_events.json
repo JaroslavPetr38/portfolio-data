@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-06T18:02:54Z",
+  "generated": "2026-08-07T06:04:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 38,
-  "event_count": 6,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -801,6 +801,20 @@
       "done": false,
       "created": "2026-08-05",
       "source_url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/08/60939483/how-intels-earnings-turned-amds-beat-into-a-sell-off",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-06_other_5704",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "text": "AMD 6.8. oznámil dohodu o akvizici torontské AI startupu Taalas, jehož čipy vypalují váhy modelů přímo do křemíku pro rychlejší AI inferenci. Podmínky nezveřejněny, uzavření se čeká ve 4Q 2026. Doplňuje portfolio Helios/Instinct/EPYC, posiluje pozici AMD v AI inference.",
+      "date": "2026-08-06",
+      "done": false,
+      "created": "2026-08-07",
+      "source_url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
       "auto_generated": true
     },
     {
