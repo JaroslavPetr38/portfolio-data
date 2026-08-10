@@ -1,19 +1,19 @@
 {
-  "exported": "2026-07-20T13:42:17.430Z",
+  "exported": "2026-08-10T16:23:16.909Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
       "name": "AtomTrace a.s.",
-      "exchange": "Praha",
+      "exchange": null,
       "currency": "CZK",
       "yahoo": null,
-      "sector": "Industrials",
-      "category": "Laserová spektroskopie"
+      "sector": null,
+      "category": null
     },
     {
       "ticker": "LGEN",
       "name": "Legal & General Group",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "LGEN.L",
       "sector": "Financials",
@@ -22,7 +22,7 @@
     {
       "ticker": "SDLF",
       "name": "Standard Life (Phoenix)",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "SDLF.L",
       "sector": "Financials",
@@ -40,7 +40,7 @@
     {
       "ticker": "SEIT",
       "name": "SDCL Efficiency Income Trust",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "SEIT.L",
       "sector": "Utilities",
@@ -49,7 +49,7 @@
     {
       "ticker": "NRR",
       "name": "NewRiver REIT",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "NRR.L",
       "sector": "Real Estate",
@@ -58,7 +58,7 @@
     {
       "ticker": "NESF",
       "name": "NextEnergy Solar Fund",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "NESF.L",
       "sector": "Utilities",
@@ -67,7 +67,7 @@
     {
       "ticker": "BATS",
       "name": "British American Tobacco",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "BATS.L",
       "sector": "Consumer Staples",
@@ -76,16 +76,16 @@
     {
       "ticker": "ALWN",
       "name": "Alwin (ex-Onan Greece)",
-      "exchange": "ATH",
+      "exchange": "Athens",
       "currency": "EUR",
       "yahoo": "ALWN.AT",
-      "sector": "Industrials",
-      "category": "sportka"
+      "sector": "Consumer Staples",
+      "category": "Sázky/Loterie"
     },
     {
       "ticker": "FGEN",
       "name": "Foresight Environmental Infra.",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "FGEN.L",
       "sector": "Utilities",
@@ -94,11 +94,11 @@
     {
       "ticker": "POLR",
       "name": "Polar Capital Holdings",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "POLR.L",
       "sector": "Financials",
-      "category": "Inv. trust"
+      "category": "Investiční trust"
     },
     {
       "ticker": "NLY",
@@ -112,11 +112,11 @@
     {
       "ticker": "VU",
       "name": "Vusion SA",
-      "exchange": "Euronext",
+      "exchange": "Paris (Euronext)",
       "currency": "EUR",
       "yahoo": "VU.PA",
       "sector": "Technology",
-      "category": "Tech"
+      "category": "Retail Tech/IoT"
     },
     {
       "ticker": "PRIUA",
@@ -130,11 +130,11 @@
     {
       "ticker": "TEP",
       "name": "Telecom Plus",
-      "exchange": "LSE",
+      "exchange": "London",
       "currency": "GBP",
       "yahoo": "TEP.L",
       "sector": "Utilities",
-      "category": "Utility"
+      "category": "Multi-utility reseller"
     },
     {
       "ticker": "ALMU",
@@ -148,7 +148,7 @@
     {
       "ticker": "AT1",
       "name": "Aroundtown SA",
-      "exchange": "XFRA",
+      "exchange": "Frankfurt",
       "currency": "EUR",
       "yahoo": "AT1.DE",
       "sector": "Real Estate",
@@ -157,38 +157,38 @@
     {
       "ticker": "XLY",
       "name": "Auxly Cannabis",
-      "exchange": "NEO",
+      "exchange": "NEO Exchange",
       "currency": "CAD",
       "yahoo": "XLY.NE",
       "sector": "Consumer Staples",
-      "category": "Cannabis"
+      "category": "Cannabis (Consumer)"
     },
     {
       "ticker": "OGI",
       "name": "Organigram Global",
-      "exchange": "TSX",
+      "exchange": "Toronto",
       "currency": "CAD",
       "yahoo": "OGI",
       "sector": "Consumer Staples",
-      "category": "Cannabis"
+      "category": "Cannabis (Consumer)"
     },
     {
       "ticker": "CRON",
       "name": "Cronos Group",
-      "exchange": "TSX",
+      "exchange": "Toronto",
       "currency": "CAD",
       "yahoo": "CRON.TO",
       "sector": "Consumer Staples",
-      "category": "Cannabis"
+      "category": "Cannabis (Consumer)"
     },
     {
       "ticker": "LOVE",
       "name": "Cannara Biotech",
-      "exchange": "TSX",
+      "exchange": "NEO Exchange",
       "currency": "CAD",
       "yahoo": "LOVE.NE",
       "sector": "Consumer Staples",
-      "category": "Cannabis"
+      "category": "Cannabis (Consumer)"
     },
     {
       "ticker": "LAES",
@@ -202,11 +202,11 @@
     {
       "ticker": "AVCN",
       "name": "Avicanna Inc.",
-      "exchange": "NEO",
+      "exchange": "NEO Exchange",
       "currency": "CAD",
       "yahoo": "AVCN.NE",
       "sector": "Healthcare",
-      "category": "Cannabis"
+      "category": "Cannabis (Pharma)"
     },
     {
       "ticker": "MU",
@@ -247,16 +247,25 @@
     {
       "ticker": "SEN",
       "name": "Senetas Corp.",
-      "exchange": "ASX",
+      "exchange": "Australia",
       "currency": "AUD",
       "yahoo": "SEN.AX",
       "sector": "Technology",
       "category": "Post-Quantum"
     },
     {
+      "ticker": "UKW",
+      "name": "UKW",
+      "exchange": "London",
+      "currency": "GBP",
+      "yahoo": "UKW.L",
+      "sector": "Utilities",
+      "category": "Infrastruktura"
+    },
+    {
       "ticker": "ETFDIP",
       "name": "ETFDIP",
-      "exchange": "",
+      "exchange": null,
       "currency": "EUR",
       "yahoo": "SUSW.L",
       "sector": null,
@@ -267,9 +276,9 @@
     {
       "ticker": "000660",
       "name": "SK Hynix",
-      "exchange": "KRX",
+      "exchange": "Korea Exchange",
       "currency": "KRW",
-      "yahoo": null,
+      "yahoo": "SKHY",
       "priority": "MED",
       "sector": "Technology",
       "category": "Semiconductory"
@@ -292,7 +301,7 @@
       "yahoo": "VST",
       "priority": "MED",
       "sector": "Utilities",
-      "category": "Utility"
+      "category": "Výroba energie"
     },
     {
       "ticker": "ANET",
@@ -302,7 +311,7 @@
       "yahoo": "ANET",
       "priority": "MED",
       "sector": "Technology",
-      "category": "Tech"
+      "category": "Síťový hardware"
     },
     {
       "ticker": "CCJ",
@@ -310,7 +319,7 @@
       "exchange": "NYSE",
       "currency": "USD",
       "yahoo": "CCJ",
-      "priority": "MED",
+      "priority": "HIGH",
       "sector": "Energy",
       "category": "Uranium"
     },
@@ -325,54 +334,84 @@
       "category": "Uranium"
     },
     {
-      "ticker": "UKW",
-      "name": "UKW",
-      "exchange": "London",
-      "currency": "GBP",
-      "yahoo": "UKW.L",
-      "priority": "HIGH",
-      "sector": null,
-      "category": "Akcie"
-    },
-    {
       "ticker": "CGTX",
       "name": "Cognition Therapeutics",
-      "exchange": "—",
+      "exchange": null,
       "currency": "USD",
       "yahoo": "CGTX",
       "priority": "LOW",
-      "sector": "Pharma",
-      "category": "Akcie"
+      "sector": null,
+      "category": null
     },
     {
       "ticker": "PRLD",
       "name": "Prelude Therapeutics",
-      "exchange": "—",
+      "exchange": null,
       "currency": "USD",
       "yahoo": "PRLD",
       "priority": "LOW",
-      "sector": "Pharma",
-      "category": "Akcie"
+      "sector": null,
+      "category": null
     },
     {
       "ticker": "IBRX",
       "name": "ImmunityBio",
-      "exchange": "—",
+      "exchange": null,
       "currency": "USD",
       "yahoo": "IBRX",
       "priority": "LOW",
-      "sector": "Pharma",
-      "category": "Akcie"
+      "sector": null,
+      "category": null
     },
     {
       "ticker": "AIBZ",
       "name": "Bitzero Holdings Inc.",
-      "exchange": "—",
+      "exchange": null,
       "currency": "USD",
       "yahoo": "AIBZ",
       "priority": "MED",
       "sector": null,
-      "category": "Akcie"
+      "category": null
+    },
+    {
+      "ticker": "ORCL",
+      "name": "Oracle",
+      "exchange": null,
+      "currency": "USD",
+      "yahoo": "ORCL",
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "AI/Quantum"
+    },
+    {
+      "ticker": "CEG",
+      "name": "Constellation Energy",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "CEG",
+      "priority": "HIGH",
+      "sector": "Utilities",
+      "category": "Výroba energie"
+    },
+    {
+      "ticker": "BWXT",
+      "name": "BWX Technologies",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "BWXT",
+      "priority": "MED",
+      "sector": "Industrials",
+      "category": "Jaderné komponenty"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "AVGO",
+      "priority": "HIGH",
+      "sector": "Technology",
+      "category": "Semiconductory"
     }
   ]
 }
