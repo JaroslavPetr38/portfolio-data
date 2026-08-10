@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-10T06:03:18Z",
+  "generated": "2026-08-10T18:04:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 37,
-  "event_count": 1,
+  "ticker_count": 41,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2901,6 +2901,34 @@
       "done": false,
       "created": "2026-08-10",
       "source_url": "https://www.koreajoongangdaily.com/business/sk-hynix-weighs-stake-sale-in-china-packaging-plant-report/12814960",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-10_other_b86a",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "SK hynix Clarifies Status of Potential Stake Sale in China Packaging Plant After Exchange Inquiry",
+      "text": "SK Hynix v reakci na dotaz Korejské burzy oznámil, že o prodeji podílu ve svém čínském balicím závodě v Chongqingu (odhad cca 2,8 mld. USD) zatím nerozhodl, přestože možnost prověřuje. Firma slíbila nové zveřejnění do měsíce nebo po finálním rozhodnutí. Vyvrací dřívější spekulace o brzkém prodeji.",
+      "date": "2026-08-10",
+      "done": false,
+      "created": "2026-08-10",
+      "source_url": "https://www.tipranks.com/news/company-announcements/sk-hynix-clarifies-status-of-potential-stake-sale-in-china-packaging-plant-after-exchange-inquiry",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-10_macro_47b9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Oil prices today: Uncertainty over U.S.-Iran Strait of Hormuz deal",
+      "text": "Ceny ropy dnes vzrostly o 4,2 % (Brent cca 87 USD, WTI cca 81,5 USD) kvůli nejistotě kolem znovuotevření Hormuzského průlivu - Írán žádá zrušení blokády a odškodnění, Húsíové navíc zaútočili na saúdskou rafinerii. Dražší ropa zatížila americké akcie (S&P 500 -0,1 %, Nasdaq -0,4 %).",
+      "date": "2026-08-10",
+      "done": false,
+      "created": "2026-08-10",
+      "source_url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
       "auto_generated": true
     }
   ]
