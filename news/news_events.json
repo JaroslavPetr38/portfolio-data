@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-10T18:04:00Z",
+  "generated": "2026-08-11T06:04:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
@@ -2820,6 +2820,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-08-10_other_40c7",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Apple Is Testing China's CXMT DRAM Chips for iPhones and MacBooks Amid AI-Driven Memory Supply Crunch",
+      "text": "Apple podle WSJ testuje paměti DRAM od čínské CXMT pro iPhony a MacBooky kvůli nedostatku pamětí způsobenému AI poptávkou. Případná dohoda by vyžadovala schválení americké vlády kvůli exportním omezením na Čínu. Konkurenční riziko pro Micron jako klíčového dodavatele Applu.",
+      "date": "2026-08-10",
+      "done": false,
+      "created": "2026-08-11",
+      "source_url": "https://macdailynews.com/2026/08/10/apple-tests-chinas-cxmt-memory-chips-for-macs-iphones-and-ipads/",
+      "auto_generated": true
+    },
+    {
       "id": "LAES_2026-08-07_other_fe87",
       "ticker": "LAES",
       "type": "other",
@@ -2928,6 +2942,20 @@
       "date": "2026-08-10",
       "done": false,
       "created": "2026-08-10",
+      "source_url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-10_macro_748d",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+      "text": "Ceny ropy 10. 8. vzrostly o cca 5 % (WTI na 82,13 USD, Brent na 87,72 USD) kvůli sílícím obavám, že USA a Írán nedosáhnou dohody o znovuotevření Hormuzského průlivu. Írán požaduje zrušení námořní blokády USA. Růst cen ropy zvyšuje inflační rizika.",
+      "date": "2026-08-10",
+      "done": false,
+      "created": "2026-08-11",
       "source_url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
       "auto_generated": true
     }
