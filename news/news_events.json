@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-11T06:04:00Z",
+  "generated": "2026-08-11T18:02:49Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 2,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2957,6 +2957,48 @@
       "done": false,
       "created": "2026-08-11",
       "source_url": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+      "auto_generated": true
+    },
+    {
+      "id": "OGI_2026-08-11_earnings_6a89",
+      "ticker": "OGI",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Organigram Reports Record Third Quarter Fiscal 2026 Results",
+      "text": "Organigram Global zveřejnil rekordní výsledky za 3. čtvrtletí FY2026: čistý obrat vzrostl o 49 % na 105,8 mil. CAD, upravená EBITDA o 136 % na 13,4 mil. CAD (díky akvizici Sanity Group). Akcie na TSX vzrostly přes 17 %, pozitivní signál pro investory.",
+      "date": "2026-08-11",
+      "done": false,
+      "created": "2026-08-11",
+      "source_url": "https://www.businesswire.com/news/home/20260811435783/en/Organigram-Reports-Record-Third-Quarter-Fiscal-2026-Results",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-10_other_7a89",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Micron Technology Stock Is Gaining Tuesday: What's Going On?",
+      "text": "Akcie Micronu rostou po vyjádření vedení na konferenci KeyBanc, že zákazníci kupují paměti i za velmi vysoké ceny kvůli poptávce po AI. Firma očekává ještě napjatější nabídku v roce 2027 než 2026, což potvrzuje silnou cenovou sílu firmy.",
+      "date": "2026-08-10",
+      "done": false,
+      "created": "2026-08-11",
+      "source_url": "https://www.benzinga.com/markets/tech/26/08/61100740/micron-says-customers-are-scrambling-for-memory-even-at-very-high-prices",
+      "auto_generated": true
+    },
+    {
+      "id": "NESF_2026-08-11_dividend_5914",
+      "ticker": "NESF",
+      "type": "dividend",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "NextEnergy Solar Fund declares first quarterly dividend under new distribution policy",
+      "text": "NextEnergy Solar Fund vyhlásil první čtvrtletní dividendu 1,77p na akcii za čtvrtletí do 30.6.2026 dle nové politiky výplaty 75 % provozního cash flow. Ex-dividendový den 13.8.2026, rozhodný den 14.8.2026, výplata 30.9.2026.",
+      "date": "2026-08-11",
+      "done": false,
+      "created": "2026-08-11",
+      "source_url": "https://uk.advfn.com/market-news/article/20806/nextenergy-solar-fund-declares-first-quarterly-dividend-under-new-distribution-policy",
       "auto_generated": true
     }
   ]
