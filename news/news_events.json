@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T06:10:27Z",
+  "generated": "2026-08-12T18:03:52Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
@@ -3055,6 +3055,62 @@
       "done": false,
       "created": "2026-08-12",
       "source_url": "https://seekingalpha.com/news/4631011-oracle-prepares-plan-for-new-round-of-layoffs-this-month---report",
+      "auto_generated": true
+    },
+    {
+      "id": "FGEN_2026-08-12_dividend_2498",
+      "ticker": "FGEN",
+      "type": "dividend",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Net Asset Value and Dividend Announcement",
+      "text": "Foresight Environmental Infrastructure oznámil NAV a dividendu za čtvrtletí k 30.6.2026. Čisté jmění dosáhlo 652,4 mil. GBP (104,7 p/akcii), celkový výnos NAV 1,4 %, celkový akcionářský výnos 28,2 %. Vyhlášena kvartální dividenda 2,01 p/akcii (cíl 8,04 p ročně), výnos 9,4 % k ceně z 11.8.2026 – pozitivní zpráva pro dividendové investory.",
+      "date": "2026-08-12",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/foresight-environmental-infrastructure-limited--fgen/net-asset-value-and-dividend-announcement/9716744",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-12_earnings_b50b",
+      "ticker": "MU",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Why Micron Stock Is Surging Today",
+      "text": "Akcie Micron dnes vzrostly o 6,5 % po zprávách, že paměti HBM3E jsou vyprodané do konce roku 2026 a firma zvýšila výhled tržeb na 31,5-33,5 mld. USD. Tržby z datacenter segmentu meziročně vzrostly o více než 150 % díky poptávce po AI čipech. Pozitivní signál pro investory v AI infrastruktuře.",
+      "date": "2026-08-12",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://www.fool.com/investing/2026/08/12/why-micron-stock-is-surging-today/",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-12_other_fe9c",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Oracle Plans Job Cuts; Stock (ORCL) Sees Post-Announcement Gains",
+      "text": "Oracle oznámilo přípravu dalšího kola propouštění před druhým fiskálním čtvrtletím. Akcie ORCL přesto v úterý otevřely o 5,13 % výše, v průběhu dne se pohybovaly mezi 144,24 a 152,70 USD. Trh vnímá škrty nákladů pozitivně uprostřed vysokých investic do AI infrastruktury a předchozích obav z volného cash flow.",
+      "date": "2026-08-12",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://www.gurufocus.com/news/9027551/oracle-plans-job-cuts-stock-orcl-sees-postannouncement-gains",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-12_macro_990b",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Tepid CPI report gives the Fed more breathing room",
+      "text": "Americký index spotřebitelských cen (CPI) za červenec vzrostl meziročně o 3,4 %, jádrová inflace o 2,5 %, obojí v souladu s odhady trhu. Data ochladila obavy z dalšího zvyšování sazeb Fedu, index S&P 500 posílil o 0,2 % a Nasdaq o 0,3 %. Investorům to snižuje riziko zářijového zvýšení sazeb.",
+      "date": "2026-08-12",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://www.cnbc.com/2026/08/12/tepid-cpi-report-gives-the-fed-more-breathing-room.html",
       "auto_generated": true
     }
   ]
