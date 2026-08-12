@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-11T18:02:49Z",
+  "generated": "2026-08-12T06:10:27Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 3,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -2999,6 +2999,62 @@
       "done": false,
       "created": "2026-08-11",
       "source_url": "https://uk.advfn.com/market-news/article/20806/nextenergy-solar-fund-declares-first-quarterly-dividend-under-new-distribution-policy",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-12_other_80d5",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SK Hynix, Samsung Shares Rally as Temasek Report Boosts Optimism",
+      "text": "Akcie SK Hynix a Samsung Electronics vzrostly v korejském obchodování o více než 8 % poté, co server Asia Business Daily informoval, že singapurský fond Temasek plánuje přímou investici do obou firem. Index KOSPI posílil až o 5 %. Pozitivní impuls pro sentiment v sektoru pamětí.",
+      "date": "2026-08-12",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-12/sk-hynix-samsung-extend-gains-after-report-temasek-to-invest",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-11_other_9cca",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure",
+      "text": "Oracle a Quantinuum 11.8.2026 oznámily víceletou spolupráci na zpřístupnění kvantového počítání přes Oracle Cloud Infrastructure (OCI). Zákazníci OCI získají přístup k počítači Helios vedle HPC a GPU infrastruktury. Posiluje to pozici Oracle v cloudové AI a vědecké výpočetní technice.",
+      "date": "2026-08-11",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/oracle-quantinuum-partner-bring-quantum-200202275.html",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-11_other_55a6",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Why Did Oracle Stock Drop After Today's TikTok News?",
+      "text": "Akcie Oracle 11.8.2026 klesly asi o 4,1 %, poté co vláda USA zrušila federální zákaz TikToku, ve kterém má koalice vedená Oracle většinový podíl. Investoři se místo toho soustředí na vysoké spalování hotovosti a dluh přes 100 mld. USD kvůli AI datacentrům.",
+      "date": "2026-08-11",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-did-oracle-stock-drop-181821064.html",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-11_other_e8d1",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Oracle Prepares Plans for New Round of Layoffs This Month - Report",
+      "text": "Podle zprávy Business Insider z 11.8.2026 Oracle chystá další kolo propouštění kvůli snížení mzdových nákladů uprostřed rostoucího zadlužení (přes 129,5 mld. USD) a 260 mld. USD závazků z pronájmu AI datacenter. Za poslední rok firma zrušila už 21 000 pozic (13 % zaměstnanců).",
+      "date": "2026-08-11",
+      "done": false,
+      "created": "2026-08-12",
+      "source_url": "https://seekingalpha.com/news/4631011-oracle-prepares-plan-for-new-round-of-layoffs-this-month---report",
       "auto_generated": true
     }
   ]
