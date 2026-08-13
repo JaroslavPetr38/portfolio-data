@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-13T06:07:44Z",
+  "generated": "2026-08-13T18:02:34Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 0,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3111,6 +3111,76 @@
       "done": false,
       "created": "2026-08-12",
       "source_url": "https://www.cnbc.com/2026/08/12/tepid-cpi-report-gives-the-fed-more-breathing-room.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-13_other_2fc8",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "text": "AMD plánuje emisi dluhopisů až za 5 miliard USD (splatnost 2029-2036) - potenciálně největší investiční dluhopisovou emisi firmy. Výnosy použije na obecné korporátní výdaje a možné splacení 875 mil. USD dluhu splatného příští měsíc. Signalizuje rostoucí kapitálové potřeby spojené s AI expanzí.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-13",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
+      "auto_generated": true
+    },
+    {
+      "id": "XLY_2026-08-13_earnings_b651",
+      "ticker": "XLY",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Auxly Reports Second Quarter 2026 Results",
+      "text": "Auxly Cannabis zveřejnila výsledky za Q2 2026: čistý výnos 45,8 mil. CAD (+18 % r/r), hrubá marže 55 %, upravená EBITDA 14,3 mil. CAD (+24 %), čistý zisk 7,7 mil. CAD (0,08 CAD/akcii). CEO označil čtvrtletí za rekordní – pozitivní pro investory.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-13",
+      "source_url": "https://www.tradingview.com/news/prnewswire:539be5068c29b:0-auxly-reports-second-quarter-2026-results/",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-13_other_74d6",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates",
+      "text": "Oracle a AWS oznámily 13. srpna rozšířenou dlouhodobou strategickou spolupráci - Oracle AI Database@AWS je nyní dostupná ve 22 regionech AWS. Oracle zároveň spustil službu Exadata Database Service na Exascale Infrastructure. Posiluje to multicloudovou strategii a může zvýšit tržby z cloudových služeb.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-13",
+      "source_url": "https://www.prnewswire.com/news-releases/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-databaseaws-accelerates-302850291.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-13_other_3188",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Western Digital Corp Stock (WDC) Moved Up by 7.72% on Aug 13: What Signal Does It Send?",
+      "text": "Akcie Western Digital vzrostly 13. srpna o zhruba 7-8 % v rámci pokračující poptávky po NAND čipech pro AI a oživení sektoru paměťových čipů po výsledcích Micronu. Analytici zvyšují cenové cíle. Potvrzuje to silný zájem trhu o AI-driven storage sektor.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-13",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262103145-market-movers-wdc-20260813",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-13_macro_7bbd",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "text": "Index cen výrobců (PPI) v USA v červenci nečekaně stagnoval (odhad +0,2 %), meziročně zpomalil na 4,7 % z 5,5 % díky nižším cenám energií a potravin. Trh snížil šanci na zářijové zvýšení sazeb Fedu, výnosy dluhopisů klesly - pozitivní signál pro akciové trhy.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-13",
+      "source_url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
       "auto_generated": true
     }
   ]
