@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-14T06:12:20Z",
+  "generated": "2026-08-14T18:03:44Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 4,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3237,6 +3237,48 @@
       "done": false,
       "created": "2026-08-14",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
+      "auto_generated": true
+    },
+    {
+      "id": "NESF_2026-08-14_other_8b65",
+      "ticker": "NESF",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "NextEnergy Solar Fund (NESF) Schedules AGM for September 4, 2026, Urges Shareholders to Reject Discontinuation Proposal",
+      "text": "NextEnergy Solar Fund svolal valnou hromadu na 4. září 2026 a rozeslal akcionářům pozvánku 14. srpna 2026. Představenstvo doporučuje hlasovat proti návrhu na ukončení fondu, protože by vyžadoval nucený prodej aktiv se slevou vůči NAV. Jde o třetí hlasování o pokračování fondu za tři roky.",
+      "date": "2026-08-14",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://kalkinemedia.com/uk/news/announcements/nextenergy-solar-fund-nesf-schedules-agm-for-september-4-2026-urges-shareholders-to-reject-discontinuation-proposal",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-14_analysis_4452",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Micron Stock Extends AI Rally As Wall Street Hikes Targets",
+      "text": "UBS zvýšila cílovou cenu akcií Micron na 1625 USD kvůli nedostatku pamětí HBM a silné poptávce datacenter. Citi naopak snížila cíl na 1150 USD, ale ponechala doporučení Koupit. Akcie v pátek rostly o 3,25 %, průměrný cíl analytiků je kolem 1568 USD.",
+      "date": "2026-08-14",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://www.timothysykes.com/news/micron-technology-inc-mu-news-2026_08_14/",
+      "auto_generated": true
+    },
+    {
+      "id": "CLNN_2026-08-14_earnings_1ba0",
+      "ticker": "CLNN",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Clene Reports Second Quarter 2026 Financial Results and Recent Operating Highlights",
+      "text": "Clene zveřejnila výsledky za 2. čtvrtletí 2026: čistá ztráta vzrostla na 13,4 mil. USD (1,08 USD/akcii) z 7,4 mil. USD loni. Hotovost stoupla na 9,7 mil. USD z 5,2 mil. USD ke konci 2025. Firma plánuje na počátku 4Q 2026 podat žádost NDA pro CNM-Au8 u ALS ve zrychleném schvalovacím řízení.",
+      "date": "2026-08-14",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/14/3345318/0/en/clene-reports-second-quarter-2026-financial-results-and-recent-operating-highlights.html",
       "auto_generated": true
     }
   ]
