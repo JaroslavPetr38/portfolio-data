@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-13T18:02:34Z",
+  "generated": "2026-08-14T06:12:20Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 5,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3181,6 +3181,62 @@
       "done": false,
       "created": "2026-08-13",
       "source_url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "auto_generated": true
+    },
+    {
+      "id": "SDLF_2026-08-13_analysis_0d1a",
+      "ticker": "SDLF",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "JPMorgan Chase & Co. Raises Standard Life (LON:SDLF) Price Target to GBX 1,075",
+      "text": "JPMorgan zvýšil cílovou cenu akcií Standard Life z 975p na 1075p a potvrdil doporučení \"overweight\". Analytik Farooq Hanif zdůvodňuje růst pokračující důvěrou v akvizici Aegon UK, kterou vidí jako pozitivní katalyzátor zisků pro obě strany. Pro investora jde o potvrzení pozitivního výhledu na akcii ze strany klíčového analytika.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://www.dailypolitical.com/2026/08/13/jpmorgan-chase-co-raises-standard-life-lonsdlf-price-target-to-gbx-1075.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-13_other_477e",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI",
+      "text": "Micron 13. srpna 2026 spustil investiční fond Micron Ventures Paradigm Fund ve výši 250 mil. USD zaměřený na AI napříč celým stackem (modely, infrastruktura, aplikace). Jde o třetí a dosud největší fond Micron Ventures, celkový kapitál stoupá na 550 mil. USD. Posiluje AI strategii firmy.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://investingnews.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-13_other_5102",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
+      "text": "Podle reportu Counterpoint Research za Q2 2026 čínská YMTC poprvé předstihla Micron a Kioxia v globálních dodávkách NAND čipů (14% podíl), Micron ale zůstává vpředu v tržbách. Akcie MU přesto ve čtvrtek 13.8. vzrostly o cca 6 % na 969 USD kvůli napjaté nabídce a AI poptávce po paměti.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-13_other_3e8f",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "AMD Raises $4.75 Billion From Bond Sale as AI Demand Surges",
+      "text": "AMD 13. srpna vydala dluhopisy za 4,75 mld. USD ve čtyřech tranších (splatnost 2029-2036) - největší dolarová emise v historii firmy. Výtěžek jde na obecné firemní účely včetně financování AI expanze, vypořádání 17.8. Akcie reagovaly růstem, trh to čte jako signál silné poptávky po kapitálu na AI.",
+      "date": "2026-08-13",
+      "done": false,
+      "created": "2026-08-14",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-13/amd-plans-to-raise-as-much-as-5-billion-from-debt-offering",
       "auto_generated": true
     }
   ]
