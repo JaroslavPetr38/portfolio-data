@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T06:16:06Z",
+  "generated": "2026-08-17T18:09:42Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
@@ -3349,6 +3349,76 @@
       "done": false,
       "created": "2026-08-17",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-14/treasuries-gain-as-weak-retail-sales-data-erode-rate-hike-bets",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-17_other_8a07",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SK Hynix Stock Jumps on Lutnick Comments Favoring Non-Chinese Memory Chips",
+      "text": "Akcie SK Hynixu vzrostly o 9 %, poté co ministr obchodu USA Lutnick řekl, že vláda nepodporuje nákup paměťových čipů Applu od čínských výrobců YMTC a CXMT. Trh to čte jako podporu nečínských dodavatelů HBM pamětí, což zvýhodňuje SK Hynix v AI segmentu.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-17",
+      "source_url": "https://www.fool.com/investing/2026/08/17/why-sk-hynix-stock-popped-today/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-17_other_1d9b",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Western Digital Stock Jumps on Lutnick Comments Favoring Non-Chinese Memory Chips",
+      "text": "Akcie Western Digital vzrostly o 7 %, poté co ministr obchodu USA Lutnick uvedl, že vláda nepreferuje nákup paměťových čipů Applu od čínských výrobců YMTC a CXMT. Investoři očekávají posílení poptávky po americké/nečínské paměťové kapacitě, což je pozitivní pro WDC.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-17",
+      "source_url": "https://www.fool.com/investing/2026/08/17/why-western-digital-stock-popped-today/",
+      "auto_generated": true
+    },
+    {
+      "id": "AIBZ_2026-08-17_earnings_9784",
+      "ticker": "AIBZ",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Bitzero Holdings Reports Wider Interim Losses Despite Rising Mining Revenue",
+      "text": "Bitzero Holdings zveřejnil mezitímní výsledky za čtvrtletí končící 30. června 2026 (formulář 6-K). Tržby z těžby digitálních aktiv vzrostly na 10,7 mil. USD z 6,4 mil. USD, ale čistá ztráta se prohloubila na přibližně 26,5 mil. USD kvůli vyšším nákladům. Slabý signál pro ziskovost firmy.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-17",
+      "source_url": "https://www.tipranks.com/news/company-announcements/bitzero-holdings-posts-wider-interim-losses-despite-rising-crypto-mining-revenue",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-17_macro_3a55",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
+      "text": "Sázky trhu na zvýšení sazby Fedu v září klesly na 30,6 % z 52,2 % týden zpět po slabších datech o maloobchodních tržbách a náladě spotřebitelů. Dolar oslabil na tříměsíční minimum, euro vzrostlo na dvouměsíční maximum (1,158 USD) před Jackson Hole.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-17",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-17_macro_e51d",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Empire State factory index surges to 20.6 in August, crushing estimates by nearly double",
+      "text": "Index newyorské Fed (Empire State) vzrostl v srpnu na 20,6 bodu, nejvíce od roku 2022, výrazně nad odhadem 11,0. Nové objednávky stouply na 37,1. Akcie reagovaly smíšeně (Dow -0,31 %), silná data snižují riziko recese, ale mohou oddálit snížení sazeb Fedu.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-17",
+      "source_url": "https://cryptobriefing.com/empire-state-factory-index-august-2026/",
       "auto_generated": true
     }
   ]
