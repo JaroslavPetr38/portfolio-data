@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-18T06:13:24Z",
+  "generated": "2026-08-18T18:09:18Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 2,
+  "event_count": 4,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3447,6 +3447,62 @@
       "done": false,
       "created": "2026-08-18",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-18_other_c6c3",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron Retreats as Patent Dispute Clouds AI Outlook",
+      "text": "Netlist podala 12. 8. u ITC a federálního soudu žalobu na Micron kvůli údajnému porušení patentů na paměti DDR5 RDIMM/MRDIMM využívané v AI serverech, s možností zákazu dovozu do USA. Akcie Micronu dnes klesly o téměř 5 %. Negativní signál kvůli riziku pro klíčový AI segment firmy.",
+      "date": "2026-08-18",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://www.tradingpedia.com/2026/08/18/micron-retreats-as-patent-dispute-clouds-ai-outlook/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-18_other_a64c",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+      "text": "Akcie Western Digital dnes klesly o cca 7 % (Micron -5 %, SanDisk -6 %) kvůli rostoucím výnosům amerických dluhopisů, které zvyšují náklady financování a vyvolávají obavy o udržitelnost AI investičního boomu v sektoru pamětí. Krátkodobě negativní pro držitele WDC.",
+      "date": "2026-08-18",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://247wallst.com/investing/2026/08/18/micron-technology-falls-5-sandisk-sinks-6-western-digital-drops-7-as-higher-rates-test-the-memory-boom/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-18_other_2482",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "KOSPI Tops 7,100 as Chip Stocks Rally After Holiday Break",
+      "text": "Akcie SK Hynix dnes vzrostly o 6,3-6,6 % na cca 1,7 mil. wonů po návratu korejského trhu z svátku Dne osvobození. Růst táhli zahraniční investoři a slábnoucí obavy o ziskovost AI po pozitivních komentářích SanDisku a růstu tržeb Anthropicu. Pozitivní pro sektor pamětí.",
+      "date": "2026-08-18",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://en.sedaily.com/finance/2026/08/18/kospi-tops-7100-as-chip-stocks-rally-after-holiday-break",
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-08-18_other_7b46",
+      "ticker": "ANET",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Arista Networks Inc Stock (ANET) Moved Down by 5.06% on Aug 18: What Investors Need To Know",
+      "text": "Akcie Arista Networks dnes klesly o 5,06 % poté, co hrubá marže meziročně klesla na 63,4 % z 65,6 % kvůli rostoucím nákladům na paměti a čipy. Investory znepokojily i rozsáhlé prodeje akcií insiderů (CEO prodala akcie za cca 119 mil. USD) a vysoké ocenění (P/E cca 64x).",
+      "date": "2026-08-18",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262115614-market-movers-anet-20260818",
       "auto_generated": true
     }
   ]
