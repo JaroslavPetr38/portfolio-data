@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-17T18:09:42Z",
+  "generated": "2026-08-18T06:13:24Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 5,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3419,6 +3419,34 @@
       "done": false,
       "created": "2026-08-17",
       "source_url": "https://cryptobriefing.com/empire-state-factory-index-august-2026/",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-17_macro_ad11",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows",
+      "text": "Provoz tankerů Hormuzským průlivem prudce klesl po útocích na lodě ADNOC – o víkendu jím proplulo jen 5 lodí v sobotu a 0 v neděli, oproti 31 týden předtím. Průlivem prochází až pětina světových dodávek ropy a LNG, jednání USA-Írán uvázla. Ropa WTI vzrostla o 3 %, roste riziko vyšší inflace.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://www.al-monitor.com/originals/2026/08/shipping-slows-through-strait-hormuz-after-tanker-attacks-data-shows",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-17_macro_f884",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
+      "text": "Goldman Sachs označil sázky trhu na zářijové zvýšení sazby Fedu za přehnaně jestřábí. Šéfekonom Hatzius uvedl, že hike je „velmi nepravděpodobný“ kvůli slabým tržbám, chabým datům o zaměstnanosti a zpomalující inflaci. Pravděpodobnost dle CME FedWatch klesla na cca 30 %, pozitivní pro akcie.",
+      "date": "2026-08-17",
+      "done": false,
+      "created": "2026-08-18",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-17/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates",
       "auto_generated": true
     }
   ]
