@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-18T18:09:18Z",
+  "generated": "2026-08-19T06:03:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 4,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3461,6 +3461,20 @@
       "done": false,
       "created": "2026-08-18",
       "source_url": "https://www.tradingpedia.com/2026/08/18/micron-retreats-as-patent-dispute-clouds-ai-outlook/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-18_other_ae15",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Why are Intel and AMD stocks tanking up to 7% today?",
+      "text": "Akcie AMD klesly 18. 8. o cca 5 % (Intel o 7 %) kvůli prudkému růstu výnosů dlouhodobých dluhopisů (30leté na 5,33 %, nejvýš od 2007) kvůli napětí USA-Írán a vysokým cenám ropy. Pokles nesouvisí s fundamenty AMD, tržby ve 2Q vzrostly o 50 % na 11,5 mld. USD.",
+      "date": "2026-08-18",
+      "done": false,
+      "created": "2026-08-19",
+      "source_url": "https://invezz.com/news/2026/08/18/why-are-intel-and-amd-stocks-tanking-up-to-7-today/",
       "auto_generated": true
     },
     {
