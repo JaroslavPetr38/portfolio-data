@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-21T06:10:36Z",
+  "generated": "2026-08-21T18:02:56Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 3,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3811,6 +3811,76 @@
       "done": false,
       "created": "2026-08-21",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/japan-s-inflation-accelerates-backing-boj-s-case-for-rate-hike",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-21_analysis_5326",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "BMO initiates AMD stock coverage with outperform rating on AI growth",
+      "text": "BMO Capital Markets dnes zahájila pokrytí akcií AMD s doporučením Outperform a cílovou cenou 550 USD. Analytik očekává start dodávek AI serveru Helios v září 2026 (konkurent Nvidia NVL72) se zákazníky OpenAI, Meta a Anthropic. Pozitivní signál posilující AI narativ akcie.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.investing.com/news/analyst-ratings/bmo-initiates-amd-stock-coverage-with-outperform-rating-on-ai-growth-93CH-4871247",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-08-21_analysis_3e0a",
+      "ticker": "AVGO",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "BMO initiates Broadcom stock with Outperform rating on AI strength",
+      "text": "BMO Capital zahájila pokrytí Broadcomu s ratingem Outperform a cílovou cenou 455 USD díky pozici firmy jako druhého největšího dodavatele AI infrastruktury po Nvidii (zákazníci Google, OpenAI, Anthropic). Akcie vzrostly o 1,3 %. Pozitivní signál pro investory v AI segmentu.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://ca.investing.com/news/stock-market-news/bmo-initiates-broadcom-stock-with-outperform-rating-on-ai-strength-93CH-4811946",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-21_other_e4f2",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SK Hynix Rises 4.5%, Outperforms KOSPI on Plan to Build Memory Chip Plant in Japan",
+      "text": "SK Hynix zvažuje výstavbu nového výrobního závodu na paměťové čipy v japonské prefektuře Mijagi za desítky bilionů wonů, což potvrdila burza KRX. Firma zatím nerozhodla, aktualizaci trhu slíbila do měsíce. Akcie v reakci vzrostly o 4,5 % a překonaly index KOSPI.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/more/262122861-sk-hynix-plans-build-memory-chip-fab-japan-tradingkey",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-21_macro_94b7",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Spot gold holds above $4,585/oz as flash S&P composite PMI improves to 56 in August",
+      "text": "Předběžný srpnový PMI USA vzrostl na 56,0 (z 54,5), nejrychleji od dubna 2022 – táhnou ho služby (56,8), průmysl mírně zaostal (53,2). Silná data tlumí obavy z recese, ale snižují šanci na brzké snížení sazeb Fedu; zlato drží nad 4585 USD/oz.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.kitco.com/news/article/2026-08-21/spot-gold-holds-above-4585oz-flash-sp-composite-pmi-improves-56-august",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-21_macro_7f41",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Eurozone flash PMI signals cooler inflation amid sustained expansion of output",
+      "text": "Předběžný srpnový kompozitní PMI eurozóny vzrostl na 52,1 (z 52,0), 9měsíční maximum. Výroba zrychlila na 54měsíční maximum, cenové tlaky slábnou. Ukazuje na solidní růst HDP ve 3Q a nižší tlak na další zpřísňování ECB.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/eurozone-flash-pmi-signals-cooler-inflation-amid-sustained-expansion-of-output",
       "auto_generated": true
     }
   ]
