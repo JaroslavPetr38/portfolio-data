@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-20T18:10:00Z",
+  "generated": "2026-08-21T06:10:36Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 7,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3769,6 +3769,48 @@
       "done": false,
       "created": "2026-08-20",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/us-weekly-jobless-claims-edged-lower-to-206-000-in-latest-week",
+      "auto_generated": true
+    },
+    {
+      "id": "SDLF_2026-08-20_other_6eb7",
+      "ticker": "SDLF",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Launch of UK Pension Risk Transfer partnership",
+      "text": "Standard Life uzavřela partnerství až za 2 mld. GBP s konsorciem CVC, Prudential Financial, Goldman Sachs a MS&AD na financování penzijních risk transfer obchodů. Vloží 500 mil. GBP, CVC 400 mil. GBP. Cíl: obsluhovat větší a komplexnější penzijní schémata ve Velké Británii.",
+      "date": "2026-08-20",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.standardlifeplc.com/news-and-views/press-releases/article-page/launch-of-uk-pension-risk-transfer-partnership",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-08-20_other_9244",
+      "ticker": "AVGO",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
+      "text": "Broadcom jedná s věřiteli (Blackstone, Apollo) o financování AI infrastruktury ve výši 60-100 mld. USD, mj. pro Anthropic. Posiluje tak kapacitu výroby AI čipů v konkurenci s Nvidií. Pozitivní signál růstu, ale i vyššího zadlužení.",
+      "date": "2026-08-20",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-21_macro_ea63",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Japan's Inflation Accelerates, Backing BOJ's Case for Rate Hike",
+      "text": "Japonská inflace v červenci zrychlila druhý měsíc v řadě: jádrová CPI vzrostla na 1,8 % meziročně (z 1,6 %), inflace bez čerstvých potravin a energií na 1,9 %, blízko cíle BOJ. Data posilují očekávání zvýšení sazeb centrální banky už v září, což může podpořit jen a zvýšit výnosy dluhopisů.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-21",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/japan-s-inflation-accelerates-backing-boj-s-case-for-rate-hike",
       "auto_generated": true
     }
   ]
