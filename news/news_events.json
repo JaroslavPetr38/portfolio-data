@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-24T06:04:42Z",
+  "generated": "2026-08-24T18:08:21Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 2,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3909,6 +3909,48 @@
       "done": false,
       "created": "2026-08-24",
       "source_url": "https://www.foreignpolicyjournal.com/2026/08/22/oracle-nyse-orcl-lands-17-billion-va-contract-expansion-pushing-total-deal-to-27-billion/",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-24_other_1a12",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "MU Stock Today, August 24, 2026: Micron Falls 7% With Its 2026 Output Already Sold",
+      "text": "Akcie Micron 24.8.2026 klesly o 7,1 % na 897,77 USD kvůli propadu Samsungu (-9 % v Soulu) po slabém plánu odkupu akcií, rostoucím výnosům dluhopisů a nové žalobě Netlist u ITC kvůli patentům na DDR5/MRDIMM, hrozící zákazem dovozu čipů do USA.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-24",
+      "source_url": "https://easternherald.com/2026/08/24/mu-stock-price-today-august-24-2026/",
+      "auto_generated": true
+    },
+    {
+      "id": "LGEN_2026-08-24_analysis_46ca",
+      "ticker": "LGEN",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Brokerages Set Legal & General Group Plc (LON:LGEN) Target Price at GBX 276.86",
+      "text": "Několik brokerů (JPMorgan, RBC, Citigroup, Jefferies) potvrdilo cenové cíle akcií LGEN, průměr 276,86 GBX, převažují doporučení prodat/podvážit kvůli obavám o udržitelnost dividendy při nízké tvorbě čistého kapitálového přebytku. Varovný signál navzdory výnosu 7,7 %.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-24",
+      "source_url": "https://www.defenseworld.net/2026/08/24/brokerages-set-legal-general-group-plc-lonlgen-target-price-at-gbx-276-86.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-24_other_99f3",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Western Digital Corp Stock (WDC) Moved Down by 5.55% on Aug 24: Key Drivers Unveiled",
+      "text": "Akcie WDC klesly 24.8.2026 o 5,55 % (intradenně až -8 %) kvůli výprodeji v paměťovém sektoru na pozadí rostoucích výnosů dluhopisů, zveřejněným insider prodejům (Form 144) a snížení doporučení na neutral. Fundamenty zůstávají silné, jde o korekci ocenění.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-24",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
       "auto_generated": true
     }
   ]
