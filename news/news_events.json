@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-21T18:02:56Z",
+  "generated": "2026-08-24T06:04:42Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 5,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3881,6 +3881,34 @@
       "done": false,
       "created": "2026-08-21",
       "source_url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/08/eurozone-flash-pmi-signals-cooler-inflation-amid-sustained-expansion-of-output",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-08-21_other_8d93",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Cameco Corp Stock (CCJ) Closed Up by 7.24% on Aug 21: Key Drivers Unveiled",
+      "text": "Akcie Cameco vzrostly 21. srpna 2026 o 7,24 % na 102,51 USD. Růst táhla očekávaná IPO společnosti Westinghouse (49% vlastněná Cameco) a masivní podpora amerického ministerstva energetiky pro nové jaderné reaktory. Pro investory jde o potvrzení rostoucí hodnoty jaderného portfolia Cameco.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-24",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262125359-market-movers-ccj-20260821",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-21_other_43aa",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Oracle (NYSE: ORCL) Lands $17 Billion VA Contract Expansion, Pushing Total Deal To $27 Billion",
+      "text": "VA rozšířilo smlouvu s Oracle Health na elektronické zdravotní záznamy o 17 miliard USD, celková hodnota kontraktu tak vzrostla na cca 27 miliard USD. Smlouva zahrnuje tři jednoleté opce s možností prodloužení do května 2031. Akcie ORCL po zprávě vzrostly zhruba o 3 %.",
+      "date": "2026-08-21",
+      "done": false,
+      "created": "2026-08-24",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/08/22/oracle-nyse-orcl-lands-17-billion-va-contract-expansion-pushing-total-deal-to-27-billion/",
       "auto_generated": true
     }
   ]
