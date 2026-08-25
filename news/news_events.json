@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-25T06:12:51Z",
+  "generated": "2026-08-25T18:10:18Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 3,
+  "event_count": 1,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -3993,6 +3993,20 @@
       "done": false,
       "created": "2026-08-25",
       "source_url": "https://www.benzinga.com/markets/equities/26/08/61399647/sk-hynix-kospi-korean-chipmakers-us-investment-iran-tensions",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-25_analysis_5a41",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Raymond James upgrades AMD to Strong Buy, raises price target to $641",
+      "text": "Raymond James zvýšil rating AMD z Outperform na Strong Buy a cenový cíl z 565 na 641 USD. Důvodem je atraktivní ocenění a růst trhu serverových CPU pro AI (CAGR 44 % do roku 2030). Akcie v předobchodování posílily o 2,5 %.",
+      "date": "2026-08-25",
+      "done": false,
+      "created": "2026-08-25",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-rise-111055911.html",
       "auto_generated": true
     }
   ]
