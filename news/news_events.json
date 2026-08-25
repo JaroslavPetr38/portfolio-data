@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T18:08:21Z",
+  "generated": "2026-08-25T06:12:51Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
@@ -3951,6 +3951,48 @@
       "done": false,
       "created": "2026-08-24",
       "source_url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-24_other_f515",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
+      "text": "Akcie Micronu v pondělí klesly o 7 % po zprávě, že USA mohou Applu povolit nákup čipů od čínských výrobců CXMT a YMTC. Souběžně klesly SanDisk o 9 % a Western Digital o 7 %. Analytici označili propad za přehnanou reakci, dopad se týká jen čínského trhu.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-25",
+      "source_url": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-24_other_f515",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
+      "text": "Akcie Western Digital v pondělí klesly o 7 % po zprávě, že americká administrativa může Applu povolit nákup pamětových čipů od čínských výrobců CXMT a YMTC. Micron klesl o 7 %, SanDisk o 9 %. Analytici propad označili za přehnanou reakci trhu, dopad by se týkal jen čínského trhu.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-25",
+      "source_url": "https://247wallst.com/investing/2026/08/24/memory-stocks-slide-on-report-apple-may-source-chinese-chips-sandisk-down-9-micron-and-western-digital-down-7/",
+      "auto_generated": true
+    },
+    {
+      "id": "000660_2026-08-24_other_c1db",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "SK Hynix Drops 5% in Seoul, KOSPI Drops 3% Amid Reported US Pressure for Korean Chipmakers to Invest in America",
+      "text": "Akcie SK Hynix v Soulu klesly o 5 %, ADR v USA téměř o 5 % na 155,37 USD. Důvodem jsou obavy z tlaku USA na korejské výrobce čipů investovat v Americe a napětí kolem Íránu; index KOSPI ztratil 2,7 %. Fundamenty firmy zůstávají silné, jde o krátkodobou volatilitu.",
+      "date": "2026-08-24",
+      "done": false,
+      "created": "2026-08-25",
+      "source_url": "https://www.benzinga.com/markets/equities/26/08/61399647/sk-hynix-kospi-korean-chipmakers-us-investment-iran-tensions",
       "auto_generated": true
     }
   ]
