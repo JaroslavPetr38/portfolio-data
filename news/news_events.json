@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-26T06:05:41Z",
+  "generated": "2026-08-26T18:09:14Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 2,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -4035,6 +4035,48 @@
       "done": false,
       "created": "2026-08-26",
       "source_url": "https://weissratings.com/en/instant-news-alerts/cameco-corporation-ccj-up-5-1-buy-before-it-runs-further",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-08-26_other_f4b8",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Micron Announces Leadership Appointments to Accelerate Innovation and Growth",
+      "text": "Micron oznámil změny ve vedení: Manish Bhatia se stal prezidentem a COO, Scott DeBoer prezidentem a Chief Technology and Products Officerem, s okamžitou platností. Bhatia povede globální provoz, P&L a výrobu, DeBoer technologii a vývoj produktů. Akcie po zprávě mírně oslabily.",
+      "date": "2026-08-26",
+      "done": false,
+      "created": "2026-08-26",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/26/3351270/14450/en/micron-announces-leadership-appointments-to-accelerate-innovation-and-growth.html",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-08-26_analysis_9ef6",
+      "ticker": "ORCL",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Why Oracle Stock Popped Today",
+      "text": "Akcie Oracle ve středu vzrostly o 4,5 % poté, co Citigroup zopakovala doporučení Koupit s cílovou cenou 330 USD (dříve cca 148 USD). Letošní propad akcie o 54 % z červnového vrcholu byl jeden z nejextrémnějších v historii firmy. Pozitivní signál po poklesu kvůli obavám z AI dluhu.",
+      "date": "2026-08-26",
+      "done": false,
+      "created": "2026-08-26",
+      "source_url": "https://www.fool.com/investing/2026/08/26/why-oracle-stock-popped-today/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-08-26_other_437a",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Western Digital Restructures Convertible Debt Through Exchange Agreements",
+      "text": "Western Digital uzavřela dohody o výměně cca 191 mil. USD konvertibilních dluhopisů (3 % 2028) za hotovost a akcie dle VWAP z 26. 8. 2026, uzavření kolem 2. září 2026. Restrukturalizace dluhu sníží zadluženost, ale mírně zředí akcionáře.",
+      "date": "2026-08-26",
+      "done": false,
+      "created": "2026-08-26",
+      "source_url": "https://www.tipranks.com/news/company-announcements/western-digital-restructures-convertible-debt-through-exchange-agreements",
       "auto_generated": true
     }
   ]
