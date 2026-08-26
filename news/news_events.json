@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-25T18:10:18Z",
+  "generated": "2026-08-26T06:05:41Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 1,
+  "event_count": 2,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -4007,6 +4007,34 @@
       "done": false,
       "created": "2026-08-25",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-rise-111055911.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AT1_2026-08-26_earnings_3c3c",
+      "ticker": "AT1",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "Aroundtown SA Reports H1 2026 Results in Line with Guidance",
+      "text": "Aroundtown zveřejnila výsledky za H1 2026 v souladu s výhledem. Čistý nájem zůstal stabilní na 591 mil. EUR, FFO I kleslo o 4 % na 144 mil. EUR kvůli vyšším úrokovým nákladům, EPRA NTA na akcii vzrostlo o 3 % na 8,0 EUR. Společnost potvrdila výhled na celý rok 2026.",
+      "date": "2026-08-26",
+      "done": false,
+      "created": "2026-08-26",
+      "source_url": "https://www.finanzwire.com/article/aroundtown-sa-etr-aroundtown-sa-reports-h1-2026-results-in-line-with-guidance-jrWuOweDR1o",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-08-25_other_9515",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Cameco Corporation (CCJ) Up ~5% as South Korea Denies Westinghouse Stake Report",
+      "text": "Akcie Cameco vzrostly 25. srpna o téměř 5 % poté, co jihokorejská vláda popřela zprávy o tlaku na akvizici podílu Jižní Koreje ve Westinghouse Electric. Investoři se obávali zředění 49% podílu Cameco ve Westinghouse. Zpráva dočasně odstranila riziko pro hodnotu tohoto podílu.",
+      "date": "2026-08-25",
+      "done": false,
+      "created": "2026-08-26",
+      "source_url": "https://weissratings.com/en/instant-news-alerts/cameco-corporation-ccj-up-5-1-buy-before-it-runs-further",
       "auto_generated": true
     }
   ]
