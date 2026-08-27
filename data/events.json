@@ -4290,7 +4290,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-07-31",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -4350,7 +4350,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-07-31",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -4451,7 +4451,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-03",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -4719,7 +4719,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-05",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5084,7 +5084,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5099,7 +5099,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5114,7 +5114,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5129,7 +5129,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5144,7 +5144,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5159,7 +5159,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -5174,7 +5174,7 @@
     "source_url": null,
     "done": false,
     "created": "2026-08-11",
-    "updated": "2026-08-11",
+    "updated": "2026-08-26",
     "auto_generated": true
   },
   {
@@ -6274,6 +6274,105 @@
     "done": false,
     "created": "2026-08-26",
     "source_url": "https://weissratings.com/en/instant-news-alerts/cameco-corporation-ccj-up-5-1-buy-before-it-runs-further",
+    "auto_generated": true
+  },
+  {
+    "id": "FGEN_2026-09-03_exdiv_jfsk",
+    "ticker": "FGEN",
+    "type": "exdiv",
+    "priority": "high",
+    "sentiment": "neutral",
+    "title": "Ex-dividend FGEN",
+    "text": null,
+    "date": "2026-09-03",
+    "source_url": null,
+    "done": false,
+    "created": "2026-08-26",
+    "updated": "2026-08-26",
+    "auto_generated": true
+  },
+  {
+    "id": "MU_2026-08-26_other_f4b8",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Micron Announces Leadership Appointments to Accelerate Innovation and Growth",
+    "text": "Micron oznámil změny ve vedení: Manish Bhatia se stal prezidentem a COO, Scott DeBoer prezidentem a Chief Technology and Products Officerem, s okamžitou platností. Bhatia povede globální provoz, P&L a výrobu, DeBoer technologii a vývoj produktů. Akcie po zprávě mírně oslabily.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-26",
+    "source_url": "https://www.globenewswire.com/news-release/2026/08/26/3351270/14450/en/micron-announces-leadership-appointments-to-accelerate-innovation-and-growth.html",
+    "auto_generated": true
+  },
+  {
+    "id": "ORCL_2026-08-26_analysis_9ef6",
+    "ticker": "ORCL",
+    "type": "analysis",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Why Oracle Stock Popped Today",
+    "text": "Akcie Oracle ve středu vzrostly o 4,5 % poté, co Citigroup zopakovala doporučení Koupit s cílovou cenou 330 USD (dříve cca 148 USD). Letošní propad akcie o 54 % z červnového vrcholu byl jeden z nejextrémnějších v historii firmy. Pozitivní signál po poklesu kvůli obavám z AI dluhu.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-26",
+    "source_url": "https://www.fool.com/investing/2026/08/26/why-oracle-stock-popped-today/",
+    "auto_generated": true
+  },
+  {
+    "id": "BWXT_2026-08-26_other_3c96",
+    "ticker": "BWXT",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "U.S. Army Chooses BWXT Advanced Nuclear Reactor (BANR) for Janus Program",
+    "text": "Americká armáda 26.8. vybrala reaktor BANR od BWX Technologies pro program Janus (mikroreaktory) s instalací ve Fort Campbell. Celý program Janus má hodnotu až 2,2 mld. USD pro 5 dodavatelů, podíl BWXT nezveřejněn. Jde o dlouhodobou příležitost pro jaderný segment.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-27",
+    "source_url": "http://www.gazettextra.com/news/nation_world/u-s-army-chooses-bwxt-advanced-nuclear-reactor-banr-for-janus-program/article_c3e47d11-f983-5439-a80b-1102cf2a1025.html",
+    "auto_generated": true
+  },
+  {
+    "id": "WDC_2026-08-26_other_437a",
+    "ticker": "WDC",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Western Digital Restructures Convertible Debt Through Exchange Agreements",
+    "text": "Western Digital uzavřela dohody o výměně cca 191 mil. USD konvertibilních dluhopisů (3 % 2028) za hotovost a akcie dle VWAP z 26. 8. 2026, uzavření kolem 2. září 2026. Restrukturalizace dluhu sníží zadluženost, ale mírně zředí akcionáře.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-26",
+    "source_url": "https://www.tipranks.com/news/company-announcements/western-digital-restructures-convertible-debt-through-exchange-agreements",
+    "auto_generated": true
+  },
+  {
+    "id": "ORCL_2026-08-26_analysis_ef46",
+    "ticker": "ORCL",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "This AI-linked stock has lagged its peers. Citigroup says shares can more than double",
+    "text": "Analytik Citigroup Tyler Radke 26.8. potvrdil doporučení Buy pro Oracle s cílovou cenou 330 USD, což by znamenalo více než zdvojnásobení kurzu. Akcie ORCL v reakci vzrostly o cca 4,5 %. Radke očekává zlepšení sentimentu před říjnovými výsledky.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-27",
+    "source_url": "https://www.cnbc.com/2026/08/26/this-cloud-name-has-lagged-peers-citi-says-it-can-still-double.html",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-08-26_macro_8022",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "neutral",
+    "title": "Fed's preferred inflation gauge shows core prices rose 3.3% annually in July",
+    "text": "Index PCE, oblíbený ukazatel inflace Fedu, vzrostl v červenci meziročně o 3,7 %, nad odhady trhu. Jádrová inflace zůstala na 3,3 % dle očekávání. Fed tak pravděpodobně ponechá sazby na 3,50-3,75 % beze změny i v září.",
+    "date": "2026-08-26",
+    "done": false,
+    "created": "2026-08-27",
+    "source_url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
     "auto_generated": true
   }
 ]
