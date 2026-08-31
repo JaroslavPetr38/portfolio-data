@@ -6444,5 +6444,61 @@
     "created": "2026-08-28",
     "source_url": "https://stockanalysis.com/quote/krx/000660/dividend/",
     "auto_generated": true
+  },
+  {
+    "id": "CCJ_2026-08-28_other_7965",
+    "ticker": "CCJ",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Cameco stock falls as uranium trade cools but guidance stays intact",
+    "text": "Akcie Cameco (CCJ) propadly 28.8. o 5,9 % na 100,01 USD kvůli ochlazení spekulativního uranového obchodu a odprodejům v sektoru po silném růstu. Firma potvrdila výhled na rok 2026 pro cenu uranu i tržby. Akcie jsou cca 29 % pod ročním maximem 135,24 USD.",
+    "date": "2026-08-28",
+    "done": false,
+    "created": "2026-08-31",
+    "source_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/cameco-stock-falls-as-uranium-trade-cools-but-guidance-stays-intact/70018415",
+    "auto_generated": true
+  },
+  {
+    "id": "BLRX_2026-08-28_other_1371",
+    "ticker": "BLRX",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "BioLineRx Announces $3.75 Million Registered Direct Offering and Concurrent Private Placement",
+    "text": "BioLineRx oznámila veřejnou nabídku 1 348 921 ADS za 2,78 USD/kus, hrubý výnos 3,75 mil. USD, plus warranty na dalších 2 023 382 ADS. Akcie klesly v premarketu o 4,4 %. Uzavření transakce se očekává 31.8.2026, jde o ředění akcionářů.",
+    "date": "2026-08-28",
+    "done": false,
+    "created": "2026-08-31",
+    "source_url": "https://www.prnewswire.com/news-releases/biolinerx-announces-3-75-million-registered-direct-offering-and-concurrent-private-placement-302862746.html",
+    "auto_generated": true
+  },
+  {
+    "id": "000660_2026-08-28_other_a187",
+    "ticker": "000660",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "SK Hynix Explores Deeper Ties With Japanese Memory Maker Kioxia",
+    "text": "SK hynix zvažuje prohloubení spolupráce s japonskou Kioxia v segmentu NAND flash, uvedl CEO Kwak Noh-Jung. SK hynix je nepřímo (přes Bain Capital) největším akcionářem Kioxia, hlasovací práva má ale smluvně omezená na max. 15 % do roku 2028. Posiluje to pozici firmy na trhu pamětí.",
+    "date": "2026-08-28",
+    "done": false,
+    "created": "2026-08-31",
+    "source_url": "https://www.japantimes.co.jp/business/2026/08/28/companies/sk-hynix-memory-industry-ties/",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-08-28_macro_e312",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+    "text": "Šéf Fedu Kevin Warsh na Jackson Hole varoval, že inflace se výrazně nezpomaluje a Fed může zvýšit sazby v září. Výnos 10leté obligace vzrostl na 4,72 %, S&P 500 klesl o 0,25 %, šance na zářijové zvýšení sazby vzrostly z 35 % na 57 % (do 31. 8. až 48 % dle Kalshi). Negativní pro akcie a technologie, tlak na vyšší diskontní sazby.",
+    "date": "2026-08-28",
+    "done": false,
+    "created": "2026-08-31",
+    "source_url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+    "auto_generated": true
   }
 ]
