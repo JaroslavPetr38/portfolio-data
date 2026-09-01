@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-31T06:02:46Z",
+  "generated": "2026-09-01T06:03:54Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 4,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-06-24_earnings_b73e",
@@ -1000,6 +1000,34 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-08-27_other_7fa9",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Micron MU Stock Falls to $900 Lows as Lutnick's Semiconductor Tariff Risks Hit Sentiment",
+      "text": "Ministr obchodu Lutnick zvažuje rozšíření cel na polovodiče i na servery, notebooky a konzole na podporu domácí výroby čipů. Akcie Micron reagovaly poklesem o cca 2,5 % na přibližně 915 USD. Jde o regulatorní riziko pro marže a dodavatelský řetězec firmy.",
+      "date": "2026-08-27",
+      "done": false,
+      "created": "2026-08-28",
+      "source_url": "https://www.fxleaders.com/news/2026/08/27/micron-mu-stock-falls-to-900-lows-as-lutnicks-semiconductor-tariff-risks-hit-sentiment/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-27_other_f338",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Trump Weighs Semiconductor Tariffs on Laptops, Servers, and More as Tech Companies Warn of AI Buildout Risk",
+      "text": "Trumpova administrativa zvažuje rozšíření cel na polovodiče na servery, notebooky a konzole, což by přímo zasáhlo dodavatelský řetězec AMD. Technologické firmy lobbují proti clům kvůli obavám o expanzi datacenter pro AI. Jde o regulatorní riziko pro budoucí poptávku AMD.",
+      "date": "2026-08-27",
+      "done": false,
+      "created": "2026-08-28",
+      "source_url": "https://www.benzinga.com/markets/tech/26/08/61456385/trump-weighs-new-semiconductor-tariffs-that-could-hit-ai-data-center-servers-laptops-and-gaming-consoles-report",
+      "auto_generated": true
+    },
+    {
       "id": "VU_2026-06-25_analysis_fcd0",
       "ticker": "VU",
       "type": "analysis",
@@ -1854,6 +1882,62 @@
       "auto_generated": true
     },
     {
+      "id": "AMD_2026-08-27_other_4ffa",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "AMD Ships ROCm 10.0: A Decade of Open Compute, Now Built for Agentic AI",
+      "text": "AMD vydalo ROCm 10.0 s novým ROCm.AI a ROCm CLI pro agentické AI vývojářské prostředí, první release v novém šestitýdenním cyklu. Krok posiluje konkurenceschopnost AMD vůči Nvidia CUDA v ekosystému AI softwaru. Strategicky pozitivní pro dlouhodobou adopci hardwaru AMD.",
+      "date": "2026-08-27",
+      "done": false,
+      "created": "2026-08-28",
+      "source_url": "https://www.warp2search.net/story/amd-ships-rocm-100-a-decade-of-open-compute-now-built-for-agentic-ai",
+      "auto_generated": true
+    },
+    {
+      "id": "BLRX_2026-08-28_other_1371",
+      "ticker": "BLRX",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "BioLineRx Announces $3.75 Million Registered Direct Offering and Concurrent Private Placement",
+      "text": "BioLineRx oznámila veřejnou nabídku 1 348 921 ADS za 2,78 USD/kus, hrubý výnos 3,75 mil. USD, plus warranty na dalších 2 023 382 ADS. Akcie klesly v premarketu o 4,4 %. Uzavření transakce se očekává 31.8.2026, jde o ředění akcionářů.",
+      "date": "2026-08-28",
+      "done": false,
+      "created": "2026-08-31",
+      "source_url": "https://www.prnewswire.com/news-releases/biolinerx-announces-3-75-million-registered-direct-offering-and-concurrent-private-placement-302862746.html",
+      "auto_generated": true
+    },
+    {
+      "id": "PRIUA_2026-08-31_earnings_72eb",
+      "ticker": "PRIUA",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Primoco reportovalo výsledky za 1H26 - ve 2Q nedodala ani neprodala žádné letadlo, celoroční výhled potvrzen",
+      "text": "Primoco UAV zveřejnilo výsledky za 1. pololetí 2026: tržby 101 mil. Kč, EBITDA 42 mil. Kč. Ve 2Q nedodala ani neprodala žádný letoun kvůli harmonogramu výroby, ve 2H26 očekává dodávku 30 letadel. Celoroční výhled potvrzen: tržby 0,9-1,0 mld. Kč, EBITDA 225-300 mil. Kč (zhruba zdvojnásobení loňska).",
+      "date": "2026-08-31",
+      "done": false,
+      "created": "2026-09-01",
+      "source_url": "https://zpravy.kurzy.cz/872954-primoco-reportovalo-vysledky-za-1h26-ve-2q-nedodala-ani-neprodala-zadne-letadlo-celorocni-vyhled/",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-08-31_other_8c20",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia's AI Infrastructure as AMD Instinct Systems Go Live",
+      "text": "AMD spolu s Cisco a HUMAIN spustili produkční AI infrastrukturu v Saúdské Arábii na čipech Instinct MI355X a síti Cisco Silicon One. Plánováno je dalších až 250 MW s GPU MI400 od 2027, cíl 1 GW do 2030. Potvrzuje to expanzi AMD do datacenter na Blízkém východě.",
+      "date": "2026-08-31",
+      "done": false,
+      "created": "2026-09-01",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/31/3353190/0/en/amd-cisco-and-humain-expand-saudi-arabia-s-ai-infrastructure-as-amd-instinct-systems-go-live.html",
+      "auto_generated": true
+    },
+    {
       "id": "AT1_2026-06-25_exdiv_13af",
       "ticker": "AT1",
       "type": "exdiv",
@@ -1991,6 +2075,20 @@
       "done": false,
       "created": "2026-08-20",
       "source_url": "https://www.exdividenddate.co.uk/companies/legal-general-group",
+      "auto_generated": true
+    },
+    {
+      "id": "BLRX_2026-08-31_earnings_59fb",
+      "ticker": "BLRX",
+      "type": "earnings",
+      "priority": "low",
+      "sentiment": "negative",
+      "title": "BioLineRx Reports Second Quarter 2026 Financial Results and Provides Corporate Update",
+      "text": "BioLineRx zveřejnila výsledky za 2Q 2026: tržby z licencí 0,3 mil. USD (beze změny), čistá ztráta se prohloubila na 4,3 mil. USD. Hotovost 13,1 mil. USD stačí do 1. poloviny 2027, firma navíc získala 3,75 mil. USD emisí akcií. Třetí kohorta studie GLIX1 u glioblastomu má začít v září 2026.",
+      "date": "2026-08-31",
+      "done": false,
+      "created": "2026-09-01",
+      "source_url": "https://www.prnewswire.com/news-releases/biolinerx-reports-second-quarter-2026-financial-results-and-provides-corporate-update-302864836.html",
       "auto_generated": true
     },
     {
@@ -3349,62 +3447,6 @@
       "done": false,
       "created": "2026-08-27",
       "source_url": "https://www.cnbc.com/2026/08/26/this-cloud-name-has-lagged-peers-citi-says-it-can-still-double.html",
-      "auto_generated": true
-    },
-    {
-      "id": "MU_2026-08-27_other_7fa9",
-      "ticker": "MU",
-      "type": "other",
-      "priority": "high",
-      "sentiment": "negative",
-      "title": "Micron MU Stock Falls to $900 Lows as Lutnick's Semiconductor Tariff Risks Hit Sentiment",
-      "text": "Ministr obchodu Lutnick zvažuje rozšíření cel na polovodiče i na servery, notebooky a konzole na podporu domácí výroby čipů. Akcie Micron reagovaly poklesem o cca 2,5 % na přibližně 915 USD. Jde o regulatorní riziko pro marže a dodavatelský řetězec firmy.",
-      "date": "2026-08-27",
-      "done": false,
-      "created": "2026-08-28",
-      "source_url": "https://www.fxleaders.com/news/2026/08/27/micron-mu-stock-falls-to-900-lows-as-lutnicks-semiconductor-tariff-risks-hit-sentiment/",
-      "auto_generated": true
-    },
-    {
-      "id": "AMD_2026-08-27_other_f338",
-      "ticker": "AMD",
-      "type": "other",
-      "priority": "high",
-      "sentiment": "negative",
-      "title": "Trump Weighs Semiconductor Tariffs on Laptops, Servers, and More as Tech Companies Warn of AI Buildout Risk",
-      "text": "Trumpova administrativa zvažuje rozšíření cel na polovodiče na servery, notebooky a konzole, což by přímo zasáhlo dodavatelský řetězec AMD. Technologické firmy lobbují proti clům kvůli obavám o expanzi datacenter pro AI. Jde o regulatorní riziko pro budoucí poptávku AMD.",
-      "date": "2026-08-27",
-      "done": false,
-      "created": "2026-08-28",
-      "source_url": "https://www.benzinga.com/markets/tech/26/08/61456385/trump-weighs-new-semiconductor-tariffs-that-could-hit-ai-data-center-servers-laptops-and-gaming-consoles-report",
-      "auto_generated": true
-    },
-    {
-      "id": "AMD_2026-08-27_other_4ffa",
-      "ticker": "AMD",
-      "type": "other",
-      "priority": "medium",
-      "sentiment": "positive",
-      "title": "AMD Ships ROCm 10.0: A Decade of Open Compute, Now Built for Agentic AI",
-      "text": "AMD vydalo ROCm 10.0 s novým ROCm.AI a ROCm CLI pro agentické AI vývojářské prostředí, první release v novém šestitýdenním cyklu. Krok posiluje konkurenceschopnost AMD vůči Nvidia CUDA v ekosystému AI softwaru. Strategicky pozitivní pro dlouhodobou adopci hardwaru AMD.",
-      "date": "2026-08-27",
-      "done": false,
-      "created": "2026-08-28",
-      "source_url": "https://www.warp2search.net/story/amd-ships-rocm-100-a-decade-of-open-compute-now-built-for-agentic-ai",
-      "auto_generated": true
-    },
-    {
-      "id": "BLRX_2026-08-28_other_1371",
-      "ticker": "BLRX",
-      "type": "other",
-      "priority": "medium",
-      "sentiment": "negative",
-      "title": "BioLineRx Announces $3.75 Million Registered Direct Offering and Concurrent Private Placement",
-      "text": "BioLineRx oznámila veřejnou nabídku 1 348 921 ADS za 2,78 USD/kus, hrubý výnos 3,75 mil. USD, plus warranty na dalších 2 023 382 ADS. Akcie klesly v premarketu o 4,4 %. Uzavření transakce se očekává 31.8.2026, jde o ředění akcionářů.",
-      "date": "2026-08-28",
-      "done": false,
-      "created": "2026-08-31",
-      "source_url": "https://www.prnewswire.com/news-releases/biolinerx-announces-3-75-million-registered-direct-offering-and-concurrent-private-placement-302862746.html",
       "auto_generated": true
     },
     {
