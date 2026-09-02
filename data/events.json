@@ -6542,5 +6542,61 @@
     "created": "2026-09-01",
     "source_url": "https://www.prnewswire.com/news-releases/biolinerx-reports-second-quarter-2026-financial-results-and-provides-corporate-update-302864836.html",
     "auto_generated": true
+  },
+  {
+    "id": "AT1_2026-09-01_analysis_5f4d",
+    "ticker": "AT1",
+    "type": "analysis",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "Aroundtown stock falls as Goldman Sachs cuts price target after H1 2026 figures",
+    "text": "Goldman Sachs snížil cílovou cenu akcií Aroundtown z 2,70 EUR na 1,90 EUR (pokles cca 30 %) po zveřejnění výsledků za H1 2026, rating zůstává Neutral. Akcie klesly na 1,89 EUR, blízko 52týdenního minima 1,87 EUR. Negativní signál pro držitele AT1.",
+    "date": "2026-09-01",
+    "done": false,
+    "created": "2026-09-02",
+    "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/aroundtown-stock-falls-as-goldman-sachs-cuts-price-target-after-h1-2026/70038433",
+    "auto_generated": true
+  },
+  {
+    "id": "LOVE_2026-09-01_other_2194",
+    "ticker": "LOVE",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Cannara Appoints Nicholas Fozard as Chief Financial Officer",
+    "text": "Cannara Biotech jmenovala Nicholase Fozarda (dříve VP Finance u Organigram Global) novým CFO po udělení bezpečnostní prověrky Health Canada. Dokončuje se tak vedení firmy poté, co Nicholas Sosiak přešel z CFO na COO 23. dubna 2026. Neutrální personální změna.",
+    "date": "2026-09-01",
+    "done": false,
+    "created": "2026-09-02",
+    "source_url": "https://www.globenewswire.com/news-release/2026/09/01/3354110/0/en/cannara-appoints-nicholas-fozard-as-chief-financial-officer.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AIBZ_2026-09-01_other_535b",
+    "ticker": "AIBZ",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Bitzero Fully Repays Its $25M Debt Facility, Provides Corporate Update on Balance Sheet, Site Readiness",
+    "text": "Bitzero (AIBZ) oznámila 1. 9. úplné splacení dluhu 25 mil. USD a zrušení souvisejících zástavních práv, bez dalších významných dluhových závazků. Provoz i capex financuje cash flow z těžby bitcoinu, finský areál má podpořit 80 MW. Pozitivní pro bilanci firmy.",
+    "date": "2026-09-01",
+    "done": false,
+    "created": "2026-09-02",
+    "source_url": "https://www.stocktitan.net/news/AIBZ/bitzero-provides-corporate-update-on-balance-sheet-site-readiness-u86t1qfjv5ni.html",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-09-01_macro_5af6",
+    "ticker": null,
+    "type": "macro",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Fed rate-hike odds jump to 57.5% after Warsh comments as Iran strikes spike oil, stocks fall broadly",
+    "text": "Trhy 1. 9. reagovaly na nové údery USA na Írán, které vytáhly Brent nad 94 a WTI nad 90 USD/barel a zvýšily výnosy dluhopisů. S&P 500 klesl o 0,7 %, Dow o 456 bodů, Nasdaq o 1 %. Šance na zvýšení sazby Fedu o 25bb v září vzrostla na 57,5 % po komentářích šéfa Fedu Warshe o inflaci.",
+    "date": "2026-09-01",
+    "done": false,
+    "created": "2026-09-02",
+    "source_url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
+    "auto_generated": true
   }
 ]
