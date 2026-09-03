@@ -6598,5 +6598,47 @@
     "created": "2026-09-02",
     "source_url": "https://www.cnbc.com/2026/08/31/stock-market-today-live-updates.html",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-09-02_other_39a3",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "Micron's Taiwan Unions Are Asking for a Bonus Worth 83 Months of Pay. A Strike Vote Could Come This Month.",
+    "text": "Odbory Micronu na Tchaj-wanu (cca dvě třetiny zaměstnanců v Taoyuanu a Taichungu) žádají jednorázový bonus ve výši 83 měsíčních platů. Přes 80 % členů podpořilo stávku, hlasování může přijít v září 2026. Riziko narušení výroby pamětí.",
+    "date": "2026-09-02",
+    "done": false,
+    "created": "2026-09-03",
+    "source_url": "https://www.fool.com/investing/2026/09/02/micron-s-taiwan-unions-are-asking-for-a-bonus-worth-83-months-of-pay-a-strike-vote-could-come-this-month/",
+    "auto_generated": true
+  },
+  {
+    "id": "ALMU_2026-09-16_todo_d08c",
+    "ticker": "ALMU",
+    "type": "todo",
+    "priority": "low",
+    "sentiment": "neutral",
+    "title": "Aeluma to Announce Fourth Quarter and Fiscal Year 2026 Financial Results on September 16, 2026",
+    "text": "Aeluma oznámila termín zveřejnění výsledků za 4Q a celý fiskální rok 2026 (do 30.6.2026) na 16. září 2026 po uzavření trhu, s konferenčním hovorem v 17:00 ET. Investor by si měl poznamenat datum pro sledování tržeb a výhledu.",
+    "date": "2026-09-16",
+    "done": false,
+    "created": "2026-09-03",
+    "source_url": "https://www.globenewswire.com/news-release/2026/09/02/3354976/0/en/aeluma-to-announce-fourth-quarter-and-fiscal-year-2026-financial-results-on-september-16-2026.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AVGO_2026-09-02_earnings_bd79",
+    "ticker": "AVGO",
+    "type": "earnings",
+    "priority": "high",
+    "sentiment": "negative",
+    "title": "Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend",
+    "text": "Broadcom ve 3. čtvrtletí FY2026 překonal odhady: EPS 3,32 USD (odh. 3,24), tržby 29,59 mld. USD, tržby z AI čipů vzrostly o 221 % na 16,7 mld. USD. Výhled na 4Q (tržby 34,8 mld. USD) ale zaostal za odhady analytiků, akcie po výsledcích klesly přes 5 %.",
+    "date": "2026-09-02",
+    "done": false,
+    "created": "2026-09-03",
+    "source_url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html",
+    "auto_generated": true
   }
 ]
