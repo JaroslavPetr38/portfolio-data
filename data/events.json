@@ -6640,5 +6640,19 @@
     "created": "2026-09-03",
     "source_url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html",
     "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-09-03_macro_d58f",
+    "ticker": null,
+    "type": "macro",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Fed's Waller Says September Rate Decision Hinges on August CPI",
+    "text": "Guvernér Fedu Waller uvedl, že zářijové rozhodnutí o sazbách bude záviset na srpnových datech CPI, naznačil ochotu ponechat sazbu beze změny. Pravděpodobnost zvýšení sazby dle futures klesla na 50,4 % z 63,2 % předešlý den, výnos 10Y treasury klesl na 4,77 %.",
+    "date": "2026-09-03",
+    "done": false,
+    "created": "2026-09-04",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/fed-s-waller-says-september-rate-decision-hinges-on-august-cpi",
+    "auto_generated": true
   }
 ]
