@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-04T06:05:04Z",
+  "generated": "2026-09-07T06:06:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 1,
+  "event_count": 6,
   "events": [
     {
       "id": "MU_2026-07-04_other_cbdb",
@@ -916,6 +916,20 @@
       "auto_generated": true
     },
     {
+      "id": "AMD_2026-09-05_other_3ed6",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD investuje až 5 mld. USD do Anthropic",
+      "text": "AMD se zavázala investovat až 5 mld. USD do Anthropic v rámci dohody na dodávku čipů Instinct MI450 o kapacitě 2 GW. Anthropic navíc podle zpráv chystá brzké IPO. Jde o strategické partnerství posilující pozici AMD v AI čipech.",
+      "date": "2026-09-05",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/",
+      "auto_generated": true
+    },
+    {
       "id": "SEN_2026-07-06_dividend_48e8",
       "ticker": "SEN",
       "type": "dividend",
@@ -1728,6 +1742,20 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-09-04_other_4b3a",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Micron vzrostl o 6 % v rally paměťových čipů",
+      "text": "Akcie Micron vzrostly 4. září o zhruba 6 % v rámci širší rally paměťových čipů, ke které přispěly i SK Hynix (+8 %) a SanDisk (+15 %). Růst táhlo očekávání silné poptávky po HBM čipech pro AI. Pozitivní impuls pro celý sektor pamětí.",
+      "date": "2026-09-04",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-open-flat-then-165054304.html",
+      "auto_generated": true
+    },
+    {
       "id": "LGEN_2026-07-08_other_5b61",
       "ticker": "LGEN",
       "type": "other",
@@ -2439,6 +2467,20 @@
       "done": false,
       "created": "2026-09-03",
       "source_url": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302868129.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-09-04_analysis_78cf",
+      "ticker": "AVGO",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "DA Davidson snížil cílovou cenu Broadcomu na 350 USD",
+      "text": "DA Davidson snížil cílovou cenu akcií Broadcom ze 400 na 350 USD při ratingu Neutral kvůli obavám ze slabšího výhledu tržeb, přestože firma překonala odhady za 3. čtvrtletí. Signál opatrnosti analytiků ohledně krátkodobého růstu.",
+      "date": "2026-09-04",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://www.investing.com/news/analyst-ratings/da-davidson-cuts-broadcom-stock-price-target-on-guidance-concerns-93CH-4889777",
       "auto_generated": true
     },
     {
@@ -3184,6 +3226,48 @@
       "auto_generated": true
     },
     {
+      "id": "000660_2026-09-04_other_4b3a",
+      "ticker": "000660",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SK Hynix vyskočil o 8 % v rally paměťových čipů",
+      "text": "Akcie SK Hynix vyskočily 4. září o cca 8 % v rámci rally paměťových čipů společně s Micronem a SanDiskem a 7. září přidaly dalších 5,65 %. Impulsem je očekávaná silná poptávka po HBM čipech pro AI.",
+      "date": "2026-09-04",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-open-flat-then-165054304.html",
+      "auto_generated": true
+    },
+    {
+      "id": "VST_2026-09-04_other_b61c",
+      "ticker": "VST",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Vistra rozšiřuje plynovou flotilu a uzavírá smlouvy pro AI datacentra",
+      "text": "Vistra Energy rozšiřuje plynovou flotilu (projekt Cogentrix) a uzavřela dlouhodobé smlouvy na dodávky elektřiny pro AI datacentra. Pro investora jde o posílení poptávkového profilu a výhledu tržeb v segmentu energie pro AI.",
+      "date": "2026-09-04",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://kalkinemedia.com/us/stocks/energy/can-vistra-nysevst-power-the-next-wave-of-ai-data-centers",
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-09-04_other_5a67",
+      "ticker": "ANET",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Arista Networks zařazena do indexu S&P 100",
+      "text": "Arista Networks byla 4. září zařazena do indexu S&P 100 s platností od 21. září, spolu s Dell, Palo Alto Networks a SanDisk, náhradou za Nike a další firmy. Zařazení do indexu obvykle přináší pasivní nákupy indexových fondů.",
+      "date": "2026-09-04",
+      "done": false,
+      "created": "2026-09-07",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nike-exits-p-100-index-111450130.html",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-07-08_macro_31a8",
       "ticker": null,
       "type": "macro",
@@ -3898,20 +3982,6 @@
       "auto_generated": true
     },
     {
-      "id": "MACRO_2026-08-20_macro_25e3",
-      "ticker": null,
-      "type": "macro",
-      "priority": "low",
-      "sentiment": "neutral",
-      "title": "US Jobless Claims Edge Lower in Sign of Steady Job Market",
-      "text": "Počet nových žádostí o podporu v nezaměstnanosti v USA klesl o 6 000 na 206 000 za týden do 15. 8., pod odhadem 210 000. Čtyřtýdenní průměr vzrostl o 4 250 na 204 000. Data signalizují stále stabilní trh práce, mírně omezují prostor pro brzké snížení sazeb Fedu.",
-      "date": "2026-08-20",
-      "done": false,
-      "created": "2026-08-20",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/us-weekly-jobless-claims-edged-lower-to-206-000-in-latest-week",
-      "auto_generated": true
-    },
-    {
       "id": "MACRO_2026-09-03_macro_d58f",
       "ticker": null,
       "type": "macro",
@@ -3923,6 +3993,20 @@
       "done": false,
       "created": "2026-09-04",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-03/fed-s-waller-says-september-rate-decision-hinges-on-august-cpi",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-08-20_macro_25e3",
+      "ticker": null,
+      "type": "macro",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "US Jobless Claims Edge Lower in Sign of Steady Job Market",
+      "text": "Počet nových žádostí o podporu v nezaměstnanosti v USA klesl o 6 000 na 206 000 za týden do 15. 8., pod odhadem 210 000. Čtyřtýdenní průměr vzrostl o 4 250 na 204 000. Data signalizují stále stabilní trh práce, mírně omezují prostor pro brzké snížení sazeb Fedu.",
+      "date": "2026-08-20",
+      "done": false,
+      "created": "2026-08-20",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/us-weekly-jobless-claims-edged-lower-to-206-000-in-latest-week",
       "auto_generated": true
     }
   ]
