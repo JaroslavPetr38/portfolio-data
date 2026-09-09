@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-09-09T06:53:03.101806+00:00",
-  "max_age_hours_filter": 144,
+  "fetched_at": "2026-09-09T06:55:24.517853+00:00",
+  "max_age_hours_filter": 288,
   "sec_item_whitelist_active": false,
   "sources_attempted": {
     "patria": {
@@ -9,11 +9,11 @@
     },
     "sec_edgar": {
       "tickers_checked": 14,
-      "item_count": 0,
+      "item_count": 1,
       "errors": []
     }
   },
-  "matched_count": 1,
+  "matched_count": 2,
   "matches": [
     {
       "source": "patria",
@@ -23,6 +23,19 @@
       "description": "Raketový růst akcií jihokorejských gigantů SK Hynix a Samsung Electronics se v Jižní Koreji propisuje i do společnosti, kde vznikl zajímavý trend: zaměstnanci zmíněných firem jsou v kurzu na seznamovacích aplikacích, přičemž v poslední době jsou dokonce preferovanější volbou než třeba zástupci tradičně prestižních zaměstnání (medicína, justice).",
       "matched_ticker": "000660",
       "matched_on": "sk hynix"
+    },
+    {
+      "source": "sec_edgar",
+      "matched_ticker": "AVGO",
+      "title": "8-K (2.02,8.01,9.01) - AVGO",
+      "link": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm",
+      "pubDate": "2026-09-02",
+      "description": "SEC 8-K filing, item(s): 2.02,8.01,9.01",
+      "sec_items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ]
     }
   ],
   "macro_candidates": [
