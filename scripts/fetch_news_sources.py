@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
 scripts/fetch_news_sources.py
- 
+
 Stáhne (1) Patria.cz RSS feed a (2) SEC EDGAR 8-K podání (přes
 data.sec.gov/submissions JSON API, ne přes lehký atom feed) pro
 US tickery z portfolio_tickers.json.
- 
+
 NOVÉ v této verzi:
 - SEC strana teď používá strukturované submissions API, které vrací
   Item kategorii (např. "2.02" = earnings, "5.02" = leadership change)
@@ -17,13 +17,13 @@ NOVÉ v této verzi:
   nevyřazuje podle typu, dokud whitelist ručně nedoplníš.
 - Přidán časový filtr (max_age_hours) - položky starší než limit se
   do "matches" vůbec nedostanou.
- 
+
 Určeno pro spuštění v GitHub Actions (NE v Claude Code Routine
 sandboxu - ten má blokovaný egress na obě domény).
- 
+
 Používá pouze standardní knihovnu Pythonu - žádný pip install.
 """
- 
+
 import json
 import sys
 import re
@@ -33,12 +33,12 @@ import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
- 
+
 PATRIA_FEED_URL = "https://www.patria.cz/rss.html"
 SEC_TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS_TEMPLATE = "https://data.sec.gov/submissions/CIK{cik10}.json"
 YAHOO_RSS_TEMPLATE = "https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}"
- 
+
 # SEC vyžaduje identifikovatelný User-Agent (jméno/kontakt), jinak může
 # request odmítnout. UPRAV na svůj kontakt před ostrým nasazením.
 SEC_USER_AGENT = "Personal news agent/1.0 (xpetr.xjaroslav@gmail.com)"
@@ -55,9 +55,9 @@ SEC_USER_AGENT = "Personal news agent/1.0 (xpetr.xjaroslav@gmail.com)"
 # Ponech prázdné, dokud si výpis sám neprojdeš.
 # ---------------------------------------------------------------------
 SEC_ITEM_WHITELIST = []  # <-- doplnit ručně po review discovery souboru
- 
+
 MAX_AGE_HOURS = 72  # položky starší než tohle se do matches nedostanou
- 
+
 # ---------------------------------------------------------------------
 # ETF/fondy nefilují 8-K stejným způsobem jako operační firmy (mají
 # jiné SEC formuláře - N-CEN, N-PORT) a typicky nejsou v CIK mapě
@@ -66,18 +66,18 @@ MAX_AGE_HOURS = 72  # položky starší než tohle se do matches nedostanou
 # Doplňuj sem podle potřeby, jak narazíš na další ETF v portfoliu.
 # ---------------------------------------------------------------------
 KNOWN_NON_FILER_TICKERS = {"URA"}
- 
- 
+
+
 def load_portfolio(tickers_file):
     """Vrátí (name_lookup_dict, us_tickers_list, yahoo_lookup_list).
- 
+
     yahoo_lookup_list je seznam (ticker, yahoo_ticker) pro VŠECHNY
     portfolio/watchlist položky (ne jen US) - používá pole
     "yahoo_ticker" pokud existuje, jinak spadne zpět na holý ticker.
     """
     with open(tickers_file, "r", encoding="utf-8") as f:
         data = json.load(f)
- 
+
     name_lookup = {}
     us_tickers = []
     yahoo_lookup = []
@@ -87,7 +87,7 @@ def load_portfolio(tickers_file):
             name = item.get("name")
             exchange = (item.get("exchange") or "").upper()
             yahoo_ticker = item.get("yahoo_ticker") or ticker
- 
+
             if name:
                 name_lookup[name.lower()] = ticker
             if ticker:
@@ -95,17 +95,17 @@ def load_portfolio(tickers_file):
             if exchange in ("NASDAQ", "NYSE", "US") and ticker not in KNOWN_NON_FILER_TICKERS:
                 us_tickers.append(ticker)
             if ticker and yahoo_ticker:
-                yahoo_lookup.append((ticker, yahoo_ticker))
- 
+                yahoo_lookup.append((ticker, yahoo_ticker, name))
+
     return name_lookup, us_tickers, yahoo_lookup
- 
- 
+
+
 def http_get(url, user_agent="Mozilla/5.0 (news-fetch-bot)", timeout=15):
     req = urllib.request.Request(url, headers={"User-Agent": user_agent})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
- 
- 
+
+
 def is_recent_enough(date_str, max_age_hours=MAX_AGE_HOURS):
     """
     Zkusí naparsovat datum (RSS RFC-822 formát nebo ISO 8601).
@@ -128,25 +128,25 @@ def is_recent_enough(date_str, max_age_hours=MAX_AGE_HOURS):
         dt = dt.replace(tzinfo=timezone.utc)
     age = datetime.now(timezone.utc) - dt
     return age.total_seconds() < max_age_hours * 3600
- 
- 
+
+
 # ---------------------------------------------------------------------
 # Patria RSS
 # ---------------------------------------------------------------------
- 
+
 def fetch_patria_items():
     try:
         content = http_get(PATRIA_FEED_URL)
     except (urllib.error.URLError, TimeoutError) as e:
         print(f"[patria] fetch failed: {e}", file=sys.stderr)
         return []
- 
+
     try:
         root = ET.fromstring(content)
     except ET.ParseError as e:
         print(f"[patria] XML parse failed: {e}", file=sys.stderr)
         return []
- 
+
     items = []
     for item in root.iter("item"):
         pub_date = (item.findtext("pubDate") or "").strip()
@@ -162,15 +162,22 @@ def fetch_patria_items():
             }
         )
     return items
- 
- 
-def fetch_yahoo_items_for_ticker(ticker, yahoo_ticker):
+
+
+def fetch_yahoo_items_for_ticker(ticker, yahoo_ticker, company_name):
     """
     Stáhne Yahoo Finance per-ticker RSS feed. Stejná lean XML struktura
     jako Patria (title/link/pubDate/description v <item>), takže sdílí
     stejný parsing přístup. Funguje mezinárodně (LGEN.L, ALWN.AT, ...),
     ne jen pro US tickery - proto se volá pro VŠECHNY tickery, ne jen
     tu podmnožinu, co jde do SEC EDGAR.
+
+    DŮLEŽITÉ: Yahoo feed je URL-scoped na ticker (?s=NLY), ale to
+    NEZNAMENÁ, že každá položka je skutečně "o firmě" - Yahoo tam
+    zařazuje i tematicky přilehlý obsah (např. obecný Fed komentář
+    do feedu sazbově citlivého REIT). Proto se přidává diagnostický
+    příznak "company_mentioned_in_text" - NEFILTRUJE se tím nic,
+    jen se dává Step 3 agentovi extra signál k rozhodnutí.
     """
     url = YAHOO_RSS_TEMPLATE.format(ticker=yahoo_ticker)
     try:
@@ -178,45 +185,62 @@ def fetch_yahoo_items_for_ticker(ticker, yahoo_ticker):
     except (urllib.error.URLError, TimeoutError) as e:
         print(f"[yahoo:{yahoo_ticker}] fetch failed: {e}", file=sys.stderr)
         return []
- 
+
     try:
         root = ET.fromstring(content)
     except ET.ParseError as e:
         print(f"[yahoo:{yahoo_ticker}] XML parse failed: {e}", file=sys.stderr)
         return []
- 
+
+    # Kontrolní vzory - ticker i (pokud existuje) první slovo názvu firmy
+    # (celý víceslovný název firmy by byl moc přísný - "Legal & General"
+    # se v textu často zkracuje na "Legal & General Group" apod., ale
+    # "Legal" samotné jako první slovo je rozumný, benevolentnější signál)
+    check_patterns = [_get_word_boundary_pattern(ticker)]
+    if company_name:
+        first_word = company_name.split()[0] if company_name.split() else None
+        if first_word and len(first_word) > 2:  # vynech příliš krátká/obecná slova
+            check_patterns.append(_get_word_boundary_pattern(first_word))
+
     items = []
     for item in root.iter("item"):
         pub_date = (item.findtext("pubDate") or "").strip()
         if not is_recent_enough(pub_date):
             continue
+        title = (item.findtext("title") or "").strip()
+        description = (item.findtext("description") or "").strip()
+        haystack = title + " " + description
+
+        mentioned = any(p.search(haystack) for p in check_patterns)
+
         items.append(
             {
                 "source": "yahoo",
-                "matched_ticker": ticker,  # rovnou známe ticker, nemusí se dohledávat podle jména
-                "title": (item.findtext("title") or "").strip(),
+                "matched_ticker": ticker,
+                "title": title,
                 "link": (item.findtext("link") or "").strip(),
                 "pubDate": pub_date,
-                "description": (item.findtext("description") or "").strip(),
+                "description": description,
+                "company_mentioned_in_text": mentioned,
             }
         )
     return items
- 
- 
+
+
 # ---------------------------------------------------------------------
 # SEC EDGAR - přes strukturované submissions JSON API
 # ---------------------------------------------------------------------
- 
+
 _cik_map_cache = None
 SEC_FETCH_ERRORS = []  # sbírá chyby pro zápis do výstupního JSON (ne jen stderr)
- 
- 
+
+
 def load_sec_ticker_to_cik_map():
     """Stáhne a nakešuje mapu ticker -> 10-místné CIK (jednou za běh)."""
     global _cik_map_cache
     if _cik_map_cache is not None:
         return _cik_map_cache
- 
+
     try:
         content = http_get(SEC_TICKER_MAP_URL, user_agent=SEC_USER_AGENT)
         raw = json.loads(content)
@@ -232,7 +256,7 @@ def load_sec_ticker_to_cik_map():
         SEC_FETCH_ERRORS.append({"stage": "cik_map", "error": msg})
         _cik_map_cache = {}
         return _cik_map_cache
- 
+
     mapping = {}
     # formát: {"0": {"cik_str": 320193, "ticker": "AAPL", "title": "Apple Inc."}, ...}
     for entry in raw.values():
@@ -240,11 +264,11 @@ def load_sec_ticker_to_cik_map():
         cik = entry.get("cik_str")
         if ticker and cik is not None:
             mapping[ticker] = str(cik).zfill(10)
- 
+
     _cik_map_cache = mapping
     return mapping
- 
- 
+
+
 def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
     """
     Stáhne posledních N 8-K podání pro daný ticker přes submissions API.
@@ -260,7 +284,7 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
         print(f"[sec:{ticker}] {msg}", file=sys.stderr)
         SEC_FETCH_ERRORS.append({"stage": "cik_lookup", "ticker": ticker, "error": msg})
         return []
- 
+
     url = SEC_SUBMISSIONS_TEMPLATE.format(cik10=cik10)
     try:
         content = http_get(url, user_agent=SEC_USER_AGENT)
@@ -275,19 +299,19 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
         print(f"[sec:{ticker}] {msg}", file=sys.stderr)
         SEC_FETCH_ERRORS.append({"stage": "submissions", "ticker": ticker, "error": msg})
         return []
- 
+
     recent = data.get("filings", {}).get("recent", {})
     forms = recent.get("form", [])
     items_field = recent.get("items", [])
     filing_dates = recent.get("filingDate", [])
     accession_numbers = recent.get("accessionNumber", [])
     primary_docs = recent.get("primaryDocument", [])
- 
+
     results = []
     # Omezit na posledních cca 15 podání na ticker, ať se běh nenatahuje donekonečna
     limit = 15
     count_checked = 0
- 
+
     for form, item_codes, filing_date, accession, primary_doc in zip(
         forms, items_field, filing_dates, accession_numbers, primary_docs
     ):
@@ -296,12 +320,12 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
         if form != "8-K":
             continue
         count_checked += 1
- 
+
         if not is_recent_enough(filing_date + "T00:00:00Z"):
             continue
- 
+
         item_codes_list = [c.strip() for c in item_codes.split(",") if c.strip()]
- 
+
         # Diagnostika: zapsat KAŽDÝ nalezený Item kód do sdíleného souhrnu
         for code in item_codes_list:
             key = code
@@ -315,19 +339,19 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
             if len(discovered_items_acc[key]["example_tickers"]) < 5:
                 discovered_items_acc[key]["example_tickers"].append(ticker)
                 discovered_items_acc[key]["example_dates"].append(filing_date)
- 
+
         # Filtrování podle whitelistu (pokud je prázdný, propustí vše)
         if SEC_ITEM_WHITELIST and not any(
             c in SEC_ITEM_WHITELIST for c in item_codes_list
         ):
             continue
- 
+
         accession_nodash = accession.replace("-", "")
         filing_url = (
             f"https://www.sec.gov/Archives/edgar/data/"
             f"{int(cik10)}/{accession_nodash}/{primary_doc}"
         )
- 
+
         results.append(
             {
                 "source": "sec_edgar",
@@ -339,23 +363,23 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
                 "sec_items": item_codes_list,
             }
         )
- 
+
     return results
- 
- 
+
+
 # ---------------------------------------------------------------------
 # Matchování (jen pro Patria - SEC už matched_ticker má)
 # ---------------------------------------------------------------------
- 
+
 _word_boundary_pattern_cache = {}
- 
- 
+
+
 def _get_word_boundary_pattern(name_key):
     """
     Vrátí (a nakešuje) regex, co matchne name_key jen jako celé,
     samostatné slovo - ne jako substring uvnitř jiného slova
     (např. "ogi" nesmí matchnout uvnitř "technologii").
- 
+
     \b v Pythonu 3 je Unicode-aware, takže funguje správně i s
     českou diakritikou (ř, š, č, á...) bez dalšího nastavení.
     """
@@ -364,8 +388,8 @@ def _get_word_boundary_pattern(name_key):
             r"\b" + re.escape(name_key) + r"\b", re.IGNORECASE
         )
     return _word_boundary_pattern_cache[name_key]
- 
- 
+
+
 def match_portfolio(items, name_lookup):
     matched = []
     for item in items:
@@ -382,8 +406,8 @@ def match_portfolio(items, name_lookup):
                 matched.append(enriched)
                 break
     return matched
- 
- 
+
+
 def extract_macro_candidates(patria_items, matched_ids):
     macro_keywords = [
         "fed", "ecb", "úrokov", "sazb", "inflace", "recese",
@@ -397,8 +421,8 @@ def extract_macro_candidates(patria_items, matched_ids):
         if any(kw in haystack for kw in macro_keywords):
             candidates.append(item)
     return candidates
- 
- 
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--tickers-file", default="news/portfolio_tickers.json")
@@ -407,34 +431,36 @@ def main():
         "--discovery-file", default="news/sec_item_types_discovered.json"
     )
     args = parser.parse_args()
- 
+
     try:
         name_lookup, us_tickers, yahoo_lookup = load_portfolio(args.tickers_file)
     except FileNotFoundError:
         print(f"tickers file not found: {args.tickers_file}", file=sys.stderr)
         sys.exit(1)
- 
+
     # 1) Patria RSS
     patria_items = fetch_patria_items()
- 
+
     # 2) SEC EDGAR per US ticker + discovery akumulátor
     discovered_items_acc = {}
     sec_items_all = []
     for ticker in us_tickers:
         sec_items_all.extend(fetch_sec_items_for_ticker(ticker, discovered_items_acc))
- 
+
     # 3) Yahoo Finance RSS per ticker (VŠECHNY, ne jen US - mezinárodní pokrytí)
     yahoo_items_all = []
-    for ticker, yahoo_ticker in yahoo_lookup:
-        yahoo_items_all.extend(fetch_yahoo_items_for_ticker(ticker, yahoo_ticker))
- 
+    for ticker, yahoo_ticker, company_name in yahoo_lookup:
+        yahoo_items_all.extend(
+            fetch_yahoo_items_for_ticker(ticker, yahoo_ticker, company_name)
+        )
+
     # Matchování
     all_items_for_matching = patria_items + sec_items_all + yahoo_items_all
     matched = match_portfolio(all_items_for_matching, name_lookup)
     matched_ids = {id(m) for m in matched}
- 
+
     macro_candidates = extract_macro_candidates(patria_items, matched_ids)
- 
+
     result = {
         "fetched_at": datetime.now(timezone.utc).isoformat(),
         "max_age_hours_filter": MAX_AGE_HOURS,
@@ -455,10 +481,10 @@ def main():
         "matches": matched,
         "macro_candidates": macro_candidates,
     }
- 
+
     with open(args.output_file, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
- 
+
     # Diagnostický výpis Item typů - VŽDY se zapíše, nezávisle na whitelistu
     discovery_output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -471,7 +497,7 @@ def main():
     }
     with open(args.discovery_file, "w", encoding="utf-8") as f:
         json.dump(discovery_output, f, ensure_ascii=False, indent=2)
- 
+
     print(
         f"OK: {len(matched)} matched items, {len(macro_candidates)} macro candidates "
         f"-> {args.output_file}"
@@ -480,32 +506,8 @@ def main():
         f"Discovery: {len(discovered_items_acc)} distinct Item types found "
         f"-> {args.discovery_file}"
     )
- 
- 
+
+
 if __name__ == "__main__":
     main()
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
