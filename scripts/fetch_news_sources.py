@@ -28,7 +28,7 @@ SEC_EDGAR_TEMPLATE = (
 )
 # SEC vyžaduje identifikovatelný User-Agent (jméno/kontakt), jinak může
 # request odmítnout — uprav si podle sebe.
-SEC_USER_AGENT = "PortfolioManager-NewsBot/1.0 (personal-use)"
+SEC_USER_AGENT = "xpetr.xjaroslav@gmail.com-NewsBot/1.0 (personal-use)"
 
 ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
 
