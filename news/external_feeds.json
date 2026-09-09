@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-09-09T06:50:37.787308+00:00",
-  "max_age_hours_filter": 72,
+  "fetched_at": "2026-09-09T06:53:03.101806+00:00",
+  "max_age_hours_filter": 144,
   "sec_item_whitelist_active": false,
   "sources_attempted": {
     "patria": {
       "ok": true,
-      "item_count": 27
+      "item_count": 50
     },
     "sec_edgar": {
       "tickers_checked": 14,
@@ -60,6 +60,41 @@
       "link": "http://www.patria.cz/zpravodajstvi/7223928/cez-as-oznameni-o-vyplate-urokoveho-vynosu.html",
       "pubDate": "Mon, 07 Sep 2026 14:01:00 +0200",
       "description": "ČEZ, a. s. (IČ 45274649)\n\nSpolečnost ČEZ, a.s. zveřejňuje Oznámení o výplatě úrokového výnosu.\n\nVíce informací zde.\n\n(komerční sdělení)"
+    },
+    {
+      "source": "patria",
+      "title": "Pale Fire Financing a.s.: Oznámení o desáté výplatě úrokového výnosu a splacení jistiny dluhopisu",
+      "link": "http://www.patria.cz/zpravodajstvi/7219875/pale-fire-financing-as-oznameni-o-desate-vyplate-urokoveho-vynosu-a-splaceni-jistiny-dluhopisu.html",
+      "pubDate": "Fri, 04 Sep 2026 16:31:00 +0200",
+      "description": "Pale Fire Financing a.s.\nIČO: 11643064\nSpolečnost Pale Fire Financing a.s. zveřejňuje Oznámení o desáté výplatě úrokového výnosu a splacení jistiny dluhopisu."
+    },
+    {
+      "source": "patria",
+      "title": "Perly týdne: Taktický ústup z akcií?",
+      "link": "http://www.patria.cz/zpravodajstvi/7219825/perly-tydne-takticky-ustup-z-akcii.html",
+      "pubDate": "Fri, 04 Sep 2026 13:51:20 +0200",
+      "description": "J.P. Morgan Asset Management si myslí, že AI už ovlivňuje všechny třídy investičních aktiv a radí určitou opatrnost směrem k americkým akciím. David Zervos z Jefferies si myslí, že AI bude mít celkově pozitivní dopad na ekonomiku, který sebou ale přináší i vyšší reálné  sazby."
+    },
+    {
+      "source": "patria",
+      "title": "ČEZ, a.s.: Oznámení o výplatě úrokového výnosu",
+      "link": "http://www.patria.cz/zpravodajstvi/7219837/cez-as-oznameni-o-vyplate-urokoveho-vynosu.html",
+      "pubDate": "Fri, 04 Sep 2026 11:19:00 +0200",
+      "description": "ČEZ, a. s. (IČ 45274649)\n\nSpolečnost ČEZ, a.s. zveřejňuje Oznámení o výplatě úrokového výnosu.\n\nVíce informací zde.\n\n\n(komerční sdělení)"
+    },
+    {
+      "source": "patria",
+      "title": "Inflace v srpnu vzrostla v souladu s poslední prognózou ČNB, služby zvolňují",
+      "link": "http://www.patria.cz/zpravodajstvi/7219830/inflace-v-srpnu-vzrostla-v-souladu-s-posledni-prognozou-cnb-sluzby-zvolnuji.html",
+      "pubDate": "Fri, 04 Sep 2026 09:59:00 +0200",
+      "description": "Inflace v srpnu vzrostla z 1,7 % na 1,9 % meziročně (+0,3 % meziměsíčně). To je lehce nad naším odhadem (1,8 %), ale zcela v souladu s ČNB a trhem.\nV souladu s naším očekáváním dál prohlubují svůj pokles ceny potravin (-4,3 % versus -3,1 % v červenci)."
+    },
+    {
+      "source": "patria",
+      "title": "Rozbřesk: Koruna vyčkává na inflaci a payrolls, další holubičí hlas z Fedu před daty z trhu práce",
+      "link": "http://www.patria.cz/zpravodajstvi/7219820/rozbresk-koruna-vyckava-na-inflaci-a-payrolls-dalsi-holubici-hlas-z-fedu-pred-daty-z-trhu-prace.html",
+      "pubDate": "Fri, 04 Sep 2026 08:47:00 +0200",
+      "description": "Mzdová dynamika ve druhém kvartále výrazně zaostala za naším očekáváním – mzdy meziročně rostly o 6,4 % (versus 7,1 % naše očekávání a 7,3 % ČNB). Nutno však druhým dechem dodat, že za slabšími čísly stály do značné míry výrazné revize v datech, které ukazují, že statistikům přechod na jednotné hlášení zaměstnanců dělá potíže."
     }
   ]
 }
