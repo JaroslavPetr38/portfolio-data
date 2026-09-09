@@ -96,7 +96,7 @@ def load_portfolio(tickers_file):
 
     yahoo_lookup_list je seznam (ticker, yahoo_ticker) pro VŠECHNY
     portfolio/watchlist položky (ne jen US) - používá pole
-    "yahoo_ticker" pokud existuje, jinak spadne zpět na holý ticker.
+    "yahoo" pokud existuje a není null, jinak spadne zpět na holý ticker.
     """
     with open(tickers_file, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -109,7 +109,7 @@ def load_portfolio(tickers_file):
             ticker = item.get("ticker")
             name = item.get("name")
             exchange = (item.get("exchange") or "").upper()
-            yahoo_ticker = item.get("yahoo_ticker") or ticker
+            yahoo_ticker = item.get("yahoo") or ticker
 
             if name:
                 name_lookup[name.lower()] = ticker
@@ -624,3 +624,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
