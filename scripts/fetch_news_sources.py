@@ -27,17 +27,25 @@ Používá pouze standardní knihovnu Pythonu - žádný pip install.
 import json
 import sys
 import re
+import os
 import argparse
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
 PATRIA_FEED_URL = "https://www.patria.cz/rss.html"
 SEC_TICKER_MAP_URL = "https://www.sec.gov/files/company_tickers.json"
 SEC_SUBMISSIONS_TEMPLATE = "https://data.sec.gov/submissions/CIK{cik10}.json"
 YAHOO_RSS_TEMPLATE = "https://feeds.finance.yahoo.com/rss/2.0/headline?s={ticker}"
+FINNHUB_NEWS_TEMPLATE = (
+    "https://finnhub.io/api/v1/company-news"
+    "?symbol={ticker}&from={date_from}&to={date_to}&token={token}"
+)
+# API klíč se čte VÝHRADNĚ z prostředí (GitHub Secret), nikdy natvrdo v kódu.
+# Pokud proměnná chybí, Finnhub zdroj se čistě přeskočí (ne pád skriptu).
+FINNHUB_API_KEY = os.environ.get("FINNHUB_API_KEY", "")
 
 # SEC vyžaduje identifikovatelný User-Agent (jméno/kontakt), jinak může
 # request odmítnout. UPRAV na svůj kontakt před ostrým nasazením.
@@ -390,6 +398,77 @@ def _get_word_boundary_pattern(name_key):
     return _word_boundary_pattern_cache[name_key]
 
 
+def fetch_finnhub_items_for_ticker(ticker, company_name):
+    """
+    Stáhne firemní zprávy z Finnhub company-news endpointu pro daný
+    ticker. Na rozdíl od RSS zdrojů vyžaduje explicitní from/to datum
+    v URL (odvozeno z MAX_AGE_HOURS), ne "posledních N položek".
+
+    Vyžaduje FINNHUB_API_KEY v prostředí (GitHub Secret) - pokud
+    chybí, tiše se přeskočí, ne pád skriptu.
+
+    "datetime" pole v odpovědi je Unix timestamp, ne RFC-822 string
+    jako u ostatních zdrojů - proto vlastní recency kontrola místo
+    sdílené is_recent_enough().
+    """
+    if not FINNHUB_API_KEY:
+        return []
+
+    date_to = datetime.now(timezone.utc)
+    date_from = date_to - timedelta(hours=MAX_AGE_HOURS)
+    url = FINNHUB_NEWS_TEMPLATE.format(
+        ticker=ticker,
+        date_from=date_from.strftime("%Y-%m-%d"),
+        date_to=date_to.strftime("%Y-%m-%d"),
+        token=FINNHUB_API_KEY,
+    )
+
+    try:
+        content = http_get(url, user_agent="Mozilla/5.0 (news-fetch-bot)")
+        raw_items = json.loads(content)
+    except urllib.error.HTTPError as e:
+        print(f"[finnhub:{ticker}] HTTP {e.code}: {e.reason}", file=sys.stderr)
+        return []
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
+        print(f"[finnhub:{ticker}] fetch failed: {e}", file=sys.stderr)
+        return []
+
+    check_patterns = [_get_word_boundary_pattern(ticker)]
+    if company_name:
+        first_word = company_name.split()[0] if company_name.split() else None
+        if first_word and len(first_word) > 2:
+            check_patterns.append(_get_word_boundary_pattern(first_word))
+
+    cutoff_ts = (date_to - date_from).total_seconds()
+    now_ts = date_to.timestamp()
+
+    items = []
+    for entry in raw_items:
+        item_ts = entry.get("datetime", 0)
+        if now_ts - item_ts > cutoff_ts:
+            continue  # mimo MAX_AGE_HOURS okno
+
+        headline = entry.get("headline", "")
+        summary = entry.get("summary", "")
+        haystack = headline + " " + summary
+        mentioned = any(p.search(haystack) for p in check_patterns)
+
+        pub_dt = datetime.fromtimestamp(item_ts, tz=timezone.utc)
+
+        items.append(
+            {
+                "source": "finnhub",
+                "matched_ticker": ticker,
+                "title": headline,
+                "link": entry.get("url", ""),
+                "pubDate": pub_dt.isoformat(),
+                "description": summary,
+                "company_mentioned_in_text": mentioned,
+            }
+        )
+    return items
+
+
 def match_portfolio(items, name_lookup):
     matched = []
     for item in items:
@@ -454,8 +533,19 @@ def main():
             fetch_yahoo_items_for_ticker(ticker, yahoo_ticker, company_name)
         )
 
+    # 4) Finnhub company-news per ticker (jen pokud je API klíč v prostředí)
+    finnhub_items_all = []
+    finnhub_skipped_no_key = not FINNHUB_API_KEY
+    if not finnhub_skipped_no_key:
+        for ticker, _yahoo_ticker, company_name in yahoo_lookup:
+            finnhub_items_all.extend(
+                fetch_finnhub_items_for_ticker(ticker, company_name)
+            )
+
     # Matchování
-    all_items_for_matching = patria_items + sec_items_all + yahoo_items_all
+    all_items_for_matching = (
+        patria_items + sec_items_all + yahoo_items_all + finnhub_items_all
+    )
     matched = match_portfolio(all_items_for_matching, name_lookup)
     matched_ids = {id(m) for m in matched}
 
@@ -475,6 +565,11 @@ def main():
             "yahoo": {
                 "tickers_checked": len(yahoo_lookup),
                 "item_count": len(yahoo_items_all),
+            },
+            "finnhub": {
+                "skipped_no_api_key": finnhub_skipped_no_key,
+                "tickers_checked": 0 if finnhub_skipped_no_key else len(yahoo_lookup),
+                "item_count": len(finnhub_items_all),
             },
         },
         "matched_count": len(matched),
@@ -510,4 +605,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

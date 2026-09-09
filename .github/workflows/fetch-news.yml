@@ -1,4 +1,4 @@
-name: Fetch external news sources (Patria + SEC EDGAR)
+name: Fetch external news sources (Patria + SEC EDGAR + Yahoo + Finnhub)
 
 on:
   schedule:
@@ -26,6 +26,11 @@ jobs:
           python-version: "3.12"
 
       - name: Run fetch script
+        env:
+          # Klíč se čte z GitHub Secret, NIKDY není v kódu ani v tomto
+          # YAML souboru natvrdo - jen odkaz na jeho název je veřejný.
+          # Nastav v: Settings -> Secrets and variables -> Actions
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: |
           python3 scripts/fetch_news_sources.py \
             --tickers-file news/portfolio_tickers.json \
