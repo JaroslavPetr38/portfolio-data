@@ -1,0 +1,31 @@
+name: Debug - SEC raw filing data (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ticker:
+        description: "Ticker k diagnostice (např. MU)"
+        required: true
+        default: "MU"
+      count:
+        description: "Kolik posledních podání vypsat"
+        required: false
+        default: "20"
+
+jobs:
+  debug-sec:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run diagnostic script
+        run: |
+          python3 scripts/debug_sec_raw.py \
+            --ticker "${{ inputs.ticker }}" \
+            --count "${{ inputs.count }}"
