@@ -45,6 +45,21 @@ FINNHUB_NEWS_TEMPLATE = (
 )
 # API klíč se čte VÝHRADNĚ z prostředí (GitHub Secret), nikdy natvrdo v kódu.
 # Pokud proměnná chybí, Finnhub zdroj se čistě přeskočí (ne pád skriptu).
+# ---------------------------------------------------------------------
+# ZAPNUTÍ/VYPNUTÍ ZDROJE - explicitní přepínač, NE jen "je/není API klíč".
+#
+# Finnhub company-news byl vyzkoušen a vypnut: vrací příliš vysoký
+# objem (v testu 412 položek/44 tickerů = ~9,4/ticker za 72h, oproti
+# Yahoo ~3,3/ticker), většina bez dostatečné relevance k portfoliu.
+# Stejný problém byl už dřív pozorován při přímém použití v appce.
+#
+# Kód zůstává funkční a otestovaný - pokud se v budoucnu situace změní
+# (např. najde se způsob, jak Finnhub dotaz víc zúžit), stačí přepnout
+# na True. Nezávisí na tom, jestli je FINNHUB_API_KEY secret nastavený
+# - i kdyby zůstal nastavený z dřívějška, tenhle přepínač má přednost.
+# ---------------------------------------------------------------------
+FINNHUB_ENABLED = False
+
 FINNHUB_API_KEY = os.environ.get("FINNHUB_API_KEY", "")
 
 # SEC vyžaduje identifikovatelný User-Agent (jméno/kontakt), jinak může
@@ -533,10 +548,13 @@ def main():
             fetch_yahoo_items_for_ticker(ticker, yahoo_ticker, company_name)
         )
 
-    # 4) Finnhub company-news per ticker (jen pokud je API klíč v prostředí)
+    # 4) Finnhub company-news per ticker
+    #    FINNHUB_ENABLED je nadřazený přepínač (viz komentář u konstanty
+    #    výše) - i kdyby API klíč existoval, vypnutý přepínač má přednost.
     finnhub_items_all = []
-    finnhub_skipped_no_key = not FINNHUB_API_KEY
-    if not finnhub_skipped_no_key:
+    finnhub_skipped_no_key = FINNHUB_ENABLED and not FINNHUB_API_KEY
+    finnhub_should_run = FINNHUB_ENABLED and bool(FINNHUB_API_KEY)
+    if finnhub_should_run:
         for ticker, _yahoo_ticker, company_name in yahoo_lookup:
             finnhub_items_all.extend(
                 fetch_finnhub_items_for_ticker(ticker, company_name)
@@ -567,8 +585,9 @@ def main():
                 "item_count": len(yahoo_items_all),
             },
             "finnhub": {
+                "enabled_by_setting": FINNHUB_ENABLED,
                 "skipped_no_api_key": finnhub_skipped_no_key,
-                "tickers_checked": 0 if finnhub_skipped_no_key else len(yahoo_lookup),
+                "tickers_checked": len(yahoo_lookup) if finnhub_should_run else 0,
                 "item_count": len(finnhub_items_all),
             },
         },
