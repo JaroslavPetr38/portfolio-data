@@ -7139,5 +7139,33 @@
     "created": "2026-09-08",
     "source_url": "https://www.bloomberg.com/news/articles/2026-09-06/latest-oil-market-news-and-analysis-for-september-7",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-09-08_other_ad19",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Micron Stock News: Why Memory Surged On September 8, 2026",
+    "text": "Micron 8. 9. zaznamenal prudký růst akcií díky boomu poptávky po pamětech pro AI. Firma má vyprodánu veškerou letošní kapacitu HBM čipů, ceny DRAM/NAND/HBM vzrostly od Q4 2025 o 80-90 %. Odvětví polovodičů letos očekává tržby 1,5 bil. USD.",
+    "date": "2026-09-08",
+    "done": false,
+    "created": "2026-09-09",
+    "source_url": "https://tradingstrategyguides.com/micron-stock-news-why-memory-surged-on-september-8-2026/",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-09-08_other_a77e",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Why AMD Stock Popped Today",
+    "text": "AMD akcie 8. 9. vzrostly o cca 5,9 % po vystoupení vedení na konferenci Citi Global TMT. Firma odhaduje trh AI na 2 bil. USD do roku 2030 a tržby z datacenter kolem 70 mld. USD v roce 2027 (dvojnásobek 2026). Tržby z datacenter meziročně vzrostly o 107 % díky kontraktu s OpenAI na 6 GW.",
+    "date": "2026-09-08",
+    "done": false,
+    "created": "2026-09-09",
+    "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-212023035.html",
+    "auto_generated": true
   }
 ]
