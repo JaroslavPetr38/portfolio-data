@@ -55,7 +55,7 @@ SEC_USER_AGENT = "Personal news agent/1.0 (xpetr.xjaroslav@gmail.com)"
 # ---------------------------------------------------------------------
 SEC_ITEM_WHITELIST = []  # <-- doplnit ručně po review discovery souboru
 
-MAX_AGE_HOURS = 72  # položky starší než tohle se do matches nedostanou
+MAX_AGE_HOURS = 288  # položky starší než tohle se do matches nedostanou
 
 # ---------------------------------------------------------------------
 # ETF/fondy nefilují 8-K stejným způsobem jako operační firmy (mají

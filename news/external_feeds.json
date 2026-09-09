@@ -1,122 +1,41 @@
 {
-  "fetched_at": "2026-09-09T06:33:46.578922+00:00",
-  "max_age_hours_filter": 72,
+  "fetched_at": "2026-09-09T06:55:24.517853+00:00",
+  "max_age_hours_filter": 288,
   "sec_item_whitelist_active": false,
   "sources_attempted": {
     "patria": {
       "ok": true,
-      "item_count": 25
+      "item_count": 50
     },
     "sec_edgar": {
-      "tickers_checked": 15,
-      "item_count": 0
+      "tickers_checked": 14,
+      "item_count": 1,
+      "errors": []
     }
   },
-  "matched_count": 13,
+  "matched_count": 2,
   "matches": [
-    {
-      "source": "patria",
-      "title": "ASML dostalo od klíčových zákazníků zelenou pro novou generaci litografických strojů",
-      "link": "http://www.patria.cz/zpravodajstvi/7226529/asml-dostalo-od-klicovych-zakazniku-zelenou-pro-novou-generaci-litografickych-stroju.html",
-      "pubDate": "Wed, 09 Sep 2026 06:03:00 +0200",
-      "description": "Nizozemský polovodičový gigant ASML si zajistil podporu u TSMC a Samsungu pro nasazení nejnovější generace litografických strojů High NA EUV. Oba výrobci čipů oznámili plány na využití těchto zařízení od ASML v sériové výrobě během příští dekády, čímž se připojí k Intelu, který již technologii aktivně zavádí.",
-      "matched_ticker": "OGI"
-    },
-    {
-      "source": "patria",
-      "title": "Akcie i dluhopisy oslabily, růst ropy zvýšil obavy z dalšího růstu sazeb",
-      "link": "http://www.patria.cz/zpravodajstvi/7226546/akcie-i-dluhopisy-oslabily-rust-ropy-zvysil-obavy-z-dalsiho-rustu-sazeb.html",
-      "pubDate": "Tue, 08 Sep 2026 22:01:17 +0200",
-      "description": "Americké akcie i  dluhopisy dnes klesaly, protože prudký růst cen  ropy znovu zvýšil obavy investorů z inflačních tlaků a možného zpřísnění měnové politiky Fedu.",
-      "matched_ticker": "VU"
-    },
-    {
-      "source": "patria",
-      "title": "Do popředí vystupuje paradox na zlatu",
-      "link": "http://www.patria.cz/zpravodajstvi/7226542/do-popredi-vystupuje-paradox-na-zlatu.html",
-      "pubDate": "Tue, 08 Sep 2026 17:06:00 +0200",
-      "description": "Kolem vývoje cen  zlata existuje řada teorií, někdy s poněkud protichůdnou logikou a závěry. Před několika měsíci spatřila světlo světa studie, která se věnuje docela důležitému rozporu – vztahu  zlata k  inflaci na straně jedné a sazbám na straně druhé.",
-      "matched_ticker": "OGI"
-    },
-    {
-      "source": "patria",
-      "title": "Po klidném létě může přijít bouřlivý podzim. Trhy čeká test inflace, dluhu i geopolitiky",
-      "link": "http://www.patria.cz/zpravodajstvi/7226507/po-klidnem-lete-muze-prijit-bourlivy-podzim-trhy-ceka-test-inflace-dluhu-i-geopolitiky.html",
-      "pubDate": "Tue, 08 Sep 2026 11:57:00 +0200",
-      "description": "Po mimořádně klidném létě se globální finanční trhy připravují na období výrazně vyšší volatility. Tu ovlivní i rozhodování centrálních bank o  úrokových sazbách, rostoucí obavy z vysokého zadlužení vlád, rekordní objem emisí firemních dluhopisů, americké volby do Kongresu či pokračující konflikt mezi USA a Íránem.",
-      "matched_ticker": "VU"
-    },
-    {
-      "source": "patria",
-      "title": "Volkswagen zvažuje prodej Ducati. Ikonická motocyklová značka může pomoci financovat restrukturalizaci",
-      "link": "http://www.patria.cz/zpravodajstvi/7226510/volkswagen-zvazuje-prodej-ducati-ikonicka-motocyklova-znacka-muze-pomoci-financovat-restrukturalizaci.html",
-      "pubDate": "Tue, 08 Sep 2026 11:56:04 +0200",
-      "description": "Volkswagen zvažuje v rámci rozsáhlé reorganizace svého portfolia prodej italského výrobce motocyklů Ducati, který od roku 2012 patří pod značku Audi. Případný prodej by zapadal do širšího plánu zjednodušení struktury koncernu a zvýšení efektivity hospodaření.",
-      "matched_ticker": "URA"
-    },
-    {
-      "source": "patria",
-      "title": "Výnosy dluhopisů stoupají, akcie jsou pod tlakem. Není to jen o ropě a obavách z inflace",
-      "link": "http://www.patria.cz/zpravodajstvi/7226506/vynosy-dluhopisu-stoupaji-akcie-jsou-pod-tlakem-neni-to-jen-o-rope-a-obavach-z-inflace.html",
-      "pubDate": "Tue, 08 Sep 2026 11:35:00 +0200",
-      "description": "Evropské akcie vstoupily do týdne v negativní náladě, zatímco investoři stále více řeší kombinaci rostoucích cen  komodit, vyšších dluhopisových výnosů a pokračujícího zpřísňování měnové politiky.",
-      "matched_ticker": "KOMB"
-    },
-    {
-      "source": "patria",
-      "title": "Evropský AI šampion Mistral získal rekordní finance a míří mezi technologickou elitu",
-      "link": "http://www.patria.cz/zpravodajstvi/7226503/evropsky-ai-sampion-mistral-ziskal-rekordni-finance-a-miri-mezi-technologickou-elitu.html",
-      "pubDate": "Tue, 08 Sep 2026 10:53:00 +0200",
-      "description": "Francouzský startup Mistral AI, považovaný za největší evropskou naději v oblasti umělé inteligence, získal od investorů rekordní 3 miliardy  eur, což zvýšilo jeho valuaci nad 21 miliard  eur.",
-      "matched_ticker": "OGI"
-    },
-    {
-      "source": "patria",
-      "title": "Goldman Sachs: Ropa může při eskalaci v Hormuzu vystoupat až ke 120 dolarům",
-      "link": "http://www.patria.cz/zpravodajstvi/7223944/goldman-sachs-ropa-muze-pri-eskalaci-v-hormuzu-vystoupat-az-ke-120-dolarum.html",
-      "pubDate": "Tue, 08 Sep 2026 06:02:00 +0200",
-      "description": "Pokud budou útoky na lodní dopravu v oblasti Hormuzského průlivu dál pokračovat, může se cena  ropy vyšplhat až ke 120 dolarům za barel, hlásí Goldman Sachs a investorům doporučuje sázet na  zemní plyn a rafinérské produkty, zejména na naftu.",
-      "matched_ticker": "VU"
-    },
-    {
-      "source": "patria",
-      "title": "Americké akcie stagnují, optimismus přetrvává, ale japonským rekordům se ani zdaleka nevyrovná",
-      "link": "http://www.patria.cz/zpravodajstvi/7223915/americke-akcie-stagnuji-optimismus-pretrvava-ale-japonskym-rekordum-se-ani-zdaleka-nevyrovna.html",
-      "pubDate": "Mon, 07 Sep 2026 17:17:00 +0200",
-      "description": "Index S&P  500 se po dosažení nových vrcholů už cca měsíc nachází bez jasného směru, předtím měl také řadu týdnů tendenci stagnovat. Jak moc jsou investoři nyní skeptičtí? Míru optimismu, či pesimismu na akciích lze měřit řadou způsobů.",
-      "matched_ticker": "MU"
-    },
-    {
-      "source": "patria",
-      "title": "Na německé trhy lehce doléhá politika, ropa vyhlíží dohodu o Hormuzu a dál neroste",
-      "link": "http://www.patria.cz/zpravodajstvi/7223919/na-nemecke-trhy-lehce-doleha-politika-ropa-vyhlizi-dohodu-o-hormuzu-a-dal-neroste.html",
-      "pubDate": "Mon, 07 Sep 2026 11:48:48 +0200",
-      "description": "Vstup hlavních akciových trhů do nového týdne je smíšený, když DAX  klesá o 0,3 procenta a FTSE100 je na červené nule, naopak CAC40 a AEX se aktuálně drží těsně v zeleném.",
-      "matched_ticker": "MU"
-    },
-    {
-      "source": "patria",
-      "title": "Datová centra pro AI na oběžné dráze? Masové nasazení brzdí technologie, reálnější jsou až ve 30. letech",
-      "link": "http://www.patria.cz/zpravodajstvi/7223913/datova-centra-pro-ai-na-obezne-draze-masove-nasazeni-brzdi-technologie-realnejsi-jsou-az-ve-30-letech.html",
-      "pubDate": "Mon, 07 Sep 2026 11:16:00 +0200",
-      "description": "Myšlenka datových center umístěných na oběžné dráze Země získává v souvislosti s prudkým rozvojem umělé inteligence stále větší pozornost. Elon Musk a jeho společnost SpaceX sice mluví o tom, že start prvních takových projektů je možný už v příštím roce, nicméně odborníci jsou střízlivější a domnívají se, že skutečně rozsáhlé využití této technologie je záležitostí až příští dekády.",
-      "matched_ticker": "OGI"
-    },
-    {
-      "source": "patria",
-      "title": "Průmyslová výroba se meziročně zvýšila o 3,1 procenta, přispěla výroba aut a elektřiny",
-      "link": "http://www.patria.cz/zpravodajstvi/7223890/prumyslova-vyroba-se-mezirocne-zvysila-o-31-procenta-prispela-vyroba-aut-a-elektriny.html",
-      "pubDate": "Mon, 07 Sep 2026 09:56:17 +0200",
-      "description": "Průmyslová výroba v Česku se v červenci meziročně zvýšila o 3,1 procenta, nejvíce k tomu přispěla výroba aut a elektřiny. Meziroční růst ale zpomalil z revidovaných 3,8 procenta v červnu.",
-      "matched_ticker": "MU"
-    },
     {
       "source": "patria",
       "title": "Atraktivnější než lékaři či právníci. Zaměstnanci SK Hynix a Samsungu jsou hvězdami na korejských seznamkách",
       "link": "http://www.patria.cz/zpravodajstvi/7219863/atraktivnejsi-nez-lekari-ci-pravnici-zamestnanci-sk-hynix-a-samsungu-jsou-hvezdami-na-korejskych-seznamkach.html",
       "pubDate": "Mon, 07 Sep 2026 06:02:00 +0200",
       "description": "Raketový růst akcií jihokorejských gigantů SK Hynix a Samsung Electronics se v Jižní Koreji propisuje i do společnosti, kde vznikl zajímavý trend: zaměstnanci zmíněných firem jsou v kurzu na seznamovacích aplikacích, přičemž v poslední době jsou dokonce preferovanější volbou než třeba zástupci tradičně prestižních zaměstnání (medicína, justice).",
-      "matched_ticker": "000660"
+      "matched_ticker": "000660",
+      "matched_on": "sk hynix"
+    },
+    {
+      "source": "sec_edgar",
+      "matched_ticker": "AVGO",
+      "title": "8-K (2.02,8.01,9.01) - AVGO",
+      "link": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/avgo-20260902.htm",
+      "pubDate": "2026-09-02",
+      "description": "SEC 8-K filing, item(s): 2.02,8.01,9.01",
+      "sec_items": [
+        "2.02",
+        "8.01",
+        "9.01"
+      ]
     }
   ],
   "macro_candidates": [
@@ -154,6 +73,41 @@
       "link": "http://www.patria.cz/zpravodajstvi/7223928/cez-as-oznameni-o-vyplate-urokoveho-vynosu.html",
       "pubDate": "Mon, 07 Sep 2026 14:01:00 +0200",
       "description": "ČEZ, a. s. (IČ 45274649)\n\nSpolečnost ČEZ, a.s. zveřejňuje Oznámení o výplatě úrokového výnosu.\n\nVíce informací zde.\n\n(komerční sdělení)"
+    },
+    {
+      "source": "patria",
+      "title": "Pale Fire Financing a.s.: Oznámení o desáté výplatě úrokového výnosu a splacení jistiny dluhopisu",
+      "link": "http://www.patria.cz/zpravodajstvi/7219875/pale-fire-financing-as-oznameni-o-desate-vyplate-urokoveho-vynosu-a-splaceni-jistiny-dluhopisu.html",
+      "pubDate": "Fri, 04 Sep 2026 16:31:00 +0200",
+      "description": "Pale Fire Financing a.s.\nIČO: 11643064\nSpolečnost Pale Fire Financing a.s. zveřejňuje Oznámení o desáté výplatě úrokového výnosu a splacení jistiny dluhopisu."
+    },
+    {
+      "source": "patria",
+      "title": "Perly týdne: Taktický ústup z akcií?",
+      "link": "http://www.patria.cz/zpravodajstvi/7219825/perly-tydne-takticky-ustup-z-akcii.html",
+      "pubDate": "Fri, 04 Sep 2026 13:51:20 +0200",
+      "description": "J.P. Morgan Asset Management si myslí, že AI už ovlivňuje všechny třídy investičních aktiv a radí určitou opatrnost směrem k americkým akciím. David Zervos z Jefferies si myslí, že AI bude mít celkově pozitivní dopad na ekonomiku, který sebou ale přináší i vyšší reálné  sazby."
+    },
+    {
+      "source": "patria",
+      "title": "ČEZ, a.s.: Oznámení o výplatě úrokového výnosu",
+      "link": "http://www.patria.cz/zpravodajstvi/7219837/cez-as-oznameni-o-vyplate-urokoveho-vynosu.html",
+      "pubDate": "Fri, 04 Sep 2026 11:19:00 +0200",
+      "description": "ČEZ, a. s. (IČ 45274649)\n\nSpolečnost ČEZ, a.s. zveřejňuje Oznámení o výplatě úrokového výnosu.\n\nVíce informací zde.\n\n\n(komerční sdělení)"
+    },
+    {
+      "source": "patria",
+      "title": "Inflace v srpnu vzrostla v souladu s poslední prognózou ČNB, služby zvolňují",
+      "link": "http://www.patria.cz/zpravodajstvi/7219830/inflace-v-srpnu-vzrostla-v-souladu-s-posledni-prognozou-cnb-sluzby-zvolnuji.html",
+      "pubDate": "Fri, 04 Sep 2026 09:59:00 +0200",
+      "description": "Inflace v srpnu vzrostla z 1,7 % na 1,9 % meziročně (+0,3 % meziměsíčně). To je lehce nad naším odhadem (1,8 %), ale zcela v souladu s ČNB a trhem.\nV souladu s naším očekáváním dál prohlubují svůj pokles ceny potravin (-4,3 % versus -3,1 % v červenci)."
+    },
+    {
+      "source": "patria",
+      "title": "Rozbřesk: Koruna vyčkává na inflaci a payrolls, další holubičí hlas z Fedu před daty z trhu práce",
+      "link": "http://www.patria.cz/zpravodajstvi/7219820/rozbresk-koruna-vyckava-na-inflaci-a-payrolls-dalsi-holubici-hlas-z-fedu-pred-daty-z-trhu-prace.html",
+      "pubDate": "Fri, 04 Sep 2026 08:47:00 +0200",
+      "description": "Mzdová dynamika ve druhém kvartále výrazně zaostala za naším očekáváním – mzdy meziročně rostly o 6,4 % (versus 7,1 % naše očekávání a 7,3 % ČNB). Nutno však druhým dechem dodat, že za slabšími čísly stály do značné míry výrazné revize v datech, které ukazují, že statistikům přechod na jednotné hlášení zaměstnanců dělá potíže."
     }
   ]
 }
