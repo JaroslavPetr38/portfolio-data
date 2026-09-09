@@ -1,0 +1,40 @@
+name: Fetch external news sources (Patria + SEC EDGAR)
+
+on:
+  schedule:
+    # Spustí se 2x denně, ~30 min PŘED plánovanými Routine běhy,
+    # ať má Routine čerstvá data připravená k přečtení.
+    # Uprav časy podle svého skutečného Routine cronu (dnešní: 0 5,9,16 * * 1-5
+    # zredukovaný na 2x/den dle včerejší diskuze).
+    - cron: "30 4 * * 1-5"   # ~30 min před ranním během
+    - cron: "30 15 * * 1-5"  # ~30 min před odpoledním/večerním během
+  workflow_dispatch: {}       # umožní i ruční spuštění z GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run fetch script
+        run: |
+          python3 scripts/fetch_news_sources.py \
+            --tickers-file news/portfolio_tickers.json \
+            --output-file news/external_feeds.json
+
+      - name: Commit and push result
+        run: |
+          git config user.name "news-fetch-bot"
+          git config user.email "actions@github.com"
+          git add news/external_feeds.json
+          git diff --staged --quiet || git commit -m "news: external feeds refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
