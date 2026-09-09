@@ -26,6 +26,7 @@ Používá pouze standardní knihovnu Pythonu - žádný pip install.
 
 import json
 import sys
+import re
 import argparse
 import urllib.request
 import urllib.error
@@ -39,7 +40,7 @@ SEC_SUBMISSIONS_TEMPLATE = "https://data.sec.gov/submissions/CIK{cik10}.json"
 
 # SEC vyžaduje identifikovatelný User-Agent (jméno/kontakt), jinak může
 # request odmítnout. UPRAV na svůj kontakt před ostrým nasazením.
-SEC_USER_AGENT = "PortfolioManager-NewsBot/1.0 (kontakt@example.com)"
+SEC_USER_AGENT = "Personal news agent/1.0 (xpetr.xjaroslav@gmail.com)"
 
 # ---------------------------------------------------------------------
 # ŘÍDÍCÍ FILTR: zatím prázdný = žádné SEC 8-K se podle typu nevyřazuje.
@@ -55,6 +56,15 @@ SEC_USER_AGENT = "PortfolioManager-NewsBot/1.0 (kontakt@example.com)"
 SEC_ITEM_WHITELIST = []  # <-- doplnit ručně po review discovery souboru
 
 MAX_AGE_HOURS = 72  # položky starší než tohle se do matches nedostanou
+
+# ---------------------------------------------------------------------
+# ETF/fondy nefilují 8-K stejným způsobem jako operační firmy (mají
+# jiné SEC formuláře - N-CEN, N-PORT) a typicky nejsou v CIK mapě
+# operačních firem vůbec. Radši je z SEC 8-K kontroly rovnou vynech,
+# než aby se to tvářilo jako chyba pokaždé znovu.
+# Doplňuj sem podle potřeby, jak narazíš na další ETF v portfoliu.
+# ---------------------------------------------------------------------
+KNOWN_NON_FILER_TICKERS = {"URA"}
 
 
 def load_portfolio(tickers_file):
@@ -73,7 +83,7 @@ def load_portfolio(tickers_file):
                 name_lookup[name.lower()] = ticker
             if ticker:
                 name_lookup[ticker.lower()] = ticker
-            if exchange in ("NASDAQ", "NYSE", "US"):
+            if exchange in ("NASDAQ", "NYSE", "US") and ticker not in KNOWN_NON_FILER_TICKERS:
                 us_tickers.append(ticker)
     return name_lookup, us_tickers
 
@@ -147,6 +157,7 @@ def fetch_patria_items():
 # ---------------------------------------------------------------------
 
 _cik_map_cache = None
+SEC_FETCH_ERRORS = []  # sbírá chyby pro zápis do výstupního JSON (ne jen stderr)
 
 
 def load_sec_ticker_to_cik_map():
@@ -158,8 +169,16 @@ def load_sec_ticker_to_cik_map():
     try:
         content = http_get(SEC_TICKER_MAP_URL, user_agent=SEC_USER_AGENT)
         raw = json.loads(content)
+    except urllib.error.HTTPError as e:
+        msg = f"ticker map HTTP {e.code}: {e.reason}"
+        print(f"[sec] {msg}", file=sys.stderr)
+        SEC_FETCH_ERRORS.append({"stage": "cik_map", "error": msg})
+        _cik_map_cache = {}
+        return _cik_map_cache
     except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
-        print(f"[sec] ticker map fetch failed: {e}", file=sys.stderr)
+        msg = f"ticker map fetch failed: {e}"
+        print(f"[sec] {msg}", file=sys.stderr)
+        SEC_FETCH_ERRORS.append({"stage": "cik_map", "error": msg})
         _cik_map_cache = {}
         return _cik_map_cache
 
@@ -186,15 +205,24 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
     cik_map = load_sec_ticker_to_cik_map()
     cik10 = cik_map.get(ticker.upper())
     if not cik10:
-        print(f"[sec:{ticker}] CIK not found in SEC ticker map", file=sys.stderr)
+        msg = f"CIK not found in SEC ticker map (map size: {len(cik_map)})"
+        print(f"[sec:{ticker}] {msg}", file=sys.stderr)
+        SEC_FETCH_ERRORS.append({"stage": "cik_lookup", "ticker": ticker, "error": msg})
         return []
 
     url = SEC_SUBMISSIONS_TEMPLATE.format(cik10=cik10)
     try:
         content = http_get(url, user_agent=SEC_USER_AGENT)
         data = json.loads(content)
+    except urllib.error.HTTPError as e:
+        msg = f"submissions HTTP {e.code}: {e.reason}"
+        print(f"[sec:{ticker}] {msg}", file=sys.stderr)
+        SEC_FETCH_ERRORS.append({"stage": "submissions", "ticker": ticker, "error": msg})
+        return []
     except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as e:
-        print(f"[sec:{ticker}] submissions fetch failed: {e}", file=sys.stderr)
+        msg = f"submissions fetch failed: {e}"
+        print(f"[sec:{ticker}] {msg}", file=sys.stderr)
+        SEC_FETCH_ERRORS.append({"stage": "submissions", "ticker": ticker, "error": msg})
         return []
 
     recent = data.get("filings", {}).get("recent", {})
@@ -268,17 +296,38 @@ def fetch_sec_items_for_ticker(ticker, discovered_items_acc):
 # Matchování (jen pro Patria - SEC už matched_ticker má)
 # ---------------------------------------------------------------------
 
+_word_boundary_pattern_cache = {}
+
+
+def _get_word_boundary_pattern(name_key):
+    """
+    Vrátí (a nakešuje) regex, co matchne name_key jen jako celé,
+    samostatné slovo - ne jako substring uvnitř jiného slova
+    (např. "ogi" nesmí matchnout uvnitř "technologii").
+
+    \b v Pythonu 3 je Unicode-aware, takže funguje správně i s
+    českou diakritikou (ř, š, č, á...) bez dalšího nastavení.
+    """
+    if name_key not in _word_boundary_pattern_cache:
+        _word_boundary_pattern_cache[name_key] = re.compile(
+            r"\b" + re.escape(name_key) + r"\b", re.IGNORECASE
+        )
+    return _word_boundary_pattern_cache[name_key]
+
+
 def match_portfolio(items, name_lookup):
     matched = []
     for item in items:
         if item.get("matched_ticker"):
             matched.append(item)
             continue
-        haystack = (item["title"] + " " + item["description"]).lower()
+        haystack = item["title"] + " " + item["description"]
         for name_key, ticker in name_lookup.items():
-            if name_key in haystack:
+            pattern = _get_word_boundary_pattern(name_key)
+            if pattern.search(haystack):
                 enriched = dict(item)
                 enriched["matched_ticker"] = ticker
+                enriched["matched_on"] = name_key  # diagnostika: co přesně matchlo
                 matched.append(enriched)
                 break
     return matched
@@ -339,6 +388,7 @@ def main():
             "sec_edgar": {
                 "tickers_checked": len(us_tickers),
                 "item_count": len(sec_items_all),
+                "errors": SEC_FETCH_ERRORS,
             },
         },
         "matched_count": len(matched),
