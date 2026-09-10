@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-09T06:10:00Z",
+  "generated": "2026-09-10T06:04:16Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 2,
+  "event_count": 5,
   "events": [
     {
       "id": "MU_2026-07-04_other_cbdb",
@@ -4119,6 +4119,76 @@
       "done": false,
       "created": "2026-09-09",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-212023035.html",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-09-09_other_d4eb",
+      "ticker": "LAES",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SEALSQ Expands its Quantum Highway™: Nine Interconnected Hubs Now Link La Línea, Murcia, Toulouse, Meyreuil, Grenoble, Geneva, Lausanne and the Future Swiss-based Center, and Extend the Sovereign Quantum Corridor to Chicago with EeroQ",
+      "text": "SEALSQ rozšířil svůj Quantum Highway propojující výrobu post-kvantových polovodičů ve Španělsku, návrh čipů ve Francii a kvantovou infrastrukturu ve Švýcarsku o transatlantické spojení do Chicaga s partnerem EeroQ. Posiluje strategii Quantum Made in USA.",
+      "date": "2026-09-09",
+      "done": false,
+      "created": "2026-09-10",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/sealsq-expands-quantum-highway-nine-172000060.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AVCN_2026-09-09_other_6d5b",
+      "ticker": "AVCN",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Avicanna Launches MyMedi.ca Integrated Healthcare Program in Canada",
+      "text": "Avicanna spustila program MyMedi.ca, který integruje léčbu medicínským konopím pod dohledem lékařů do nemocnic, specializovaných klinik, pojišťoven a zdravotnických sítí v Kanadě. Program má rozšířit komerční dosah firmy ve zdravotnictví.",
+      "date": "2026-09-09",
+      "done": false,
+      "created": "2026-09-10",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/avicanna-launches-mymedi-ca-integrated-113000897.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-09-09_analysis_3d15",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Memory Stocks Rally as Goldman Says the Worst May Be Over: SK Hynix Climbs 5%, SanDisk Advances 3%, Micron Gains 2%",
+      "text": "Goldman Sachs obrátil názor na paměťové čipy a uvedl, že nejhorší výprodej je pravděpodobně za námi. Akcie SK Hynix vzrostly o 5 %, SanDisk o 3 % a Micron o 2 %. Pozitivní signál pro sektor pamětí navzdory přetrvávajícím obavám o ceny NAND.",
+      "date": "2026-09-09",
+      "done": false,
+      "created": "2026-09-10",
+      "source_url": "https://247wallst.com/investing/2026/09/09/memory-stocks-rally-as-goldman-says-the-worst-may-be-over-sk-hynix-climbs-5-sandisk-advances-3-micron-gains-2/",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-09-09_analysis_221c",
+      "ticker": "AVGO",
+      "type": "analysis",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Truist cuts Broadcom stock target on rattling Q4 outlook",
+      "text": "Truist snížil cílovou cenu akcií Broadcom kvůli slabšímu výhledu na 4. fiskální čtvrtletí. Dlouhodobé odhady růstu AI tržeb banka naopak zvýšila. Krátkodobě mírně negativní signál před další fází AI cyklu.",
+      "date": "2026-09-09",
+      "done": false,
+      "created": "2026-09-10",
+      "source_url": "https://www.thestreet.com/investing/stocks/truist-cuts-broadcom-avgo-stock-target-on-rattling-q4-outlook",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-09_macro_bcac",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Ropa za 100 a strach z inflace drží sentiment dole",
+      "text": "Cena ropy Brent vystoupala k hranici 100 USD/barel kvůli eskalaci na Blízkém východě a poklesu zásob. Rostoucí ceny energií živí inflační očekávání a drží tržní sentiment dole. Negativní signál pro rizikovější aktiva a výhled sazeb.",
+      "date": "2026-09-09",
+      "done": false,
+      "created": "2026-09-10",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7229208/ropa-za-100-a-strach-z-inflace-drzi-sentiment-dole.html",
       "auto_generated": true
     }
   ]
