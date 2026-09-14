@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-10T06:04:16Z",
+  "generated": "2026-09-14T06:05:38Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 5,
+  "event_count": 3,
   "events": [
     {
       "id": "MU_2026-07-04_other_cbdb",
@@ -4189,6 +4189,48 @@
       "done": false,
       "created": "2026-09-10",
       "source_url": "http://www.patria.cz/zpravodajstvi/7229208/ropa-za-100-a-strach-z-inflace-drzi-sentiment-dole.html",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-09-11_earnings_b47e",
+      "ticker": "LAES",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "SEALSQ Reports H1 2026 Financial and Operational Results; Revenue Increases 131% to $11.2 Million; FY2026 Guidance Reaffirmed",
+      "text": "SEALSQ zveřejnila výsledky za H1 2026: tržby vzrostly o 131 % na 11,2 mil. USD, hrubá marže se rozšířila na 48 %. Provozní ztráta se prohloubila na 32,2 mil. USD, čistá ztráta na 27,8 mil. USD. Firma potvrdila výhled FY2026 a pipeline 225 mil. USD.",
+      "date": "2026-09-11",
+      "done": false,
+      "created": "2026-09-14",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/11/3360357/0/en/sealsq-reports-h1-2026-financial-and-operational-results-revenue-increases-131-to-11-2-million-fy2026-guidance-reaffirmed.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-09-13_risk_alert_a684",
+      "ticker": "MU",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron, Nvidia, AMD Stocks at Risk as Anthropic, OpenAI Leads Push to Slow AI Growth",
+      "text": "Šéf Anthropicu Dario Amodei o víkendu vyzval k pomalejšímu tempu vývoje AI modelů, což srazilo čipové akcie: AMD a Intel klesly přes 4 %, Micron o 3,9 %, SanDisk o 4,5 %, ETF SOXX -2,8 %. Micron navíc 11. 9. propadl o 4,7 % kvůli obavám z regulace AI sektoru.",
+      "date": "2026-09-13",
+      "done": false,
+      "created": "2026-09-14",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-09-13_risk_alert_a684",
+      "ticker": "AMD",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron, Nvidia, AMD Stocks at Risk as Anthropic, OpenAI Leads Push to Slow AI Growth",
+      "text": "Šéf Anthropicu Dario Amodei o víkendu vyzval k pomalejšímu tempu vývoje AI modelů, což vyvolalo výprodej čipových akcií. AMD a Intel klesly přes 4 %, Micron o 3,9 %, SanDisk o 4,5 %, ETF SOXX -2,8 %. Trh čeká jen krátkodobý dopad na poptávku po AI infrastruktuře.",
+      "date": "2026-09-13",
+      "done": false,
+      "created": "2026-09-14",
+      "source_url": "https://invezz.com/news/2026/09/13/micron-nvidia-amd-stocks-at-risk-as-anthropic-openai-leads-push-to-slow-ai-growth/",
       "auto_generated": true
     }
   ]
