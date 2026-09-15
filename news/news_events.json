@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-14T06:05:38Z",
+  "generated": "2026-09-15T06:04:12Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 3,
+  "event_count": 6,
   "events": [
     {
       "id": "MU_2026-07-04_other_cbdb",
@@ -4231,6 +4231,90 @@
       "done": false,
       "created": "2026-09-14",
       "source_url": "https://invezz.com/news/2026/09/13/micron-nvidia-amd-stocks-at-risk-as-anthropic-openai-leads-push-to-slow-ai-growth/",
+      "auto_generated": true
+    },
+    {
+      "id": "LGEN_2026-09-14_other_467e",
+      "ticker": "LGEN",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Legal & General Group plc – Commencement of Share Buyback",
+      "text": "Legal & General zahájila 14.9.2026 druhou tranši (600 mil. GBP) svého programu zpětného odkupu akcií v celkové výši 1,2 mld. GBP, poběží do 22.3.2027. První tranše byla dokončena 11.9.2026, odkoupené akcie budou zrušeny. Pozitivní signál pokračujícího navracení kapitálu akcionářům.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "https://www.tradingview.com/news/reuters.com,2026-09-14:newsml_RSN5147Ua:0-reg-legal-general-grp-commencement-of-share-buyback/",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-09-14_other_9ea0",
+      "ticker": "VU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Vusion – Expiry of the Share Buyback Mandate Entrusted to an Investment Services Provider",
+      "text": "Šestiměsíční mandát Vusion na zpětný odkup akcií (od 3.3.2026) vypršel 14.9.2026. V jeho rámci firma odkoupila 148 304 akcií za celkem 16,7 mil. EUR na pokrytí zaměstnaneckých akciových plánů. Program skončil bez oznámení pokračování.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "https://www.actusnews.com/fr/vusiongroup/cp/2026/09/14/vusion-expiry-of-the-share-buyback-mandate-entrusted-to-an-investment-services-provider",
+      "auto_generated": true
+    },
+    {
+      "id": "SEN_2026-09-14_analysis_3484",
+      "ticker": "SEN",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Senetas Corporation positioned for further capital returns as outlook strengthens",
+      "text": "Analytik Trim Capital zvýšil cílovou cenu akcií Senetas na 3,70 AUD (z 3,45 AUD) po lepší než očekávané ziskovosti za FY26 a kladném provozním cash flow (4,4 mil. AUD). Firma s hotovostí 18,6 mil. AUD má prostor pro další kapitálové výnosy pro akcionáře.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "https://www.sharecafe.com.au/2026/09/14/senetas-corporation-positioned-for-further-capital-returns-as-outlook-strengthens/",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-09-14_other_8a91",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Western Digital Announces Redemption of 3.00% Convertible Senior Notes Due 2028",
+      "text": "Western Digital oznámil splacení celého zůstatku 109,5 mil. USD konvertibilních dluhopisů se splatností 2028 a úrokem 3,00 %, a to 16.11.2026 za nominál plus naběhlý úrok. Držitelé je do té doby mohou konvertovat na akcie. Akcie WDC po zprávě klesly o 3-4 %.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000106040/000119312526389859/d23939d8k.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-14_macro_e1ba",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Oil surges above US$100 as Middle East fears deepen, tech stocks slide",
+      "text": "Ropa WTI vzrostla o 4,7 % na 104,72 USD/barel a Brent na 109,56 USD po uzavření saúdského ropovodu obcházejícího Hormuzský průliv kvůli eskalaci na Blízkém východě. Výnos 10letých dluhopisů se přiblížil 5 %, trh čeká 92% šanci na zvýšení sazby Fedu tento týden. Negativní dopad na akcie.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "https://www.malaymail.com/news/money/2026/09/14/oil-surges-above-us100-as-middle-east-fears-deepen-tech-stocks-slide/235209",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-14_macro_ee42",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Rozbřesk: Drahý plyn a elektřina zatím ČNB nevadí, v listopadu to může být jinak…",
+      "text": "Napětí na Blízkém východě zvedlo ceny ropy nad 100 USD/barel (+50 % r/r) a zemního plynu nad 80 EUR/MWh (+150 % r/r). ČNB zatím tyto cenové tlaky nepovažuje za problém pro měnovou politiku, situace se ale může změnit na listopadovém zasedání. Riziko vyšší inflace pro české domácnosti a firmy.",
+      "date": "2026-09-14",
+      "done": false,
+      "created": "2026-09-15",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7238902/rozbresk-drahy-plyn-a-elektrina-zatim-cnb-nevadi-v-listopadu-to-muze-byt-jinak.html",
       "auto_generated": true
     }
   ]
