@@ -1,5 +1,33 @@
 {
-  "generated_at": "2026-09-14T10:50:09.275709+00:00",
+  "generated_at": "2026-09-15T10:14:32.124696+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
-  "item_types_found": {}
+  "item_types_found": {
+    "7.01": {
+      "count": 1,
+      "example_tickers": [
+        "WDC"
+      ],
+      "example_dates": [
+        "2026-09-14"
+      ]
+    },
+    "8.01": {
+      "count": 1,
+      "example_tickers": [
+        "WDC"
+      ],
+      "example_dates": [
+        "2026-09-14"
+      ]
+    },
+    "9.01": {
+      "count": 1,
+      "example_tickers": [
+        "WDC"
+      ],
+      "example_dates": [
+        "2026-09-14"
+      ]
+    }
+  }
 }
