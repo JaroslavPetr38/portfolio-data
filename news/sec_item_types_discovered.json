@@ -1,32 +1,43 @@
 {
-  "generated_at": "2026-09-16T10:08:11.280727+00:00",
+  "generated_at": "2026-09-17T10:10:47.458994+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
   "item_types_found": {
-    "7.01": {
+    "2.02": {
       "count": 1,
       "example_tickers": [
-        "WDC"
+        "ALMU"
       ],
       "example_dates": [
-        "2026-09-14"
+        "2026-09-16"
+      ]
+    },
+    "9.01": {
+      "count": 2,
+      "example_tickers": [
+        "ALMU",
+        "CLNN"
+      ],
+      "example_dates": [
+        "2026-09-16",
+        "2026-09-16"
+      ]
+    },
+    "1.01": {
+      "count": 1,
+      "example_tickers": [
+        "CLNN"
+      ],
+      "example_dates": [
+        "2026-09-16"
       ]
     },
     "8.01": {
       "count": 1,
       "example_tickers": [
-        "WDC"
+        "CLNN"
       ],
       "example_dates": [
-        "2026-09-14"
-      ]
-    },
-    "9.01": {
-      "count": 1,
-      "example_tickers": [
-        "WDC"
-      ],
-      "example_dates": [
-        "2026-09-14"
+        "2026-09-16"
       ]
     }
   }
