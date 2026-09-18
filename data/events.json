@@ -7533,5 +7533,33 @@
     "created": "2026-09-17",
     "source_url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
     "auto_generated": true
+  },
+  {
+    "id": "FGEN_2026-09-17_other_4623",
+    "ticker": "FGEN",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "neutral",
+    "title": "Foresight Environmental Infrastructure Names New Chair as It Deepens Focus on Green Assets",
+    "text": "Foresight Environmental Infrastructure vyměnil na AGM (17.9.) předsedu představenstva – po čtyřech letech odstoupil Ed Warner, nahradila ho dosavadní senior nezávislá ředitelka Stephanie Coxon. Všechna usnesení AGM byla schválena, cílová dividenda na FY2027 zůstává 8,04 pence/akcii.",
+    "date": "2026-09-17",
+    "done": false,
+    "created": "2026-09-18",
+    "source_url": "https://www.investing.com/news/company-news/foresight-environmental-infrastructure-announces-chair-transition-93CH-4749002",
+    "auto_generated": true
+  },
+  {
+    "id": "LAES_2026-09-17_other_8a9f",
+    "ticker": "LAES",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "iMTC Technology Selects SEALSQ TPM183 for Next-Generation Fingerprint Recognition Medical Mouse",
+    "text": "SEALSQ oznámila, že tchajwanská firma iMTC vybrala její čip QVault TPM183 pro zdravotnickou myš se snímačem otisku prstu pro nemocnice. Řešení kombinuje biometrii s hardwarovou ochranou klíčů a podporuje Windows Hello. Menší produktové partnerství bez uvedeného finančního dopadu.",
+    "date": "2026-09-17",
+    "done": false,
+    "created": "2026-09-18",
+    "source_url": "https://www.globenewswire.com/news-release/2026/09/17/3363974/0/en/imtc-technology-selects-sealsq-tpm183-for-next-generation-fingerprint-recognition-medical-mouse.html",
+    "auto_generated": true
   }
 ]
