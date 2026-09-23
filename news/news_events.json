@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-22T06:18:22Z",
+  "generated": "2026-09-23T06:13:43Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 42,
-  "event_count": 6,
+  "ticker_count": 41,
+  "event_count": 10,
   "events": [
     {
       "id": "AMD_2026-09-05_other_3ed6",
@@ -199,6 +199,20 @@
       "done": false,
       "created": "2026-09-17",
       "source_url": "https://www.globenewswire.com/news-release/2026/09/16/3363559/0/en/aeluma-announces-fourth-quarter-and-full-fiscal-year-2026-financial-results.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-09-21_other_3933",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD Market Cap Tops $1 Trillion Amid Meta Muse-Driven AI CPU Rally",
+      "text": "Akcie AMD 21.9. vzrostly téměř o 10 % na rekordní maximum a tržní kapitalizace poprvé překročila 1 bilion USD - čtvrtá čipová firma po Nvidii, Broadcomu a Micronu. Růst táhla AI poptávka po agentovi Muse od Mety a zprávy o zdražení GPU akcelerátorů od AMD.",
+      "date": "2026-09-21",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://thecryptobasic.com/2026/09/22/amd-market-cap-tops-1-trillion-amid-meta-muse-driven-ai-cpu-rally/",
       "auto_generated": true
     },
     {
@@ -482,6 +496,62 @@
       "auto_generated": true
     },
     {
+      "id": "CLNN_2026-09-21_other_5040",
+      "ticker": "CLNN",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Clene Announces Closing of $4 Million Registered Direct Offering Extending Capital Runway Beyond FDA Decision on CNM-Au8® NDA",
+      "text": "Clene uzavřela registrovanou přímou emisi 1 219 513 akcií po 3,28 USD, hrubý výnos 4 mil. USD, vedenou předsedou představenstva a stávajícími akcionáři. Kapitál nyní pokryje provoz do poloviny 1Q 2027, tedy až za očekávané rozhodnutí FDA o přijetí žádosti NDA pro CNM-Au8.",
+      "date": "2026-09-21",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/21/3365465/0/en/clene-announces-closing-of-4-million-registered-direct-offering-extending-capital-runway-beyond-fda-decision-on-cnm-au8-nda.html",
+      "auto_generated": true
+    },
+    {
+      "id": "LGEN_2026-09-22_analysis_6064",
+      "ticker": "LGEN",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Berenberg raises target price on Legal & General",
+      "text": "Analytici Berenberg zvýšili cílovou cenu akcií Legal & General z 308p na 353p, s odkazem na rostoucí důvěru v udržitelnost růstu dividendy a lepší solventnost při vyšších úrokových sazbách. Odhad zisku na rok 2028 zvýšen o 6 %, prognózy pro 2026/2027 beze změny.",
+      "date": "2026-09-22",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.lse.co.uk/news/berenberg-raises-target-price-on-legal-general-jx2ade0h9n9xjim.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-09-22_other_e913",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Micron stock jumps over 6% as it breaks above $1,000 ahead of Sept. 30 earnings",
+      "text": "Akcie Micron 22.9. vzrostly o více než 6 % a poprvé za delší dobu prorazily hranici 1000 USD v rámci širší rally čipových titulů před výsledky 30.9. Investoři reagují na silnou AI poptávku po pamětech a zakázky v hodnotě 100 mld. USD.",
+      "date": "2026-09-22",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.tradingkey.com/news/market-movers/262180651-market-movers-mu-20260922",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-09-22_other_bd21",
+      "ticker": "VU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Vusion bondit de ~8-13% en Bourse après la confirmation de ses objectifs annuels",
+      "text": "Akcie Vusion 22.9. vyskočila o cca 8-13 % poté, co firma potvrdila roční výhled (růst tržeb 15-20 %) navazující na silné výsledky za 1. pololetí (tržby +34 %). Titul vedl index SBF 120.",
+      "date": "2026-09-22",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.abcbourse.com/marches/vusion-bondit-de-8-en-bourse-apres-la-confirmation-de-ses-objectifs-annuels_702903",
+      "auto_generated": true
+    },
+    {
       "id": "BLRX_2026-08-31_earnings_59fb",
       "ticker": "BLRX",
       "type": "earnings",
@@ -521,6 +591,20 @@
       "done": false,
       "created": "2026-09-17",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/british-american-tobacco-lse-bats-061218329.html",
+      "auto_generated": true
+    },
+    {
+      "id": "KOMB_2026-09-22_other_e6e2",
+      "ticker": "KOMB",
+      "type": "other",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Komerční banka, a.s.: Oznámení o emisi hypotečních zástavních listech v eurech",
+      "text": "Komerční banka oznámila emisi dvou tranší hypotečních zástavních listů v eurech po 750 mil. EUR, se splatností 6 a 7 let (do 2032/2033) a ratingem AAA od Fitch, v rámci EUR programu HZL o objemu 5 mld. EUR.",
+      "date": "2026-09-22",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.patria.cz/zpravodajstvi/7258399/komercni-banka-as-oznameni-o-emisi-hypotecnich-zastavnich-listech-v-eurech.html",
       "auto_generated": true
     },
     {
@@ -619,6 +703,48 @@
       "done": false,
       "created": "2026-09-22",
       "source_url": "https://www.constellationenergy.com/news/2026/09/constellation-and-toyota-announce-renewable-energy-purchase-agreement.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-09-21_other_3092",
+      "ticker": "AVGO",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "text": "Akcie Broadcomu vzrostly cca o 2 % (pondělí 21.9.) na posílení důvěry, že Anthropic se v roce 2027 stane největším odběratelem zákaznických AI čipů Broadcomu a předběhne Google. Broadcom odhaduje AI tržby ~115 mld. USD za FY2027 a ~230 mld. USD za FY2028.",
+      "date": "2026-09-21",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.gurufocus.com/news/9088166/broadcom-stock-jumps-anthropic-could-become-its-biggest-custom-chip-customer",
+      "auto_generated": true
+    },
+    {
+      "id": "CCJ_2026-09-21_other_c054",
+      "ticker": "CCJ",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Westinghouse Could IPO at a $50 Billion Valuation. Cameco's Stake Alone Would Be Worth $24.5 Billion.",
+      "text": "Westinghouse Electric prý usiluje o IPO s valuací přes 50 mld. USD, možná už v říjnu 2026. Cameco vlastní 49% podíl, který by při této valuaci měl hodnotu cca 24,5 mld. USD - výrazně nad současnou tržní kapitalizací Cameca (~40 mld. USD).",
+      "date": "2026-09-21",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.fool.com/investing/2026/09/21/westinghouse-could-ipo-at-a-usd50-billion-valuation-cameco-s-stake-alone-would-be-worth-usd24-5-billion/",
+      "auto_generated": true
+    },
+    {
+      "id": "VST_2026-09-21_other_d5f5",
+      "ticker": "VST",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "New Era Energy & Digital Secures 20-Year, 207 MW PPA with Vistra",
+      "text": "Dceřiná firma New Era Energy & Digital (NUAI) podepsala 20letou PPA smlouvu s Luminant (dceřinka Vistra) na 200-207 MW pro texaské datacentrum (fáze 1). Vistra získá 5% nevýkonný podíl v projektu a předkupní práva. Dodávky mají začít ve 3Q 2027.",
+      "date": "2026-09-21",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/21/3365358/0/en/new-era-energy-digital-secures-20-year-207-mw-ppa-with-vistra.html",
       "auto_generated": true
     },
     {
@@ -1011,6 +1137,20 @@
       "done": false,
       "created": "2026-09-21",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-22_macro_4637",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Dudley: Pokud budou trhy Fed ignorovat, bude muset utahovat ještě víc",
+      "text": "Bývalý šéf newyorského Fedu Bill Dudley uvedl, že zářijové zvýšení sazby o čtvrt bodu nebude mít výraznější dopad na ekonomiku. Pokud trhy budou signály Fedu ignorovat a finanční podmínky zůstanou uvolněné, může být Fed nucen sazby zvyšovat razantněji.",
+      "date": "2026-09-22",
+      "done": false,
+      "created": "2026-09-23",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7255209/dudley-pokud-budou-trhy-fed-ignorovat-bude-muset-utahovat-jeste-vic.html",
       "auto_generated": true
     }
   ]
