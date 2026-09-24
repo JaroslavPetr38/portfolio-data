@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-23T06:13:43Z",
+  "generated": "2026-09-24T06:13:44Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 10,
+  "event_count": 7,
   "events": [
     {
       "id": "AMD_2026-09-05_other_3ed6",
@@ -552,6 +552,34 @@
       "auto_generated": true
     },
     {
+      "id": "MU_2026-09-23_analysis_2c22",
+      "ticker": "MU",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Wells Fargo Cuts Micron Stock Price Target With Q4 Earnings Next Week — Here's Why",
+      "text": "Wells Fargo 23.9. snížil cílovou cenu akcií Micron z 1525 na 1400 USD, rating Overweight zůstal beze změny. Krok přišel týden před výsledky za fiskální 4Q, které Micron zveřejní 30.9. Analytik je dlouhodobě pozitivní, krátkodobě ale opatrnější.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://www.tipranks.com/news/wells-fargo-cuts-micron-stock-price-target-with-q4-earnings-next-week-heres-why",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-09-23_risk_alert_a3e1",
+      "ticker": "MU",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron Faces Potential Strike at Major Chip Factory. The Stock Rises Anyway.",
+      "text": "Micronu hrozí stávka v tchajwanském výrobním závodě poté, co odbory požadovaly mimořádný bonus. Akcie i přes toto riziko 23.9. vzrostly o 5 % nad 1000 USD. Případná stávka by mohla narušit výrobu pamětí těsně před výsledky 30.9.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://finance.yahoo.com/m/43e89c44-a2fd-3eb8-9e02-693be92a3600/micron-faces-potential-strike.html",
+      "auto_generated": true
+    },
+    {
       "id": "BLRX_2026-08-31_earnings_59fb",
       "ticker": "BLRX",
       "type": "earnings",
@@ -745,6 +773,20 @@
       "done": false,
       "created": "2026-09-23",
       "source_url": "https://www.globenewswire.com/news-release/2026/09/21/3365358/0/en/new-era-energy-digital-secures-20-year-207-mw-ppa-with-vistra.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-09-23_risk_alert_aeaf",
+      "ticker": "AVGO",
+      "type": "risk_alert",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "AVGO Stock Falls Premarket: China Reportedly Audits Broadcom's Grip On State-Backed Data Centers",
+      "text": "Čína podle FT audituje síťové switche Broadcomu používané ve státem vlastněných datacentrech kvůli obavě z přechodu na domácí dodavatele (Huawei, H3C). Akcie AVGO 23.9. klesly v premarketu o 2,6 %, uzavřely -0,77 % na 361,74 USD.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/avgo-stock-falls-premarket-china-082349963.html",
       "auto_generated": true
     },
     {
@@ -958,6 +1000,34 @@
       "auto_generated": true
     },
     {
+      "id": "000660_2026-09-23_analysis_eaac",
+      "ticker": "000660",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "SK Hynix Falls 3% Despite Wolfe Research Lifting Its Target to $250; SanDisk Drops 3%, Micron Slides 2%",
+      "text": "Wolfe Research 23.9. zvýšil cílovou cenu SK Hynix o cca 25 % na 250 USD s odkazem na potenciál volného cash flow pro velké zpětné odkupy. Akcie přesto klesla o 3 % v rámci širšího poklesu paměťového sektoru.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://247wallst.com/investing/2026/09/23/sk-hynix-falls-3-despite-wolfe-research-lifting-its-target-to-250-sandisk-drops-3-micron-slides-2/",
+      "auto_generated": true
+    },
+    {
+      "id": "BWXT_2026-09-23_other_f3be",
+      "ticker": "BWXT",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "BWX Technologies Receives BBB Investment Grade Rating from Fitch Ratings",
+      "text": "Fitch 23.9. poprvé udělil BWX Technologies investiční rating BBB (stabilní výhled) a BBB+ pro revolvingový úvěr. Rating potvrzuje zdravou finanční pozici a může firmě snížit náklady na budoucí financování.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://investors.bwxt.com/news-releases/news-release-details/bwx-technologies-receives-bbb-investment-grade-rating-fitch",
+      "auto_generated": true
+    },
+    {
       "id": "MACRO_2026-08-28_macro_e312",
       "ticker": null,
       "type": "macro",
@@ -1081,6 +1151,34 @@
       "done": false,
       "created": "2026-09-22",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-135426827.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-23_macro_b2c4",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Market sees next Fed hike in October, following Barr comments and hot inflation reading",
+      "text": "Guvernér Fedu Michael Barr 23.9. naznačil podporu dalšímu zvýšení sazeb, pravděpodobnost říjnového hike vzrostla na cca 70 %. Rostoucí očekávání dalšího utahování tlačí na akciové trhy a rizikovější aktiva.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-23_macro_4142",
+      "ticker": null,
+      "type": "macro",
+      "priority": "high",
+      "sentiment": "negative",
+      "title": "Stock Market Midday, Sept. 23: Stocks Slip as Treasury Yields Hit 19-Year High",
+      "text": "Výnos 10letých amerických dluhopisů 23.9. vystoupal na 5,135 %, nejvýše od roku 2007, kvůli obavám z dalšího zvyšování sazeb Fedu. S&P 500 klesl o 0,75 %, Nasdaq o 1,13 %, Dow o 352 bodů.",
+      "date": "2026-09-23",
+      "done": false,
+      "created": "2026-09-24",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-midday-sept-23-stocks-slip-as-treasury-yields-hit-19-year-high/",
       "auto_generated": true
     },
     {
