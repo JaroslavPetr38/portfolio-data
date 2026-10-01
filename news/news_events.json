@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-30T06:25:00Z",
+  "generated": "2026-10-01T06:30:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 41,
-  "event_count": 7,
+  "event_count": 4,
   "events": [
     {
       "id": "BATS_2026-09-29_other_4fe2",
@@ -1305,6 +1305,62 @@
       "done": false,
       "created": "2026-09-30",
       "source_url": "http://www.patria.cz/zpravodajstvi/7272632/rozbresk-cnb-v-zapise-prekvapive-jestrabi-pripravuje-si-pudu-pro-dalsi-zvyseni-sazeb.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-09-30_earnings_d049",
+      "ticker": "MU",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron reports fiscal Q4 2026 results",
+      "text": "Micron za 4. fiskální čtvrtletí 2026 vykázal tržby 54,23 mld. USD (předchozí čtvrtletí 41,46 mld.) a GAAP zisk 32,87 USD na akcii. Výsledky předčily únorové guidance 49–51 mld. USD; tahounem je poptávka po DRAM a HBM.",
+      "date": "2026-09-30",
+      "done": false,
+      "created": "2026-10-01",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000723125/000072312526000018/a2026q4ex991-pressrelease.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "BATS_2026-09-29_other_3d9d",
+      "ticker": "BATS",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "BAT Capital Markets Day: Horizon 2030 targets",
+      "text": "BAT na Capital Markets Day představil cíle Horizon 2030: růst tržeb nových kategorií v polovině dvouciferných čísel a marži min. 30 %. FY26 vidí na spodní hranici 3–5 % tržeb; leverage 2,0–2,5x do konce roku.",
+      "date": "2026-09-29",
+      "done": false,
+      "created": "2026-10-01",
+      "source_url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/capital-markets-day/8487837",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-29_macro_b83a",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Wall Street: AI optimismus nakonec nepřevážil nad makroekonomickou skepsí",
+      "text": "Williams z Fedu uvedl, že do konce roku bude zřejmě vhodné sazby ještě jednou zvýšit. Americké akcie v úterý skončily pod tlakem rostoucích výnosů; riziko vyšších sazeb dopadá na rate-sensitive tituly (NLY, REITy).",
+      "date": "2026-09-29",
+      "done": false,
+      "created": "2026-10-01",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7272697/wall-street-ai-optimismus-nakonec-neprevazil-nad-makroekonomickou-skepsi.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-09-29_macro_7157",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Týdenní výhled: ropa kolem 106 USD, výnosy a trh práce",
+      "text": "Ropa zůstává kolem 106 USD; částečné obnovení saúdského ropovodu kompenzují íránské útoky na lodě v Hormuzu. Vysoké výnosy a energie zůstávají hlavním tlakem na trhy.",
+      "date": "2026-09-29",
+      "done": false,
+      "created": "2026-10-01",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7272667/tydenni-vyhled-trhu-by-kvuli-vynosum-prospel-spise-pomalejsi-trh-prace-prospekt-anthropicu-odhaluje-rychly-rust-i-obri-zavazky.html",
       "auto_generated": true
     }
   ]
