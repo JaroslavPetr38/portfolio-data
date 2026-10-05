@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-02T06:19:23Z",
+  "generated": "2026-10-05T06:19:27Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 44,
-  "event_count": 7,
+  "ticker_count": 19,
+  "event_count": 0,
   "events": [
     {
       "id": "LAES_2026-09-11_earnings_b47e",
