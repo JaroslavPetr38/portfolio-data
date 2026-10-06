@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-05T12:26:27.646495+00:00",
+  "fetched_at": "2026-10-06T12:07:55.686630+00:00",
   "max_age_hours_filter": 72,
   "sec_item_whitelist_active": false,
   "sources_attempted": {
     "patria": {
       "ok": true,
-      "item_count": 20
+      "item_count": 26
     },
     "sec_edgar": {
       "tickers_checked": 14,
@@ -14,7 +14,7 @@
     },
     "yahoo": {
       "tickers_checked": 44,
-      "item_count": 140
+      "item_count": 173
     },
     "finnhub": {
       "enabled_by_setting": false,
@@ -23,7 +23,7 @@
       "item_count": 0
     }
   },
-  "matched_count": 144,
+  "matched_count": 177,
   "matches": [
     {
       "source": "patria",
@@ -68,6 +68,69 @@
     {
       "source": "yahoo",
       "matched_ticker": "KOMB",
+      "title": "Fingrid Oyj’s Shareholders’ unanimous decision of 5 October 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fingrid-oyj-shareholders-unanimous-decision-113000008.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
+      "description": "Fingrid Oyj’s Shareholders have on 5 October 2026 unanimously decided to elect Hannu Hautala as a member of the Board of Directors. Hannu Hautala, M. Sc. (Engineering), Finnish citizen, has acted as a CEO at Luxmet Oy since September 2026. Earlier Hautala has acted as a CEO at Keliber Oy, as a CEO at Nordkalk Oy Ab, in different executive and senior positions at Outokumpu Oyj, in different executive positions at Elcoteq SE and Flextronics Holding Finland Oy and in different executive positions a",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "Final results of Martela Corporation’s directed share issue",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/final-results-martela-corporation-directed-104500982.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:45:00 +0000",
+      "description": "Martela Corporation, stock exchange release, October 6, 2026 at 13:45 p.m. (EEST) NOT FOR RELEASE, PUBLICATION OR DISTRIBUTION, DIRECTLY OR INDIRECTLY, IN OR INTO, OR TO ANY PERSON LOCATED OR RESIDENT IN, THE UNITED STATES, AUSTRALIA, CANADA, HONG KONG, NEW ZEALAND, JAPAN, SINGAPORE, SOUTH AFRICA OR ANY OTHER JURISDICTION IN WHICH THE RELEASE, PUBLICATION OR DISTRIBUTION WOULD BE UNLAWFUL. The final results of Martela Corporation’s (“Martela” or the “Company”) directed share issue (the “Share Is",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "Gabriel Holding A/S upwardly adjusts its expectations for the financial year 2025/26 for the continuing operations.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gabriel-holding-upwardly-adjusts-expectations-062600824.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 06:26:00 +0000",
+      "description": "As a result of a stronger than expected revenue performance in the continuing operations, Gabriel Holding A/S upgrades its expectations for both revenue and operating profit (EBIT) for the full financial year 2025/26. In the fourth quarter of the financial year, revenue growth in the range of 13% was achieved, exceeding management’s expectations for the quarter. The revenue development during the quarter was driven by growth across all parts of the continuing operations. Based on the preliminary",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "3 Eurozone Dividend Stocks Built For Market Stress",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-eurozone-dividend-stocks-built-042510362.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 04:25:10 +0000",
+      "description": "Currency swings, climbing French bond yields and fresh political noise from Paris and Madrid have pushed eurozone nerves back to the surface, yet that stress can sometimes hand patient dividend investors an opening. When sentiment sours, defensively minded eurozone dividend stocks exposed to these headlines can be mispriced. This article walks through three such opportunities, explaining how the news might help or hurt each stock and where the income story could still hold up. The stocks...",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "Eurozone Stocks for an ECB Rate Shift With Icade Stock in Focus",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eurozone-stocks-ecb-rate-shift-200753361.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:07:53 +0000",
+      "description": "Eurozone rate policy now shifts meeting by meeting, inflation risks from the Middle East linger and gas prices look fragile at exactly the moment domestic demand could matter most for local equities. Investors watching this cross current of signals may not want to ignore stocks whose fortunes are closely tied to everyday spending at home. This article walks through three Eurozone Domestic-Demand Cyclical Equities from our screener that appear positively exposed to the latest ECB backdrop. The...",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "Brazil Markets Are Betting on a Right-Wing Comeback. Major Hurdles Remain.",
+      "link": "https://finance.yahoo.com/m/2eaa2cf9-bcaa-3813-a1c4-2109e1d23d74/brazil-markets-are-betting-on.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:01:00 +0000",
+      "description": "Markets are betting Flávio Bolsonaro can fix Brazil’s balance sheet and rein in public spending. Translating political momentum into lasting economic reform will be a much harder task.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
+      "title": "Analogic and Leidos Complete Combination of Security Enterprise Solutions Businesses",
+      "link": "https://finance.yahoo.com/technology/articles/analogic-leidos-complete-combination-security-122400819.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:24:00 +0000",
+      "description": "SALEM, N.H., October 05, 2026--Analogic Corporation (\"Analogic\"), Altaris, LLC, and Leidos, Inc. (NYSE: LDOS) today announced the completion of the previously announced transaction combining Analogic with Leidos' Security Enterprise Solutions, Ports & Borders and Industrial Automation businesses (\"SES\"). The combined company will operate under the Analogic brand as a privately held company headquartered in Salem, New Hampshire and led by Analogic Chief Executive Officer Tom Ripp.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "KOMB",
       "title": "Inside Information: Preliminary result of Martela Corporation’s directed share issue",
       "link": "https://finance.yahoo.com/markets/stocks/articles/inside-information-preliminary-result-martela-120000286.html?.tsrc=rss",
       "pubDate": "Mon, 05 Oct 2026 12:00:00 +0000",
@@ -95,19 +158,73 @@
     {
       "source": "yahoo",
       "matched_ticker": "TEP",
+      "title": "Form 8.3",
+      "link": "https://finance.yahoo.com/markets/options/articles/form-8-3-103000413.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "description": "LONDON, October 06, 2026-- FORM 8.3",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
       "title": "Form 8.5 (EPT/RI)-Advanced Medical Solutions Group plc",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-111900509.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:19:00 +0000",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-5-ept-ri-100400436.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:04:00 +0000",
       "description": "FORM 8.5 (EPT/RI) PUBLIC DEALING DISCLOSURE BY AN EXEMPT PRINCIPAL TRADER WITH RECOGNISED INTERMEDIARY STATUS DEALING IN A CLIENT-SERVING CAPACITY Rule 8.5 of the Takeover Code (the “Code”) 1. KEY INFORMATION (a) Name of exempt principal trader:Investec Bank Plc(b) Name of offeror/offeree in relation to whose relevant securities this form relates: Use a separate form for each offeror/offereeAdvanced Medical Solutions Group Plc(c) Name of the party to the offer with which exempt principal trader",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "TEP",
-      "title": "Form 8.3",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-105200868.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:52:00 +0000",
-      "description": "LONDON, October 05, 2026-- FORM 8.3",
+      "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - ADVANCED MEDICAL SOLUTIONS - Ordinary Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dimensional-fund-advisors-ltd-form-091600600.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:16:00 +0000",
+      "description": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BYA PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the “Code”) 1.KEY INFORMATION (a)Full name of discloser:Dimensional Fund Advisors Ltd. whose parent is Dimensional Fund Advisors LP, and also on behalf their investment advisory affiliates (“Dimensional”). The Dimensional entities are investment advisors and Dimensional expressly disclaims beneficial ownership of the shares describe",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
+      "title": "Form 8.3 - [ADVANCED MEDICAL SOLUTIONS GROUP PLC - 05 10 2026] - (CGWL)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-advanced-medical-082800635.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:28:00 +0000",
+      "description": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BY A PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORERule 8.3 of the Takeover Code (the “Code”) 1. KEY INFORMATION (a) Full name of discloser:CANACCORD GENUITY WEALTH LIMITED (for Discretionary clients)(b) Owner or controller of interests and short positions disclosed, if different from 1(a): The naming of nominee or vehicle companies is insufficient. For a trust, the trustee(s), settlor and beneficiaries must be",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
+      "title": "Celebrus Technologies drops 29% as forecast losses widen",
+      "link": "https://www.proactiveinvestors.com/companies/news/1099639/celebrus-technologies-drops-29-as-forecast-losses-widen-1099639.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:00:00 +0000",
+      "description": "Celebrus Technologies PLC (AIM:D4T4, OTC:DFORF) shares fell 29% to 68.00p after the digital data capture provider cut its full-year outlook, citing slower deal closures and a lost customer. It now expects an adjusted loss before tax of $2.8 million to $3.0 million for the financial year...",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
+      "title": "Transaction in Own Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/transaction-own-shares-060000310.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 06:00:00 +0000",
+      "description": "ICG Enterprise Trust plc (the “Company”) 6 October 2026 Transaction in Own Shares The Company announces that on 5 October 2026 it bought back 5,000 of its own shares under the long-term buyback programme, to be held as treasury shares, at an average price of 1372 pence per share. Further details are set out below: Number of shares held as treasury shares following settlement of this purchase: 3,452,500Total shares in issue excluding treasury shares following settlement of this purchase: 60,101,6",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
+      "title": "3 UK Stocks Linked To Food Supply Chain Resilience Investors May Want To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-uk-stocks-linked-food-190844697.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:08:44 +0000",
+      "description": "Concern over UK food security has jumped from specialist debate to front-page issue, and the market is starting to reprice that risk. When governments talk about rethinking how a country grows, stores, and moves food, the ripple effects can reshape where capital flows for years. This article walks through three UK stocks exposed to those shifts, explaining how the same headlines could create opportunity or raise red flags for your portfolio. The three stocks that follow are only a starting...",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "TEP",
+      "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-advanced-medical-131900854.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:19:00 +0000",
+      "description": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BY A PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORE Rule 8.3 of the Takeover Code (the “Code”) 1. KEY INFORMATION (a) Full name of discloser:OCTOPUS INVESTMENTS LTD(b) Owner or controller of interests and short positions disclosed, if different from 1(a): The naming of nominee or vehicle companies is insufficient. For a trust, the trustee(s), settlor and beneficiaries must be named. (c) Name of offeror/offeree i",
       "company_mentioned_in_text": false
     },
     {
@@ -139,21 +256,12 @@
     },
     {
       "source": "yahoo",
-      "matched_ticker": "TEP",
-      "title": "3 Stocks for Higher Bond Yields Investors Should Watch",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-higher-bond-yields-080744994.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 08:07:44 +0000",
-      "description": "Bond markets have swung from chaos to uneasy calm, with 10-year US Treasuries hovering near 5.24% and fresh worries around European sovereign debt keeping nerves frayed. That mix can punish some stocks and quietly reward others, especially businesses wired into government bond trading and plumbing. This article walks through three stocks exposed to these moves, showing where investors might see opportunity or decide to stay on the sidelines. The companies discussed below represent only a...",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "TEP",
-      "title": "Form 8.3 - Advanced Medical Solutions Group plc - Octopus Investments",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/form-8-3-advanced-medical-134000144.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 13:40:00 +0000",
-      "description": "FORM 8.3 PUBLIC OPENING POSITION DISCLOSURE/DEALING DISCLOSURE BY A PERSON WITH INTERESTS IN RELEVANT SECURITIES REPRESENTING 1% OR MORE Rule 8.3 of the Takeover Code (the “Code”) 1. KEY INFORMATION (a) Full name of discloser:OCTOPUS INVESTMENTS LTD(b) Owner or controller of interests and short positions disclosed, if different from 1(a): The naming of nominee or vehicle companies is insufficient. For a trust, the trustee(s), settlor and beneficiaries must be named. (c) Name of offeror/offeree i",
-      "company_mentioned_in_text": false
+      "matched_ticker": "CRON",
+      "title": "Is Cronos Group (TSX:CRON) A Bargain Following Its Proposed $10 Million Settlement?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cronos-group-tsx-cron-bargain-130618388.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:06:18 +0000",
+      "description": "Cronos Group class action settlement proposal Cronos Group (TSX:CRON) has agreed to a proposed US$10,000,000 settlement covering securities class action claims tied to shareholders who acquired its U.S. listed stock between May 2019 and March 2020. The deal would resolve related U.S. and Ontario proceedings, with a November 19, 2026 court hearing set to decide on approval, dismissal of the actions, and the plan to distribute proceeds to eligible investors. Cronos Group enters this proposed...",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -167,379 +275,361 @@
     {
       "source": "yahoo",
       "matched_ticker": "LAES",
-      "title": "SEALSQ’s Sister Company, WISeSat.Space, Completes Business Combination with Columbus Acquisition Corporation",
-      "link": "https://finance.yahoo.com/technology/articles/sealsq-sister-company-wisesat-space-200500844.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 20:05:00 +0000",
-      "description": "Geneva, Switzerland, Oct. 02, 2026 (GLOBE NEWSWIRE) -- WISeSat.Space Ordinary Shares Begin Trading on Nasdaq Under Ticker Symbol “SAIQ” Listing Marks a New Chapter in WISeSat.Space’s Mission to Bring Cybersecurity to Space and Deliver Trusted Satellite Connectivity SEALSQ Corp (NASDAQ: LAES) (\"SEALSQ\" or \"Company\"), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, today announced that its sister company, WISeSat.Spa",
+      "title": "WISeQey Begins Trading on Nasdaq and SIX as WQEY",
+      "link": "https://finance.yahoo.com/technology/articles/wiseqey-begins-trading-nasdaq-six-204500009.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:45:00 +0000",
+      "description": "WISeQey Begins Trading on Nasdaq and SIX as WQEY Subsidiary WISeSat.Space Lists on Nasdaq and Receives $10 Million PIPE Investment Led by SEALSQ to Accelerate Space Cybersecurity and Post-Quantum Communications Geneva, Switzerland, October 5, 2026 -- WISeQey Corp. (formerly known as WISeKey International Holding AG, \"WISeQey\") (Nasdaq/SIX: WQEY), a global quantum cybersecurity and space IoT company, today announced that, in connection with its previously announced redomiciliation from Switzerlan",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Micron Stock Falls Amid Fears of Memory-Price Peak. The Data Tell a Different Story.",
-      "link": "https://finance.yahoo.com/m/943d0e05-4ad5-385f-81cb-9d3b742882e8/micron-stock-falls-amid-fears.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:34:00 +0000",
+      "title": "Netlist and Micron Enter Patent License and Settlement Agreements",
+      "link": "https://finance.yahoo.com/technology/ai/articles/netlist-micron-enter-patent-license-120000503.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 12:00:00 +0000",
+      "description": "Netlist, Inc. (OTCQB: NLST) today announced that the Company and Micron Technology, Inc. (\"Micron\") have entered into Patent License and Settlement Agreements.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Micron Says a Chinese Rival Poached Its Engineers, Then Sued It With Its Own Technology",
+      "link": "https://247wallst.com/investing/2026/10/06/micron-says-a-chinese-rival-poached-its-engineers-then-sued-it-with-its-own-technology/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:50:53 +0000",
+      "description": "Micron is accusing a Chinese chip rival of a brazen scheme: poach its engineers, extract their confidential knowledge, then file patents on that knowledge to turn around and sue Micron with its own technology.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Prediction: Micron Stock Will Double Before 2028. Here Are 1.7 Trillion Reasons Why.",
+      "link": "https://www.fool.com/investing/2026/10/06/prediction-micron-stock-will-double-before-2028-he/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:20:00 +0000",
+      "description": "Micron stock has nearly tripled this year.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Micron Stock’s Make-or-Break Year—Mark Your Calendars",
+      "link": "https://finance.yahoo.com/m/2a003763-34ba-3048-b95d-81b76986c0a0/micron-stock%E2%80%99s-make-or-break.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:16:00 +0000",
+      "description": "Micron stock is cheap because investors are wary of what happens when memory-chip production increases. This is when that will be tested.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Will Micron Do a Stock Split Before the End of 2026?",
+      "link": "https://www.fool.com/investing/2026/10/06/will-micron-do-a-stock-split-before-the-end-of-2026/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:20:02 +0000",
+      "description": "Trading at over $1,000, Micron could do a 10-for-1 split and still end up trading at more than $100 afterward.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-soxx-chips-memory-stocks-slip-premarket-after-sharp-october-rally/cZDszSQRBkj?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:12:51 +0000",
+      "description": "Nokia CEO Justin Hotard said customers would build data centers roughly twice as fast if supply constraints were removed – a bullish signal for AI infrastructure firms.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Do Not Miss Out On This AI Memory Winner",
+      "link": "https://247wallst.com/videos/do-not-miss-out-on-this-ai-memory-winner/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 05:49:12 +0000",
+      "description": "The future of robotics and how physical AI will evolve is driving massive new memory demands. During a recent episode of The AI Investor Podcast, co-hosts Eric Bleeker and Austin Smith discussed which company might be best suited to meet that demand, as well as whether or not it's too late for investors to jump on board. The duo specifically delved into the role that memory will play in major areas of artificial intelligence including autonomous vehicles and humanoid robotics. Discover which stocks amongst picks such as Nvidia and Micron might be the best choice for you to add to your portfolio today.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Is the AI Memory Supercycle Sustainable for Micron Technology (MU) Beyond 2026?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-memory-supercycle-sustainable-micron-034717183.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 03:47:17 +0000",
+      "description": "Micron Technology Inc. (NASDAQ:MU) sees itself well-positioned in the midst of the ongoing AI-fueled memory upswing. The company posted record revenue figures of $54.23 billion for its fourth quarter fiscal 2026, representing a substantial jump from $11.32 billion in the corresponding period last year. It continues to ramp up capital expenditures to expand its production […]",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Micron (MU): AI Memory Boom Could Outlast Your Expectations",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-ai-memory-boom-211707590.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 21:17:07 +0000",
+      "description": "AI workloads are driving demand for both high-bandwidth memory (HBM) and standard DRAM, and suppliers are struggling to keep up. The situation is complicated by the fact that HBM and conventional DRAM, which serve distinct roles, are competing for manufacturing capacity. The latest industry data suggest the supply constraint may persist into 2027. That strengthens […]",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Morgan Stanley revisits Micron stock price target amid stellar growth",
+      "link": "https://www.thestreet.com/investing/stocks/mu-morgan-stanley-maintains-micron-stock-price-target-ai-memory-growth?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:13:00 +0000",
+      "description": "Micron stock rides an AI memory boom, even as management warns that tight memory supply will last through 2028.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "MU",
+      "title": "Micron Stock Drops Amid Fears of Memory-Price Peak. The Data Tell a Different Story.",
+      "link": "https://finance.yahoo.com/m/943d0e05-4ad5-385f-81cb-9d3b742882e8/micron-stock-drops-amid-fears.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:45:00 +0000",
       "description": "Micron stock has had a muted reaction to strong earnings so investors might want to look at memory price forecasts.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Micron Stock Looks Like a Top AI Investment to Make Right Now",
-      "link": "https://www.fool.com/investing/2026/10/05/micron-stock-looks-like-a-top-ai-investment-to-mak/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:31:00 +0000",
-      "description": "Micron just gave investors strong multiyear guidance.",
+      "title": "The Zacks Analyst Blog Highlights Lam, Taiwan, Marathon, NVIDIA, Micron and Alphabet",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-lam-052500097.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 05:25:00 +0000",
+      "description": "Lam Research, TSMC and Marathon Petroleum stand out ahead of Q3 earnings as AI demand, semiconductor growth and elevated oil prices drive estimates higher.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Micron (MU) Posts 87% Gross Margins, Yet Trades at 6 Times Earnings. Is the Cycle Different?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-posts-87-gross-061642765.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 06:16:42 +0000",
-      "description": "Micron (NASDAQ:MU) recently reported fiscal Q4 revenue of $54.23 billion, up from $11.32 billion a year earlier, and the stock’s first reaction was a shrug. Non-GAAP earnings came to $33.42 a share, and management guided the next quarter higher still. Micron makes the memory chips that sit beside processors in data centers, phones, PCs, and […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Stocktwits Tech Watch: AI Investors Shift Focus To Applied Digital Earnings, Microsoft Event, SF Tech Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-tech-watch-ai-investors-shift-focus-to-applied-digital-earnings-microsoft-event-sf-tech-week/cZDpNuxRBSO?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 05:46:46 +0000",
-      "description": "AI momentum meets a quieter week as investors set up for the Q3 earnings season, which kicks off later this month.",
+      "title": "Six Companies Just Grew 100% Or More — Four May Surprise You",
+      "link": "https://finance.yahoo.com/m/e38e63c5-e4b8-308d-9678-bf7e0ddd3659/six-companies-just-grew-100%25.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:15:31 +0000",
+      "description": "Doubling revenue — or more — in just a quarter is no small feat. But some S&P 500 companies are on the verge of reporting they did just that.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Micron (MU): Can A Company Earning This Much Really Trade This Cheap?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-company-earning-much-043648111.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 04:36:48 +0000",
-      "description": "Micron Technology (NASDAQ:MU) operates as a vital pillar of the global semiconductor supply chain, boasting a long-term financial structure characterized by massive capital scale and exceptional cash generation during memory upcycles. Generating over $54.23 billion in quarterly revenue, backed by a massive liquidity reserve of $73.48 billion in cash and investments, and generating an extraordinary […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "MU, HPE, AMZN, META, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "link": "https://stocktwits.com/news-articles/markets/equity/mu-hpe-amzn-meta-spcx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cZDpinqRB1U?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 01:54:51 +0000",
-      "description": "AI continued to drive market activity, with Micron seeing strong memory demand, HPE raising its networking outlook, and Meta and SpaceX expanding their AI efforts.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Micron Growth Is Surging and the Stock Looks Dirt Cheap. But Is the Stock a Buy?",
-      "link": "https://www.fool.com/investing/2026/10/04/micron-growth-is-surging-and-the-stock-looks-dirt/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 00:20:00 +0000",
-      "description": "Micron is seeing surging revenue and earnings growth.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Investors Had a Tepid Reaction to Micron's Latest Earnings Report. An Overlooked Headwind May Explain Why.",
-      "link": "https://www.fool.com/investing/2026/10/04/investors-had-tepid-reaction-to-microns-earnings/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 16:39:54 +0000",
-      "description": "No, industry cycles are not dead.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-      "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-says-crypto-is-at-its-micron-moment-sees-token-volumes-going-through-the-roof/cZDFvD2RB1H?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 16:30:35 +0000",
-      "description": "Visser said AI agents are key to his view and would speed up crypto's growth.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
-      "link": "https://www.fool.com/investing/2026/10/04/is-too-late-buy-micron-technology-stock-gain-500/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 14:49:00 +0000",
-      "description": "Micron just released another blockbuster set of financial results.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Micron or Sandisk: If I Could Only Own One for the Next 5 Years, It Would Be This One",
-      "link": "https://www.fool.com/investing/2026/10/04/micron-or-sandisk-if-i-could-only-own-one-for-the/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 13:16:00 +0000",
-      "description": "Memory chip stocks had a great 2026. 2027 could be another incredible year.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
-      "link": "https://www.fool.com/investing/2026/10/05/meet-the-low-cost-vanguard-etf-with-324-invested-i/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:50:00 +0000",
-      "description": "The tech sector can continue outperforming the S&P 500 over the long term.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-hon-hai-beats-074315755.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 07:43:15 +0000",
-      "description": "Nvidia Corp. partner Hon Hai Precision Industry Co. reported better-than-expected quarterly revenue, signaling sustained and elevated spending on global AI infrastructure.",
+      "title": "AMD CEO Sees Very High Chip Demand, Urges AI Firms to Cooperate",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-ceo-sees-very-high-072608328.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 07:26:08 +0000",
+      "description": "Advanced Micro Devices Inc.’s Lisa Su predicted “very high” chip demand continuing for the next few years, even as the industry faces challenges such as concerns over AI’s safety.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "You Can Do Better Than Tesla. Buy Micron Instead.",
-      "link": "https://www.fool.com/investing/2026/10/04/you-can-do-better-than-tesla-buy-micron-instead/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 17:50:00 +0000",
-      "description": "Tesla's premium price tag doesn't reflect its automotive reality, while the memory-chip maker is undervalued relative to its powerful position in the AI infrastructure build-out.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "AI Chips Update - AIBotics Boosts AI Strategy with Empulser Acquisition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-aibotics-boosts-ai-113703442.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:37:03 +0000",
-      "description": "Recent developments in the AI chip industry are highlighted by AIBotics Inc.'s strategic acquisition of Empulser Enterprises LLC, a defense and dual-use technology platform founded by Patrick Tsang. AIBotics, focusing on AI-enabled robotics and intelligent automation, plans to fully integrate Empulser, which specializes in wireless power and autonomous systems, as a wholly owned subsidiary. This acquisition aims to advance Empulser’s development strategy to enhance the endurance of unmanned...",
+      "title": "A Tale of Two Markets: Megacaps Keep Climbing, But Rate Fears Hit Many Other Stocks",
+      "link": "https://finance.yahoo.com/m/075e477f-4f83-3564-9f9b-536dc973cb7b/a-tale-of-two-markets%3A.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:25:00 +0000",
+      "description": "Nvidia and other AI stocks are supporting the S&P 500, while strategists also see opportunities in energy, transportation and materials.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Here’s the 1 ETF I Would Put $1,000 Into This October",
-      "link": "https://247wallst.com/investing/etf/2026/10/05/heres-the-1-etf-i-would-put-1000-into-this-october/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:15:02 +0000",
-      "description": "One ETF holds the companies building the AI economy, charges less per year than a cup of coffee on a $1,000 stake, and comes with a specific rule for when to stop buying. Here is the case for putting every dollar of fresh capital into a single ticker this October.",
+      "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
+      "link": "https://finance.yahoo.com/video/china-fully-catching-one-part-190000163.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:00:00 +0000",
+      "description": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Monday; Vistra, Nike to Open Higher",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-103613557.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:36:13 +0000",
-      "description": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Monday's",
-      "company_mentioned_in_text": false
+      "title": "Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/29d68e20-e649-3819-9021-a07b7ebc77c5/nvidia%2C-intel%2C-micron%2C-xp.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:31:00 +0000",
+      "description": "Intel falls as Elon Musk confirms Taiwan Semiconductor Manufacturing is in talks with Musk’s chip venture Terafab.",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "MU",
-      "title": "How to Start Investing in 2026: The Growth Stock I'm Buying Before Year-End",
-      "link": "https://www.fool.com/investing/2026/10/04/how-to-start-investing-in-2026-the-growth-stock-im/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 18:22:00 +0000",
-      "description": "It's never too late to start investing. Memory stocks could be a good place to look.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "MU",
-      "title": "3 High Growth Stocks To Own In October 2026",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-high-growth-stocks-own-170730198.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 17:07:30 +0000",
-      "description": "Global trade is moving away from easy cross border flows, with more tariffs and restrictions reshaping how companies grow. Businesses that can still lift earnings quickly, while keeping their finances in decent shape, look more valuable when the world becomes more fragmented. This article highlights three stocks from a high quality growth shortlist that analysts expect to grow earnings fast and that already meet baseline financial health checks. The stocks covered next are just a starter set,...",
+      "title": "Nasdaq Eyes New Record Despite Rising Yields Thanks to the AI Trade",
+      "link": "https://finance.yahoo.com/m/2f05fd70-fd40-3fe1-b49a-9bc9a3f9e6d3/nasdaq-eyes-new-record.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:58:02 +0000",
+      "description": "Tech stocks marched higher, lifting the Nasdaq Composite to new highs despite the 10-year yield passing 5.3%.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "AMD Has Promised OpenAI and Meta Up to 320 Million Shares for a Penny Each. Here's What That Does to the Share Count.",
-      "link": "https://www.fool.com/investing/2026/10/05/amd-has-promised-openai-and-meta-up-to-320-million-shares-for-a-penny-each-here-s-what-that-does-to-the-share-count/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:41:02 +0000",
-      "description": "How much of the chipmaker might two of its big customers wind up owning?",
+      "title": "Citi now thinks AMD stock could rip another 25% because of Meta Muse",
+      "link": "https://finance.yahoo.com/markets/stocks/article/citi-now-thinks-amd-stock-could-rip-another-25-because-of-meta-muse-101200160.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:12:00 +0000",
+      "description": "Citi thinks AMD will stay hot.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Stocktwits M&A Watch: Paramount-Warner Bros Combination, Skyworks-Qorvo Merger, AMD’s World Labs Acquisition In Focus",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stocktwits-m-and-a-watch-paramount-warner-bros-combination-skyworks-qorvo-merger-amd-s-world-labs-acquisition-in-focus/cZDpoFbRBSi?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 07:31:29 +0000",
-      "description": "Among the major deals in focus are Paramount Skydance and Warner Bros. Discovery’s merger, Skyworks and Qorvo’s combination, and Advanced Micro Devices’ acquisition of World Labs.",
+      "title": "Stock Market Today: Dow Rises 300 Points As Oil, Yields Drop; Shares Of AMD, Nvidia, Tesla Rally (Live Coverage)",
+      "link": "https://finance.yahoo.com/m/23879019-ae2b-39de-9232-cdfcba882196/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:57:48 +0000",
+      "description": "The Dow Jones index rises 300 points Tuesday as oil prices and yields fall. AMD, Nvidia and Tesla rally.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "AMD’s $8.2 Billion AI Bet Comes With a $1 Trillion Valuation Problem",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-8-2-billion-ai-190159237.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 19:01:59 +0000",
-      "description": "On September 29, Rosenblatt reiterated its Buy rating and $700 price target on Advanced Micro Devices, Inc. (NASDAQ:AMD) after the company announced that it had entered into a definitive agreement to acquire World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei Li. Rosenblatt believes the acquisition could expand AMD’s AI […]",
+      "title": "Why AMD Stock Will Be the Big Winner From the Rise of Meta’s Muse",
+      "link": "https://finance.yahoo.com/m/8ba062b2-7285-3797-85e3-8b050639018a/why-amd-stock-will-be-the-big.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:41:00 +0000",
+      "description": "Unlike traditional chatbots, AI agents like Muse operate continuously—so they require a lot more compute, memory, and networking to run.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "AMD Reaches a $1 Trillion Market Cap. Can It Finally Dethrone Nvidia?",
-      "link": "https://www.fool.com/investing/2026/10/04/amd-reaches-a-1-trillion-market-cap-can-it-finally/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 13:34:00 +0000",
-      "description": "The market is pricing AMD as if it has become the best AI computing stock, but that's just not the case.",
+      "title": "AMD hits $1 trillion market cap as AI agents boost CPU demand",
+      "link": "https://qz.com/amd-intel-trillion-dollar-cpu-ai-agents-demand-100626?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:31:03 +0000",
+      "description": "OpenAI's Dots and Meta's Muse both run on AMD EPYC processors, and Morgan Stanley estimates Muse alone could account for 20% of AMD's 2026 chip sales",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Is Advanced Micro Devices (AMD) Still a Buy After Its 180% Plus Rally?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-still-004250845.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 00:42:50 +0000",
-      "description": "The rapid expansion of artificial intelligence is creating a major opportunity in the central processing unit (CPU) market, positioning Advanced Micro Devices, Inc. (NASDAQ:AMD) for robust growth. Bank of America strategists expect the server market to expand from approximately $61 billion to $211 billion by 2030. The firm estimates that roughly $180 billion of the […]",
+      "title": "AMD and Microsoft Haven’t Undertaken Stock Splits for 20+ Years And Investors Shouldn’t Care",
+      "link": "https://247wallst.com/investing/2026/10/06/amd-and-microsoft-havent-undertaken-stock-splits-for-20-years-and-investors-shouldnt-care/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:15:22 +0000",
+      "description": "AMD's data center business exploded while Microsoft rents the very racks AMD fills, yet one of these stocks looks dangerously priced for anything less than a perfect Helios launch. Here is what actually separates the safer AI bet from the higher-stakes one.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Can AMD’s CPU Business Fund Its AI Chip Ambitions?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-cpu-business-fund-ai-152236804.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 15:22:36 +0000",
-      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) has an advantage that a new accelerator company would struggle to replicate: an established processor business that sells into both servers and personal computers. Those products provide revenue and cash while AMD builds its AI accelerator franchise. Investors still need to distinguish having that foundation from earning enough on it […]",
+      "title": "Not Nvidia. Not AMD. This Networking Stock Is Gaining From Every AI Data Center Built.",
+      "link": "https://www.fool.com/investing/2026/10/06/not-nvidia-not-amd-this-networking-stock-is-gainin/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:10:00 +0000",
+      "description": "Arista Networks is the central nervous system for many AI data centers.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Prediction: This AI Chip Stock Will Be the Biggest Winner of 2027 (Hint: It’s Not Nvidia, AMD, or Broadcom)",
-      "link": "https://www.fool.com/investing/2026/10/03/prediction-this-ai-chip-stock-will-be-the-biggest-winner-of-2027-hint-it-s-not-nvidia-amd-or-broadcom/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 09:40:01 +0000",
-      "description": "TSMC is the world's largest semiconductor foundry, which gives it immense pricing power.",
+      "title": "AMD Reportedly Sees AI Chip Demand Outrunning Supply — Lisa Su Plans ‘Substantial’ 2027 Ramp",
+      "link": "https://stocktwits.com/news-articles/markets/equity/amd-reportedly-sees-ai-chip-demand-outrunning-supply-lisa-su-plans-substantial-2027-ramp/cZDtGq0RBko?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:36:58 +0000",
+      "description": "AMD is extending supply planning several years ahead as strong demand for processors and AI accelerators increases its need for advanced manufacturing and memory capacity.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Intel Was Worth About 28 Times as Much as AMD 10 Years Ago. Now AMD Is Worth About 60% More.",
-      "link": "https://www.fool.com/investing/2026/10/03/intel-was-worth-about-28-times-as-much-as-amd-10-years-ago-now-amd-is-worth-about-60-more/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 09:32:01 +0000",
-      "description": "Can Intel's plants win back what AMD took one server chip at a time?",
+      "title": "AMD Plans Substantial Chip Supply Increase in 2027 as AI Demand Grows",
+      "link": "https://investorshub.advfn.com/market-news/article/37525/amd-plans-substantial-chip-supply-increase-in-2027-as-ai-demand-grows?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:34:06 +0000",
+      "description": "AMD (NASDAQ:AMD) plans to substantially increase chip supply in 2027 as the semiconductor company seeks to meet rising demand associated with artificial intelligence, Chief Executive Lisa Su said on Tuesday. AMD has been expanding its AI chip business, including graphics processing units used for AI workloads.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Why AMD Stock Jumped 30% in September",
-      "link": "https://www.fool.com/investing/2026/10/02/why-amd-stock-jumped-30-in-september/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 00:50:02 +0000",
-      "description": "Meta's new Muse agent helped lift CPU stocks, including AMD.",
+      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
+      "link": "https://stocktwits.com/news-articles/markets/equity/intc-amd-mu-sndk-soxx-chips-memory-stocks-slip-premarket-after-sharp-october-rally/cZDszSQRBkj?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:12:51 +0000",
+      "description": "Nokia CEO Justin Hotard said customers would build data centers roughly twice as fast if supply constraints were removed – a bullish signal for AI infrastructure firms.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Cerebras Systems’ Tough 2026 Continues: It’ll Double Soon According to One of The Biggest Global Banks",
-      "link": "https://247wallst.com/investing/2026/10/05/cerebras-systems-tough-2026-continues-itll-double-soon-according-to-one-of-the-biggest-global-banks/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:15:28 +0000",
-      "description": "Cerebras stock cratered to a post-IPO low while rivals like NVIDIA and AMD surged, yet one of the world's largest banks just doubled down with a price target that implies the market is deeply, fundamentally wrong about this AI chip maker.",
+      "title": "Market Chatter: AMD Aims to 'Substantially Increase' Chip Supply in 2027, CEO Says",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-amd-aims-apos-082812934.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:28:12 +0000",
+      "description": "AMD (AMD) is planning to \"substantially increase\" its chip supply next year to meet rising demand dr",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
-      "link": "https://www.fool.com/investing/2026/10/05/meet-the-low-cost-vanguard-etf-with-324-invested-i/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:50:00 +0000",
-      "description": "The tech sector can continue outperforming the S&P 500 over the long term.",
+      "title": "AMD CEO Sees Very High Chip Demand, Urges AI Firms to Cooperate",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-ceo-sees-very-high-072608328.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 07:26:08 +0000",
+      "description": "Advanced Micro Devices Inc.’s Lisa Su predicted “very high” chip demand continuing for the next few years, even as the industry faces challenges such as concerns over AI’s safety.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "2 Super Semiconductor Stocks to Buy and Hold Through the Next Decade",
-      "link": "https://www.fool.com/investing/2026/10/04/2-super-semiconductor-stocks-to-buy-and-hold-throu/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 03:20:00 +0000",
-      "description": "Nvidia and AMD are two great semiconductor stocks to buy and hold for the long term.",
+      "title": "AMD’s Deepening South Korea AI Ties Could Be A Game Changer For Advanced Micro Devices (AMD)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-deepening-south-korea-ai-070653941.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 07:06:53 +0000",
+      "description": "AMD CEO Lisa Su recently visited South Korea, meeting semiconductor industry leaders and government officials to discuss potential AI-focused business partnerships, building on existing collaborations such as Samsung Electronics supplying HBM3E chips for AMD’s AI platforms since 2025. This outreach underscores how access to advanced South Korean memory technology and AI ecosystems could further integrate AMD into critical high-performance computing supply chains. We’ll now examine how Su’s...",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Can NVIDIA’s Valuation Withstand a Slowdown in Customer Spending?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-valuation-withstand-slowdown-customer-203035416.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 20:30:35 +0000",
-      "description": "NVIDIA Corporation (NASDAQ:NVDA) earns high margins because customers want its systems and suppliers can deliver them. The investment risk sits between those two conditions. Securing more manufacturing capacity supports future sales, but it also increases the cost of being wrong about how quickly customers can deploy and pay for new systems. At September 30’s $228.38 […]",
+      "title": "Chip Stocks Pause After Two-Day Pop. AMD Stock Gets Price-Target Hikes.",
+      "link": "https://finance.yahoo.com/m/07d008da-b90c-37c0-a2e6-660f1e8e1c0d/chip-stocks-pause-after.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:52:33 +0000",
+      "description": "AMD stock earned two price-target hikes from Wall Street analysts on Monday as the SOX index moved sideways.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AMD",
+      "title": "Stocks Rise Pre-Bell After Nasdaq Reaches New Record High",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-nasdaq-115604113.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:56:04 +0000",
+      "description": "US equity futures were tracking in the green on Tuesday following gains in the previous session, whe",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Is Blackfuel’s AI Bet On ServiceFabric Reshaping The Investment Case For Digital Realty Trust (DLR)?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/blackfuel-ai-bet-servicefabric-reshaping-110633757.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 11:06:33 +0000",
-      "description": "In late September 2026, Blackfuel announced it had chosen Digital Realty’s BCN1 data center in Barcelona to host and scale its liquid-cooled, AMD GPU-powered AI inference platform, tightly integrated with the ServiceFabric® interconnection network for low-latency, private connectivity. Coming shortly after Digital Realty’s plan to add a new cable landing station at its LAX12 facility, these moves highlight how the company is tying together subsea infrastructure and AI-optimized data centers...",
+      "title": "myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference",
+      "link": "https://finance.yahoo.com/technology/ai/articles/myrtle-ais-vollo-sets-stac-105900488.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:59:00 +0000",
+      "description": "myrtle.ai today announced that its VOLLO® inference accelerator has set new records on the STAC-ML Markets (Inference) benchmarks for gradient-boosted trees, cutting 99th-percentile latency by more than 30% and raising throughput by at least 5x over the previous best results. The STAC®-audited results were unveiled at the STAC Summit in London today.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AMD",
+      "title": "Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus/cZDsUNgRBk1?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:39:37 +0000",
+      "description": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AMD",
-      "title": "Intel stock slides as TSMC explores Terafab tie-up, analyst flags share losses",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-slides-tsmc-explores-111004610.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:10:04 +0000",
-      "description": "Investing.com -- Intel shares fell over 4% in premarket trading Monday after reports emerged that TSMC is in discussions with Elon Musk's Terafab venture about a potential collaboration — a development that raises questions about Intel's position as the only previously named manufacturing partner at the Texas semiconductor project.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AMD",
-      "title": "Is It Too Late to Buy Micron Technology Stock After Its 12-Month Gain of 500%?",
-      "link": "https://www.fool.com/investing/2026/10/04/is-too-late-buy-micron-technology-stock-gain-500/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 14:49:00 +0000",
-      "description": "Micron just released another blockbuster set of financial results.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AMD",
-      "title": "Gary Shapiro: why trade shows matter and how to get them right",
-      "link": "https://finance.yahoo.com/media-advertising/articles/gary-shapiro-why-trade-shows-113000904.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 11:30:00 +0000",
-      "description": "I ran powerful trade show CES for decades. Bill Gates told me once that trade shows were key for Microsoft. Now, author Robyn Davis is onto something.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AMD",
-      "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-views-intel-intc-201026810.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 20:10:26 +0000",
-      "description": "During the September 28 episode of Mad Money, Jim Cramer addressed Intel Corporation (NASDAQ:INTC) and its ongoing business transformation, as he said: Members of the CNBC Investing Club know I’ve been resolute though that there are opportunities like the two stocks that I’ve been recommending now for the last month: Intel and Meta. I know […]",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AMD",
-      "title": "Analog Devices, AMD, KLA Corporation, Lam Research, and Marvell Technology Stocks Trade Up, What You Need To Know",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-amd-kla-corporation-002203155.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 00:22:03 +0000",
-      "description": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "000660",
-      "title": "Better Artificial Intelligence Stock: NVIDIA vs. SK Hynix",
-      "link": "https://www.fool.com/coverage/better-buy/2026/10/02/better-artificial-intelligence-stock-nvidia-vs-sk-hynix/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 03:15:07 +0000",
-      "description": "NVIDIA boasts a 55.6% net margin and $96.7 billion in free cash flow, while SK Hynix trades at a fraction of the valuation despite 44.2% profitability.",
+      "title": "Is Taiwan Semiconductor the Best AI Stock to Buy Now?",
+      "link": "https://www.fool.com/investing/2026/10/06/is-taiwan-semiconductor-the-best-ai-stock-to-buy-n/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 05:20:00 +0000",
+      "description": "Taiwan Semiconductor supplies nearly every competitor in the AI arena with chips.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "000660",
-      "title": "SK Hynix Signed Five-Year Memory Contracts. Wall Street Still Sees Revenue Peaking in the Next Years.",
-      "link": "https://www.tikr.com/blog/sk-hynix-signed-five-year-memory-contracts-wall-street-still-sees-revenue-peaking-in-the-next-years?ref=yahoofinance&.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 13:30:41 +0000",
-      "description": "Key TakeawaysSK hynix has concluded long-term agreements with around 10 customers, with terms of about five years and deposits built in, after a second quarter with operating income of KRW 60. 5 trillion at a 76% margin.",
+      "title": "Samsung, SK Hynix shares drop as Q3 earnings loom",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-sk-hynix-shares-drop-062210111.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 06:22:10 +0000",
+      "description": "Investing.com-- Shares of Samsung Electronics and SK Hynix fell on Tuesday, lagging broader gains in chipmaking stocks as caution ahead of their third-quarter earnings weighed.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "000660",
-      "title": "Wall Street Analysts Believe SK Hynix, Inc. - Sponsored ADR (SKHY) Could Rally 30.94%: Here's is How to Trade",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-believe-sk-125501201.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 12:55:01 +0000",
-      "description": "The consensus price target hints at a 30.9% upside potential for SK Hynix, Inc. - Sponsored ADR (SKHY). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock will witness an upside in the near term.",
+      "title": "Asia stocks rise tracking Wall Street gains; elevated yields limit upside",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-choppy-elevated-yields-042348925.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 04:23:48 +0000",
+      "description": "Investing.com-- Asian stocks rose in choppy trade on Tuesday as a record Nasdaq close overnight offered some support, while elevated U.S. Treasury yields and oil prices limited risk appetite.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "000660",
+      "title": "Goldman Sachs warns Samsung stock faces triple-hit volatility this week",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-warns-samsung-stock-104639405.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:46:39 +0000",
+      "description": "Investing.com - A rare convergence of three simultaneous market events on Thursday, October 8 is set to expose Samsung Electronics to an unusual burst of near-term volatility, Goldman Sachs analyst Heather Oh warned in a note to clients.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "000660",
+      "title": "IPO Market Limps, But This Offering Could Change Everything",
+      "link": "https://finance.yahoo.com/m/d16ab839-61eb-3f53-b87f-f19dd121d5a2/ipo-market-limps%2C-but-this.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:06:15 +0000",
+      "description": "But the final months of 2026 could see a rebound, with Anthropic's blockbuster IPO waiting in the wings.",
       "company_mentioned_in_text": false
     },
     {
@@ -554,29 +644,83 @@
     {
       "source": "yahoo",
       "matched_ticker": "000660",
-      "title": "Long-Term Agreements Don’t Protect the Memory Makers the Way You Think",
-      "link": "https://www.barchart.com/story/news/4929925/long-term-agreements-dont-protect-the-memory-makers-the-way-you-think?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 14:27:17 +0000",
-      "description": "Long-term memory deals may support near-term demand, but rising inventories and potential oversupply could still threaten the memory cycle.",
+      "title": "Micron Stock’s Make-or-Break Year—Mark Your Calendars",
+      "link": "https://finance.yahoo.com/m/2a003763-34ba-3048-b95d-81b76986c0a0/micron-stock%E2%80%99s-make-or-break.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:16:00 +0000",
+      "description": "Micron stock is cheap because investors are wary of what happens when memory-chip production increases. This is when that will be tested.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "000660",
-      "title": "Seagate Stock and Western Digital Tumble. Investors Worry the Hard-Drive Shortage Will Ease.",
-      "link": "https://finance.yahoo.com/m/8dee252a-1e36-36ea-9881-2076cd48528d/seagate-stock-and-western.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 22:11:00 +0000",
-      "description": "Western Digital and Seagate’s Japanese rival Toshiba plans to double its production capacity for drives used in AI data centers in fiscal 2027, Nikkei reports.",
+      "title": "Citi Tops Global IPO Underwriting, Overtakes Goldman Sachs After SpaceX, SK Hynix, NSE Listings",
+      "link": "https://coingape.com/citi-tops-global-ipo-underwriting-overtakes-goldman-sachs-after-spacex-sk-hynix-nse-listings/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:44:37 +0000",
+      "description": "Citi has overtaken Goldman Sachs to become the top firm in global IPO underwriting through September. The move follows listings such as SpaceX, SK Hynix, and the National Stock Exchange of India (NSE), some of the biggest share sales in Asia and the US. Ad Ad Citi Tops Global IPO Underwriting Rankings Through September Citigroup",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "000660",
-      "title": "Seagate Tumbles 10%, Western Digital Drops 7% as Toshiba Moves to Double Hard Disk Output",
-      "link": "https://247wallst.com/investing/2026/10/02/seagate-tumbles-10-western-digital-drops-7-as-toshiba-moves-to-double-hard-disk-output/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 12:52:50 +0000",
-      "description": "A single capacity announcement from Toshiba sent two of this year's hottest storage stocks into freefall while the rest of the memory sector shrugged it off, and the reason behind that split tells you everything about where the HDD trade stands right now.",
+      "title": "Market Chatter: AMD Aims to 'Substantially Increase' Chip Supply in 2027, CEO Says",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-amd-aims-apos-082812934.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:28:12 +0000",
+      "description": "AMD (AMD) is planning to \"substantially increase\" its chip supply next year to meet rising demand dr",
       "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "000660",
+      "title": "NVIDIA Is the 8th Biggest Holding in the Most Popular AI ETF. What’s Number One?",
+      "link": "https://247wallst.com/investing/etf/2026/10/05/nvidia-is-the-8th-biggest-holding-in-the-most-popular-ai-etf-whats-number-one/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:45:36 +0000",
+      "description": "The most popular AI ETF on the market buries the stock everyone associates with artificial intelligence near the bottom of its holdings, and the companies sitting at the top reveal a very different bet on where AI profits actually flow.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "000660",
+      "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
+      "link": "https://finance.yahoo.com/video/china-fully-catching-one-part-190000163.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:00:00 +0000",
+      "description": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "000660",
+      "title": "South Korea's AI Mania Spills Into Crypto, With Worldcoin as Top Pick",
+      "link": "https://beincrypto.com/worldcoin-korea-ai-token-trading-rally/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 04:37:52 +0000",
+      "description": "Worldcoin drew $7.41 billion in Korean won trading as AI tokens outpaced crypto, while slower unlocks and a 2027 tax loom.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "Western Digital, Seagate Stock Rebound. What Wall Street Is Saying About Toshiba Competition.",
+      "link": "https://finance.yahoo.com/m/b463c445-c7b1-3570-b967-9610b91ddaab/western-digital%2C-seagate.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 16:44:58 +0000",
+      "description": "Seagate and Western Digital were hit hard by a report Toshiba is scaling up hard-drive production.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "Western Digital and Seagate Stock Jump as Analysts Say ‘Buy the Dip’",
+      "link": "https://finance.yahoo.com/m/e4d75608-5564-3ea4-9327-c12901faede4/western-digital-and-seagate.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:46:00 +0000",
+      "description": "Last week’s drop is good news for investors wanting to get in, analysts say.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "Western Digital Jumps 7%, Seagate Climbs 5% as Bernstein Calls Toshiba Selloff a Storm in a Teacup; SanDisk Inches Higher",
+      "link": "https://247wallst.com/investing/2026/10/05/western-digital-jumps-7-seagate-climbs-5-as-bernstein-calls-toshiba-selloff-a-storm-in-a-teacup-sandisk-inches-higher/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:50:41 +0000",
+      "description": "Three Wall Street research desks spent the weekend pushing back hard against a Toshiba supply scare that hammered HDD stocks, but one major firm is telling a very different story about which storage name deserves your confidence right now.",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -590,56 +734,20 @@
     {
       "source": "yahoo",
       "matched_ticker": "WDC",
-      "title": "Western Digital vs. Sandisk: The Better Way to Play the Hard-Drive Side of the AI Storage Boom",
-      "link": "https://www.fool.com/investing/2026/10/04/western-digital-vs-sandisk-the-better-way-to-play/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 04:20:00 +0000",
-      "description": "AI storage needs are accelerating -- and both of these companies are perfectly positioned to benefit.",
+      "title": "Nvidia, Intel, Micron, XP Inc., PTC, Vaxcyte, Western Digital, and More Stocks That Explain Today’s Market",
+      "link": "https://finance.yahoo.com/m/29d68e20-e649-3819-9021-a07b7ebc77c5/nvidia%2C-intel%2C-micron%2C-xp.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:31:00 +0000",
+      "description": "Intel falls as Elon Musk confirms Taiwan Semiconductor Manufacturing is in talks with Musk’s chip venture Terafab.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "WDC",
-      "title": "Stock-Split Watch: Is Sandisk Next?",
-      "link": "https://www.fool.com/investing/2026/10/03/stock-split-watch-is-sandisk-next/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 04:20:00 +0000",
-      "description": "Sandisk now has the second-highest nominal stock price among tech stocks.",
+      "title": "Seagate Is Riding One of AI’s Most Important Trends",
+      "link": "https://247wallst.com/investing/2026/10/05/seagate-is-riding-one-of-ais-most-important-trends/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:00:55 +0000",
+      "description": "Seagate just shed billions in market cap on a single Toshiba headline, yet its nearline drives are locked into contracts stretching deep into 2027. Whether Friday's selloff was a warning shot or a buying window depends on one question the market has not yet answered.",
       "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Western Digital (WDC) Stock Sinks As Market Gains: Here's Why",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/western-digital-wdc-stock-sinks-205004682.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 20:50:04 +0000",
-      "description": "Western Digital (WDC) concluded the recent trading session at $415.29, signifying a -10.22% move from its prior day's close.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Why Toshiba's Expansion Plans Just Sent Western Digital Stock Lower",
-      "link": "https://www.barchart.com/story/news/4935216/why-toshiba-s-expansion-plans-just-sent-western-digital-stock-lower?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:48:05 +0000",
-      "description": "Western Digital stock sinks on Toshiba’s plans of a major capacity expansion. Here’s why WDC shares look attractive to buy on the dip today.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "STX, WDC Stocks Sink On Toshiba’s Reported Plan To Double AI Hard-Disk Capacity: Analysts Call The Drop Overdone",
-      "link": "https://stocktwits.com/news-articles/markets/equity/stx-wdc-stocks-sink-on-toshiba-s-reported-plan-to-double-ai-hard-disk-capacity-analysts-call-the-drop-overdone/cZDjlNbRBKk?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 18:22:55 +0000",
-      "description": "Morgan Stanley, Rosenblatt, and Citi kept positive ratings on STX and WDC stocks, arguing that Toshiba’s plan is unlikely to close the industry’s supply gap.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Why Western Digital Stock Just Crashed",
-      "link": "https://www.fool.com/investing/2026/10/02/why-western-digital-stock-just-crashed/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 17:45:56 +0000",
-      "description": "Toshiba is coming for Western Digital's market share.",
-      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -662,20 +770,56 @@
     {
       "source": "yahoo",
       "matched_ticker": "WDC",
-      "title": "Seagate Stock and Western Digital Tumble. Investors Worry the Hard-Drive Shortage Will Ease.",
-      "link": "https://finance.yahoo.com/m/8dee252a-1e36-36ea-9881-2076cd48528d/seagate-stock-and-western.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 22:11:00 +0000",
-      "description": "Western Digital and Seagate’s Japanese rival Toshiba plans to double its production capacity for drives used in AI data centers in fiscal 2027, Nikkei reports.",
+      "title": "Seagate Is Falling. The Hot Tech Stock Has a Big Toshiba Problem.",
+      "link": "https://finance.yahoo.com/m/667e263c-1832-3aad-8c7e-270a36395b2a/seagate-is-falling.-the-hot.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:33:00 +0000",
+      "description": "Seagate stock was edging down following a report it is competing with Toshiba over a crucial acquisition in the hard-disk drive space.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "1 Cash-Heavy Stock to Target This Week and 2 Facing Headwinds",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-target-091234699.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 09:12:34 +0000",
+      "description": "A surplus of cash can mean financial stability, but it can also indicate a reluctance (or inability) to invest in growth. Some of these companies also face challenges like stagnating revenue, declining market share, or limited scalability.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "Nasdaq Continues To Hit Record Highs As Tech Stocks Gain — Treasury Yields Stay Elevated",
+      "link": "https://stocktwits.com/news-articles/markets/equity/nasdaq-continues-to-hit-record-highs-as-tech-stocks-gain-treasury-yields-stay-elevated/cZDqPsZRBjZ?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:36:04 +0000",
+      "description": "Megacap technology shares pushed U.S. equities higher Monday even as long-term borrowing costs remained near multiyear highs and fresh services data showed persistent price pressures.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "What Was Seagate Telling You Before Its Stock Ran?",
+      "link": "https://www.trefis.com/articles/617541/what-was-seagate-telling-you-before-its-stock-ran/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 16:01:45 +0000",
+      "description": "Seagate Technology (STX) stock returned 232.5% in the twelve months that ended on October 2, 2026, against 16.4% for the S&P 500. The run turned out to be about AI. Cloud companies building data centers needed far more storage, and Seagate had fewer hard disks to sell than its customers wanted. So how long before the run was Seagate's management pointing to those cloud customers.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "WDC",
+      "title": "What Changed For Western Digital Stock, And What Did Not?",
+      "link": "https://www.trefis.com/articles/617530/what-changed-for-western-digital-stock-and-what-did-not/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:40:48 +0000",
+      "description": "Western Digital (WDC) stock fell 10.2% on Friday, October 2, 2026, while the S&P 500 gained 0.7%. News coverage that day tied the fall to Toshiba, a smaller rival in hard disks. Toshiba's planned expansion raises the risk of lower prices, a report said a day later. So what part do prices play in Western Digital's profit.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "WDC",
-      "title": "Seagate Sinks 12%, Western Digital Down 10% as Toshiba Plans to Double Hard Disk Output",
-      "link": "https://www.tikr.com/blog/seagate-sinks-12-western-digital-down-10-as-toshiba-plans-to-double-hard-disk-output?ref=yahoofinance&.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:03:59 +0000",
-      "description": "Seagate Technology (STX:NASDAQ) shares are down about 12% this morning (trading at about $830) after Nikkei reported that Toshiba plans to double its hard disk drive production capacity for AI data centers. Western Digital (WDC:NASDAQ) is down about 10%.",
-      "company_mentioned_in_text": true
+      "title": "2 S&P 500 Stocks for Long-Term Investors and 1 We Find Risky",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-132300181.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:23:00 +0000",
+      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+      "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
@@ -697,48 +841,57 @@
     },
     {
       "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Google’s Free AI Video Push Is a Boost for Storage. Have WDC and STX Already Priced It In?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-free-ai-video-push-010734278.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 01:07:34 +0000",
-      "description": "Alphabet Inc. (NASDAQ:GOOG) is removing the cost barrier to Google Vids, allowing anyone with a Google account to use its AI video generator for free through the Gemini Omni 1.1 Flash model. Every video created, stored, and delivered adds to the growing volume of data that Western Digital Corporation (NASDAQ:WDC) and Seagate Technology Holdings plc […]",
+      "matched_ticker": "VST",
+      "title": "Vistra (VST) Challenges PJM Proposal, Is The Stock Trading At A Discount?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-challenges-pjm-proposal-020813544.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 02:08:13 +0000",
+      "description": "Vistra (VST) has challenged PJM’s Interim Resource Adequacy Service proposal in a fresh filing with the Federal Energy Regulatory Commission, arguing the framework is discriminatory, legally flawed, and could disrupt future investment signals in the PJM region. Vistra’s pushback at PJM comes as the stock trades at US$144.89, with a 1-day share price return of 3.48% and a 7-day share price return of 4.98%. The year-to-date share price return is down 12.31% and the 1-year total shareholder...",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Review & Preview: Jobs Jolt",
-      "link": "https://finance.yahoo.com/m/9e605cc6-f30b-3be6-a6c9-a620a97797fe/review-%26-preview%3A-jobs-jolt.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 23:55:00 +0000",
-      "description": "Stocks finished higher after a weak jobs report had traders further doubting an October rate increase",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Stock Market Today: Nasdaq Leads Charge On Rate Hopes; Nvidia Hits Highs",
-      "link": "https://finance.yahoo.com/m/94ae67df-681f-315f-b45f-941eaadbc7c6/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 21:05:24 +0000",
-      "description": "Stock Market Today: The Dow Jones index rallies Friday after a surprise result from the U.S. jobs report. Tesla stock jumps on deliveries.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Seagate, Western Digital Shares Sink on Toshiba Production Report",
-      "link": "https://www.investopedia.com/market-update-seagate-western-digital-shares-sink-on-toshiba-production-report-stx-wdc-12154420?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 16:57:20 +0000",
-      "description": "With AI-driven data storage demand soaring, Toshiba reportedly will be doubling its production capacity for hard disk drives.",
+      "matched_ticker": "VST",
+      "title": "VST Stock Adds 4%: US Department Of Energy Confirms $4.2B Nuclear Deal With Vistra",
+      "link": "https://stocktwits.com/news-articles/markets/equity/vst-stock-adds-4-us-department-of-energy-confirms-4-2-b-nuclear-deal-with-vistra/cZDqX93RBjt?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 23:31:59 +0000",
+      "description": "The U.S. Department of Energy announced a conditional $4.2 billion loan commitment to expand capacity and extend the operating life of nuclear power plants in Pennsylvania and Ohio.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
-      "matched_ticker": "WDC",
-      "title": "Analysts say Toshiba HDD expansion may not ease global supply shortage",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-toshiba-hdd-expansion-may-164512754.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 16:45:12 +0000",
-      "description": "Investing.com -- Analysts pushed back Friday on concerns that Toshiba’s planned expansion of hard disk drive production could materially ease the global HDD supply shortage, arguing that the investment is unlikely to significantly change the industry’s supply-demand balance.",
-      "company_mentioned_in_text": false
+      "matched_ticker": "VST",
+      "title": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
+      "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 21:07:37 +0000",
+      "description": "A $4.2 billion federal loan to upgrade nuclear plants across two U.S. states fueled Vistra's rally.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "VST",
+      "title": "Trump Looks Set to Give Vistra Stock a $4 Billion Boost",
+      "link": "https://www.barchart.com/story/news/4969439/trump-looks-set-to-give-vistra-stock-a-4-billion-boost?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:31:26 +0000",
+      "description": "Vistra shares rally on reports of incoming $4.2 billion federal support. VST stock is attractively priced for long-term investors in late 2026.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "VST",
+      "title": "Vistra stock jumps on expectations of Trump administration loan",
+      "link": "https://finance.yahoo.com/markets/stocks/article/vistra-stock-jumps-on-expectations-of-trump-administration-loan-124639838.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:46:39 +0000",
+      "description": "The Trump administration is reportedly expected to offer the power producer roughly $4 billion in the form of a government loan.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "VST",
+      "title": "Vistra (VST) Is Considered a Good Investment by Brokers: Is That True?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-vst-considered-good-investment-123005811.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:30:05 +0000",
+      "description": "According to the average brokerage recommendation (ABR), one should invest in Vistra (VST). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -797,47 +950,47 @@
     {
       "source": "yahoo",
       "matched_ticker": "VST",
-      "title": "Trump Administration Reportedly Prepares $4B Federal Loan to Expand Vistra’s Nuclear Capacity",
-      "link": "https://stocktwits.com/news-articles/markets/equity/white-house-reportedly-prepares-4-b-federal-loan-to-expand-vistra-s-nuclear-capacity/cZDjFECRBKn?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 20:37:04 +0000",
-      "description": "The federal government is set to provide Vistra Corp. with approximately $4 billion in loans to upgrade nuclear power facilities across Ohio and Pennsylvania to meet rising energy demands.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "VST",
-      "title": "Vistra shares bounce off lows on report of $4B nuclear loan",
-      "link": "https://finance.yahoo.com/energy/articles/vistra-shares-bounce-off-lows-195631194.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:56:31 +0000",
-      "description": "Investing.com -- Vistra Corp (NYSE:VST) shares trimmed earlier losses Friday afternoon, trading down 0.3% at $139.20 after dropping to a session low of $135.79 following a Bloomberg report that the Trump administration plans to offer the company a roughly $4 billion loan package to upgrade three of its nuclear plants. Prior to the news breaking, the stock was trading near $137.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "VST",
-      "title": "US to Offer $4 Billion Loan for Vistra to Boost Nuclear Output",
-      "link": "https://finance.yahoo.com/energy/articles/us-offer-4-billion-loan-191410771.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:14:10 +0000",
-      "description": "The Trump administration plans to offer a roughly $4-billion loan package to Vistra Corp. to upgrade three of its nuclear plants, according to people familiar the matter.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "VST",
-      "title": "Utility Stocks Are the Most Oversold Since 2023",
-      "link": "https://247wallst.com/investing/etf/2026/10/02/utility-stocks-are-the-most-oversold-since-2023/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:45:05 +0000",
-      "description": "XLU just posted its steepest monthly drop in nearly two years, and one analyst sees the floor still a painful distance away. Here is what rising Treasury yields and a regulatory curveball mean for income investors holding on through the slide.",
+      "title": "Energy Transition Today - Green Rain Energy Expands EV Charging at Key US Locations",
+      "link": "https://finance.yahoo.com/energy/articles/energy-transition-today-green-rain-113707371.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:37:07 +0000",
+      "description": "Green Rain Energy Holdings Inc. has announced plans to enhance its electric vehicle (EV) charging infrastructure by identifying two new locations at Driftwood Hospitality properties in Florida and exploring expansion into the Las Vegas, Nevada market. The company aims to integrate solar energy solutions with high-speed EV charging, demonstrating its strategy to combine renewable energy and EV infrastructure in high-traffic areas. Green Rain Energy's initiatives are part of a broader effort to...",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "VST",
-      "title": "Talen Energy Expands Buyback Plan With $1.5B Accelerated Repurchase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-expands-buyback-plan-130800022.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 13:08:00 +0000",
-      "description": "TLN launches a $1.5B accelerated buyback and raises repurchase capacity to $3B, backed by contracted capacity revenues and cash flow.",
+      "title": "Your Vistra Stock Thesis Has One Loose End",
+      "link": "https://www.trefis.com/articles/617550/your-vistra-stock-thesis-has-one-loose-end/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:40:12 +0000",
+      "description": "Vistra (VST) has told investors how much it expects to earn in 2027, and one assumption behind that forecast has weakened. The company sells power in Texas, and prices there for future delivery have dropped since the forecast was set. Vistra has kept the forecast anyway, and how firmly it stands is not settled yet.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "VST",
+      "title": "Can Constellation's Financing Strategy Support Growth Investments?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellations-financing-strategy-support-growth-141100225.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:11:00 +0000",
+      "description": "CEG's debt management, investment-grade ratings and strong cash flow outlook support growth investments and portfolio expansion.",
       "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ANET",
+      "title": "Jeff Kilburg Backs 2 Tech Picks Even When They Trade Above Analyst Targets",
+      "link": "https://beincrypto.com/kilburg-tech-picks-above-analyst-targets/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 03:43:00 +0000",
+      "description": "Jeff Kilburg backs 2 tech picks, Fortinet and Cloudflare, even as both trade above analyst targets. See his case.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ANET",
+      "title": "Arista Networks And 2 Top Founder Led Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-2-top-founder-160932358.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 16:09:32 +0000",
+      "description": "When investors reduce expectations for another Federal Reserve rate hike for October after softer inflation and jobs data, attention shifts to something more basic: who actually runs the business, and how much of their own wealth is on the line. Founder led companies with meaningful insider ownership can look attractive in this kind of rate reset. This article walks through three such leaders from our US screener and explains why they may merit a closer look. The three founder led stocks...",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -860,11 +1013,29 @@
     {
       "source": "yahoo",
       "matched_ticker": "ANET",
-      "title": "2 AI Networking Stocks That Could Help Make You a Fortune",
-      "link": "https://www.fool.com/investing/2026/10/02/2-ai-networking-stocks-make-fortune/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 12:27:00 +0000",
-      "description": "The market for data center connectivity systems is still growing rapidly, and Arista and Broadcom sit at the center of the boom.",
+      "title": "Not Nvidia. Not AMD. This Networking Stock Is Gaining From Every AI Data Center Built.",
+      "link": "https://www.fool.com/investing/2026/10/06/not-nvidia-not-amd-this-networking-stock-is-gainin/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:10:00 +0000",
+      "description": "Arista Networks is the central nervous system for many AI data centers.",
       "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ANET",
+      "title": "What Could Arista Networks Stock Be Worth In Three Years?",
+      "link": "https://www.trefis.com/articles/617538/what-could-arista-networks-stock-be-worth-in-three-years/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:42:26 +0000",
+      "description": "Arista Networks (ANET) stock has returned 64% over the past six months, against 17.2% for the S&P 500. After that run, buyers pay 64.5 times trailing earnings. The stock's own three-year average is 48.1 (quarter-end readings; those above 100 left out). So how much higher could the shares be three years from now, starting from a P/E this far above its own average.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ANET",
+      "title": "What Needs To Be True To Buy Super Micro Computer Stock?",
+      "link": "https://www.trefis.com/articles/617544/what-needs-to-be-true-to-buy-super-micro-computer-stock/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:21:49 +0000",
+      "description": "Super Micro Computer (SMCI) stock trades at 12.0 times earnings, against 21.5 for the S&P 500. Management expects sales of $65 billion to $72 billion in fiscal 2027, far above the $39.1 billion of the last twelve months. Buyers may be betting on that forecast. So, are those sales arriving when management says they will.",
+      "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
@@ -877,11 +1048,20 @@
     },
     {
       "source": "yahoo",
-      "matched_ticker": "ANET",
-      "title": "Outsized Earnings and Guidance Send Arista Networks Shares Upward",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/outsized-earnings-guidance-send-arista-145747041.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 14:57:47 +0000",
-      "description": "Arista Networks, Inc. (ANET) rises 4,001% since 2015’s first institutional outlier inflow.",
+      "matched_ticker": "CCJ",
+      "title": "Cameco’s Uranium Earnings Fell Nearly 40% in Q2 Despite 18% Higher Prices. Here’s Where the Stock Could Go by 2030",
+      "link": "https://www.tikr.com/blog/camecos-uranium-earnings-fell-nearly-40-in-q2-despite-18-higher-prices-heres-where-the-stock-could-go-by-2030?ref=yahoofinance&.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:50:01 +0000",
+      "description": "Key Stats for Cameco StockCurrent Price: $85. 18Target Price (Mid): ~$179Street Target: ~$127Potential Total Return: ~110%Annualized IRR: ~19% / yearWhat Happened?Cameco (CCJ) sold uranium at an average realized price of US$67.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CCJ",
+      "title": "Cameco Stock Down to Below $90 -- Is Now the Time to Buy?",
+      "link": "https://www.fool.com/investing/2026/10/05/cameco-stock-down-to-below-90-is-now-the-time-to-b/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:28:00 +0000",
+      "description": "Cameco's pullback offers a cheaper way to bet on nuclear growth.",
       "company_mentioned_in_text": true
     },
     {
@@ -923,6 +1103,24 @@
     {
       "source": "yahoo",
       "matched_ticker": "CCJ",
+      "title": "New Strong Sell Stocks for October 6th",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-sell-stocks-october-6th-064000775.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 06:40:00 +0000",
+      "description": "VLVLY, ACH and CCJ have been added to the Zacks Rank #5 (Strong Sell) List on October 6th, 2026.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CCJ",
+      "title": "UUUU Trades at a Premium to the Industry: How to Play the Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uuuu-trades-premium-industry-play-134100006.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:41:00 +0000",
+      "description": "Energy Fuels offers uranium and rare earth growth, but its premium valuation, losses and execution risks make the stock a cautious play.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CCJ",
       "title": "Uranium Prices Just Broke a 19-Year Record, but Nuclear Stocks Are Collapsing Anyway",
       "link": "https://247wallst.com/investing/2026/10/03/uranium-prices-just-broke-a-19-year-record-but-nuclear-stocks-are-collapsing-anyway/?.tsrc=rss",
       "pubDate": "Sat, 03 Oct 2026 13:03:53 +0000",
@@ -940,129 +1138,219 @@
     },
     {
       "source": "yahoo",
-      "matched_ticker": "AIBZ",
-      "title": "Bitzero Engages and Renews Investor Relations Providers to Expand Capital Markets Program",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bitzero-engages-renews-investor-relations-221400620.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 22:14:00 +0000",
-      "description": "Vancouver, British Columbia--(Newsfile Corp. - October 2, 2026) - Bitzero Holdings Inc. (NASDAQ: AIBZ) (CSE: AIBZ.U) (FSE: 000) (\"Bitzero\" or the \"Company\"), a provider of sustainable high-performance compute (\"HPC\") and AI data center infrastructure, announced that it has engaged and renewed certain investor relations providers as the Company continues to expand its capital markets presence and broaden awareness of its Nordic infrastructure platform among the institutional and retail investment",
+      "matched_ticker": "ORCL",
+      "title": "Oracle Layoffs Returning In December? Buzz About Online Email Points To Wider Voluntary Exit Offer, Researcher Says",
+      "link": "https://stocktwits.com/news-articles/markets/equity/oracle-layoffs-returning-in-december-buzz-about-online-email-points-to-wider-voluntary-exit-offer-researcher-says/cZDssuNRBk2?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 05:02:23 +0000",
+      "description": "Oracle has reduced its workforce to balance an aggressive AI infrastructure push with rising costs and debt.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Oracle at $140: Buying Negative FCF Never Looked So Good",
-      "link": "https://247wallst.com/investing/2026/10/05/oracle-at-140-buying-negative-fcf-never-looked-so-good/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:15:55 +0000",
-      "description": "Oracle just burned through billions in free cash flow while a $664 billion backlog sits waiting to convert, and Wall Street analysts are betting the gap between those two numbers holds the key to a 67% return.",
+      "title": "Oracle 2025 Health Breach Compromised Data of 20 Million People",
+      "link": "https://finance.yahoo.com/healthcare/articles/oracle-2025-health-breach-compromised-230919298.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 23:09:19 +0000",
+      "description": "A cybersecurity breach last year of Oracle Corp.’s healthcare unit compromised personal information belonging to nearly 20 million people, according to information released by the Texas attorney general.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Oracle (ORCL) Expands AI And Health Push, Is It Still Below Fair Value?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-expands-ai-health-061033913.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 06:10:33 +0000",
-      "description": "Oracle (ORCL) has been busy. Over the past two weeks, the company rolled out new AI agentic tools, expanded its health and digital asset platforms, and announced several fresh cloud and enterprise partnerships. For all the product headlines and partnerships, Oracle’s share price story has been choppy. The 1-day share price return was 3.06% and the 7-day share price return was 3.79%, following a 30-day share price return that declined 10.38% and a year-to-date share price return that fell...",
+      "title": "Is Oracle Stock a Good Buy While It's Trading Below $150?",
+      "link": "https://www.fool.com/investing/2026/10/05/is-oracle-stock-a-good-buy-while-it-s-trading-below-150/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:05:01 +0000",
+      "description": "The tech stock is down around 55% from its 52-week high.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Oracle Announces $10 Million Partnership with the Nashville Symphony",
-      "link": "https://finance.yahoo.com/media-advertising/articles/oracle-announces-10-million-partnership-220000437.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 22:00:00 +0000",
-      "description": "Oracle today announced that it is investing $10 million and creating a strategic partnership to help sustain the Nashville Symphony and keep the music playing as the organization restructures. Oracle's support will help the Nashville Symphony address its immediate financial needs, move forward with its 2026-27 season, and bring its musicians and staff back to the Schermerhorn Symphony Center.",
+      "title": "Cloudflare Climbs 4% as Risk Appetite Favors High-Beta Cloud Names; Oracle Ticks Up, CoreWeave Slips",
+      "link": "https://247wallst.com/investing/2026/10/05/cloudflare-climbs-4-as-risk-appetite-favors-high-beta-cloud-names-oracle-ticks-up-coreweave-slips/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:09:40 +0000",
+      "description": "Risk appetite is concentrating in one corner of cloud computing, but not every AI infrastructure name is getting the call. The divergence between Cloudflare, Oracle, and CoreWeave reveals exactly which bets traders are willing to make right now.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Oracle’s Force Majeure Notice on Project Jupiter: Why Bloom Energy Continues To Rise?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-force-majeure-notice-project-213640417.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 21:36:40 +0000",
-      "description": "Oracle Corporation (NYSE:ORCL) has issued a force majeure notice on Project Jupiter, its New Mexico AI data center campus. The project includes Bloom Energy Corporation’s (NYSE:BE) largest single fuel-cell deployment, covering up to 2.45 gigawatts within a project expected to involve up to $165 billion of investment over its life. The announcement sent Bloom Energy […]",
+      "title": "Oracle Stock Sits 54% Below Its Peak After a $300 Million Wisconsin Power Pledge. Here’s Where It Could Go by 2031",
+      "link": "https://www.tikr.com/blog/oracle-stock-sits-54-below-its-peak-after-a-300-million-wisconsin-power-pledge-heres-where-it-could-go-by-2031?ref=yahoofinance&.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:27:58 +0000",
+      "description": "Key Stats for Oracle StockCurrent Price: $142. 30Target Price (Mid): ~$470Street Target: ~$238Potential Total Return: ~231%Annualized IRR: ~29% / yearWhat Happened?Oracle Corporation (ORCL:NYSE) spent part of 2026 in court over Wisconsin’s data center power-rate rules.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "AI Data Center Delays Raise New Questions For ORCL, BE And APLD, Says IO Fund — ‘Power, Not Demand, Is Becoming The Bottleneck’",
-      "link": "https://stocktwits.com/news-articles/markets/equity/ai-data-center-delays-new-questions-orcl-be-apld/cZDFMNFRB1s?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 15:04:22 +0000",
-      "description": "IO Fund highlighted Oracle’s Project Jupiter in New Mexico as a case study, arguing that securing power is no longer enough.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "ORCL",
-      "title": "Oracle’s Nuclear Power Deal Signals That Energy Is the New Compute Bottleneck",
-      "link": "https://finance.yahoo.com/energy/articles/oracle-nuclear-power-deal-signals-052639542.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 05:26:39 +0000",
-      "description": "On October 2, 2026, Oracle and We Energies announced a nuclear power subscription deal that marks a significant shift in how hyperscale data centers secure their energy. Oracle has agreed to subscribe to 10-20% of the output from the Point Beach Nuclear Plant, amounting to 125-250 megawatts of power. This energy is earmarked for the […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "ORCL",
-      "title": "A Fund Manager Says the Old Market Indicators Broke in November 2022. His Firm Just Launched ETFs for the New Ones",
-      "link": "https://247wallst.com/investing/etf/2026/10/03/a-fund-manager-says-the-old-market-indicators-broke-in-november-2022-his-firm-just-launched-etfs-for-the-new-ones/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 08:12:20 +0000",
-      "description": "A fund manager claims the economic gauges investors have trusted for decades stopped working the moment ChatGPT launched, and now his firm is selling ETFs built around what replaced them. Before you buy the theme, check who wrote it.",
+      "title": "Why the AI stock rally depends on cloud growth this earnings season: Goldman analyst",
+      "link": "https://finance.yahoo.com/markets/article/why-the-ai-stock-rally-depends-on-cloud-growth-this-earnings-season-goldman-analyst-135838244.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:58:38 +0000",
+      "description": "Keep your eye on the cloud.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Larry Ellison Risk Exposed by Paramount and Oracle Debt Binges",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-risk-exposed-paramount-130000159.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "description": "As Paramount Skydance Corp. and Oracle Corp. vault into the ranks of corporate America’s biggest borrowers, their links to the same man — billionaire Larry Ellison — are starting to stir angst on Wall Street.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "ORCL",
-      "title": "Why Is NetApp (NTAP) Stock Rocketing Higher Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-netapp-ntap-stock-rocketing-011803871.html?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 01:18:03 +0000",
-      "description": "Shares of data storage company NetApp (NASDAQ:NTAP) jumped 6% in the afternoon session after the company introduced a new AI factory architecture at its Insight conference, according to TipRanks. The company also launched Keystone Sovereign for regulated markets and expanded partnerships with Oracle and Supermicro. The package—AI factory architecture, sovereign cloud storage, and bigger OEM ties—sparked optimism among investors and analysts, who lifted price targets on the back of the AI storage",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "ORCL",
-      "title": "Nvidia puts $500 billion on the table, challenges banking as we know it",
-      "link": "https://www.thestreet.com/investing/nvidia-puts-500-billion-on-the-table-challenges-banking-as-we-know-it?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:47:00 +0000",
-      "description": "Six of the largest asset managers in the world just lined up behind Nvidia. The debate is over what happens next.",
+      "title": "Market Chatter: Anthropic CEO Dario Amodei Made $18 Million Last Year",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-ceo-dario-104850025.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:48:50 +0000",
+      "description": "Anthropic chief executive officer Dario Amodei received $18 million in compensation last year, more",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "Quantinuum (QNT) Secured A $100 Million CHIPS Award",
-      "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-qnt-secured-100-million-190550722.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:05:50 +0000",
-      "description": "Quantinuum (NasdaqGM:QNT) secured a finalized US$100 million CHIPS R&D award from the U.S. Department of Commerce to support trapped ion quantum computer manufacturing in the United States. The business announced new collaborations with Quanta Computer and Oracle tied to its trapped ion quantum hardware. Quantinuum will place its Helios quantum computer inside Oracle data centers to support quantum cloud computing access. The Helios deployment into Oracle facilities, backed by the CHIPS R&D...",
+      "title": "Global Context-Aware Computing Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI and Edge Growth with Amazon, Apple, Alphabet, Microsoft, and Oracle",
+      "link": "https://finance.yahoo.com/technology/articles/global-context-aware-computing-market-132400336.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 13:24:00 +0000",
+      "description": "Dublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Context-Aware Computing Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global context-aware computing market is experiencing rapid growth as businesses adopt intelligent technologies that can deliver personalized, responsive, and adaptive digital experiences. The market is projected to increase from $77.16 billion in 2025 to $88.61 billion in 2026, representing a compound annual growth rate (CAGR) of 14.8%. Historical marke",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "AI Is Burning Through More Money Than Any Technology Boom in History — Now Comes the Hard Part",
-      "link": "https://247wallst.com/investing/2026/10/04/ai-is-burning-through-more-money-than-any-technology-boom-in-history-now-comes-the-hard-part/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 15:53:19 +0000",
-      "description": "Alphabet just posted a quarter where it spent more building AI than its entire business brought in as cash, and it is not alone. The bill for the biggest infrastructure bet in corporate history is coming due, and someone has to pay it.",
+      "title": "Paramount-Warner Bros. Discovery merger to close after nearly yearlong battle, paving way for Skydance",
+      "link": "https://finance.yahoo.com/markets/stocks/article/paramount-warner-bros-discovery-merger-to-close-after-nearly-yearlong-battle-paving-way-for-skydance-114120057.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:41:20 +0000",
+      "description": "It's official: The $110 billion merger of Paramount Skydance (PSKY) and Warner Bros. Discovery (WBD) closed on Tuesday.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "ORCL",
-      "title": "MarketBeat Week in Review – 09/28 - 10/02",
-      "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-28-10-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 11:00:00 +0000",
-      "description": "Stocks rallied as a weak jobs report cut October rate-hike odds to 20%. MarketBeat analysts recap the week's top stories on CarMax, Netflix, Apple, Starbucks, Boeing, and more.",
+      "title": "Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus/cZDsUNgRBk1?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:39:37 +0000",
+      "description": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "Palantir Stock Surges 42% in 3 Months: Is PLTR Worth Buying?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-surges-42-3-171300350.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:13:00 +0000",
+      "description": "PLTR's AI momentum, surging customer spending and deepening government adoption strengthen its growth case despite a demanding valuation.",
       "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "Arista Networks And 2 Top Founder Led Stocks To Watch",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-2-top-founder-160932358.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 16:09:32 +0000",
+      "description": "When investors reduce expectations for another Federal Reserve rate hike for October after softer inflation and jobs data, attention shifts to something more basic: who actually runs the business, and how much of their own wealth is on the line. Founder led companies with meaningful insider ownership can look attractive in this kind of rate reset. This article walks through three such leaders from our US screener and explains why they may merit a closer look. The three founder led stocks...",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "3 Nasdaq 100 Stocks with Open Questions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-nasdaq-100-stocks-open-153900225.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:39:00 +0000",
+      "description": "While the Nasdaq 100 (^NDX) is filled with cutting-edge technology and consumer companies, not all are on solid footing. Some are dealing with declining demand, high costs, or regulatory pressures that could limit future upside.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "Do You Like Cash? Consider Salesforce Stock",
+      "link": "https://www.trefis.com/articles/617526/do-you-like-cash-consider-salesforce-stock/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:20:31 +0000",
+      "description": "Salesforce (CRM) stock is 36.2% below its two-year high, set on December 4, 2024. At that price, free cash flow over the last twelve months equals 7.8% of Salesforce's market value, against 4.5% for the median S&P 500 company. A yield that high means the business is either on sale or expected to shrink. So is Salesforce's cash growing or shrinking.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "How To Create Income From IBM Stock",
+      "link": "https://www.trefis.com/articles/617524/how-to-create-income-from-ibm-stock/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:20:24 +0000",
+      "description": "International Business Machines (IBM) stock has lost 18.0% over the past twelve months, while the S&P 500 returned 16.0%, so you may be wary of buying it. But there is another way to use the stock that most investors never look at. You can be paid today for agreeing to buy IBM at a much lower price. So what does that promise pay, and would you want to own the shares.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "ORCL",
+      "title": "2 Energy Stocks for October That Yield Over 6% and Turn $100,000 Into $6,000 a Year",
+      "link": "https://247wallst.com/investing/2026/10/06/2-energy-stocks-for-october-that-yield-over-6-and-turn-100000-into-6000-a-year/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:15:54 +0000",
+      "description": "Two midstream partnerships just got cheaper while their payouts stayed the same, pushing their yields above 6% and opening a window that income investors rarely see without taking on serious commodity risk.",
+      "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Constellation Energy Stock Jumps. What a Google Nuclear Deal Will Do for It.",
+      "link": "https://finance.yahoo.com/m/9d58fbaf-d0ab-35eb-867d-fd10533b1dda/constellation-energy-stock.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:44:00 +0000",
+      "description": "Big Tech is going nuclear as Alphabet and others scramble for enough power for their AI data centers.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Google signs $4.3 billion nuclear power deal with Constellation",
+      "link": "https://qz.com/google-constellation-nuclear-power-deal-100626?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:19:47 +0000",
+      "description": "The agreement will add 890 megawatts of new capacity to the PJM grid through upgrades at 11 nuclear plants in 3 states",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Google Nears $1 Billion-Plus Nuclear Power Agreement With Constellation, Bloomberg Reports",
+      "link": "https://investorshub.advfn.com/market-news/article/37521/google-nears-1-billion-plus-nuclear-power-agreement-with-constellation-bloomberg-reports?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:30:23 +0000",
+      "description": "Google parent Alphabet (NASDAQ:GOOG) is nearing an agreement to purchase nuclear power from Constellation Energy (NASDAQ:CEG) under a multi-year contract potentially worth at least $1 billion, Bloomberg reported on Tuesday. The agreement could be announced as soon as this week, according to people familiar with the discussions cited by Bloomberg.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Google, Constellation near $1 billion-plus nuclear power deal, Bloomberg reports",
+      "link": "https://finance.yahoo.com/energy/articles/google-constellation-near-1-billion-051655856.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 05:16:55 +0000",
+      "description": "Investing.com -- Google parent Alphabet Inc (NASDAQ:GOOGL) is nearing an agreement to buy nuclear energy from Constellation Energy as technology companies race to secure reliable power for a rapidly expanding data-center industry, Bloomberg reported on Tuesday.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Why Is CEG Stock Surging More Than 4% In Overnight Trading?",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-is-ceg-stock-surging-more-than-4-in-overnight-trading/cZDsnsdRBjH?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 01:54:12 +0000",
+      "description": "According to a report from Bloomberg, Google's parent company, Alphabet, is close to an agreement to buy nuclear energy from Constellation Energy in a multi-year deal valued at $1 billion, expected to be announced as soon as this week.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "All You Need to Know About Constellation Energy Corporation (CEG) Rating Upgrade to Buy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/know-constellation-energy-corporation-ceg-150007799.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:00:07 +0000",
+      "description": "Constellation Energy Corporation (CEG) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "There’s a Better AI Picks-and-Shovels Choice Between GE Vernova and Constellation Energy",
+      "link": "https://247wallst.com/investing/2026/10/05/theres-a-better-ai-picks-and-shovels-choice-between-ge-vernova-and-constellation-energy/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:45:33 +0000",
+      "description": "GE Vernova and Constellation both feed the AI power boom, but their Q2 results reveal a widening gap in momentum, valuation, and regulatory risk that points toward one clearer opportunity for investors right now.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Is Constellation Energy Corporation (CEG) a Buy as Wall Street Analysts Look Optimistic?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-corporation-ceg-buy-123005135.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 12:30:05 +0000",
+      "description": "The average brokerage recommendation (ABR) for Constellation Energy Corporation (CEG) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -1085,29 +1373,83 @@
     {
       "source": "yahoo",
       "matched_ticker": "CEG",
-      "title": "Constellation Energy (CEG) Could Be 26% Below Fair Value As Amazon Deal Lands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-ceg-could-26-100635667.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 10:06:35 +0000",
-      "description": "What the Amazon deal means for Constellation Energy stock Constellation Energy (CEG) just signed a 20-year agreement with Amazon tied to the Calvert Cliffs nuclear plant, supporting more than $3b of Maryland infrastructure investment and extra emissions-free capacity through the early 2030s. For context, Constellation Energy’s share price has fallen 13.9% over the past month and is down 29.7% year to date, even though the 3-year total shareholder return is up more than 2x. This suggests...",
+      "title": "Constellation shares gain on 20-year nuclear power deal with Google",
+      "link": "https://finance.yahoo.com/energy/articles/constellation-shares-gain-20-nuclear-111427858.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:14:27 +0000",
+      "description": "Investing.com -- Constellation Energy shares are trading about 5% higher in pre-market on Tuesday after the company announced a 20-year power purchase agreement with Google to add 890 megawatts of new nuclear capacity to the PJM Interconnection grid.",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "CEG",
-      "title": "Utility Stocks Are the Most Oversold Since 2023",
-      "link": "https://247wallst.com/investing/etf/2026/10/02/utility-stocks-are-the-most-oversold-since-2023/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 19:45:05 +0000",
-      "description": "XLU just posted its steepest monthly drop in nearly two years, and one analyst sees the floor still a painful distance away. Here is what rising Treasury yields and a regulatory curveball mean for income investors holding on through the slide.",
+      "title": "Premarket Movers: OPCH, CEG Stocks Jump On Buyout Talks, Nuclear Deal – NKE Slides On ‘Sell’ Rating",
+      "link": "https://stocktwits.com/news-articles/markets/equity/premarket-movers-opch-ceg-stocks-jump-on-buyout-talks-nuclear-deal-nke-slides-on-sell-rating/cZDtRpTRBkp?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 11:12:59 +0000",
+      "description": "OPCH and CEG rallied on potential multibillion-dollar agreements, while CTVA gained after a JPMorgan upgrade and NKE fell on a sharp Berenberg downgrade.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+      "link": "https://finance.yahoo.com/energy/articles/google-constellation-announce-landmark-agreement-103000585.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "description": "BALTIMORE & MOUNTAIN VIEW, Calif., October 06, 2026--Google and Constellation Energy announced a long-term strategic clean energy collaboration to bring 890 MW of new, reliable nuclear capacity to PJM.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus/cZDsUNgRBk1?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:39:37 +0000",
+      "description": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Vistra, An S&P 500 Nuclear Stock, Pops Above Key Level. Here's Why.",
+      "link": "https://finance.yahoo.com/m/95c4ecec-3f4e-3f41-8ce2-1886dd794c15/vistra%2C-an-s%26p-500-nuclear.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 21:07:37 +0000",
+      "description": "A $4.2 billion federal loan to upgrade nuclear plants across two U.S. states fueled Vistra's rally.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "CEG",
-      "title": "Talen Energy Expands Buyback Plan With $1.5B Accelerated Repurchase",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-expands-buyback-plan-130800022.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 13:08:00 +0000",
-      "description": "TLN launches a $1.5B accelerated buyback and raises repurchase capacity to $3B, backed by contracted capacity revenues and cash flow.",
+      "title": "Your Vistra Stock Thesis Has One Loose End",
+      "link": "https://www.trefis.com/articles/617550/your-vistra-stock-thesis-has-one-loose-end/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:40:12 +0000",
+      "description": "Vistra (VST) has told investors how much it expects to earn in 2027, and one assumption behind that forecast has weakened. The company sells power in Texas, and prices there for future delivery have dropped since the forecast was set. Vistra has kept the forecast anyway, and how firmly it stands is not settled yet.",
       "company_mentioned_in_text": false
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "CEG",
+      "title": "Can Constellation's Financing Strategy Support Growth Investments?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/constellations-financing-strategy-support-growth-141100225.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:11:00 +0000",
+      "description": "CEG's debt management, investment-grade ratings and strong cash flow outlook support growth investments and portfolio expansion.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "BWXT",
+      "title": "BWXT’s BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
+      "link": "https://finance.yahoo.com/energy/articles/bwxt-banr-microreactor-chosen-canadian-200500787.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 20:05:00 +0000",
+      "description": "TORONTO, October 05, 2026--BWX Technologies, Inc. (NYSE: BWXT) announced today that Prodigy Clean Energy, Ltd., Pabineau First Nation and Eel River Bar First Nation have selected its BANR microreactor technology for a Transportable Nuclear Power Plant (TNPP) to be located in Belledune, New Brunswick.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "BWXT",
+      "title": "Winners And Losers Of Q2: BWX (NYSE:BWXT) Vs The Rest Of The Defense Contractors Stocks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/winners-losers-q2-bwx-nyse-184300611.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:43:00 +0000",
+      "description": "Earnings results often indicate what direction a company will take in the months ahead. With Q2 behind us, let’s have a look at BWX (NYSE:BWXT) and its peers.",
+      "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
@@ -1129,210 +1471,179 @@
     },
     {
       "source": "yahoo",
-      "matched_ticker": "BWXT",
-      "title": "Prediction: This Nuclear Stock Outperforms Oklo and NuScale Through 2030 (Hint: It Already Has Revenue)",
-      "link": "https://www.fool.com/investing/2026/10/02/prediction-this-nuclear-stock-outperforms-oklo-and/?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 16:50:00 +0000",
-      "description": "BWXT is already doing what its rivals hope to achieve.",
+      "matched_ticker": "AVGO",
+      "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy Now?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-ai-chip-100128431.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:01:28 +0000",
+      "description": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) offer two different claims on the AI computing budget. Nvidia sells a broad GPU platform supported by software and integrated systems. Broadcom helps customers build custom accelerators and supplies networking alongside a substantial software business. An investor choosing between them needs to decide which company can retain more […]",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
-      "matched_ticker": "BWXT",
-      "title": "GE Vernova's BWRX-300 Secures First US Construction Permit",
-      "link": "https://finance.yahoo.com/energy/articles/ge-vernovas-bwrx-300-secures-130000534.html?.tsrc=rss",
-      "pubDate": "Fri, 02 Oct 2026 13:00:00 +0000",
-      "description": "GEV wins the first U.S. construction permit for its BWRX-300 SMR, strengthening its nuclear pipeline and long-term growth opportunity.",
+      "matched_ticker": "AVGO",
+      "title": "Anthropic Is Aiming for the Biggest IPO Ever -- Here's the Chip Stock to Buy Before It Lists",
+      "link": "https://www.fool.com/investing/2026/10/06/anthropic-is-aiming-for-the-biggest-ipo-ever-here-s-the-chip-stock-to-buy-before-it-lists/?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:07:01 +0000",
+      "description": "One chipmaker's shaping up as both the AI lab's supplier and its reported lender.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "Meet the Low-Cost Vanguard ETF With 32.4% Invested in Nvidia, Broadcom, Micron, AMD, Intel, and Lam Research, While VOO Has Just 14.8%.",
-      "link": "https://www.fool.com/investing/2026/10/05/meet-the-low-cost-vanguard-etf-with-324-invested-i/?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 10:50:00 +0000",
-      "description": "The tech sector can continue outperforming the S&P 500 over the long term.",
+      "title": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-tests-lender-appetite-214705266.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 21:47:05 +0000",
+      "description": "Investing.com -- Wall Street’s major financial institutions have initiated the syndication of a record $60 billion debt package designed to back Anthropic’s lease of Google semiconductors, marking the largest chip-financing transaction to date as technology giants race to secure artificial intelligence computing infrastructure. Bank of America, Citigroup, and Morgan Stanley, having committed to fund the massive financing, have begun reaching out to peer institutions to offload portions of the de",
       "company_mentioned_in_text": true
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "3 Market-Beating Stocks to Research Further",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-market-beating-stocks-research-075454030.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 07:54:54 +0000",
-      "description": "Stocks that outperform the market usually share key traits such as rising sales, expanding margins, and increasing returns on capital. The select few that can do all three for many years are often the ones that make you life-changing money.",
+      "title": "Nvidia, Broadcom May Be Surprisingly Safe From a 32-GW Hole in the AI Boom, Morgan Stanley Says",
+      "link": "https://www.benzinga.com/markets/prediction-markets/26/10/62174172/nvidia-broadcom-ai-power-shortage?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 18:51:53 +0000",
+      "description": "A 32-gigawatt power shortfall could delay America’s AI data-center boom, but Nvidia Corp. (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO) may be surprisingly well protected, according to Morgan Stanley. Morgan Stanley estimates U.S. data-center developers face a 34% net power shortfall through...",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "Why It’s Time to Load Up on Broadcom Stock Before It Touches $523",
+      "link": "https://www.barchart.com/story/news/4966789/why-its-time-to-load-up-on-broadcom-stock-before-it-touches-523?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:36:28 +0000",
+      "description": "With AI revenue expected to continue growing sharply and EPS potentially exceeding $30 by fiscal 2028, Broadcom’s current valuation leaves room for further multiple expansion.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
+      "link": "https://247wallst.com/investing/2026/10/05/taiwan-semiconductor-gains-2-to-record-as-musk-confirms-early-terafab-talks-broadcom-rises-2-qualcomm-pulls-back/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:02:39 +0000",
+      "description": "Elon Musk confirmed talks between his ambitious Texas chip venture and the world's largest foundry, sending one semiconductor giant to a record high while splitting the broader chip sector in an unusual way.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "Broadcom Is Up More Than 25X in 10 Years. Can AI Drive the Next Chapter?",
+      "link": "https://247wallst.com/investing/2026/10/05/broadcom-is-up-more-than-25x-in-10-years-can-ai-drive-the-next-chapter/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 16:30:25 +0000",
+      "description": "Broadcom turned a $13 investment into $348 over ten years, and its AI chip ambitions now target revenue that would dwarf most tech companies. But a 29% pullback from its highs and mounting supply constraints raise a real question about whether the next decade can match the last.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "Prediction: $5,000 Invested in Broadcom Could Be Worth This Much in 2028",
+      "link": "https://www.fool.com/investing/2026/10/05/prediction-usd5-000-invested-in-broadcom-could-be-worth-this-much-in-2028/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:29:02 +0000",
+      "description": "Hint: You might not regret investing in the stock.",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "Global Change and Configuration Management Market Report 2026; Change and Configuration Management Market Set to Reach $4.25 Billion by 2030 as Security and Automation Demand Accelerates",
+      "link": "https://finance.yahoo.com/technology/articles/global-change-configuration-management-market-081400401.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 08:14:00 +0000",
+      "description": "Players: Microsoft, IBM, Broadcom, HPE and AWS. Profiles cover change and configuration management software, services, segments, trends, regional shares and opportunities.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Change and Configuration Management Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global change and configuration management market is experiencing rapid growth as organizations modernize information technology infrastructure, strengthen security controls",
+      "company_mentioned_in_text": true
+    },
+    {
+      "source": "yahoo",
+      "matched_ticker": "AVGO",
+      "title": "1 Profitable Stock to Target This Week and 2 We Ignore",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-target-week-105634346.html?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 10:56:34 +0000",
+      "description": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn’t mean it will thrive tomorrow.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "Broadcom (AVGO) Trades Above Its Own Average Multiple While Growth Cools. Is the Premium Fair?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-trades-above-own-062859716.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 06:28:59 +0000",
-      "description": "Broadcom (NASDAQ:AVGO) just booked $16.7 billion of AI chip sales in a single quarter. In fiscal Q3 2026, AI semiconductor revenue was up 221% from a year earlier, and management guided to $21.7 billion for fiscal Q4, a 236% increase. Most people have never heard of Broadcom, but its chips sit inside the networks and […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Broadcom Is Lending Billions to Its Biggest Future Customer. Should Investors Worry?",
-      "link": "https://www.tikr.com/blog/broadcom-is-lending-billions-to-its-biggest-future-customer-should-investors-worry?ref=yahoofinance&.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 04:13:19 +0000",
-      "description": "Key TakeawaysBroadcom agreed to lend Anthropic up to $42 billion, while Bloomberg reports that its Wall Street syndicate is assembling $60 billion in AI chip financing for Anthropic and other companies, including a $42 billion senior-secured tranche. Quarterly free cash flow reached a record $13.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "link": "https://www.fool.com/coverage/charts/2026/10/04/broadcom-vs-intel-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 23:36:28 +0000",
-      "description": "Broadcom's revenue has nearly doubled since late 2024, while Intel's has stalled — a widening gap that raises questions about competitive positioning.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Can Broadcom Keep Growing Its Dividend as AI Customers Gain Power?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-keep-growing-dividend-ai-203334720.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 20:33:34 +0000",
-      "description": "Broadcom Inc. (NASDAQ:AVGO) has enough cash generation to cover its dividend comfortably. The more consequential question is whether the economics funding that dividend can remain strong as a few large customers account for more of the business. Dividend coverage measures the current cushion; customer bargaining power helps determine how that cushion changes. At September 30’s […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Here is Why Broadcom (AVGO) is a Good Investment at Today’s Price",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-good-investment-201656820.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 20:16:56 +0000",
-      "description": "Broadcom Inc. (NASDAQ:AVGO) closed at $355.14 on October 2, up 5.86% over twelve months. The business underneath moved far faster than the share price did. Revenue and earnings both grew at rates most companies never reach. A company almost doubling its sales while the shares barely move is unusual. That gap is the argument here. […]",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
-      "link": "https://247wallst.com/investing/2026/10/04/broadcoms-massive-42-billion-chip-buying-deal-with-anthropic-raises-circular-financing-worries/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 15:33:48 +0000",
-      "description": "Broadcom just agreed to lend billions to the same AI lab it sells chips to, lease equipment to, and may soon own a stake in. That four-way entanglement raises a question shareholders cannot yet answer: whose demand is actually driving Broadcom's explosive revenue growth?",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Broadcom's 2028 Projection Makes the Stock a Screaming Buy",
-      "link": "https://www.fool.com/investing/2026/10/04/broadcoms-2028-projection-makes-the-stock-a-scream/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 13:04:00 +0000",
-      "description": "Broadcom expects huge growth over the next few years.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "What a $10,000 Investment Split Between Nvidia and Broadcom Could Be Worth by 2030",
-      "link": "https://www.fool.com/investing/2026/10/04/what-10k-investment-split-nvidia-broadcom-ai/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 12:45:00 +0000",
-      "description": "Nvidia and Broadcom are two frontrunners in the AI computing race.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Broadcom vs. Micron: Which Semiconductor Stock Is the Better AI Buy over the Next 3 Years?",
-      "link": "https://www.fool.com/investing/2026/10/04/broadcom-vs-micron-which-semiconductor-stock-is-th/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 09:59:00 +0000",
-      "description": "Both semiconductor companies are poised to grow at an incredible pace due to the incredible demand for memory and custom AI processors.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Should You Forget Palantir and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
-      "link": "https://www.fool.com/investing/2026/10/03/should-you-forget-palantir-and-buy-these-2-artific/?.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 11:19:00 +0000",
-      "description": "Broadcom and Applied Digital could be smarter AI infrastructure plays right now.",
-      "company_mentioned_in_text": true
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "Billionaire Investor Dan Loeb’s Third Point Exited 5 Chip Stocks Last Quarter — Here’s How They’re Performing Today",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-dan-loeb-third-233016814.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 23:30:16 +0000",
-      "description": "Billionaire investor Dan Loeb’s Third Point LLC exited five semiconductor-related holdings in the second quarter. According to its 13F filing, a quarterly report of investment holdings submitted to the Securities and Exchange Commission within 45 days of the end of...",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",
+      "link": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-after-nasdaq-climbs-to-record-high-spcx-usar-ceg-nvax-stocks-in-focus/cZDso3aRBjx?.tsrc=rss",
+      "pubDate": "Tue, 06 Oct 2026 02:45:36 +0000",
+      "description": "Technology stocks dominated the market narrative at the start of the week as booming demand for artificial intelligence has bolstered tech stocks higher.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "AI Chips Update - AIBotics Boosts AI Strategy with Empulser Acquisition",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-aibotics-boosts-ai-113703442.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:37:03 +0000",
-      "description": "Recent developments in the AI chip industry are highlighted by AIBotics Inc.'s strategic acquisition of Empulser Enterprises LLC, a defense and dual-use technology platform founded by Patrick Tsang. AIBotics, focusing on AI-enabled robotics and intelligent automation, plans to fully integrate Empulser, which specializes in wireless power and autonomous systems, as a wholly owned subsidiary. This acquisition aims to advance Empulser’s development strategy to enhance the endurance of unmanned...",
+      "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
+      "link": "https://finance.yahoo.com/video/china-fully-catching-one-part-190000163.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 19:00:00 +0000",
+      "description": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "OpenAI Fired the People It Needed Most",
-      "link": "https://finance.yahoo.com/video/openai-fired-people-needed-most-110000807.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 11:00:00 +0000",
-      "description": "OpenAI reportedly let go of almost half of its safety and alignment team, on the heels of a series of hacks tied to AI agents. What did those researchers know? Host Ejaaz Ahamadeen digs into the exits, plus the latest Muse boom, the video AI that's fooling its testers, and why Zuckerberg, Musk, Bezos, and Huang all signed the new White House accord on super intelligence.",
+      "title": "The Highest-Beta Name in Big Tech Just Ran. Here’s the Risk",
+      "link": "https://247wallst.com/investing/2026/10/05/the-highest-beta-name-in-big-tech-just-ran-heres-the-risk/?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 17:30:51 +0000",
+      "description": "Arm just posted a 187% year-to-date run on the back of real AI demand, but a beta of 3.89 turns every market hiccup into a violent swing, and the stock has already priced in a lot of good news. The question is whether the fundamentals can actually catch the valuation.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "3 Great AI Stocks To Watch In October 2026",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-watch-020606838.html?.tsrc=rss",
-      "pubDate": "Mon, 05 Oct 2026 02:06:06 +0000",
-      "description": "Masayoshi Son’s push to fund huge AI infrastructure projects through DigitalBridge shows how quickly the race for chips, cloud capacity, and large language models is scaling up. Capital is chasing the picks and shovels of the ChatGPT era, yet many AI linked businesses still trade on undemanding valuations. This article highlights three underpriced US AI stocks from our screener that directly plug into this build out. The three stocks below are just a starting sample, and the full screen flags...",
+      "title": "Is Marvell Stock Increasing Your Market Risk?",
+      "link": "https://www.trefis.com/articles/617534/is-marvell-stock-increasing-your-market-risk/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:41:34 +0000",
+      "description": "Marvell Technology (MRVL) sells chips for AI data centers, and you may hold the stock next to funds that already follow the market. Those funds rise and fall with the S&P 500, so it matters to the rest of your money whether Marvell does the same. So how far does Marvell move when the market rises or falls.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "3 Semiconductor Stocks With Fortress Balance Sheets and Proven Dividend Raises",
-      "link": "https://247wallst.com/investing/2026/10/04/3-semiconductor-stocks-with-fortress-balance-sheets-and-proven-dividend-raises/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 12:45:52 +0000",
-      "description": "Most chipmakers struggle to sustain dividends through brutal industry downturns, but three semiconductor companies have quietly built the cash flow machines and balance sheet discipline to keep raising payouts no matter where the cycle goes.",
+      "title": "How Much Could You Lose In Qualcomm Stock?",
+      "link": "https://www.trefis.com/articles/617553/how-much-could-you-lose-in-qualcomm-stock/2026-10-05?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:34:37 +0000",
+      "description": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "How Much of Marvell’s Adjusted Profit Reaches Shareholders?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/much-marvell-adjusted-profit-reaches-024647978.html?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 02:46:47 +0000",
-      "description": "Marvell Technology, Inc. (NASDAQ:MRVL) reported $865.9 million of adjusted net income in its fiscal second quarter, compared with $308 million under GAAP. Neither number alone answers what shareholders earned economically. The gap includes different kinds of costs, and treating every adjustment as either harmless or entirely artificial produces the wrong investment question. At September 30’s […]",
+      "title": "MRVL Stock Skyrockets 221% YTD: Should Investors Buy, Sell or Hold?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mrvl-stock-skyrockets-221-ytd-150600706.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 15:06:00 +0000",
+      "description": "Marvell Technology's AI-driven growth is accelerating, but its premium valuation, customer concentration and fierce competition warrant caution.",
       "company_mentioned_in_text": false
     },
     {
       "source": "yahoo",
       "matched_ticker": "AVGO",
-      "title": "Here's How Much You'd Need to Invest in VGT to Generate $500 per Month in Dividends",
-      "link": "https://www.fool.com/investing/2026/10/04/how-much-need-to-invest-vgt-for-passive-income/?.tsrc=rss",
-      "pubDate": "Sun, 04 Oct 2026 12:59:00 +0000",
-      "description": "With a yield under 1%, it would take a significant initial investment.",
-      "company_mentioned_in_text": false
-    },
-    {
-      "source": "yahoo",
-      "matched_ticker": "AVGO",
-      "title": "MarketBeat Week in Review – 09/28 - 10/02",
-      "link": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-28-10-02/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "pubDate": "Sat, 03 Oct 2026 11:00:00 +0000",
-      "description": "Stocks rallied as a weak jobs report cut October rate-hike odds to 20%. MarketBeat analysts recap the week's top stories on CarMax, Netflix, Apple, Starbucks, Boeing, and more.",
+      "title": "Credo Stock at a Premium Valuation: Opportunity or Stay Cautious?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-stock-premium-valuation-opportunity-144600108.html?.tsrc=rss",
+      "pubDate": "Mon, 05 Oct 2026 14:46:00 +0000",
+      "description": "CRDO's AI-driven growth, expanding optics portfolio and strong margins support its outlook, but premium valuation and execution risks warrant caution.",
       "company_mentioned_in_text": false
     }
   ],
   "macro_candidates": [
     {
       "source": "patria",
-      "title": "Týdenní výhled: Pozornost dluhopisů se stáčí k evropské politice, korunu bude zajímat zářijová inflace",
-      "link": "http://www.patria.cz/zpravodajstvi/7287299/tydenni-vyhled-pozornost-dluhopisu-se-staci-k-evropske-politice-korunu-bude-zajimat-zarijova-inflace.html",
-      "pubDate": "Mon, 05 Oct 2026 13:28:00 +0200",
-      "description": "Tématem, které zůstává aktuální a bude se dál vracet, je to dluhové. Společně s ustálením cen  ropy na relativně nižších úrovních lehce nad 100 dolary a díky slabším datům z amerického trhu práce klesl tlak na výnosy dluhopisů ze strany inflačních očekávání."
+      "title": "Meziroční inflace v září zrychlila na 2,5 procenta ze srpnových 1,9 procenta",
+      "link": "http://www.patria.cz/zpravodajstvi/7290146/mezirocni-inflace-v-zari-zrychlila-na-25-procenta-ze-srpnovych-19-procenta.html",
+      "pubDate": "Tue, 06 Oct 2026 09:52:08 +0200",
+      "description": "Spotřebitelské ceny v Česku v září zrychlily meziroční růst na 2,5 procenta ze srpnových 1,9 procenta. Meziměsíčně zůstaly na stejné úrovni. Vyplývá to z předběžného odhadu  inflace, který dnes zveřejnil Český statistický úřad (ČSÚ)."
+    },
+    {
+      "source": "patria",
+      "title": "Česká inflace, OpenAI jedná o 30 miliardách dolarů a futures v zeleném",
+      "link": "http://www.patria.cz/zpravodajstvi/7290133/ceska-inflace-openai-jedna-o-30-miliardach-dolaru-a-futures-v-zelenem.html",
+      "pubDate": "Tue, 06 Oct 2026 08:51:00 +0200",
+      "description": "Investoři vstupují do nového dne v optimističtější náladě, když futures na evropské i americké akcie míří vzhůru. Pozornost se však soustředí především na domácí  inflaci, která by podle odhadů měla v září zrychlit, zatímco na globálních trzích rezonují obavy z dalšího geopolitického napětí na Blízkém východě a pokračující investiční horečky kolem umělé inteligence."
+    },
+    {
+      "source": "patria",
+      "title": "FX strategie: Protivítr fouká ze zahraničí, prodejní tlaky na koruně zesilují",
+      "link": "http://www.patria.cz/zpravodajstvi/7287327/fx-strategie-protivitr-fouka-ze-zahranici-prodejni-tlaky-na-korune-zesiluji.html",
+      "pubDate": "Tue, 06 Oct 2026 06:50:00 +0200",
+      "description": "Zatímco ještě na konci srpna  koruna úspěšně pokořila hranici 24,10 EUR/CZK, od té doby její kurz setrvale oslabuje až na aktuálních 24,45 EUR/CZK. Za slabší korunou podle nás stojí kombinace tří faktorů: zhoršení nálady na globálních trzích, silný  dolar a zužující se úrokový diferenciál vůči  euru."
     },
     {
       "source": "patria",
@@ -1340,13 +1651,6 @@
       "link": "http://www.patria.cz/zpravodajstvi/7272644/ark-invest-prichazi-obdoba-prumyslove-revoluce-bude-mit-dopady-na-ropu-sazby-i-celou-ekonomiku.html",
       "pubDate": "Mon, 05 Oct 2026 06:04:00 +0200",
       "description": "Cathie Wood z Ark Invest neslevuje ze svých optimistických předpovědí dalšího vývoje v ekonomice taženého novými technologiemi. Poukazuje na to, že americké hospodářství vykazuje odolnost, dolů nezamířilo ani kvůli clům, uzavření vlády, inverzi výnosové křivky nebo konfliktu na Blízkém východě."
-    },
-    {
-      "source": "patria",
-      "title": "Technická analýza Nasdaq 100: Blíží se další nenáviděná rally?",
-      "link": "http://www.patria.cz/zpravodajstvi/7282688/technicka-analyza-nasdaq-100-blizi-se-dalsi-nenavidena-rally.html",
-      "pubDate": "Fri, 02 Oct 2026 14:32:00 +0200",
-      "description": "Rostoucí výnosy dluhopisů, drahá energie, vyšší  inflace i jestřábí centrální banky vytvářejí prostředí, ve kterém by se akciovým trhům teoreticky příliš dařit nemělo."
     }
   ]
 }
