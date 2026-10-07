@@ -8555,5 +8555,61 @@
     "created": "2026-10-06",
     "source_url": "http://www.patria.cz/zpravodajstvi/7287299/tydenni-vyhled-pozornost-dluhopisu-se-staci-k-evropske-politice-korunu-bude-zajimat-zarijova-inflace.html",
     "auto_generated": true
+  },
+  {
+    "id": "MU_2026-10-06_other_d963",
+    "ticker": "MU",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "Netlist and Micron Enter Patent License and Settlement Agreements",
+    "text": "Netlist a Micron uzavřely licenční a smírčí dohody týkající se patentů. Dohoda by měla ukončit probíhající patentové spory mezi firmami; finanční podmínky nebyly ve zdroji uvedeny.",
+    "date": "2026-10-06",
+    "done": false,
+    "created": "2026-10-07",
+    "source_url": "https://finance.yahoo.com/technology/ai/articles/netlist-micron-enter-patent-license-120000503.html",
+    "auto_generated": true
+  },
+  {
+    "id": "AMD_2026-10-06_other_7637",
+    "ticker": "AMD",
+    "type": "other",
+    "priority": "medium",
+    "sentiment": "positive",
+    "title": "AMD Plans Substantial Chip Supply Increase in 2027 as AI Demand Grows",
+    "text": "Generální ředitelka Lisa Su uvedla, že AMD v roce 2027 výrazně navýší dodávky čipů kvůli vysoké poptávce po AI. Tržní kapitalizace AMD podle médií dosáhla 1 bilionu USD.",
+    "date": "2026-10-06",
+    "done": false,
+    "created": "2026-10-07",
+    "source_url": "https://investorshub.advfn.com/market-news/article/37525/amd-plans-substantial-chip-supply-increase-in-2027-as-ai-demand-grows",
+    "auto_generated": true
+  },
+  {
+    "id": "CEG_2026-10-06_other_13ca",
+    "ticker": "CEG",
+    "type": "other",
+    "priority": "high",
+    "sentiment": "positive",
+    "title": "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+    "text": "Google a Constellation oznámily dlouhodobou dohodu o 890 MW nové jaderné kapacity v síti PJM díky modernizaci 11 jaderných bloků ve 3 státech. Média uvádějí hodnotu kontraktu kolem 4,3 mld. USD na 20 let. Akcie CEG v předobchodní fázi posilují.",
+    "date": "2026-10-06",
+    "done": false,
+    "created": "2026-10-07",
+    "source_url": "https://finance.yahoo.com/energy/articles/google-constellation-announce-landmark-agreement-103000585.html",
+    "auto_generated": true
+  },
+  {
+    "id": "MACRO_2026-10-06_macro_2527",
+    "ticker": null,
+    "type": "macro",
+    "priority": "medium",
+    "sentiment": "negative",
+    "title": "Meziroční inflace v září zrychlila na 2,5 procenta ze srpnových 1,9 procenta",
+    "text": "Česká inflace v září podle předběžného odhadu ČSÚ zrychlila na 2,5 % z 1,9 % v srpnu, meziměsíčně byly ceny beze změny. Může ovlivnit očekávání kolem sazeb ČNB a koruny.",
+    "date": "2026-10-06",
+    "done": false,
+    "created": "2026-10-07",
+    "source_url": "http://www.patria.cz/zpravodajstvi/7290146/mezirocni-inflace-v-zari-zrychlila-na-25-procenta-ze-srpnovych-19-procenta.html",
+    "auto_generated": true
   }
 ]
