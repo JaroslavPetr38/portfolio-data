@@ -1,5 +1,5 @@
 {
-  "exported": "2026-08-10T16:23:16.909Z",
+  "exported": "2026-10-09T08:28:12.633Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -255,7 +255,7 @@
     },
     {
       "ticker": "UKW",
-      "name": "UKW",
+      "name": "Greencoat UK Wind plc",
       "exchange": "London",
       "currency": "GBP",
       "yahoo": "UKW.L",
@@ -270,19 +270,45 @@
       "yahoo": "SUSW.L",
       "sector": null,
       "category": null
+    },
+    {
+      "ticker": "DB",
+      "name": "Decibel Cannabis CO inc",
+      "exchange": "Toronto",
+      "currency": "CAD",
+      "yahoo": "DB.V",
+      "sector": "Healthcare",
+      "category": "Cannabis (Pharma)"
+    },
+    {
+      "ticker": "ROMJ",
+      "name": "Rubicon Organics inc",
+      "exchange": "Toronto",
+      "currency": "CAD",
+      "yahoo": "ROMJ.V",
+      "sector": "Healthcare",
+      "category": "Cannabis (Pharma)"
+    },
+    {
+      "ticker": "MERY.PA",
+      "name": "Mercialys SA",
+      "exchange": "Paris (Euronext)",
+      "currency": "EUR",
+      "yahoo": "MERY.PA",
+      "sector": "Real Estate",
+      "category": "REIT"
+    },
+    {
+      "ticker": "MRLN",
+      "name": "Merlin Inc",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "yahoo": "MRLN",
+      "sector": "Technology",
+      "category": "Retail Tech/IoT"
     }
   ],
   "watchlist": [
-    {
-      "ticker": "000660",
-      "name": "SK Hynix",
-      "exchange": "Korea Exchange",
-      "currency": "KRW",
-      "yahoo": "SKHY",
-      "priority": "MED",
-      "sector": "Technology",
-      "category": "Semiconductory"
-    },
     {
       "ticker": "WDC",
       "name": "Western Digital",
@@ -412,6 +438,56 @@
       "priority": "HIGH",
       "sector": "Technology",
       "category": "Semiconductory"
+    },
+    {
+      "ticker": "CWR",
+      "name": "Ceres Power Holding",
+      "exchange": "London",
+      "currency": "GBP",
+      "yahoo": "CWR.L",
+      "priority": "MED",
+      "sector": "Utilities",
+      "category": "Infrastruktura"
+    },
+    {
+      "ticker": "TFI.PA",
+      "name": "TF1",
+      "exchange": "Paris (Euronext)",
+      "currency": "EUR",
+      "yahoo": null,
+      "priority": "LOW",
+      "sector": null,
+      "category": null
+    },
+    {
+      "ticker": "TFIF.L",
+      "name": "TwentyFour Income Fund Limited",
+      "exchange": "London",
+      "currency": "GBP",
+      "yahoo": null,
+      "priority": "LOW",
+      "sector": null,
+      "category": null
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "yahoo": "QCOM",
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "NCR.UN",
+      "name": "Nexus Industrial REIT",
+      "exchange": "Toronto",
+      "currency": "CAD",
+      "yahoo": "NXR-UN.TO",
+      "priority": "MED",
+      "sector": "Real Estate",
+      "category": "REIT"
     }
   ]
 }
