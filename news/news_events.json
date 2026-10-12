@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-09T06:19:57Z",
+  "generated": "2026-10-12T06:18:48Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 44,
-  "event_count": 7,
+  "ticker_count": 8,
+  "event_count": 0,
   "events": [
     {
       "id": "MU_2026-10-07_other_e617",
