@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-13T06:30:00Z",
+  "generated": "2026-10-14T06:30:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 43,
-  "event_count": 8,
+  "ticker_count": 47,
+  "event_count": 3,
   "events": [
     {
       "id": "AT1_2026-10-12_analysis_735b",
@@ -1613,6 +1613,48 @@
       "done": false,
       "created": "2026-10-09",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/cronos-group-inc-hold-2026-113000658.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-10-13_other_75e7",
+      "ticker": "AMD",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Fermi Signs Credit Support Agreement with AMD and Announces Partnership",
+      "text": "Fermi America podepsala s AMD smlouvu o úvěrové podpoře leasingu první fáze projektu Matador (Texas, 222 MW energie a AI infrastruktury). Jde o strategické partnerství AMD v oblasti AI datacenter.",
+      "date": "2026-10-13",
+      "done": false,
+      "created": "2026-10-14",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/fermi-signs-credit-support-agreement-120000372.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-10-13_analysis_b179",
+      "ticker": "WDC",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Western Digital Shares Fall 3.6% as UBS Cuts Price Target Amid HDD Supply Concerns",
+      "text": "UBS snížila cílovou cenu Western Digital kvůli obavám z nabídky HDD. Akcie klesly o 3,6 % na zhruba 372 USD.",
+      "date": "2026-10-13",
+      "done": false,
+      "created": "2026-10-14",
+      "source_url": "https://investorshub.advfn.com/market-news/article/37954/western-digital-shares-fall-3-6-as-ubs-cuts-price-target-amid-hdd-supply-concerns?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-10-13_macro_4020",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "JP Morgan za očekáváním trhu zaostala, slabší obchodování na dluhopisových trzích převážilo nad silnými úrokovými výnosy",
+      "text": "JPMorgan za 3. čtvrtletí překonal očekávání u čistých úrokových výnosů i akciového obchodování, celkovými tržbami ale zaostal za konsensem. Zahajuje bankovní výsledkovou sezónu.",
+      "date": "2026-10-13",
+      "done": false,
+      "created": "2026-10-14",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7309458/jp-morgan-za-ocekavanim-trhu-zaostala-slabsi-obchodovani-na-dluhopisovych-trzich-prevazilo-nad-silnymi-urokovymi-vynosy.html",
       "auto_generated": true
     }
   ]
