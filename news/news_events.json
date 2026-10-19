@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-16T06:25:00Z",
+  "generated": "2026-10-19T06:30:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 52,
-  "event_count": 3,
+  "ticker_count": 8,
+  "event_count": 0,
   "events": [
     {
       "id": "AMD_2026-09-28_other_6db8",
