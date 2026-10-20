@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-19T06:30:00Z",
+  "generated": "2026-10-20T06:07:29Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 8,
-  "event_count": 0,
+  "ticker_count": 48,
+  "event_count": 3,
   "events": [
     {
       "id": "AMD_2026-09-28_other_6db8",
@@ -913,6 +913,48 @@
       "done": false,
       "created": "2026-10-14",
       "source_url": "http://www.patria.cz/zpravodajstvi/7309458/jp-morgan-za-ocekavanim-trhu-zaostala-slabsi-obchodovani-na-dluhopisovych-trzich-prevazilo-nad-silnymi-urokovymi-vynosy.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-10-19_risk_alert_6856",
+      "ticker": "MU",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
+      "text": "Odborový svaz v tchajwanských závodech Micronu schválil 99 % hlasů zmocnění ke stávce. Případná stávka by mohla narušit výrobu pamětí; zatím jde pouze o hlasování o zmocnění.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-20",
+      "source_url": "https://www.fool.com/investing/2026/10/19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-10-19_macro_cfa9",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Rozbřesk: Ceny ve výrobě rostou, zboží bude příští rok zdražovat rychleji",
+      "text": "Meziroční růst cen průmyslových výrobců v ČR v září zrychlil ze 2 % na 3,7 %, nejvíce od jara 2023. Podle Patrie to potvrzuje scénář růstu inflace v příštím roce.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-20",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7323606/rozbresk-ceny-ve-vyrobe-rostou-zbozi-bude-pristi-rok-zdrazovat-rychleji.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-10-16_macro_5a4e",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Bank of America: Čekají nás týdny averze k riziku. Dluhopisy, AI a volby zvyšují nervozitu",
+      "text": "Strateg BofA Hartnett čeká v nejbližších týdnech převahu averze k riziku kvůli vysokým sazbám, inflaci, americkým volbám a pochybnostem o návratnosti investic do AI.",
+      "date": "2026-10-16",
+      "done": false,
+      "created": "2026-10-20",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7319404/bank-of-america-cekaji-nas-tydny-averze-k-riziku-dluhopisy-ai-a-volby-zvysuji-nervozitu.html",
       "auto_generated": true
     }
   ]
