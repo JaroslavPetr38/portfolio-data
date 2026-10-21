@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-20T06:07:29Z",
+  "generated": "2026-10-21T06:12:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 48,
-  "event_count": 3,
+  "event_count": 5,
   "events": [
     {
       "id": "AMD_2026-09-28_other_6db8",
@@ -59,6 +59,20 @@
       "done": false,
       "created": "2026-10-08",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/micron-workers-taiwan-plant-vote-074005592.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "CLNN_2026-10-19_other_b43a",
+      "ticker": "CLNN",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Clene Announces New Drug Application Submission to FDA for CNM-Au8 for the Treatment of ALS",
+      "text": "Clene podala na FDA žádost o registraci (NDA) léku CNM-Au8 pro ALS s cílem urychleného schválení na základě dat o biomarkeru neurofilamentu. Jde o klíčový regulační milník společnosti.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-21",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/clene-announces-drug-application-submission-120000326.html",
       "auto_generated": true
     },
     {
@@ -283,6 +297,48 @@
       "done": false,
       "created": "2026-10-15",
       "source_url": "https://www.fool.com/investing/2026/10/14/microns-customer-contracts-just-took-the-memory-cy/",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-10-19_risk_alert_6856",
+      "ticker": "MU",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
+      "text": "Odborový svaz v tchajwanských závodech Micronu schválil 99 % hlasů zmocnění ke stávce. Případná stávka by mohla narušit výrobu pamětí; zatím jde pouze o hlasování o zmocnění.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-20",
+      "source_url": "https://www.fool.com/investing/2026/10/19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "DB_2026-10-19_other_9b87",
+      "ticker": "DB",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Ewing Morris Announces Premium All-Cash Offer to Acquire Shares of Decibel Cannabis Company Inc.",
+      "text": "Ewing Morris nabízí hotovostní odkup až 2 617 801 akcií Decibel Cannabis za 1,91 CAD za akcii. Nabídka je označena jako prémiová; jde o částečný odkup, ne převzetí celé společnosti.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-21",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/ewing-morris-announces-premium-cash-164200806.html",
+      "auto_generated": true
+    },
+    {
+      "id": "ROMJ_2026-10-19_other_edf7",
+      "ticker": "ROMJ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Rubicon Organics Announces $3 Million Strategic Private Placement to Expand Pacifica Cultivation Capacity",
+      "text": "Rubicon Organics získá 3 mil. CAD z privátního placementu (investor Ted Reid) na upgrade osvětlení v Pacifice. Roční produkce tam má vzrůst o 40 % na 15 500 kg a kapacita firmy na 20 000 kg.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-21",
+      "source_url": "https://finance.yahoo.com/small-business/articles/rubicon-organics-announces-3-million-110000356.html",
       "auto_generated": true
     },
     {
@@ -664,6 +720,20 @@
       "auto_generated": true
     },
     {
+      "id": "AVGO_2026-10-20_other_7a28",
+      "ticker": "AVGO",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Broadcom to Advance NTT DOCOMO's Private Cloud with VMware Cloud Foundation",
+      "text": "Broadcom uzavřel 10letou dohodu s NTT DOCOMO o rozvoji privátního cloudu na platformě VMware Cloud Foundation. Akcie po zprávě mírně rostla; investory dál znepokojují vyjádření CEO o kapitálových omezeních v AI.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-21",
+      "source_url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-10-year-docomo-deal-retail-on-edge-ceo-ai-casino-remarks/cZxqiudRBuJ",
+      "auto_generated": true
+    },
+    {
       "id": "BWXT_2026-09-29_other_1373",
       "ticker": "BWXT",
       "type": "other",
@@ -916,17 +986,17 @@
       "auto_generated": true
     },
     {
-      "id": "MU_2026-10-19_risk_alert_6856",
-      "ticker": "MU",
-      "type": "risk_alert",
+      "id": "MACRO_2026-10-16_macro_5a4e",
+      "ticker": null,
+      "type": "macro",
       "priority": "medium",
       "sentiment": "negative",
-      "title": "A Micron Union in Taiwan Voted 99% to Authorize a Strike. Should You Sell the Stock?",
-      "text": "Odborový svaz v tchajwanských závodech Micronu schválil 99 % hlasů zmocnění ke stávce. Případná stávka by mohla narušit výrobu pamětí; zatím jde pouze o hlasování o zmocnění.",
-      "date": "2026-10-19",
+      "title": "Bank of America: Čekají nás týdny averze k riziku. Dluhopisy, AI a volby zvyšují nervozitu",
+      "text": "Strateg BofA Hartnett čeká v nejbližších týdnech převahu averze k riziku kvůli vysokým sazbám, inflaci, americkým volbám a pochybnostem o návratnosti investic do AI.",
+      "date": "2026-10-16",
       "done": false,
       "created": "2026-10-20",
-      "source_url": "https://www.fool.com/investing/2026/10/19/a-micron-union-in-taiwan-voted-99-to-authorize-a-strike-should-you-sell-the-stock/?.tsrc=rss",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7319404/bank-of-america-cekaji-nas-tydny-averze-k-riziku-dluhopisy-ai-a-volby-zvysuji-nervozitu.html",
       "auto_generated": true
     },
     {
@@ -944,17 +1014,17 @@
       "auto_generated": true
     },
     {
-      "id": "MACRO_2026-10-16_macro_5a4e",
+      "id": "MACRO_2026-10-20_macro_7789",
       "ticker": null,
       "type": "macro",
       "priority": "medium",
-      "sentiment": "negative",
-      "title": "Bank of America: Čekají nás týdny averze k riziku. Dluhopisy, AI a volby zvyšují nervozitu",
-      "text": "Strateg BofA Hartnett čeká v nejbližších týdnech převahu averze k riziku kvůli vysokým sazbám, inflaci, americkým volbám a pochybnostem o návratnosti investic do AI.",
-      "date": "2026-10-16",
+      "sentiment": "neutral",
+      "title": "FX Strategie: Koruna těží z jestřábí ČNB, euro brzdí Francie i drahá ropa",
+      "text": "Vyšší česká inflace posiluje jestřábí rétoriku ČNB a podporuje korunu. Euro naopak brzdí politická situace ve Francii a drahá ropa. Dopad na CZK aktiva a měnovou pozici.",
+      "date": "2026-10-20",
       "done": false,
-      "created": "2026-10-20",
-      "source_url": "http://www.patria.cz/zpravodajstvi/7319404/bank-of-america-cekaji-nas-tydny-averze-k-riziku-dluhopisy-ai-a-volby-zvysuji-nervozitu.html",
+      "created": "2026-10-21",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7328192/fx-strategie-koruna-tezi-z-jestrabi-cnb-euro-brzdi-francie-i-draha-ropa.html",
       "auto_generated": true
     }
   ]
