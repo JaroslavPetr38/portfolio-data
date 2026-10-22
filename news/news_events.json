@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-21T06:12:00Z",
+  "generated": "2026-10-22T06:07:48Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 48,
-  "event_count": 5,
+  "event_count": 6,
   "events": [
     {
       "id": "AMD_2026-09-28_other_6db8",
@@ -1025,6 +1025,90 @@
       "done": false,
       "created": "2026-10-21",
       "source_url": "http://www.patria.cz/zpravodajstvi/7328192/fx-strategie-koruna-tezi-z-jestrabi-cnb-euro-brzdi-francie-i-draha-ropa.html",
+      "auto_generated": true
+    },
+    {
+      "id": "NLY_2026-10-20_earnings_6287",
+      "ticker": "NLY",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "Annaly Capital Management, Inc. Reports 3rd Quarter 2026 Results",
+      "text": "Annaly za 3Q vykázal čistou ztrátu cca 1 mld. USD. Zisk na akcii překonal odhady o 3,9 %, tržby je o 8,8 % zaostaly. Pro investora smíšený výsledek; ztráta souvisí s oceněním portfolia.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1043219/000104321926000077/nly-20261020.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-10-21_earnings_47d9",
+      "ticker": "VU",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge",
+      "text": "Akcie Vusionu vzrostly o 14 % na 15týdenní maximum po silných tržbách za 3Q. Trh ocenil růst obratu; pro investora pozitivní signál k obchodní dynamice.",
+      "date": "2026-10-21",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/vusiongroup-shares-jump-14-15-080510949.html",
+      "auto_generated": true
+    },
+    {
+      "id": "QCOM_2026-10-20_other_c8cc",
+      "ticker": "QCOM",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
+      "text": "Podle médií Qualcomm po ročním hodnocení zaměstnanců plánuje globální propouštění, možná od listopadu. Rozsah nebyl potvrzen společností; akcie reagovaly růstem o 1,6 %.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-10-20_analysis_53cb",
+      "ticker": "WDC",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Morgan Stanley cuts Western Digital target, raises Seagate amid HDD selloff",
+      "text": "Morgan Stanley snížil cílovou cenu Western Digital na 643 USD z 676 USD, zatímco u Seagate cenu zvýšil. Změna přichází při výprodeji sektoru HDD před výsledky.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-western-digital-131313137.html",
+      "auto_generated": true
+    },
+    {
+      "id": "AIBZ_2026-10-20_other_bd7c",
+      "ticker": "AIBZ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Bitzero Taps Top General Contractor Skanska for the Delivery of its Flagship Data Center in Norway",
+      "text": "Bitzero vybral stavební firmu Skanska pro výstavbu svého vlajkového datacentra v Norsku. Dohoda posiluje plán realizace projektu.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://finance.yahoo.com/technology/articles/bitzero-taps-top-general-contractor-skanska-for-the-delivery-of-its-flagship-data-center-in-norway",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-10-19_macro_b263",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Nervózní Wall Street. Sázky na růst volatility jsou nejvyšší za poslední roky",
+      "text": "Sázky na růst volatility jsou nejvyšší za poslední roky kvůli zrychlení inflace a obavám z financování AI. Investoři čekají přenos volatility z technologií na širší trh.",
+      "date": "2026-10-19",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7325568/nervozni-wall-street-sazky-na-rust-volatility-jsou-nejvyssi-za-posledni-roky.html",
       "auto_generated": true
     }
   ]
