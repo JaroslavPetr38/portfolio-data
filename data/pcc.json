@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 2,
-  "savedAt": "2026-10-26T10:16:02.894Z",
+  "rev": 3,
+  "savedAt": "2026-10-26T10:55:28.782Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -11882,7 +11882,7 @@
         "id": "plan_2026_druh_polovina_roku_2026_mtpyee3b",
         "year": 2026,
         "title": "Druhá polovina roku 2026",
-        "content": "## H2 2026\n\n## Makro pozadí\n\n- **Fed/ECB v cyklu snižování sazeb** — obecně tailwind pro\n  rate-sensitive tituly (utility, REIT, bond-proxy jako vodní akcie)\n- **BIS varování před AI capex bust/cirkulárním financováním** —\n  reálné, ne teoretické riziko; CDS spready Oracle/Microsoft se\n  rozšiřují\n- **Frontier AI ceny rostou (+100% od ledna), komoditní vrstva se\n  propadá** — bifurkace, ne uniformní trend\n\n### Proč je to příznivé pro risk assets — mechanismus\n\n1. **Diskontní sazba v DCF modelech klesá** → matematicky zvyšuje\n   dnešní hodnotu budoucích zisků, nejvíc u růstových titulů\n   (daleko v budoucnosti ležící cash flow — AVGO, CEG typ)\n2. **Náklady financování klesají** → přímo pomáhá zadluženým\n   firmám (AT1 vysoká páka, TEP refinancing debata)\n3. **Opportunity cost hotovosti/dluhopisů klesá** → kapitál se\n   přesouvá k rizikovějším aktivům (risk-on sentiment)\n\nNejsilnější dopad: UKW/FGEN (bond-proxy chování), AT1 (přímá\ncitlivost na financing costs), AVGO/CEG (growth multiple benefit).\n\n**Conviction: Medium** — makro prostředí příznivé, ale s reálným\ntail-risk scénářem (kreditní událost v AI infrastruktuře dle BIS),\nco by mohl celý obrázek přehodit.",
+        "content": "## H2 2026\n\n## Makro pozadí\n- ~~**Fed/ECB v cyklu snižování sazeb** — obecně tailwind pro\n  rate-sensitive tituly (utility, REIT, bond-proxy jako vodní akcie)~~\n- **BIS varování před AI capex bust/cirkulárním financováním** —\n  reálné, ne teoretické riziko; CDS spready Oracle/Microsoft se\n  rozšiřují\n- **Frontier AI ceny rostou (+100% od ledna), komoditní vrstva se\n  propadá** — bifurkace, ne uniformní trend\n\n### Proč je to příznivé pro risk assets — mechanismus\n\n1. ~~**Diskontní sazba v DCF modelech klesá** → matematicky zvyšuje\n   dnešní hodnotu budoucích zisků, nejvíc u růstových titulů\n   (daleko v budoucnosti ležící cash flow — AVGO, CEG typ)~~\n2. **Náklady financování klesají** → přímo pomáhá zadluženým\n   firmám (AT1 vysoká páka, TEP refinancing debata)\n3. **Opportunity cost hotovosti/dluhopisů klesá** → kapitál se\n   přesouvá k rizikovějším aktivům (risk-on sentiment)\n\nNejsilnější dopad: UKW/FGEN (bond-proxy chování), AT1 (přímá\ncitlivost na financing costs), AVGO/CEG (growth multiple benefit).\n\n**Conviction: Medium** — makro prostředí příznivé, ale s reálným\ntail-risk scénářem (kreditní událost v AI infrastruktuře dle BIS),\nco by mohl celý obrázek přehodit.",
         "linked_themes": [
           "theme_lekalizace_cannabis_cad_velkov_roba_mtpye9dr",
           "theme_jadern_renesance_grid_elektrifikace_mtr0goa4",
@@ -11893,9 +11893,27 @@
         "linked_tickers": [],
         "linked_events": [],
         "linked_plans": [],
-        "done": false,
+        "done": true,
         "created": "2026-09-06",
-        "last_updated": "2026-09-07"
+        "last_updated": "2026-10-26"
+      },
+      {
+        "id": "plan_2026_druh_polovina_roku_2026_revize_konec_ijna_mvp543os",
+        "year": 2026,
+        "title": "Druhá polovina roku 2026 - revize konec řijna",
+        "content": "## H2 2026: makro pozadí (aktualizace na listopad–prosinec, stav k 24.–26. 10. 2026)\n\n### Makro pozadí\n\n- **Centrální banky utahují, ne uvolňují.** Fed zvedl v září poprvé po víc než třech letech. Zasedání 28. 10. se podle trhu nechá beze změny (zvýšení 9 %), na prosinec trh cenuje 84 % a zhruba 2,7 zvýšení za 12 měsíců. ECB drží depozitní sazbu 2,50 % (rozhodnutí 29. 10.), prosincové zvýšení 75 %. BoJ 30. 10. drží, zvýšení v prosinci 74 %. Banka Anglie má podle trhu zvednout 5. 11. a ČNB v listopadu čtvrt bodu (očekávání analytiků).\n- **Energetický šok.** Válka s Íránem a útoky na tankery v Hormuzu tlačí Brent na 110–116 USD a WTI nad 100 USD. Americký CPI za září je 3,7 %, jádrový PCE kolem 3,1 %, očekávaná roční inflace spotřebitelů 4,7 %, sentiment spotřebitelů 48. Ekonomika přitom roste (GDPNow 3,5 % za 3Q), takže jde o stagflační směs.\n- **Dluhopisy.** Americká desetiletá sazba je kolem 5,0 % (13. 10. 5,26 %), britská desetiletá 5,4 % a třicetiletá blízko 6 %.\n- **Kreditní stres v AI je skutečný, ne teoretický.** Oracle CDS dosáhly rekordu (263–288 b. b. podle zdroje), CoreWeave má distresované úrovně. Nasdaq 22. 10. spadl o 2,9 % kvůli obavám o dostupnost kapitálu pro AI, Meta po detailech investic o 7 %.\n- **Trh.** Úzký: S&P 500 asi 7 624 (druhý týden poklesu), Nasdaq slabší, Russell 2000 a energie silné. Slabé jsou utility, finance, defenzivní spotřeba a telekomunikace.\n\n### Mechanismus (obráceně než v původní verzi)\n\n1. **Diskontní sazba v DCF roste.** Hodnota dalekých cash flow klesá nejvíc u titulů s výnosy za mnoho let (AVGO, CEG, jaderné SMR). Oklo je o 83 % pod loňským maximem.\n2. **Financování se zdražuje.** Tlačí na zadlužené (AT1, VNA) a na refinancování NRR a MERY. Opačně těží banky s pohyblivými sazbami (KOMB, MONET), pokud se neprosadí sektorová daň.\n3. **Konkurence dluhopisů.** Desetiletý výnos kolem 5 % zhoršuje atraktivitu bond-proxy (UKW, FGEN, NESF, REITs, utility). U UKW a FGEN proti tomu stojí vyšší ceny elektřiny (můj úsudek, neověřeno).\n4. **Energetický šok.** Pomáhá energetice a obraně (Lockheed +10 % za týden), škodí spotřebě a citlivým sektorům.\n\n**Nejsilnější dopad:** AT1, VNA a REITs (financování), growth/SMR tituly (diskontní sazba), AI infrastruktura (kreditní kanál). Banky a obrana těží.\n\n**Kalendář:** 28. 10. FOMC (Warsh), 28.–29. 10. výsledky Alphabet, Microsoft, Amazon, Intel, 29. 10. ECB a PCE, 3. 11. volby v USA, 5. 11. Banka Anglie, poté prosincová zasedání.\n\n**Conviction: Low–Medium.** Prostředí je spíš nepříznivé pro rate-sensitive i AI tituly. Rozhoduje geopolitika (Hormuz) a to, zda kreditní stres v AI zůstane u Oracle a CoreWeave.\n\n**Neověřeno:** varování BIS, růst cen frontier AI o 100 % a propad komoditní vrstvy; přesná data prosincových zasedání.\n\n### Zdroje\n\n- [Yardeni: týden 26.–30. 10.](https://www.yardeniquicktakes.com/economic-week-ahead-october-26-30/)\n- [TradingKey: americký trh za týden](https://www.tradingkey.com/tools/market-update/us-stock-market-this-week-20261026)\n- [Chase: Fed a inflace](https://www.chase.com/personal/investments/learning-and-insights/article/will-the-federal-reserve-hike-rates-at-october-2026-fomc-meeting)\n- [Trading Economics: gilty](https://tradingeconomics.com/united-kingdom/government-bond-yield/news/583100)\n- [CNBC: Oracle a AI dluh (jen titulek)](https://www.cnbc.com/2026/10/19/oracle-debt-faces-an-ai-stress-test-why-some-investors-arent-worried-.html)\n- [TIKR: Oklo −83 %](https://www.tikr.com/blog/oklo-has-lost-83-in-a-year-barclays-sees-117-upside)\n- [BusinessInfo: ČNB](https://www.businessinfo.cz/clanky/cnb-urokove-sazby-v-zari-nezvedla-inflacni-rizika-ji-tlaci-ke-zvyseni-na-konci-roku/)",
+        "linked_themes": [
+          "theme_lekalizace_cannabis_cad_velkov_roba_mtpye9dr",
+          "theme_jadern_renesance_grid_elektrifikace_mtr0goa4",
+          "theme_ai_infrastruktura_memory_semiconductory_mtr0hme8",
+          "theme_evropsk_obrana_mtr0ilgk"
+        ],
+        "linked_tickers": [],
+        "linked_events": [],
+        "linked_plans": [],
+        "done": false,
+        "created": "2026-10-26",
+        "last_updated": "2026-10-26"
       }
     ],
     "settings": {
