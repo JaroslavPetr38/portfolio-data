@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 3,
-  "savedAt": "2026-10-26T10:55:28.782Z",
+  "rev": 4,
+  "savedAt": "2026-10-26T15:01:08.460Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -11778,7 +11778,7 @@
           "DB",
           "ROMJ"
         ],
-        "thesis_summary": "## Teze\n\nSektor BEZ institucionální validace (mimo Gartner/MS/GS seznamy) —\nzůstává kontrariánská, ne konsenzuální sázka. Ale jednotlivé firmy\n(LOVE, OGI) rostou tržbami +49% r/r, rychleji než i optimistické\nodvětvové CAGR odhady (12-25%) — výběr titulu > sektorová beta.\n\n### Legalizace — opční, ne base case\n\nSAFE Banking Act zablokován v Senátu 7x od 2019. Schedule III\nreklasifikace (Blanche Order, duben 2026) je užší, než zní - jen\nFDA-schválené a state-medical produkty, netýká se rekreačního trhu.\nNeplánovat s předpokladem skokové legalizace v 5letém horizontu.\n\n### Rozlišení\n\n## Cannabis – plán dokupů H2 2026\n\n### LOVE (Cannara Biotech)\n- **Akce:** dokup pod 2,00 CAD\n- Zisková, kladný FCF, 21 kvartálů kladné EBITDA v řadě\n\n### XLY (Auxly)\n- **Akce:** dokup při poklesu ke 3,00 CAD\n- Nejsilnější marže (31 % EBITDA), net debt 0,8x EBITDA, aktivní buyback\n- Čerstvá 14:1 konsolidace akcií\n\n### DB (Decibel)\n- **Akce:** dokup teď, bez čekání na konkrétní úroveň\n- Guidance zvednuta na 132–137M CAD tržeb a 28–32M CAD EBITDA\n- Export do EU +72 %\n- Čerstvá 15:1 konsolidace od 1.9.2026\n\n### ROMJ (Rubicon Organics)\n- **Akce:** dokup až po zlepšení hotovostní pozice\n- Premiový lídr, ale Cascadia zatím tlačí marži dolů\n\n### CRON (Cronos Group)\n- **Akce:** počkat na pokles / potvrzení udržitelnosti marže\n- Teď blízko ročního maxima, podobně jako XLY\n- Net cash 827M USD, ale nízká likvidita akcie a nejistota kolem antidumpingového vyšetřování v Izraeli\n\n### OGI (Organigram)\n- **Akce:** držet, nedokupovat zatím\n- Tenká hotovost (11,7M CAD), záporný FCF\n- Čekat na Q4 s cílem kladného FCF\n\n---\n\n**Filtr napříč košíkem:**\n- Ziskové firmy (LOVE, XLY, DB) → dokup do síly nebo na mírném poklesu\n- Firmy s nejistou ekonomikou (ROMJ, OGI) → čekat na zlepšení cash/marže, ne na cenu\n- CRON → čekat na korekci z maxima",
+        "thesis_summary": "## Teze\n\nSektor BEZ institucionální validace (mimo Gartner/MS/GS seznamy) —\nzůstává kontrariánská, ne konsenzuální sázka. Ale jednotlivé firmy\n(LOVE, OGI) rostou tržbami +49% r/r, rychleji než i optimistické\nodvětvové CAGR odhady (12-25%) — výběr titulu > sektorová beta.\n\n### Legalizace — opční, ne base case\n\nSAFE Banking Act zablokován v Senátu 7x od 2019. Schedule III\nreklasifikace (Blanche Order, duben 2026) je užší, než zní - jen\nFDA-schválené a state-medical produkty, netýká se rekreačního trhu.\nNeplánovat s předpokladem skokové legalizace v 5letém horizontu.\n\n### Rozlišení\n\nCannabis mám aktuálně na 4%-to je ok\nPokud se naskytne cena na LOVE a především XLY(!)\n\n## Cannabis – plán dokupů H2 2026\n\n### LOVE (Cannara Biotech)\n- **Akce:** dokup pod 2,00 CAD\n- Zisková, kladný FCF, 21 kvartálů kladné EBITDA v řadě\n- edit 26.10.2026 - čekám na 2.00\n\n### XLY (Auxly)\n- **Akce:** dokup při poklesu ke 3,00 CAD\n- Nejsilnější marže (31 % EBITDA), net debt 0,8x EBITDA, aktivní buyback\n- Čerstvá 14:1 konsolidace akcií\n- edit 26.10.2026 - čekám na 3.00\n\n### DB (Decibel)\n- ~~**Akce:** dokup teď, bez čekání na konkrétní úroveň~~\n- Guidance zvednuta na 132–137M CAD tržeb a 28–32M CAD EBITDA\n- Export do EU +72 %\n- Čerstvá 15:1 konsolidace od 1.9.2026\n- edit 26.10.2026 - dokup na 1.6\n\n### ROMJ (Rubicon Organics)\n- **Akce:** dokup až po zlepšení hotovostní pozice\n- Premiový lídr, ale Cascadia zatím tlačí marži dolů\n\n### CRON (Cronos Group)\n- **Akce:** počkat na pokles / potvrzení udržitelnosti marže\n- Teď blízko ročního maxima, podobně jako XLY\n- Net cash 827M USD, ale nízká likvidita akcie a nejistota kolem antidumpingového vyšetřování v Izraeli\n\n### OGI (Organigram)\n- **Akce:** držet, nedokupovat zatím\n- Tenká hotovost (11,7M CAD), záporný FCF\n- Čekat na Q4 s cílem kladného FCF\n\n---\n\n**Filtr napříč košíkem:**\n- Ziskové firmy (LOVE, XLY, DB) → dokup do síly nebo na mírném poklesu\n- Firmy s nejistou ekonomikou (ROMJ, OGI) → čekat na zlepšení cash/marže, ne na cenu\n- CRON → čekat na korekci z maxima",
         "key_evidence": [
           {
             "date": "2026-08-13",
@@ -11794,7 +11794,7 @@
           }
         ],
         "created": "2026-09-06",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-26"
       },
       {
         "id": "theme_jadern_renesance_grid_elektrifikace_mtr0goa4",
@@ -11807,7 +11807,7 @@
           "CEG",
           "BWXT"
         ],
-        "thesis_summary": "## Teze\n\nInstitucionální shoda napříč MS/GS/JPM na strukturálním, víceletém\ntématu — AI datacenter poptávka po energii jako hlavní driver,\npotvrzeno konkrétními PPA kontrakty (CEG-Microsoft, VST-Meta/AWS),\nne jen makro vyprávěním.\n\n### Rozlišení uvnitř skupiny\n\n- **CCJ** — no go, natažená valuace, rozštěpený konsensus\n- **VST** — zajímavá, ale insider prodeje + aktivní PJM regulatorní\n  riziko\n- **CEG** — nejsilnější PPA teze, ale nejvyšší valuační prémie\n- **BWXT** — \"picks and shovels\" logika, ale klesající marže,\n  akcie padá i přes dobré zprávy (opakovaný vzorec)\n- **Grid vrstva (GEV/PWR/ETN)** — široce rozpoznaná trhem,\n  \"všichni to vidí\" — menší prostor na překvapení\n\n**Riziko:** už teď hodně \"crowded\" téma napříč analytiky i trhem.",
+        "thesis_summary": "## Teze\n\nInstitucionální shoda napříč MS/GS/JPM na strukturálním, víceletém\ntématu — AI datacenter poptávka po energii jako hlavní driver,\npotvrzeno konkrétními PPA kontrakty (CEG-Microsoft, VST-Meta/AWS),\nne jen makro vyprávěním.\n\n### Rozlišení uvnitř skupiny\n\nEdit 26.10.2026 - BWXT mi z toho vychází nejsmysluplněji;\n\n- **CCJ** — no go, natažená valuace, rozštěpený konsensus\n- **VST** — zajímavá, ale insider prodeje + aktivní PJM regulatorní\n  riziko\n- **CEG** — nejsilnější PPA teze, ale nejvyšší valuační prémie\n- **BWXT** — \"picks and shovels\" logika, ale klesající marže,\n  akcie padá i přes dobré zprávy (opakovaný vzorec)\n- **Grid vrstva (GEV/PWR/ETN)** — široce rozpoznaná trhem,\n  \"všichni to vidí\" — menší prostor na překvapení\n\n**Riziko:** už teď hodně \"crowded\" téma napříč analytiky i trhem.",
         "key_evidence": [
           {
             "date": "2026-08-05",
@@ -11823,7 +11823,7 @@
           }
         ],
         "created": "2026-09-07",
-        "last_updated": "2026-09-07"
+        "last_updated": "2026-10-26"
       },
       {
         "id": "theme_ai_infrastruktura_memory_semiconductory_mtr0hme8",
@@ -11833,7 +11833,7 @@
         "linked_tickers": [
           "AVGO"
         ],
-        "thesis_summary": "## Teze\n\nDlouhodobá HBM/paměťová teze silná (Micron marže 56%, HBM lídr),\nale probíhá aktivní krátkodobá korekce napříč sektorem. AVGO\nvychází jako nejsilnější kombinace (diverzifikace přes VMware,\nnejnižší forward P/E ze skupiny), AMD naopak nejdražší bez\nodpovídající valuační slevy za diverzifikaci.\n\n**Klíčové riziko:** BIS varování před AI capex bust a cirkulárním\nfinancováním — sledovat CDS spready Oracle/Microsoft jako\npředstihový indikátor.",
+        "thesis_summary": "## Teze\n\nDlouhodobá HBM/paměťová teze silná (Micron marže 56%, HBM lídr),\nale probíhá aktivní krátkodobá korekce napříč sektorem. AVGO\nvychází jako nejsilnější kombinace (diverzifikace přes VMware,\nnejnižší forward P/E ze skupiny), AMD naopak nejdražší bez\nodpovídající valuační slevy za diverzifikaci.\n\n**Klíčové riziko:** BIS varování před AI capex bust a cirkulárním\nfinancováním — sledovat CDS spready Oracle/Microsoft jako\npředstihový indikátor.\n\nEdit 26.10.2026 - AVGO bych koupil asi jako jediné.",
         "key_evidence": [
           {
             "date": "2026-08-05",
@@ -11841,7 +11841,7 @@
           }
         ],
         "created": "2026-09-07",
-        "last_updated": "2026-09-07"
+        "last_updated": "2026-10-26"
       },
       {
         "id": "theme_evropsk_obrana_mtr0ilgk",
