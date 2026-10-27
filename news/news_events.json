@@ -1,24 +1,10 @@
 {
-  "generated": "2026-10-26T06:20:00Z",
+  "generated": "2026-10-27T06:15:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 47,
-  "event_count": 0,
+  "event_count": 1,
   "events": [
-    {
-      "id": "DB_2026-10-21_other_6faf",
-      "ticker": "DB",
-      "type": "other",
-      "priority": "medium",
-      "sentiment": "neutral",
-      "title": "Decibel Cannabis Company Makes 'No Recommendation' to Shareholders on Ewing Morris' Unsolicited Tender Offer",
-      "text": "Ewing Morris vyhlásil nežádanou nabídku na odkup až 2 617 801 akcií Decibel (cca 6,8 %) za 1,91 CAD v hotovosti. Vedení Decibel akcionářům nedoporučuje ani nezamítá, ať se rozhodnou sami.",
-      "date": "2026-10-21",
-      "done": false,
-      "created": "2026-10-23",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/decibel-cannabis-company-makes-apos-145302415.html",
-      "auto_generated": true
-    },
     {
       "id": "PRIUA_2026-10-05_other_23d1",
       "ticker": "PRIUA",
@@ -59,6 +45,34 @@
       "done": false,
       "created": "2026-10-21",
       "source_url": "https://finance.yahoo.com/healthcare/articles/clene-announces-drug-application-submission-120000326.html",
+      "auto_generated": true
+    },
+    {
+      "id": "NLY_2026-10-20_earnings_6287",
+      "ticker": "NLY",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "neutral",
+      "title": "Annaly Capital Management, Inc. Reports 3rd Quarter 2026 Results",
+      "text": "Annaly za 3Q vykázal čistou ztrátu cca 1 mld. USD. Zisk na akcii překonal odhady o 3,9 %, tržby je o 8,8 % zaostaly. Pro investora smíšený výsledek; ztráta souvisí s oceněním portfolia.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1043219/000104321926000077/nly-20261020.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-10-21_earnings_47d9",
+      "ticker": "VU",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge",
+      "text": "Akcie Vusionu vzrostly o 14 % na 15týdenní maximum po silných tržbách za 3Q. Trh ocenil růst obratu; pro investora pozitivní signál k obchodní dynamice.",
+      "date": "2026-10-21",
+      "done": false,
+      "created": "2026-10-22",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/vusiongroup-shares-jump-14-15-080510949.html",
       "auto_generated": true
     },
     {
@@ -244,6 +258,20 @@
       "auto_generated": true
     },
     {
+      "id": "DB_2026-10-21_other_6faf",
+      "ticker": "DB",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Decibel Cannabis Company Makes 'No Recommendation' to Shareholders on Ewing Morris' Unsolicited Tender Offer",
+      "text": "Ewing Morris vyhlásil nežádanou nabídku na odkup až 2 617 801 akcií Decibel (cca 6,8 %) za 1,91 CAD v hotovosti. Vedení Decibel akcionářům nedoporučuje ani nezamítá, ať se rozhodnou sami.",
+      "date": "2026-10-21",
+      "done": false,
+      "created": "2026-10-23",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/decibel-cannabis-company-makes-apos-145302415.html",
+      "auto_generated": true
+    },
+    {
       "id": "LAES_2026-10-06_other_4eee",
       "ticker": "LAES",
       "type": "other",
@@ -269,34 +297,6 @@
       "done": false,
       "created": "2026-10-09",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/cronos-group-inc-hold-2026-113000658.html",
-      "auto_generated": true
-    },
-    {
-      "id": "NLY_2026-10-20_earnings_6287",
-      "ticker": "NLY",
-      "type": "earnings",
-      "priority": "high",
-      "sentiment": "neutral",
-      "title": "Annaly Capital Management, Inc. Reports 3rd Quarter 2026 Results",
-      "text": "Annaly za 3Q vykázal čistou ztrátu cca 1 mld. USD. Zisk na akcii překonal odhady o 3,9 %, tržby je o 8,8 % zaostaly. Pro investora smíšený výsledek; ztráta souvisí s oceněním portfolia.",
-      "date": "2026-10-20",
-      "done": false,
-      "created": "2026-10-22",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1043219/000104321926000077/nly-20261020.htm",
-      "auto_generated": true
-    },
-    {
-      "id": "VU_2026-10-21_earnings_47d9",
-      "ticker": "VU",
-      "type": "earnings",
-      "priority": "high",
-      "sentiment": "positive",
-      "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge",
-      "text": "Akcie Vusionu vzrostly o 14 % na 15týdenní maximum po silných tržbách za 3Q. Trh ocenil růst obratu; pro investora pozitivní signál k obchodní dynamice.",
-      "date": "2026-10-21",
-      "done": false,
-      "created": "2026-10-22",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/vusiongroup-shares-jump-14-15-080510949.html",
       "auto_generated": true
     },
     {
@@ -510,34 +510,6 @@
       "auto_generated": true
     },
     {
-      "id": "VST_2026-10-05_other_2a67",
-      "ticker": "VST",
-      "type": "other",
-      "priority": "low",
-      "sentiment": "neutral",
-      "title": "8-K (1.01,2.03,9.01) - VST",
-      "text": "Vistra podala 8-K (položky 1.01, 2.03): dodatek úvěrové smlouvy s Citibank prodlužuje splatnost revolvingového úvěru z 30. 9. 2026 na 29. 9. 2027. Jde o refinanční administrativní krok bez změny strategie.",
-      "date": "2026-10-05",
-      "done": false,
-      "created": "2026-10-06",
-      "source_url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126038468/ef20083016_8k.htm",
-      "auto_generated": true
-    },
-    {
-      "id": "ANET_2026-11-03_earnings_c2ed",
-      "ticker": "ANET",
-      "type": "earnings",
-      "priority": "low",
-      "sentiment": "neutral",
-      "title": "Arista Networks to Announce Q3 2026 Financial Results on Tuesday, November 3, 2026",
-      "text": "Arista Networks zveřejní výsledky za 3. čtvrtletí 2026 v úterý 3. listopadu po uzavření amerických trhů.",
-      "date": "2026-11-03",
-      "done": false,
-      "created": "2026-10-09",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-announce-q3-2026-200500579.html",
-      "auto_generated": true
-    },
-    {
       "id": "QCOM_2026-10-20_other_c8cc",
       "ticker": "QCOM",
       "type": "other",
@@ -577,6 +549,48 @@
       "done": false,
       "created": "2026-10-22",
       "source_url": "https://finance.yahoo.com/technology/articles/bitzero-taps-top-general-contractor-skanska-for-the-delivery-of-its-flagship-data-center-in-norway",
+      "auto_generated": true
+    },
+    {
+      "id": "VST_2026-10-05_other_2a67",
+      "ticker": "VST",
+      "type": "other",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "8-K (1.01,2.03,9.01) - VST",
+      "text": "Vistra podala 8-K (položky 1.01, 2.03): dodatek úvěrové smlouvy s Citibank prodlužuje splatnost revolvingového úvěru z 30. 9. 2026 na 29. 9. 2027. Jde o refinanční administrativní krok bez změny strategie.",
+      "date": "2026-10-05",
+      "done": false,
+      "created": "2026-10-06",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126038468/ef20083016_8k.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-10-26_other_77e3",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "low",
+      "sentiment": "positive",
+      "title": "Oracle commits $1bn to partner support and AI-enabled business tools",
+      "text": "Oracle oznámil závazek 1 mld. USD na podporu partnerů a nástroje pro byznys s využitím AI. Cílem je rozšířit partnerský ekosystém kolem AI cloudových služeb. Konkrétní dopad na tržby zatím není uveden.",
+      "date": "2026-10-26",
+      "done": false,
+      "created": "2026-10-27",
+      "source_url": "https://www.verdict.co.uk/oracle-commits-1bn-partner-support/",
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-11-03_earnings_c2ed",
+      "ticker": "ANET",
+      "type": "earnings",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Arista Networks to Announce Q3 2026 Financial Results on Tuesday, November 3, 2026",
+      "text": "Arista Networks zveřejní výsledky za 3. čtvrtletí 2026 v úterý 3. listopadu po uzavření amerických trhů.",
+      "date": "2026-11-03",
+      "done": false,
+      "created": "2026-10-09",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-announce-q3-2026-200500579.html",
       "auto_generated": true
     },
     {
@@ -720,20 +734,6 @@
       "auto_generated": true
     },
     {
-      "id": "MACRO_2026-10-20_macro_7789",
-      "ticker": null,
-      "type": "macro",
-      "priority": "medium",
-      "sentiment": "neutral",
-      "title": "FX Strategie: Koruna těží z jestřábí ČNB, euro brzdí Francie i drahá ropa",
-      "text": "Vyšší česká inflace posiluje jestřábí rétoriku ČNB a podporuje korunu. Euro naopak brzdí politická situace ve Francii a drahá ropa. Dopad na CZK aktiva a měnovou pozici.",
-      "date": "2026-10-20",
-      "done": false,
-      "created": "2026-10-21",
-      "source_url": "http://www.patria.cz/zpravodajstvi/7328192/fx-strategie-koruna-tezi-z-jestrabi-cnb-euro-brzdi-francie-i-draha-ropa.html",
-      "auto_generated": true
-    },
-    {
       "id": "MACRO_2026-10-19_macro_b263",
       "ticker": null,
       "type": "macro",
@@ -745,6 +745,20 @@
       "done": false,
       "created": "2026-10-22",
       "source_url": "http://www.patria.cz/zpravodajstvi/7325568/nervozni-wall-street-sazky-na-rust-volatility-jsou-nejvyssi-za-posledni-roky.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-10-20_macro_7789",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "FX Strategie: Koruna těží z jestřábí ČNB, euro brzdí Francie i drahá ropa",
+      "text": "Vyšší česká inflace posiluje jestřábí rétoriku ČNB a podporuje korunu. Euro naopak brzdí politická situace ve Francii a drahá ropa. Dopad na CZK aktiva a měnovou pozici.",
+      "date": "2026-10-20",
+      "done": false,
+      "created": "2026-10-21",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7328192/fx-strategie-koruna-tezi-z-jestrabi-cnb-euro-brzdi-francie-i-draha-ropa.html",
       "auto_generated": true
     }
   ]
