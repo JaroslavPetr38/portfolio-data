@@ -1,9 +1,9 @@
 {
-  "generated": "2026-10-30T06:06:56Z",
+  "generated": "2026-11-02T07:10:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 47,
-  "event_count": 7,
+  "ticker_count": 53,
+  "event_count": 0,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
