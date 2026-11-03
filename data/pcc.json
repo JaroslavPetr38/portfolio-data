@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 8,
-  "savedAt": "2026-11-02T10:09:29.323Z",
+  "rev": 9,
+  "savedAt": "2026-11-03T07:12:28.173Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -600,11 +600,11 @@
         "targetSellPrice": null
       },
       {
-        "status": "portfolio",
+        "status": "archived",
         "risk": "medium",
         "style": "blend_nav",
         "freq": "—",
-        "note": "Při fúzi s FGEN nezvyšovat objem.",
+        "note": "Prodáno",
         "yahoo": "NESF.L",
         "ticker": "NESF",
         "name": "NextEnergy Solar Fund",
@@ -614,7 +614,8 @@
         "categoryId": "cat_infrastruktura",
         "exchangeId": "exch_lse",
         "targetBuyPrice": null,
-        "targetSellPrice": null
+        "targetSellPrice": null,
+        "archivedDate": "2026-11-02"
       },
       {
         "status": "portfolio",
@@ -11333,24 +11334,6 @@
         "derive_offset_days": 7
       },
       {
-        "id": "CEG_yahoo_earnings~hu7",
-        "ticker": "CEG",
-        "type": "todo",
-        "priority": "medium",
-        "sentiment": "neutral",
-        "title": "Za 7 d: Výsledky CEG",
-        "summary": "Earnings 9. 11.",
-        "text": null,
-        "date": "2026-11-02",
-        "source_url": null,
-        "done": false,
-        "created": "2026-10-26",
-        "updated": "2026-10-26",
-        "auto_generated": true,
-        "derived_from": "CEG_yahoo_earnings",
-        "derive_offset_days": 7
-      },
-      {
         "id": "AVGO_yahoo_earnings",
         "ticker": "AVGO",
         "type": "earnings",
@@ -12322,6 +12305,146 @@
         "auto_generated": true,
         "derived_from": "ALWN_2026-11-12_dividend_7gwd",
         "derive_offset_days": 7
+      },
+      {
+        "id": "PRIUA_2026-11-02_earnings_2491",
+        "ticker": "PRIUA",
+        "type": "earnings",
+        "priority": "medium",
+        "sentiment": "positive",
+        "title": "Primoco UAV SE: Investorská prezentace 3Q 2026",
+        "text": "Primoco UAV zveřejnilo investorskou prezentaci za 3Q. Za devět měsíců vzrostly tržby o 69 % a EBITDA o 246 %. Silný růst provozní ziskovosti.",
+        "date": "2026-11-02",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "http://www.patria.cz/zpravodajstvi/7360635/primoco-uav-se-investorska-prezentace-3q-2026.html",
+        "auto_generated": true
+      },
+      {
+        "id": "BATS_2026-11-02_other_9797",
+        "ticker": "BATS",
+        "type": "other",
+        "priority": "medium",
+        "sentiment": "positive",
+        "title": "Goldman upgrades BAT on clearer path to sustained revenue growth",
+        "text": "Goldman Sachs zvýšil doporučení British American Tobacco z „neutral“ na „buy“. Důvodem je jasnější cesta k organickému růstu tržeb ke středu cílového rozmezí 3–5 %.",
+        "date": "2026-11-02",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/goldman-upgrades-bat-clearer-path-121545777.html?.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "VU_2026-11-02_other_b82d",
+        "ticker": "VU",
+        "type": "other",
+        "priority": "medium",
+        "sentiment": "positive",
+        "title": "Citi initiates Vusion at buy, sees 84% upside on electronic shelf label growth",
+        "text": "Citi zahájila pokrytí Vusiongroup doporučením „buy“ s potenciálem růstu 84 %. Trh podle ní podceňuje růst za hranicí zakázky Walmart a expanzi elektronických cenovek.",
+        "date": "2026-11-02",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://finance.yahoo.com/markets/stocks/articles/citi-initiates-vusion-buy-sees-082255321.html?.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "VST_2026-10-30_other_f3cc",
+        "ticker": "VST",
+        "type": "other",
+        "priority": "medium",
+        "sentiment": "positive",
+        "title": "Vistra Completes Acquisition of Cogentrix Energy, Expanding Diverse Generation Fleet",
+        "text": "Vistra dokončila akvizici Cogentrix Energy (10 plynových elektráren, cca 5 500 MW) od Quantum Capital. Celková kapacita Vistry tak dosáhla téměř 50 000 MW.",
+        "date": "2026-10-30",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://finance.yahoo.com/energy/articles/vistra-completes-acquisition-cogentrix-energy-160000258.html?.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "CCJ_2026-10-30_earnings_5a6b",
+        "ticker": "CCJ",
+        "type": "earnings",
+        "priority": "high",
+        "sentiment": "negative",
+        "title": "Cameco Sinks 9% on Q3 Adjusted Loss as CEO Insists “Customer Requirements Do Not Disappear”",
+        "text": "Cameco vykázala za 3Q upravenou ztrátu 2 mil. CAD (loni zisk 32 mil. CAD) a akcie klesly o 9 %. Příčinou byla plánovaná odstávka mlýna a náročné srovnání u Westinghouse.",
+        "date": "2026-10-30",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://www.tikr.com/blog/cameco-sinks-9-on-q3-adjusted-loss-as-ceo-insists-customer-requirements-do-not-disappear?ref=yahoofinance&tlnk=yf-261030-8chc2vmj&.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "CEG_2026-10-30_dividend_d399",
+        "ticker": "CEG",
+        "type": "dividend",
+        "priority": "medium",
+        "sentiment": "neutral",
+        "title": "Constellation Energy Corporation Declares Dividend",
+        "text": "Constellation Energy vyhlásila čtvrtletní dividendu 0,4265 USD na akcii. Splatná 4. 12. 2026 akcionářům k rozhodnému dni 16. 11. 2026.",
+        "date": "2026-10-30",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://finance.yahoo.com/energy/articles/constellation-energy-corporation-declares-dividend-150000495.html?.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "AVGO_2026-10-30_other_4038",
+        "ticker": "AVGO",
+        "type": "other",
+        "priority": "high",
+        "sentiment": "negative",
+        "title": "Broadcom Sinks 5.5% as Its $43 Billion Anthropic Backstop Meets an Intel-Led Chip Rout",
+        "text": "Akcie Broadcomu klesly o 5,5 % při výprodeji čipů vedeném Intelem. Nová záruka k financování Anthropic nese maximální potenciální závazek cca 43 mld. USD.",
+        "date": "2026-10-30",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://www.tikr.com/blog/broadcom-sinks-5-5-as-its-43-billion-anthropic-backstop-meets-an-intel-led-chip-rout?ref=yahoofinance&tlnk=yf-261031-3w43fxxq&.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "QCOM_2026-10-30_other_db64",
+        "ticker": "QCOM",
+        "type": "other",
+        "priority": "medium",
+        "sentiment": "negative",
+        "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
+        "text": "Akcie Qualcommu klesly za den o 11 % po varování Intelu ohledně trhu PC, na cca 164,79 USD. Výsledky 4. 11. otestují tvrzení firmy, že trh telefonů dosáhl dna.",
+        "date": "2026-10-30",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "https://www.tikr.com/blog/qualcomm-stock-fell-11-in-a-day-on-intels-pc-warning-heres-why-november-4-tests-its-claim-that-phones-have-bottomed?ref=yahoofinance&tlnk=yf-261031-m53x98r9&.tsrc=rss",
+        "auto_generated": true
+      },
+      {
+        "id": "MACRO_2026-11-02_macro_44de",
+        "ticker": null,
+        "type": "macro",
+        "priority": "medium",
+        "sentiment": "neutral",
+        "title": "Týdenní výhled: Americké volby, sazby ČNB a test důvěry investic do AI",
+        "text": "Týdenní výhled: trh sleduje americké volby, které mohou ovlivnit ocenění rizikových aktiv, a zasedání ČNB. Očekává se další zvýšení úrokových sazeb.",
+        "date": "2026-11-02",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "http://www.patria.cz/zpravodajstvi/7360666/tydenni-vyhled-americke-volby-sazby-cnb-a-test-duvery-investic-do-ai.html",
+        "auto_generated": true
+      },
+      {
+        "id": "MACRO_2026-11-02_macro_5c59",
+        "ticker": null,
+        "type": "macro",
+        "priority": "medium",
+        "sentiment": "neutral",
+        "title": "Rozbřesk: Koruna vyčkává na inflaci a ČNB, eurodolar vstupuje do nového týdne pod hranicí 1,12",
+        "text": "Česká ekonomika ve 3Q meziročně vzrostla o 1,6 % (z 1,9 %), za rok bude mírně pod 2 %. Koruna vyčkává na inflaci a rozhodnutí ČNB, EUR/USD pod 1,12.",
+        "date": "2026-11-02",
+        "done": false,
+        "created": "2026-11-03",
+        "source_url": "http://www.patria.cz/zpravodajstvi/7360637/rozbresk-koruna-vyckava-na-inflaci-a-cnb-eurodolar-vstupuje-do-noveho-tydne-pod-hranici-112.html",
+        "auto_generated": true
       }
     ],
     "themes": [
@@ -13937,7 +14060,7 @@
       }
     },
     "meta": {
-      "lastUpdated": "2026-11-02",
+      "lastUpdated": "2026-11-03",
       "version": "5.0",
       "schemaVersion": 7
     },
