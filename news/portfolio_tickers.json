@@ -1,5 +1,5 @@
 {
-  "exported": "2026-11-02T10:09:32.765Z",
+  "exported": "2026-11-03T07:12:30.777Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -54,15 +54,6 @@
       "yahoo": "NRR.L",
       "sector": "Real Estate",
       "category": "REIT"
-    },
-    {
-      "ticker": "NESF",
-      "name": "NextEnergy Solar Fund",
-      "exchange": "London",
-      "currency": "GBP",
-      "yahoo": "NESF.L",
-      "sector": "Utilities",
-      "category": "Infrastruktura"
     },
     {
       "ticker": "BATS",
