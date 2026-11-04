@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-03T07:15:00Z",
+  "generated": "2026-11-04T07:30:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 48,
-  "event_count": 10,
+  "ticker_count": 47,
+  "event_count": 4,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
@@ -857,6 +857,62 @@
       "done": false,
       "created": "2026-11-03",
       "source_url": "http://www.patria.cz/zpravodajstvi/7360637/rozbresk-koruna-vyckava-na-inflaci-a-cnb-eurodolar-vstupuje-do-noveho-tydne-pod-hranici-112.html",
+      "auto_generated": true
+    },
+    {
+      "id": "BWXT_2026-11-02_earnings_584f",
+      "ticker": "BWXT",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "BWXT: výsledky 3Q 2026, zúžený výhled",
+      "text": "BWXT za 3Q tržby 953,0 mil. USD, čistý zisk 102 mil., non-GAAP EPS 1,26 USD. Výhled 2026 zúžen na EPS 4,72–4,77 USD, FCF 350–360 mil. USD; předběžně 2027: tržby rostou o vysoké jednotky %.",
+      "date": "2026-11-02",
+      "done": false,
+      "created": "2026-11-04",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1486957/000148695726000053/bwxt_93026x8k.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-11-03_earnings_438c",
+      "ticker": "AMD",
+      "type": "earnings",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "AMD: výsledky 3Q 2026 nad vrcholem guidance",
+      "text": "AMD za 3Q tržby 13,4 mld. USD (nad horní hranicí guidance), non-GAAP EPS 2,09 USD, hrubá marže 54 %. Data Center téměř zdvojnásobil tržby meziročně; vedení čeká zrychlení růstu ve 4Q.",
+      "date": "2026-11-03",
+      "done": false,
+      "created": "2026-11-04",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000002488/000000248826000188/q32026991.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-11-03_other_7542",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Oracle ocenil emisi akcií a dluhopisů za 20 mld. USD",
+      "text": "Oracle ocenil emisi akcií a dluhopisů v objemu 20 mld. USD na financování AI infrastruktury; akcie za 10 mld. USD po 116 USD, se slevou k poslednímu close. Pro akcionáře znamená ředění.",
+      "date": "2026-11-03",
+      "done": false,
+      "created": "2026-11-04",
+      "source_url": null,
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-03_macro_52ce",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Apple varuje před maržemi kvůli cenám pamětí, Nasdaq 100 v korekci",
+      "text": "Varování Applu před tlakem na marže kvůli rostoucím cenám pamětí vyvolalo výprodej technologií v Evropě i USA. Nasdaq 100 je oficiálně v korekci; relevantní pro polovodiče (MU, AMD).",
+      "date": "2026-11-03",
+      "done": false,
+      "created": "2026-11-04",
+      "source_url": null,
       "auto_generated": true
     }
   ]
