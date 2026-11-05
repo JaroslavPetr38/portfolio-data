@@ -1,54 +1,89 @@
 {
-  "generated_at": "2026-11-04T13:08:33.532025+00:00",
+  "generated_at": "2026-11-05T13:23:12.270161+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
   "item_types_found": {
     "2.02": {
-      "count": 3,
-      "example_tickers": [
-        "AMD",
-        "ANET",
-        "BWXT"
-      ],
-      "example_dates": [
-        "2026-11-03",
-        "2026-11-03",
-        "2026-11-02"
-      ]
-    },
-    "7.01": {
-      "count": 1,
-      "example_tickers": [
-        "AMD"
-      ],
-      "example_dates": [
-        "2026-11-03"
-      ]
-    },
-    "9.01": {
       "count": 4,
       "example_tickers": [
         "AMD",
+        "CLNN",
         "ANET",
-        "BWXT",
+        "QCOM"
+      ],
+      "example_dates": [
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-03",
+        "2026-11-04"
+      ]
+    },
+    "7.01": {
+      "count": 2,
+      "example_tickers": [
+        "AMD",
+        "VST"
+      ],
+      "example_dates": [
+        "2026-11-03",
+        "2026-11-05"
+      ]
+    },
+    "9.01": {
+      "count": 7,
+      "example_tickers": [
+        "AMD",
+        "CLNN",
+        "VST",
+        "ANET",
         "BWXT"
       ],
       "example_dates": [
         "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
         "2026-11-03",
-        "2026-11-03",
-        "2026-11-02"
+        "2026-11-04"
       ]
     },
-    "1.01": {
+    "2.01": {
+      "count": 1,
+      "example_tickers": [
+        "VST"
+      ],
+      "example_dates": [
+        "2026-11-05"
+      ]
+    },
+    "2.03": {
+      "count": 2,
+      "example_tickers": [
+        "VST",
+        "BWXT"
+      ],
+      "example_dates": [
+        "2026-11-05",
+        "2026-11-03"
+      ]
+    },
+    "3.02": {
+      "count": 1,
+      "example_tickers": [
+        "VST"
+      ],
+      "example_dates": [
+        "2026-11-05"
+      ]
+    },
+    "8.01": {
       "count": 1,
       "example_tickers": [
         "BWXT"
       ],
       "example_dates": [
-        "2026-11-03"
+        "2026-11-04"
       ]
     },
-    "2.03": {
+    "1.01": {
       "count": 1,
       "example_tickers": [
         "BWXT"
