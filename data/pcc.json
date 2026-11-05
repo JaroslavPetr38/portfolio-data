@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "rev": 10,
-  "savedAt": "2026-11-05T07:26:19.590Z",
-  "device": "Win32-d1fy",
+  "rev": 11,
+  "savedAt": "2026-11-05T07:28:29.260Z",
+  "device": "iPhone-7h48",
   "data": {
     "categories": [
       {
@@ -11070,13 +11070,13 @@
         "priority": "medium",
         "sentiment": "neutral",
         "title": "Za 7 d: Výsledky NRR",
-        "summary": "Earnings 1. 12.",
+        "summary": "Earnings 24. 11.",
         "text": null,
-        "date": "2026-11-24",
+        "date": "2026-11-17",
         "source_url": null,
         "done": false,
         "created": "2026-10-26",
-        "updated": "2026-10-26",
+        "updated": "2026-11-05",
         "auto_generated": true,
         "derived_from": "NRR_yahoo_earnings",
         "derive_offset_days": 7
