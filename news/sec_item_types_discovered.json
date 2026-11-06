@@ -1,47 +1,43 @@
 {
-  "generated_at": "2026-11-05T13:23:12.270161+00:00",
+  "generated_at": "2026-11-06T13:05:43.322417+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
   "item_types_found": {
-    "2.02": {
-      "count": 4,
+    "5.02": {
+      "count": 1,
       "example_tickers": [
-        "AMD",
-        "CLNN",
-        "ANET",
-        "QCOM"
+        "MU"
       ],
       "example_dates": [
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-03",
-        "2026-11-04"
-      ]
-    },
-    "7.01": {
-      "count": 2,
-      "example_tickers": [
-        "AMD",
-        "VST"
-      ],
-      "example_dates": [
-        "2026-11-03",
         "2026-11-05"
       ]
     },
     "9.01": {
-      "count": 7,
+      "count": 6,
       "example_tickers": [
-        "AMD",
+        "MU",
         "CLNN",
         "VST",
-        "ANET",
+        "VST",
         "BWXT"
       ],
       "example_dates": [
-        "2026-11-03",
-        "2026-11-04",
         "2026-11-05",
-        "2026-11-03",
+        "2026-11-04",
+        "2026-11-06",
+        "2026-11-05",
+        "2026-11-04"
+      ]
+    },
+    "2.02": {
+      "count": 3,
+      "example_tickers": [
+        "CLNN",
+        "VST",
+        "QCOM"
+      ],
+      "example_dates": [
+        "2026-11-04",
+        "2026-11-06",
         "2026-11-04"
       ]
     },
@@ -55,17 +51,24 @@
       ]
     },
     "2.03": {
-      "count": 2,
+      "count": 1,
       "example_tickers": [
-        "VST",
-        "BWXT"
+        "VST"
       ],
       "example_dates": [
-        "2026-11-05",
-        "2026-11-03"
+        "2026-11-05"
       ]
     },
     "3.02": {
+      "count": 1,
+      "example_tickers": [
+        "VST"
+      ],
+      "example_dates": [
+        "2026-11-05"
+      ]
+    },
+    "7.01": {
       "count": 1,
       "example_tickers": [
         "VST"
@@ -81,15 +84,6 @@
       ],
       "example_dates": [
         "2026-11-04"
-      ]
-    },
-    "1.01": {
-      "count": 1,
-      "example_tickers": [
-        "BWXT"
-      ],
-      "example_dates": [
-        "2026-11-03"
       ]
     }
   }
