@@ -1,89 +1,32 @@
 {
-  "generated_at": "2026-11-06T13:05:43.322417+00:00",
+  "generated_at": "2026-11-09T14:08:18.304308+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
   "item_types_found": {
-    "5.02": {
-      "count": 1,
-      "example_tickers": [
-        "MU"
-      ],
-      "example_dates": [
-        "2026-11-05"
-      ]
-    },
-    "9.01": {
-      "count": 6,
-      "example_tickers": [
-        "MU",
-        "CLNN",
-        "VST",
-        "VST",
-        "BWXT"
-      ],
-      "example_dates": [
-        "2026-11-05",
-        "2026-11-04",
-        "2026-11-06",
-        "2026-11-05",
-        "2026-11-04"
-      ]
-    },
     "2.02": {
-      "count": 3,
-      "example_tickers": [
-        "CLNN",
-        "VST",
-        "QCOM"
-      ],
-      "example_dates": [
-        "2026-11-04",
-        "2026-11-06",
-        "2026-11-04"
-      ]
-    },
-    "2.01": {
       "count": 1,
       "example_tickers": [
-        "VST"
+        "CEG"
       ],
       "example_dates": [
-        "2026-11-05"
-      ]
-    },
-    "2.03": {
-      "count": 1,
-      "example_tickers": [
-        "VST"
-      ],
-      "example_dates": [
-        "2026-11-05"
-      ]
-    },
-    "3.02": {
-      "count": 1,
-      "example_tickers": [
-        "VST"
-      ],
-      "example_dates": [
-        "2026-11-05"
+        "2026-11-09"
       ]
     },
     "7.01": {
       "count": 1,
       "example_tickers": [
-        "VST"
+        "CEG"
       ],
       "example_dates": [
-        "2026-11-05"
+        "2026-11-09"
       ]
     },
-    "8.01": {
+    "9.01": {
       "count": 1,
       "example_tickers": [
-        "BWXT"
+        "CEG"
       ],
       "example_dates": [
-        "2026-11-04"
+        "2026-11-09"
       ]
     }
   }
