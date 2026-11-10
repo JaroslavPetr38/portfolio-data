@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-09T07:15:00Z",
+  "generated": "2026-11-10T07:08:30Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 49,
-  "event_count": 0,
+  "ticker_count": 41,
+  "event_count": 6,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
@@ -969,6 +969,90 @@
       "done": false,
       "created": "2026-11-06",
       "source_url": "http://www.patria.cz/zpravodajstvi/7370205/bank-of-england-zvysila-sazby-na-4-drahe-energie-vraceji-inflaci-do-centra-pozornosti.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-11-08_other_bf65",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+      "text": "Micron pozastavil stavbu nového závodu na paměťové čipy na Tchaj-wanu kvůli stupňujícímu se pracovnímu sporu. Dopad na plány kapacit zatím není vyčíslen.",
+      "date": "2026-11-08",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "https://finance.yahoo.com/technology/articles/does-micron-technology-mu-taiwan-190626047.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-11-09_analysis_8ab7",
+      "ticker": "AMD",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Oppenheimer lifts AMD to Outperform, sees data center sales more than doubling",
+      "text": "Oppenheimer zvýšil AMD na Outperform s cílovou cenou 600 USD. Očekává růst tržeb datových center v roce 2027 o 135 % díky AI čipům a platformě Helios.",
+      "date": "2026-11-09",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/oppenheimer-lifts-amd-outperform-sees-133629944.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "CEG_2026-11-09_earnings_a420",
+      "ticker": "CEG",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Constellation Energy raises 2026 earnings guidance after quarterly profit more than doubles",
+      "text": "Constellation zvýšila výhled zisku na rok 2026; čistý zisk za 3Q se více než zdvojnásobil a překonal odhady. Akcie v předobchodní fázi rostly o 4 %.",
+      "date": "2026-11-09",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "https://www.proactiveinvestors.com/companies/news/1101426/constellation-energy-raises-2026-earnings-guidance-after-quarterly-profit-more-than-doubles-1101426.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "VST_2026-11-06_earnings_a4fd",
+      "ticker": "VST",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Vistra Stocks Jump 7.69% After Earnings Surge and Fresh $1.5 Billion Buyback",
+      "text": "Vistra vykázala rekordní 3Q, zvýšila výhled 2026 a oznámila nový buyback za 1,5 mld. USD. Výhled EBITDA 2027: 7,7–8,5 mld. USD; akcie +7,7 %.",
+      "date": "2026-11-06",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/vistra-stocks-jump-7-69-190727884.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "ORCL_2026-11-09_other_b875",
+      "ticker": "ORCL",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Microsoft reportedly winds down Oracle AI infrastructure contract",
+      "text": "Microsoft údajně ukončuje smlouvu s Oracle o AI infrastruktuře z roku 2023. Jde o další negativní zprávu po zrušení dohody s Tencentem.",
+      "date": "2026-11-09",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "https://www.verdict.co.uk/microsoft-winds-down-oracle-ai-infrastructure-contract/?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-09_macro_910f",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Rozbřesk: Trhy svůj názor na ČNB poopravily, dál však sázejí na růst sazeb",
+      "text": "ČNB podle očekávání zvýšila základní sazbu na 4,0 %. Tržní sazby ovlivňující hypotéky a firemní úvěry přesto výrazně klesly; trhy dál sázejí na růst sazeb.",
+      "date": "2026-11-09",
+      "done": false,
+      "created": "2026-11-10",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7379247/rozbresk-trhy-svuj-nazor-na-cnb-poopravily-dal-vsak-sazeji-na-rust-sazeb.html",
       "auto_generated": true
     }
   ]
