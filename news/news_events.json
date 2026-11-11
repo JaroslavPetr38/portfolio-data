@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-10T07:08:30Z",
+  "generated": "2026-11-11T07:07:58Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 41,
-  "event_count": 6,
+  "ticker_count": 52,
+  "event_count": 0,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
@@ -1053,6 +1053,62 @@
       "done": false,
       "created": "2026-11-10",
       "source_url": "http://www.patria.cz/zpravodajstvi/7379247/rozbresk-trhy-svuj-nazor-na-cnb-poopravily-dal-vsak-sazeji-na-rust-sazeb.html",
+      "auto_generated": true
+    },
+    {
+      "id": "OGI_2026-11-10_other_739b",
+      "ticker": "OGI",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Curaleaf Secures Competition Clearances for Its Hostile Offer for Aurora Cannabis",
+      "text": "Curaleaf získal souhlasy z hlediska hospodářské soutěže pro svou nevyžádanou nabídku na Aurora Cannabis, konkurující dohodě Organigramu (7,80 CAD/akcie). Nabídka zůstává otevřená; pro OGI riziko soupeřící akvizice.",
+      "date": "2026-11-10",
+      "done": false,
+      "created": "2026-11-11",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/curaleaf-secures-competition-clearances-hostile-131935192.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "ALWN_2026-11-10_other_72dc",
+      "ticker": "ALWN",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Kambi to Power Allwyn's Sportsbook Technology Consolidation in Source Code Licensing Agreement",
+      "text": "Kambi poskytne Allwynu licenci na zdrojový kód sportovních sázek v rámci konsolidace technologické platformy skupiny. Smlouva podporuje integraci sázkových aktivit Allwyn.",
+      "date": "2026-11-10",
+      "done": false,
+      "created": "2026-11-11",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/kambi-power-allwyns-sportsbook-technology-113000704.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "AIBZ_2026-11-10_other_5324",
+      "ticker": "AIBZ",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "RETRANSMISSION: Bitzero Receives All Long-Lead High-Voltage Equipment for Its Flagship Norway Data Center and Provides Recap in Shareholder Letter from Founder & CEO",
+      "text": "Bitzero obdrželo veškeré zařízení vysokého napětí s dlouhou dodací lhůtou pro vlajkový datacentrum v Norsku. CEO shrnul pokrok v dopisu akcionářům; projekt postupuje k dokončení.",
+      "date": "2026-11-10",
+      "done": false,
+      "created": "2026-11-11",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/retransmission-bitzero-receives-long-lead-120000143.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-10_macro_f749",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Inflace lehce zvolnila díky pohonným hmotám a imputovanému nájemnému, příští rok vzroste",
+      "text": "Česká inflace v říjnu zpomalila z 2,5 % na 2,4 % (m/m +0,4 %). Na začátku 2027 ji však podle analytiků vytáhnou vzhůru dražší energie a odeznění efektu levných potravin. Relevantní pro sazby ČNB a KOMB.",
+      "date": "2026-11-10",
+      "done": false,
+      "created": "2026-11-11",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7382302/inflace-lehce-zvolnila-diky-pohonnym-hmotam-a-imputovanemu-najemnemu-pristi-rok-vzroste.html",
       "auto_generated": true
     }
   ]
