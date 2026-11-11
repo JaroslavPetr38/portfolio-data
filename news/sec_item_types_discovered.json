@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T13:39:24.367100+00:00",
+  "generated_at": "2026-11-11T12:51:40.866073+00:00",
   "note": "Seznam všech Item kódů nalezených v 8-K podáních za tento běh. Doplň SEC_ITEM_WHITELIST ve skriptu podle toho, které kódy chceš zahrnout do matches. Prázdný whitelist = nic se nefiltruje podle typu.",
   "item_types_found": {
     "8.01": {
