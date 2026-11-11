@@ -3,7 +3,7 @@
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 52,
-  "event_count": 0,
+  "event_count": 4,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
