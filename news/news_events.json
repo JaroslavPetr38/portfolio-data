@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-11T07:07:58Z",
+  "generated": "2026-11-12T07:15:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 52,
-  "event_count": 4,
+  "ticker_count": 47,
+  "event_count": 3,
   "events": [
     {
       "id": "CLNN_2026-10-19_other_b43a",
@@ -1109,6 +1109,48 @@
       "done": false,
       "created": "2026-11-11",
       "source_url": "http://www.patria.cz/zpravodajstvi/7382302/inflace-lehce-zvolnila-diky-pohonnym-hmotam-a-imputovanemu-najemnemu-pristi-rok-vzroste.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MRLN_2026-11-11_other_a601",
+      "ticker": "MRLN",
+      "type": "other",
+      "priority": "low",
+      "sentiment": "positive",
+      "title": "Merlin Awarded Contract for U.S. Africa Command Autonomous Casualty Evacuation Technology Challenge",
+      "text": "Merlin získal kontrakt od U.S. Africa Command na technologii autonomní evakuace raněných (soutěžní výzva). Navazuje na zakázku USSOCOM C-130J za 8,9 mil. USD. Potvrzuje obchodní tempo ve vojenské autonomii.",
+      "date": "2026-11-11",
+      "done": false,
+      "created": "2026-11-12",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/merlin-awarded-contract-u-africa-123000153.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-11_macro_9c1f",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Rozbřesk: Vyšší americká inflace a jestřábí Fed stlačily eurodolar zpět pod 1,12",
+      "text": "Vyšší americká inflace a jestřábí postoj Fedu stlačily eurodolar zpět pod 1,12. Trhy tak více počítají s dalším zpřísňováním sazeb. Tlak na riziková aktiva a dluhopisy.",
+      "date": "2026-11-11",
+      "done": false,
+      "created": "2026-11-12",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7385622/rozbresk-vyssi-americka-inflace-a-jestrabi-fed-stlacily-eurodolar-zpet-pod-112.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-11_macro_6295",
+      "ticker": null,
+      "type": "macro",
+      "priority": "low",
+      "sentiment": "positive",
+      "title": "Technologie pokračují v odrazu vzhůru. Výsledky přebily inflaci",
+      "text": "Technologické akcie pokračují v odrazu vzhůru, firemní výsledky přebily obavy z inflace. Nálada na trzích se po předchozí korekci zlepšuje.",
+      "date": "2026-11-11",
+      "done": false,
+      "created": "2026-11-12",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7385648/technologie-pokracuji-v-odrazu-vzhuru-vysledky-prebily-inflaci.html",
       "auto_generated": true
     }
   ]
