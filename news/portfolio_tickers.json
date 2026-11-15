@@ -1,5 +1,5 @@
 {
-  "exported": "2026-11-15T08:02:44.121Z",
+  "exported": "2026-11-15T08:09:19.243Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -306,7 +306,7 @@
       "exchange": "NASDAQ",
       "currency": "USD",
       "yahoo": "WDC",
-      "priority": "MED",
+      "priority": "LOW",
       "sector": "Technology",
       "category": "Semiconductory"
     },
@@ -396,7 +396,7 @@
       "exchange": null,
       "currency": "USD",
       "yahoo": "ORCL",
-      "priority": "MED",
+      "priority": "LOW",
       "sector": "Technology",
       "category": "AI/Quantum"
     },
@@ -476,7 +476,7 @@
       "exchange": "Toronto",
       "currency": "CAD",
       "yahoo": "NXR-UN.TO",
-      "priority": "MED",
+      "priority": "LOW",
       "sector": "Real Estate",
       "category": "REIT"
     },
@@ -486,7 +486,7 @@
       "exchange": "Praha",
       "currency": "CZK",
       "yahoo": "COLT.PR",
-      "priority": "MED",
+      "priority": "HIGH",
       "sector": "Utilities",
       "category": "Infrastruktura"
     },
@@ -519,6 +519,26 @@
       "priority": "MED",
       "sector": null,
       "category": null
+    },
+    {
+      "ticker": "CARM",
+      "name": "Carmila",
+      "exchange": "Paris (Euronext)",
+      "currency": "EUR",
+      "yahoo": "CARM.PA",
+      "priority": "LOW",
+      "sector": "Real Estate",
+      "category": "REIT"
+    },
+    {
+      "ticker": "SET",
+      "name": "Stoneweg European REIT",
+      "exchange": "Singapur",
+      "currency": "EUR",
+      "yahoo": "SET.SI",
+      "priority": "MED",
+      "sector": "Real Estate",
+      "category": "REIT"
     }
   ]
 }
