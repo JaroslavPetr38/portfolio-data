@@ -1,5 +1,5 @@
 {
-  "exported": "2026-11-14T15:27:57.278Z",
+  "exported": "2026-11-15T07:57:25.580Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -332,11 +332,11 @@
     },
     {
       "ticker": "CCJ",
-      "name": "Cameco",
+      "name": "Cameco Corporation",
       "exchange": "NYSE",
       "currency": "USD",
       "yahoo": "CCJ",
-      "priority": "HIGH",
+      "priority": "LOW",
       "sector": "Energy",
       "category": "Uranium"
     },
@@ -406,7 +406,7 @@
       "exchange": "NASDAQ",
       "currency": "USD",
       "yahoo": "CEG",
-      "priority": "HIGH",
+      "priority": "LOW",
       "sector": "Utilities",
       "category": "Výroba energie"
     },
@@ -416,7 +416,7 @@
       "exchange": "NYSE",
       "currency": "USD",
       "yahoo": "BWXT",
-      "priority": "MED",
+      "priority": "HIGH",
       "sector": "Industrials",
       "category": "Jaderné komponenty"
     },
@@ -426,7 +426,7 @@
       "exchange": "NASDAQ",
       "currency": "USD",
       "yahoo": "AVGO",
-      "priority": "HIGH",
+      "priority": "MED",
       "sector": "Technology",
       "category": "Semiconductory"
     },
@@ -489,6 +489,36 @@
       "priority": "MED",
       "sector": "Utilities",
       "category": "Infrastruktura"
+    },
+    {
+      "ticker": "ECMPA",
+      "name": "Eurocommercial Properties",
+      "exchange": "Amsterdam (Euronext)",
+      "currency": "EUR",
+      "yahoo": "ECMPA.AS",
+      "priority": "HIGH",
+      "sector": "Real Estate",
+      "category": "REIT"
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "exchange": "Amsterdam (Euronext)",
+      "currency": "EUR",
+      "yahoo": "ASML.AS",
+      "priority": "MED",
+      "sector": "Technology",
+      "category": "Semiconductory"
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sanndisk",
+      "exchange": null,
+      "currency": "USD",
+      "yahoo": "SNDK",
+      "priority": "MED",
+      "sector": null,
+      "category": null
     }
   ]
 }
