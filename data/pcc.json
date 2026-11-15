@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 14,
-  "savedAt": "2026-11-15T07:57:22.827Z",
+  "rev": 15,
+  "savedAt": "2026-11-15T08:02:41.469Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -1339,16 +1339,17 @@
         "exchangeId": "exch_xpar",
         "currency": "EUR",
         "yahoo": "MERY.PA",
-        "note": "Kopie NRR",
+        "note": "Neprodáno, jenom likvidace duplicity",
         "targetBuyPrice": null,
         "targetSellPrice": null,
         "categoryId": "cat_reit",
         "risk": "low",
         "style": "dividend",
-        "status": "portfolio",
+        "status": "archived",
         "action": "HOLD",
         "nextExDate": "—",
-        "freq": "—"
+        "freq": "—",
+        "archivedDate": "2026-11-15"
       },
       {
         "ticker": "MRLN",
@@ -1452,6 +1453,23 @@
         "finnhub": "SNDK",
         "priority": "MED",
         "action": "WATCH"
+      },
+      {
+        "ticker": "MERY",
+        "status": "portfolio",
+        "name": "Mercialys SA",
+        "exchangeId": null,
+        "currency": "EUR",
+        "categoryId": "cat_reit",
+        "note": "",
+        "freq": "—",
+        "nextExDate": "—",
+        "targetBuyPrice": null,
+        "targetSellPrice": null,
+        "yahoo": "MERY.PA",
+        "finnhub": "MERY.PA",
+        "priority": "MED",
+        "action": "HOLD"
       }
     ],
     "events": [
@@ -14784,6 +14802,33 @@
         "exDividendDate": "2026-10-27",
         "dividendDate": "2026-11-04",
         "updated": "2026-11-14",
+        "source": "yahoo"
+      },
+      "MERY": {
+        "pe": 17.491228,
+        "peForward": 7.5728807,
+        "pb": 0.6000963,
+        "ps": 5.0340986,
+        "eps": 0.57,
+        "epsForward": 1.31654,
+        "marketCap": 926520768,
+        "week52High": 12.98,
+        "week52Low": 9.25,
+        "beta": 0.828,
+        "roe": 2.169,
+        "roa": 1.899,
+        "netMargin": 11.3649994,
+        "revenueGrowthTTMYoy": 3.9,
+        "ebitda": 120377000,
+        "dividendYield": 10.03,
+        "dividendRate": 1,
+        "payoutRatio": 454.54999999999995,
+        "totalDebtToEquity": 84.887,
+        "currentRatio": 1.05,
+        "nextEarnings": null,
+        "exDividendDate": "2026-05-04",
+        "dividendDate": null,
+        "updated": "2026-11-15",
         "source": "yahoo"
       }
     },
