@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 15,
-  "savedAt": "2026-11-15T08:02:41.469Z",
+  "rev": 16,
+  "savedAt": "2026-11-15T08:09:16.721Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -252,6 +252,12 @@
         "code": "XAMS",
         "name": "Amsterdam (Euronext)",
         "region": "EU"
+      },
+      {
+        "id": "exch_si",
+        "code": "SGEX",
+        "name": "Singapur",
+        "region": "Asia"
       }
     ],
     "items": [
@@ -956,10 +962,12 @@
         "name": "Western Digital",
         "action": "WATCH",
         "currency": "USD",
-        "priority": "MED",
+        "priority": "LOW",
         "nextExDate": "—",
         "categoryId": "cat_semiconductory",
-        "exchangeId": "exch_nasdaq"
+        "exchangeId": "exch_nasdaq",
+        "targetBuyPrice": null,
+        "targetSellPrice": null
       },
       {
         "status": "watchlist",
@@ -1150,7 +1158,7 @@
         "name": "Oracle",
         "exchange": "NASDAQ",
         "currency": "USD",
-        "priority": "MED",
+        "priority": "LOW",
         "yahoo": "ORCL",
         "note": "Kolem 80$ to bude zajímavý nákup",
         "categoryId": "cat_ai_quantum",
@@ -1159,7 +1167,10 @@
         "status": "watchlist",
         "action": "WATCH",
         "nextExDate": "—",
-        "freq": "—"
+        "freq": "—",
+        "exchangeId": null,
+        "targetBuyPrice": null,
+        "targetSellPrice": null
       },
       {
         "ticker": "CEG",
@@ -1374,7 +1385,7 @@
         "name": "Nexus Industrial REIT",
         "exchangeId": "exch_tsx",
         "currency": "CAD",
-        "priority": "MED",
+        "priority": "LOW",
         "yahoo": "NXR-UN.TO",
         "note": "Sleva k NAV, zajímavý yield",
         "targetBuyPrice": 6.5,
@@ -1400,7 +1411,7 @@
         "targetBuyPrice": 800,
         "targetSellPrice": null,
         "yahoo": "COLT.PR",
-        "priority": "MED",
+        "priority": "HIGH",
         "action": "WATCH"
       },
       {
@@ -1470,6 +1481,40 @@
         "finnhub": "MERY.PA",
         "priority": "MED",
         "action": "HOLD"
+      },
+      {
+        "ticker": "CARM",
+        "status": "watchlist",
+        "name": "Carmila",
+        "exchangeId": "exch_xpar",
+        "currency": "EUR",
+        "categoryId": "cat_reit",
+        "note": "",
+        "freq": "—",
+        "nextExDate": "—",
+        "targetBuyPrice": null,
+        "targetSellPrice": null,
+        "yahoo": "CARM.PA",
+        "finnhub": "CARM.PA",
+        "priority": "LOW",
+        "action": "WATCH"
+      },
+      {
+        "ticker": "SET",
+        "status": "watchlist",
+        "name": "Stoneweg European REIT",
+        "exchangeId": "exch_si",
+        "currency": "EUR",
+        "categoryId": "cat_reit",
+        "note": "",
+        "freq": "—",
+        "nextExDate": "—",
+        "targetBuyPrice": null,
+        "targetSellPrice": null,
+        "yahoo": "SET.SI",
+        "finnhub": "SET.SI",
+        "priority": "MED",
+        "action": "WATCH"
       }
     ],
     "events": [
@@ -13319,7 +13364,7 @@
     ],
     "settings": {
       "priceLastImport": {
-        "date": "2026-11-14T14:29:18.428Z",
+        "date": "2026-11-15T08:08:03.240Z",
         "source": "yahoo"
       },
       "customConfig": {
@@ -13370,7 +13415,7 @@
         "nextEarnings": "2027-01-27",
         "exDividendDate": "2026-09-30",
         "dividendDate": "2026-10-30",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "LGEN": {
@@ -13389,7 +13434,7 @@
         "netMargin": 18.030001000000002,
         "revenueGrowthTTMYoy": 15.299999999999999,
         "ebitda": 1268999936,
-        "dividendYield": 7.000000000000001,
+        "dividendYield": 6.959999999999999,
         "dividendRate": 0.22,
         "payoutRatio": 189.97,
         "totalDebtToEquity": 993.418,
@@ -13397,7 +13442,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-08-20",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "SDLF": {
@@ -13416,7 +13461,7 @@
         "netMargin": -1.1460001,
         "revenueGrowthTTMYoy": 134.9,
         "ebitda": 352000000,
-        "dividendYield": 5.94,
+        "dividendYield": 5.91,
         "dividendRate": 0.56,
         "payoutRatio": 1575.76,
         "totalDebtToEquity": 341.191,
@@ -13424,7 +13469,7 @@
         "nextEarnings": "2026-09-07",
         "exDividendDate": "2026-09-24",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "KOMB": {
@@ -13451,7 +13496,7 @@
         "nextEarnings": "2026-10-29",
         "exDividendDate": "2026-05-04",
         "dividendDate": "1970-08-22",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "SEIT": {
@@ -13478,7 +13523,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "NRR": {
@@ -13497,7 +13542,7 @@
         "netMargin": 24.254,
         "revenueGrowthTTMYoy": 16.5,
         "ebitda": 50500000,
-        "dividendYield": 8.33,
+        "dividendYield": 8.28,
         "dividendRate": 0.07,
         "payoutRatio": 92.96,
         "totalDebtToEquity": 113.046,
@@ -13505,7 +13550,7 @@
         "nextEarnings": "2026-11-25",
         "exDividendDate": "2026-06-18",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "NESF": {
@@ -13551,7 +13596,7 @@
         "netMargin": 24.992001,
         "revenueGrowthTTMYoy": 1.4000000000000001,
         "ebitda": 11198999552,
-        "dividendYield": 5.3200003,
+        "dividendYield": 5.2600004,
         "dividendRate": 2.45,
         "payoutRatio": 83.44,
         "totalDebtToEquity": 72.154,
@@ -13559,7 +13604,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-12-24",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ALWN": {
@@ -13586,7 +13631,7 @@
         "nextEarnings": "2026-11-19",
         "exDividendDate": "2026-10-21",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "FGEN": {
@@ -13605,7 +13650,7 @@
         "netMargin": 83.042,
         "revenueGrowthTTMYoy": 1682.8,
         "ebitda": null,
-        "dividendYield": 8.7,
+        "dividendYield": 8.709999999999999,
         "dividendRate": 0.08,
         "payoutRatio": 134.24001,
         "totalDebtToEquity": null,
@@ -13613,7 +13658,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-09-03",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "POLR": {
@@ -13632,7 +13677,7 @@
         "netMargin": 22.262,
         "revenueGrowthTTMYoy": 28.299999999999997,
         "ebitda": 76656000,
-        "dividendYield": 6.280000500000001,
+        "dividendYield": 6.3200004000000005,
         "dividendRate": 0.46,
         "payoutRatio": 77.699995,
         "totalDebtToEquity": 2.686,
@@ -13640,7 +13685,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-07-09",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "VU": {
@@ -13667,7 +13712,7 @@
         "nextEarnings": "2026-09-21",
         "exDividendDate": "2026-06-10",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "PRIUA": {
@@ -13694,7 +13739,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "TEP": {
@@ -13721,16 +13766,16 @@
         "nextEarnings": "2026-11-24",
         "exDividendDate": "2026-08-06",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ALMU": {
         "pe": null,
-        "peForward": -12.281326,
+        "peForward": -11.7663965,
         "pb": 2.316944,
         "ps": 34.77736,
         "eps": -0.62,
-        "epsForward": -0.53333,
+        "epsForward": -0.55667,
         "marketCap": 126728696,
         "week52High": 31.79,
         "week52Low": 5.87,
@@ -13748,7 +13793,7 @@
         "nextEarnings": "2027-02-10",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "AT1": {
@@ -13767,7 +13812,7 @@
         "netMargin": 38.48,
         "revenueGrowthTTMYoy": 1.3,
         "ebitda": 952499968,
-        "dividendYield": 4.8,
+        "dividendYield": 4.82,
         "dividendRate": 0.08,
         "payoutRatio": 21.620001,
         "totalDebtToEquity": 103.548,
@@ -13775,7 +13820,7 @@
         "nextEarnings": "2026-11-25",
         "exDividendDate": "2026-06-25",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "XLY": {
@@ -13802,7 +13847,7 @@
         "nextEarnings": "2026-11-12",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "OGI": {
@@ -13829,7 +13874,7 @@
         "nextEarnings": "2026-12-15",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CRON": {
@@ -13856,7 +13901,7 @@
         "nextEarnings": "2026-11-05",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "LOVE": {
@@ -13883,7 +13928,7 @@
         "nextEarnings": "2026-11-23",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "LAES": {
@@ -13910,7 +13955,7 @@
         "nextEarnings": "2026-09-11",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "AVCN": {
@@ -13937,7 +13982,7 @@
         "nextEarnings": "2026-11-12",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "MU": {
@@ -13964,7 +14009,7 @@
         "nextEarnings": "2026-12-23",
         "exDividendDate": "2026-10-14",
         "dividendDate": "2026-10-29",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "AMD": {
@@ -13991,7 +14036,7 @@
         "nextEarnings": "2027-02-02",
         "exDividendDate": "1995-04-27",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "BLRX": {
@@ -14018,7 +14063,7 @@
         "nextEarnings": "2026-11-23",
         "exDividendDate": null,
         "dividendDate": "2019-07-15",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CLNN": {
@@ -14045,7 +14090,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "WDC": {
@@ -14072,7 +14117,7 @@
         "nextEarnings": "2027-01-28",
         "exDividendDate": "2026-12-04",
         "dividendDate": "2026-12-17",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "VST": {
@@ -14099,7 +14144,7 @@
         "nextEarnings": "2026-11-06",
         "exDividendDate": "2026-12-22",
         "dividendDate": "2026-12-31",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ANET": {
@@ -14126,7 +14171,7 @@
         "nextEarnings": "2026-11-03",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CCJ": {
@@ -14153,7 +14198,7 @@
         "nextEarnings": "2026-10-30",
         "exDividendDate": "2026-11-30",
         "dividendDate": "2026-12-15",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "URA": {
@@ -14180,7 +14225,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "SEN": {
@@ -14207,7 +14252,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-07-30",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "UKW": {
@@ -14234,7 +14279,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "000660": {
@@ -14288,7 +14333,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CGTX": {
@@ -14315,7 +14360,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "PRLD": {
@@ -14342,7 +14387,7 @@
         "nextEarnings": "2026-11-16",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "IBRX": {
@@ -14369,7 +14414,7 @@
         "nextEarnings": "2026-11-09",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "AIBZ": {
@@ -14396,7 +14441,7 @@
         "nextEarnings": null,
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ORCL": {
@@ -14423,7 +14468,7 @@
         "nextEarnings": "2026-12-14",
         "exDividendDate": "2026-10-09",
         "dividendDate": "2026-10-23",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "BWXT": {
@@ -14450,7 +14495,7 @@
         "nextEarnings": "2026-11-02",
         "exDividendDate": "2026-11-19",
         "dividendDate": "2026-12-10",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "AVGO": {
@@ -14477,7 +14522,7 @@
         "nextEarnings": "2026-12-09",
         "exDividendDate": "2026-09-21",
         "dividendDate": "2026-09-30",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CEG": {
@@ -14504,7 +14549,7 @@
         "nextEarnings": "2026-11-09",
         "exDividendDate": "2026-11-16",
         "dividendDate": "2026-12-04",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "CWR": {
@@ -14531,7 +14576,7 @@
         "nextEarnings": "2026-09-23",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "DB": {
@@ -14558,7 +14603,7 @@
         "nextEarnings": "2026-11-19",
         "exDividendDate": null,
         "dividendDate": "2019-01-09",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ROMJ": {
@@ -14585,16 +14630,16 @@
         "nextEarnings": "2026-11-16",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "MRLN": {
         "pe": null,
-        "peForward": -1.0390805,
+        "peForward": -0.91374415,
         "pb": null,
         "ps": 17.09251,
         "eps": -5.85,
-        "epsForward": -1.0875,
+        "epsForward": -1.23667,
         "marketCap": 115733392,
         "week52High": 17,
         "week52Low": 0.741,
@@ -14612,7 +14657,7 @@
         "nextEarnings": "2026-11-12",
         "exDividendDate": null,
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "QCOM": {
@@ -14639,7 +14684,7 @@
         "nextEarnings": "2027-02-03",
         "exDividendDate": "2026-12-03",
         "dividendDate": "2026-12-17",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "NCR.UN": {
@@ -14666,7 +14711,7 @@
         "nextEarnings": "2026-11-05",
         "exDividendDate": "2026-10-30",
         "dividendDate": "2027-01-15",
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "TFI.PA": {
@@ -14685,7 +14730,7 @@
         "netMargin": 4.715,
         "revenueGrowthTTMYoy": -7.000000000000001,
         "ebitda": 164100000,
-        "dividendYield": 9.8400004,
+        "dividendYield": 9.71,
         "dividendRate": 0.63,
         "payoutRatio": 131.25,
         "totalDebtToEquity": 9.957,
@@ -14693,7 +14738,7 @@
         "nextEarnings": "2026-10-29",
         "exDividendDate": "2026-04-21",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "TFIF.L": {
@@ -14712,7 +14757,7 @@
         "netMargin": 0,
         "revenueGrowthTTMYoy": null,
         "ebitda": null,
-        "dividendYield": 7.550000399999999,
+        "dividendYield": 7.5200000000000005,
         "dividendRate": 0.08,
         "payoutRatio": 159.22,
         "totalDebtToEquity": null,
@@ -14720,7 +14765,7 @@
         "nextEarnings": null,
         "exDividendDate": "2026-10-22",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "MERY.PA": {
@@ -14774,34 +14819,34 @@
         "nextEarnings": "2026-11-26",
         "exDividendDate": "2026-07-01",
         "dividendDate": null,
-        "updated": "2026-11-14",
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "ASML": {
-        "pe": 36.790356,
-        "peForward": 23.583231,
-        "pb": 1283.8176,
-        "ps": 14.598685,
-        "eps": 40.64,
-        "epsForward": 63.39929,
-        "marketCap": 576261193728,
-        "week52High": 1999.96,
-        "week52Low": 946.11,
+        "pe": 38.2733,
+        "peForward": 23.723211,
+        "pb": 23.245882,
+        "ps": 13.071992,
+        "eps": 34.98,
+        "epsForward": 56.43418,
+        "marketCap": 515997270016,
+        "week52High": 1741,
+        "week52Low": 822.2,
         "beta": 1.333,
         "roe": 65.636003,
         "roa": 18.276999999999997,
         "netMargin": 34.135,
         "revenueGrowthTTMYoy": 55.2,
         "ebitda": 16181000192,
-        "dividendYield": 0.62,
-        "dividendRate": 9.31,
-        "payoutRatio": 22.259999999999998,
+        "dividendYield": 0.5599999999999999,
+        "dividendRate": 7.52,
+        "payoutRatio": 22.25,
         "totalDebtToEquity": 8.897,
         "currentRatio": 1.487,
-        "nextEarnings": "2027-01-27",
-        "exDividendDate": "2026-10-27",
-        "dividendDate": "2026-11-04",
-        "updated": "2026-11-14",
+        "nextEarnings": "2026-10-14",
+        "exDividendDate": "2026-10-26",
+        "dividendDate": null,
+        "updated": "2026-11-15",
         "source": "yahoo"
       },
       "MERY": {
@@ -14827,6 +14872,114 @@
         "currentRatio": 1.05,
         "nextEarnings": null,
         "exDividendDate": "2026-05-04",
+        "dividendDate": null,
+        "updated": "2026-11-15",
+        "source": "yahoo"
+      },
+      "ECMPA": {
+        "pe": 7.702703,
+        "peForward": 10.036821,
+        "pb": 0.6446505,
+        "ps": 5.258874,
+        "eps": 3.33,
+        "epsForward": 2.55559,
+        "marketCap": 1545172992,
+        "week52High": 29.5,
+        "week52Low": 24.2,
+        "beta": 0.689,
+        "roe": 8.537,
+        "roa": 3.029,
+        "netMargin": 62.480999999999995,
+        "revenueGrowthTTMYoy": 2.9000000000000004,
+        "ebitda": 199808992,
+        "dividendYield": 7.13,
+        "dividendRate": 1.83,
+        "payoutRatio": 54.96,
+        "totalDebtToEquity": 76.156,
+        "currentRatio": 0.399,
+        "nextEarnings": "2026-10-29",
+        "exDividendDate": "2026-06-04",
+        "dividendDate": null,
+        "updated": "2026-11-15",
+        "source": "yahoo"
+      },
+      "SNDK": {
+        "pe": 7.0732894,
+        "peForward": 3.0617468,
+        "pb": 7.0277376,
+        "ps": 4.3466744,
+        "eps": 125.12,
+        "epsForward": 289.05396,
+        "marketCap": 125927505920,
+        "week52High": 2354.39,
+        "week52Low": 183,
+        "beta": null,
+        "roe": 141.174,
+        "roa": 68.289,
+        "netMargin": 67.039,
+        "revenueGrowthTTMYoy": 377.9,
+        "ebitda": 21212000256,
+        "dividendYield": 0,
+        "dividendRate": null,
+        "payoutRatio": 0,
+        "totalDebtToEquity": 1.108,
+        "currentRatio": 2.58,
+        "nextEarnings": "2026-10-29",
+        "exDividendDate": null,
+        "dividendDate": null,
+        "updated": "2026-11-15",
+        "source": "yahoo"
+      },
+      "CARM": {
+        "pe": 7.160378,
+        "peForward": 7.8309994,
+        "pb": 0.6153722,
+        "ps": 3.7405362,
+        "eps": 2.12,
+        "epsForward": 1.93845,
+        "marketCap": 2103554048,
+        "week52High": 18.64,
+        "week52Low": 13.98,
+        "beta": 0.707,
+        "roe": 8.698,
+        "roa": 3.199,
+        "netMargin": 52.303999999999995,
+        "revenueGrowthTTMYoy": -1.3,
+        "ebitda": 349238016,
+        "dividendYield": 8.959999999999999,
+        "dividendRate": 1.36,
+        "payoutRatio": 64.14999999999999,
+        "totalDebtToEquity": 81.591,
+        "currentRatio": 0.458,
+        "nextEarnings": null,
+        "exDividendDate": "2026-05-20",
+        "dividendDate": null,
+        "updated": "2026-11-15",
+        "source": "yahoo"
+      },
+      "SET": {
+        "pe": 15,
+        "peForward": 11.181514,
+        "pb": 0.7414731,
+        "ps": 7.884344,
+        "eps": 0.1,
+        "epsForward": 0.13415,
+        "marketCap": 1673877760,
+        "week52High": 1.74,
+        "week52Low": 1.4,
+        "beta": 0.542,
+        "roe": 5.0619997,
+        "roa": 3.129,
+        "netMargin": 28.618,
+        "revenueGrowthTTMYoy": -2.1999999999999997,
+        "ebitda": null,
+        "dividendYield": 8.9899994,
+        "dividendRate": 0.13,
+        "payoutRatio": 127.71999999999998,
+        "totalDebtToEquity": 87.419,
+        "currentRatio": 1.008,
+        "nextEarnings": null,
+        "exDividendDate": "2026-08-20",
         "dividendDate": null,
         "updated": "2026-11-15",
         "source": "yahoo"
