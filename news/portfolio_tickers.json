@@ -1,5 +1,5 @@
 {
-  "exported": "2026-11-15T07:57:25.580Z",
+  "exported": "2026-11-15T08:02:44.121Z",
   "portfolio": [
     {
       "ticker": "ATOMT",
@@ -281,15 +281,6 @@
       "category": "Cannabis (Pharma)"
     },
     {
-      "ticker": "MERY.PA",
-      "name": "Mercialys SA",
-      "exchange": "Paris (Euronext)",
-      "currency": "EUR",
-      "yahoo": "MERY.PA",
-      "sector": "Real Estate",
-      "category": "REIT"
-    },
-    {
       "ticker": "MRLN",
       "name": "Merlin Inc",
       "exchange": "NYSE",
@@ -297,6 +288,15 @@
       "yahoo": "MRLN",
       "sector": "Technology",
       "category": "Retail Tech/IoT"
+    },
+    {
+      "ticker": "MERY",
+      "name": "Mercialys SA",
+      "exchange": null,
+      "currency": "EUR",
+      "yahoo": "MERY.PA",
+      "sector": "Real Estate",
+      "category": "REIT"
     }
   ],
   "watchlist": [
