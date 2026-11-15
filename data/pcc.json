@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "rev": 16,
-  "savedAt": "2026-11-15T08:09:16.721Z",
+  "rev": 17,
+  "savedAt": "2026-11-15T08:10:08.058Z",
   "device": "Win32-d1fy",
   "data": {
     "categories": [
@@ -10890,7 +10890,7 @@
         "text": null,
         "date": "2026-11-12",
         "source_url": null,
-        "done": true,
+        "done": false,
         "created": "2026-10-26",
         "updated": "2026-10-26",
         "auto_generated": true
