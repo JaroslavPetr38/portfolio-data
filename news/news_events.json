@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-13T07:15:00Z",
+  "generated": "2026-11-16T07:09:21Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 43,
-  "event_count": 8,
+  "ticker_count": 46,
+  "event_count": 6,
   "events": [
     {
       "id": "FGEN_2026-10-26_other_6bc3",
@@ -1053,6 +1053,90 @@
       "done": false,
       "created": "2026-11-13",
       "source_url": "https://finance.yahoo.com/energy/articles/bwxt-completes-cambridge-facility-expansion-130000197.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "ALMU_2026-11-12_earnings_44dd",
+      "ticker": "ALMU",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Aeluma Announces First Quarter Fiscal 2027 Financial Results",
+      "text": "Aeluma zveřejnila výsledky 1. fiskálního čtvrtletí 2027 (8-K, položka 2.02). Detailní čísla je třeba ověřit v tiskové zprávě. Výsledky navazují na dohodu s AIXTRON o nákupu zařízení MOCVD.",
+      "date": "2026-11-12",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1828805/000121390026119000/ea0311961-8k_aeluma.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "MRLN_2026-11-12_earnings_72e8",
+      "ticker": "MRLN",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Merlin, Inc. Reports Third Quarter 2026 Results",
+      "text": "Merlin zveřejnil výsledky za 3. čtvrtletí 2026 (8-K, položka 2.02) a komentoval je na earnings callu. Čísla je třeba ověřit v tiskové zprávě.",
+      "date": "2026-11-12",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": null,
+      "auto_generated": true
+    },
+    {
+      "id": "NLY_2026-11-10_dividend_de98",
+      "ticker": "NLY",
+      "type": "dividend",
+      "priority": "low",
+      "sentiment": "neutral",
+      "title": "Annaly Capital Management, Inc. Announces Preferred Dividends",
+      "text": "Annaly oznámila dividendy na své prioritní akcie. Společnost zároveň eviduje nákup akcií ředitelem za 940 tis. USD; akcie jsou za rok níže o 13 %.",
+      "date": "2026-11-10",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": null,
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-11-12_analysis_de8f",
+      "ticker": "ANET",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Piper Sandler's James Fish Calls Arista Networks (ANET) a Top Pick",
+      "text": "Analytik Piper Sandler James Fish označil Arista Networks za top pick. Arista zároveň po výsledcích zvýšila výhled. Spoluzakladatel od května prodal akcie za zhruba 668 mil. USD.",
+      "date": "2026-11-12",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": null,
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-13_macro_c4f4",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Rozbřesk: Lagardeová odchází. Kdo bude jejím nástupcem?",
+      "text": "O nástupci Christine Lagardeové v čele ECB se rozhoduje mezi Pablem Hernándezem de Cosem a Klaasem Knotem. Oba mají odlišný pohled na měnovou politiku; klíčová bude dohoda Francie a Německa.",
+      "date": "2026-11-13",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7389278/rozbresk-lagardeova-odchazi-kdo-bude-jejim-nastupcem.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-13_macro_aa32",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Otazníky kolem Nvidie, ale také citelný nárůst výnosů. Evropa obchoduje smíšeně",
+      "text": "Rozruch kolem Nvidie dopadá na celý trh. Klesají dluhopisy (rostou výnosy) spolu s cenami ropy a šancemi na zvýšení sazeb Fedem.",
+      "date": "2026-11-13",
+      "done": false,
+      "created": "2026-11-16",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7389286/otazniky-kolem-nvidie-ale-take-citelny-narust-vynosu-evropa-obchoduje-smisene.html",
       "auto_generated": true
     }
   ]
