@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-17T07:07:23Z",
+  "generated": "2026-11-18T07:07:31Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 49,
-  "event_count": 8,
+  "ticker_count": 46,
+  "event_count": 5,
   "events": [
     {
       "id": "FGEN_2026-10-26_other_6bc3",
@@ -1249,6 +1249,76 @@
       "done": false,
       "created": "2026-11-17",
       "source_url": "http://www.patria.cz/zpravodajstvi/7397049/rozbresk-bankovni-rada-cnb-neni-tak-rozdelena-jak-se-zdalo.html",
+      "auto_generated": true
+    },
+    {
+      "id": "ROMJ_2026-11-16_earnings_b58a",
+      "ticker": "ROMJ",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Rubicon Organics Reports Q3 2026 Financial Results",
+      "text": "Rubicon Organics: tržby ve 3. čtvrtletí 18,3 mil. CAD (+17 % meziročně), za 9 měsíců 50,4 mil. CAD. Upravená EBITDA 1,4 mil. CAD (loni 1,7 mil.) kvůli nákladům na škálování Cascadie; podíl na trhu 6,6 %.",
+      "date": "2026-11-16",
+      "done": false,
+      "created": "2026-11-18",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/rubicon-organics-reports-q3-2026-120000124.html",
+      "auto_generated": true
+    },
+    {
+      "id": "WDC_2026-11-16_other_7318",
+      "ticker": "WDC",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Western Digital (WDC) Just Replaced Its Loan With A $1.5 Billion Credit Line",
+      "text": "Western Digital uzavřela novou nezajištěnou revolvingovou úvěrovou linku 1,5 mld. USD na 5 let, která nahrazuje dřívější úvěrovou smlouvu (8-K, položka 1.01). Firma tak má potvrzenou kapacitu financování bez zajištění aktiv.",
+      "date": "2026-11-16",
+      "done": false,
+      "created": "2026-11-18",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/106040/000119312526463554/d162653d8k.htm",
+      "auto_generated": true
+    },
+    {
+      "id": "ANET_2026-11-16_analysis_d7b3",
+      "ticker": "ANET",
+      "type": "analysis",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Evercore Calls Arista \"the Clearest Beneficiary\" of NVIDIA's CEO Ouster",
+      "text": "Evercore označil Arista Networks za nejjasnějšího beneficienta odchodu šéfa Nvidie Jensena Huanga; vidí příležitost v AI síťování. Zdroj uvádí, že Arista musí ještě zmenšit rozdíl v ocenění.",
+      "date": "2026-11-16",
+      "done": false,
+      "created": "2026-11-18",
+      "source_url": "https://www.tikr.com/blog/evercore-calls-arista-the-clearest-beneficiary-of-nvidias-ceo-ouster-heres-the-gap-to-close",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-17_macro_62fb",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "European chip stocks fall after new U.S. curbs on AI chip access",
+      "text": "Evropské polovodičové akcie v úterý klesly, nejvíce ASML, BE Semiconductor a AT&S, po nových amerických omezeních přístupu k pokročilým AI čipům přes zámořská datová centra.",
+      "date": "2026-11-17",
+      "done": false,
+      "created": "2026-11-18",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/european-chip-stocks-fall-u-115309611.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-17_macro_88f3",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Evropská komise: Ekonomika je odolnější, inflace vytrvalejší",
+      "text": "Evropská komise v podzimní prognóze mírně zlepšila výhled růstu ekonomiky EU, zároveň výrazně zvýšila odhady inflace pro letošní i příští rok.",
+      "date": "2026-11-17",
+      "done": false,
+      "created": "2026-11-18",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7399372/evropska-komise-ekonomika-je-odolnejsi-inflace-vytrvalejsi.html",
       "auto_generated": true
     }
   ]
