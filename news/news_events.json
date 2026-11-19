@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-18T07:07:31Z",
+  "generated": "2026-11-19T07:15:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 46,
-  "event_count": 5,
+  "ticker_count": 57,
+  "event_count": 6,
   "events": [
     {
       "id": "FGEN_2026-10-26_other_6bc3",
@@ -1319,6 +1319,90 @@
       "done": false,
       "created": "2026-11-18",
       "source_url": "http://www.patria.cz/zpravodajstvi/7399372/evropska-komise-ekonomika-je-odolnejsi-inflace-vytrvalejsi.html",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-11-18_other_a4fe",
+      "ticker": "VU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "VU: dm Expands its Partnership with Vusion to Digitalize about 2,000 stores in Germany",
+      "text": "Vusion: dm rozšiřuje partnerství a digitalizuje přibližně 2 000 prodejen v Německu. Jde o významnou obchodní zakázku pro elektronické cenovky; konkrétní finanční objem nebyl uveden.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": "https://finance.yahoo.com/technology/articles/dm-expands-partnership-vusion-digitalize-063000694.html",
+      "auto_generated": true
+    },
+    {
+      "id": "VU_2026-11-18_other_52ae",
+      "ticker": "VU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "VU: Vusion Unveils Its Strategic Ambitions for 2030",
+      "text": "Vusion představil strategické cíle do roku 2030. Dlouhodobý výhled managementu je relevantní pro hodnocení růstového příběhu; detaily cílů viz zdroj.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/vusion-unveils-strategic-ambitions-2030-063000907.html",
+      "auto_generated": true
+    },
+    {
+      "id": "LAES_2026-11-18_other_86e8",
+      "ticker": "LAES",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "LAES: SEALSQ Signs a LOI to Acquire QuintessenceLabs",
+      "text": "SEALSQ podepsala letter of intent na akvizici QuintessenceLabs s cílem vytvořit lídra v kvantově bezpečných technologiích. Jde zatím o nezávaznou dohodu.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/sealsq-signs-loi-acquire-quintessencelabs-104500322.html",
+      "auto_generated": true
+    },
+    {
+      "id": "BLRX_2026-11-18_other_f4d1",
+      "ticker": "BLRX",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "BLRX: BioLineRx Enters into $5.6 Million Royalty Monetization Transaction with Soleus Capital",
+      "text": "BioLineRx uzavřela monetizaci licenčních plateb se Soleus Capital za 5,6 mil. USD. Zlepšuje likviditu firmy; výsledky za 3Q zveřejní 23. 11. 2026.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/biolinerx-enters-5-6-million-120000153.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-18_macro_ae5e",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Waller z Fedu volá po razantním zvýšení sazeb",
+      "text": "Guvernér Fedu Waller volá po razantním zvýšení sazeb. Zvyšuje to riziko další restrikce měnové politiky a tlak na akcie i dluhopisy.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": null,
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-18_macro_39a8",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Inflace v EU vystoupala na nejvyšší úroveň za tři roky",
+      "text": "Inflace v EU vystoupala na nejvyšší úroveň za tři roky; Česko má druhý nejnižší růst cen. Posiluje to tlak na ECB proti uvolňování sazeb.",
+      "date": "2026-11-18",
+      "done": false,
+      "created": "2026-11-19",
+      "source_url": "http://www.patria.cz/zpravodajstvi/",
       "auto_generated": true
     }
   ]
