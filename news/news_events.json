@@ -1,10 +1,24 @@
 {
-  "generated": "2026-11-20T07:06:58Z",
+  "generated": "2026-11-23T07:20:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 47,
-  "event_count": 5,
+  "event_count": 1,
   "events": [
+    {
+      "id": "AMD_2026-11-19_risk_alert_235f",
+      "ticker": "AMD",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD: Hunterbrook otevřel short a upozorňuje na čínská rizika",
+      "text": "Short prodejce Hunterbrook tvrdí, že firmware AMD se objevuje u čínského výrobce serverů na americké černé listině (IEIT), a poukazuje na licenční příjmy 67 mil. USD. Akcie ve čtvrtek klesly o 8–9 %; jde o tvrzení shortaře.",
+      "date": "2026-11-19",
+      "done": false,
+      "created": "2026-11-23",
+      "source_url": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979",
+      "auto_generated": true
+    },
     {
       "id": "AMD_2026-11-03_earnings_438c",
       "ticker": "AMD",
