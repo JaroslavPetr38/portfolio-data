@@ -1,24 +1,10 @@
 {
-  "generated": "2026-11-23T07:20:00Z",
+  "generated": "2026-11-24T07:15:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 47,
-  "event_count": 1,
+  "ticker_count": 46,
+  "event_count": 5,
   "events": [
-    {
-      "id": "AMD_2026-11-19_risk_alert_235f",
-      "ticker": "AMD",
-      "type": "risk_alert",
-      "priority": "medium",
-      "sentiment": "negative",
-      "title": "AMD: Hunterbrook otevřel short a upozorňuje na čínská rizika",
-      "text": "Short prodejce Hunterbrook tvrdí, že firmware AMD se objevuje u čínského výrobce serverů na americké černé listině (IEIT), a poukazuje na licenční příjmy 67 mil. USD. Akcie ve čtvrtek klesly o 8–9 %; jde o tvrzení shortaře.",
-      "date": "2026-11-19",
-      "done": false,
-      "created": "2026-11-23",
-      "source_url": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979",
-      "auto_generated": true
-    },
     {
       "id": "AMD_2026-11-03_earnings_438c",
       "ticker": "AMD",
@@ -73,6 +59,20 @@
       "done": false,
       "created": "2026-11-19",
       "source_url": "https://finance.yahoo.com/technology/articles/dm-expands-partnership-vusion-digitalize-063000694.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-11-23_other_6e63",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "high",
+      "sentiment": "positive",
+      "title": "Micron Soars 20% as Citi Says Ending Nvidia's Financing Would Cut DRAM Demand Only 12%",
+      "text": "MU: akcie vzrostly o 20 % poté, co Citi odhadlo, že úplné zastavení financování spojeného s Nvidií sníží poptávku po DRAM jen o ~12 %. Přes 75 % produkce na 2027 je už zasmluvněno. Pro investora uklidnění obav z propadu cyklu.",
+      "date": "2026-11-23",
+      "done": false,
+      "created": "2026-11-24",
+      "source_url": "https://www.tikr.com/blog/micron-soars-20-as-citi-says-ending-nvidias-financing-would-cut-dram-demand-only-12?ref=yahoofinance&tlnk=yf-261123-hh5wwx34&.tsrc=rss",
       "auto_generated": true
     },
     {
@@ -468,6 +468,20 @@
       "auto_generated": true
     },
     {
+      "id": "AMD_2026-11-19_risk_alert_235f",
+      "ticker": "AMD",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD: Hunterbrook otevřel short a upozorňuje na čínská rizika",
+      "text": "Short prodejce Hunterbrook tvrdí, že firmware AMD se objevuje u čínského výrobce serverů na americké černé listině (IEIT), a poukazuje na licenční příjmy 67 mil. USD. Akcie ve čtvrtek klesly o 8–9 %; jde o tvrzení shortaře.",
+      "date": "2026-11-19",
+      "done": false,
+      "created": "2026-11-23",
+      "source_url": "https://www.ibtimes.com/amd-shares-fall-hunterbrook-china-export-risks-3809979",
+      "auto_generated": true
+    },
+    {
       "id": "AMD_2026-11-19_other_4a74",
       "ticker": "AMD",
       "type": "other",
@@ -493,6 +507,20 @@
       "done": false,
       "created": "2026-11-20",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/decibel-issues-first-quarterly-letter-142600048.html",
+      "auto_generated": true
+    },
+    {
+      "id": "BLRX_2026-11-23_earnings_3509",
+      "ticker": "BLRX",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "BioLineRx Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+      "text": "BLRX: BioLineRx zveřejnila neauditované výsledky za 3Q 2026 (konec září) a aktualizaci o vývoji. Detailní čísla ve zdroji nebyla ověřena; stojí za kontrolu hotovosti a runway.",
+      "date": "2026-11-23",
+      "done": false,
+      "created": "2026-11-24",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/biolinerx-reports-third-quarter-2026-120000106.html?.tsrc=rss",
       "auto_generated": true
     },
     {
@@ -916,6 +944,34 @@
       "auto_generated": true
     },
     {
+      "id": "BWXT_2026-11-23_other_9ce5",
+      "ticker": "BWXT",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Westinghouse Canada Awards BWXT AP1000 Manufacturing Qualification Contracts",
+      "text": "BWXT: Westinghouse a BWXT Canada se dohodly na kvalifikaci výroby klíčových komponent AP1000. Westinghouse zadal objednávky na demonstrační kusy parogenerátorů a reaktorových nádob v Cambridge (Ontario). Krok k budoucím zakázkám.",
+      "date": "2026-11-23",
+      "done": false,
+      "created": "2026-11-24",
+      "source_url": "https://finance.yahoo.com/energy/articles/westinghouse-canada-awards-bwxt-ap1000-130000787.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "AVGO_2026-11-23_risk_alert_333a",
+      "ticker": "AVGO",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Not Good: Broadcom Loses $200 Billion as Chips Crash and Google Reportedly Cuts AI Chip Plans",
+      "text": "AVGO: Broadcom ztratil ~200 mld. USD tržní kapitalizace; údajně Google přesouvá část TPU na návrhy MediaTek (nepotvrzeno). Vedení uvádí, že poptávka na 2027 převyšuje výhled.",
+      "date": "2026-11-23",
+      "done": false,
+      "created": "2026-11-24",
+      "source_url": "https://www.tikr.com/blog/not-good-broadcom-loses-200-billion-as-chips-crash-and-google-reportedly-cuts-ai-chip-plans?ref=yahoofinance&tlnk=yf-261123-ccmmcf34&.tsrc=rss",
+      "auto_generated": true
+    },
+    {
       "id": "BWXT_2026-11-12_other_499c",
       "ticker": "BWXT",
       "type": "other",
@@ -1193,6 +1249,20 @@
       "done": false,
       "created": "2026-11-20",
       "source_url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-named-ecb-warning-141650204.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-23_macro_fd61",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "Nvidia soars 30% as board reinstates Jensen Huang as CEO, chip stocks jump",
+      "text": "Nvidia vzrostla o ~30 % po návratu Jensena Huanga do funkce CEO; polovodiče rebounduly (TSMC +17 %, Intel +13–15 %, AMD +7 %, Micron až +20 %). Odraz po předchozím výprodeji AI sektoru.",
+      "date": "2026-11-23",
+      "done": false,
+      "created": "2026-11-24",
+      "source_url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html?.tsrc=rss",
       "auto_generated": true
     },
     {
