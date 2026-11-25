@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-24T07:15:00Z",
+  "generated": "2026-11-25T07:20:00Z",
   "source": "claude_routine",
   "run_type": "full",
-  "ticker_count": 46,
-  "event_count": 5,
+  "ticker_count": 57,
+  "event_count": 3,
   "events": [
     {
       "id": "AMD_2026-11-03_earnings_438c",
@@ -1277,6 +1277,48 @@
       "done": false,
       "created": "2026-11-12",
       "source_url": "http://www.patria.cz/zpravodajstvi/7385648/technologie-pokracuji-v-odrazu-vzhuru-vysledky-prebily-inflaci.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MU_2026-11-24_other_468b",
+      "ticker": "MU",
+      "type": "other",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Micron: BNP Paribas snížila rating na Neutral, cíl 775 USD",
+      "text": "BNP Paribas snížila Micron z Outperform na Neutral a cílovou cenu z 1 700 na 775 USD. Důvodem je rostoucí riziko převisu nabídky paměťových čipů kvůli kapacitním plánům hyperscalerů na rok 2028. Akcie v úterý klesly o 7 %.",
+      "date": "2026-11-24",
+      "done": false,
+      "created": "2026-11-25",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bnp-paribas-cuts-micron-rating-145304912.html?.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "AMD_2026-11-24_risk_alert_f942",
+      "ticker": "AMD",
+      "type": "risk_alert",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "AMD klesla o 10 %, registrace 337 mil. akcií k prodeji",
+      "text": "AMD v úterý oslabila o 10 % společně s čipovým sektorem po Huangově rally. Zároveň registrovala k dalšímu prodeji cca 337 mil. akcií, většinou warranty vázané na nákupy GPU od OpenAI a Meta.",
+      "date": "2026-11-24",
+      "done": false,
+      "created": "2026-11-25",
+      "source_url": "https://www.tikr.com/blog/amd-sinks-10-nvidia-down-7-as-chip-stocks-give-back-huang-rally-resale-filing-weighs?ref=yahoofinance&tlnk=yf-261124-gwx42qj3&.tsrc=rss",
+      "auto_generated": true
+    },
+    {
+      "id": "TEP_2026-11-24_earnings_c19f",
+      "ticker": "TEP",
+      "type": "earnings",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Telecom Plus: H1 call potvrdil výhled na celý rok",
+      "text": "Telecom Plus potvrdil výhled zisku na celý rok. Upravený zisk před zdaněním za 1. pololetí dosáhl 14,6 mil. GBP; zákazníci s více službami rostou ročním tempem 11,5 %.",
+      "date": "2026-11-24",
+      "done": false,
+      "created": "2026-11-25",
+      "source_url": "https://www.marketbeat.com/instant-alerts/transcript-what-telecom-plus-tep-said-on-its-h1-earnings-call-2026-11-24/",
       "auto_generated": true
     }
   ]
