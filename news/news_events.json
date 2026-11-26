@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T07:20:00Z",
+  "generated": "2026-11-26T07:20:00Z",
   "source": "claude_routine",
   "run_type": "full",
   "ticker_count": 57,
@@ -1319,6 +1319,48 @@
       "done": false,
       "created": "2026-11-25",
       "source_url": "https://www.marketbeat.com/instant-alerts/transcript-what-telecom-plus-tep-said-on-its-h1-earnings-call-2026-11-24/",
+      "auto_generated": true
+    },
+    {
+      "id": "NRR_2026-11-25_dividend_8b05",
+      "ticker": "NRR",
+      "type": "dividend",
+      "priority": "medium",
+      "sentiment": "positive",
+      "title": "NewRiver REIT H1 Earnings Call Highlights",
+      "text": "NewRiver REIT za 1. pololetí vykázal růst underlying FFO o 7 % na 16,1 mil. GBP (z 15,1 mil.) a zvýšil mezitímní dividendu. Růst táhly nájmy, ocenění nemovitostí a poplatky z partnerství.",
+      "date": "2026-11-25",
+      "done": false,
+      "created": "2026-11-26",
+      "source_url": "https://www.marketbeat.com/instant-alerts/transcript-newriver-reit-h1-earnings-call-highlights-2026-11-25/",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-25_macro_bfab",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "negative",
+      "title": "Washington navrhuje nová cla, v případě EU se má vrátit sazba 15 procent",
+      "text": "USA navrhují nová cla na 14 obchodních partnerů včetně EU a Číny; pro EU se má vrátit sazba 15 %. Informuje Reuters s odkazem na USTR. Riziko pro exportně orientované firmy.",
+      "date": "2026-11-25",
+      "done": false,
+      "created": "2026-11-26",
+      "source_url": "http://www.patria.cz/zpravodajstvi/7418077/washington-navrhuje-nova-cla-v-pripade-eu-se-ma-vratit-sazba-15-procent.html",
+      "auto_generated": true
+    },
+    {
+      "id": "MACRO_2026-11-25_macro_8a14",
+      "ticker": null,
+      "type": "macro",
+      "priority": "medium",
+      "sentiment": "neutral",
+      "title": "Americká ekonomika zrychlila růst na 4,3 %. Inflace ale Fedu dál komplikuje situaci",
+      "text": "Americká ekonomika ve 3. čtvrtletí zrychlila na 4,3 % díky spotřebě a investicím do AI. Inflace však Fedu komplikuje rozhodování o sazbách.",
+      "date": "2026-11-25",
+      "done": false,
+      "created": "2026-11-26",
+      "source_url": "http://www.patria.cz/",
       "auto_generated": true
     }
   ]
